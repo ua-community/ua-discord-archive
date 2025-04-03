@@ -1,0 +1,1 @@
+transitioning to windsurf this month, crazy value, but the main featureset it allows me to iterate on frontend much faster with this feature: https://docs.windsurf.com/windsurf/previews#send-elements-to-cascade
