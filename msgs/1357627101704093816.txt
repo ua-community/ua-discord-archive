@@ -1,0 +1,1 @@
+ok deployed to fly.io, working correctly
