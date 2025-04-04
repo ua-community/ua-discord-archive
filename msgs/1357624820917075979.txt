@@ -1,0 +1,1 @@
+the bot now logs links to text file, rotated daily
