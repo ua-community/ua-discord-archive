@@ -1,0 +1,1 @@
+the deck shared at TPAC last fall from Google+Meta folks collaborating on cryptographic integrity in the browser. https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fw3c%2Fwebappsec%2Frefs%2Fheads%2Fmain%2Fmeetings%2F2024%2F2024-09-23-TPAC-Integrity-for-the-Web.pdf&hl=en
