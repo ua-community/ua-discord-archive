@@ -1,0 +1,1 @@
+no authorship, no message content, just extract URL and add to the daily text file of URLs seen
