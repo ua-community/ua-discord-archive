@@ -1,0 +1,1 @@
+yeah the storage bit... this is why isomorphic data is a key bit for resilient web apps.
