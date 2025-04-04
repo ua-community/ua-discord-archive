@@ -1,0 +1,1 @@
+It's fine for experiments, or building something that's not a Browser (capital B).
