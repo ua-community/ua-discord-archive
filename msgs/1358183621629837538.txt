@@ -1,0 +1,2 @@
+That is awesome! Yeah, and I find often all that's necessary is some basic event driving code and some data fetching.
+Inspecting a well defined element tree and css styles is so much easier than fiddling with minified code. Plus, works independently of the website.
