@@ -1,0 +1,1 @@
+excellent read - frames the design decisions of Atproto https://atproto.com/articles/atproto-ethos
