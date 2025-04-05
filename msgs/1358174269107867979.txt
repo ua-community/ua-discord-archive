@@ -1,0 +1,7 @@
+Imo it's less about various visualization - these are infinite, irrelevant at the content level, and too complex to effectively standardize, imo.
+My wishlist for HTML is
+- archival / permanent linking especially with authorization. I'd want things to have a "data-from" tag or something, that signifies (and maybe somehow loads?) where data comes from.
+- Relation-Based Things, where it's easier to signify in what way entities (that may or may not be represented by a separate page, sometimes with a different authoritative page, with a separate copy on the current page) are related to each other.
+
+But, yeah for me it's all about data, and how I fundamentally think JS is the wrong way to go about anything. I believe most sites should be able to get all functionality by specifying to a browser what they offer, and how to structure it for the users consumption.
+Ultimately I feel that modern CSS features mostly enable this, just data fetching is kinda missing
