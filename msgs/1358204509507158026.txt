@@ -1,0 +1,1 @@
+I mean it all works a bit differently and also does something else, but you can do pretty much the same thing with an IWA, just the pages don't have to cooperate as there's no iframe.
