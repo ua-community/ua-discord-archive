@@ -1,0 +1,1 @@
+*(cw: crypto)* i've been interested for a while in the idea of innovation staking funds - eg you start a DAO around a particular outcome/theme/impact and instead of doing an ICO running the token madness gauntlet, instead people *stake* in the DAO, which then operates on the interested earned. ends up looking like a zero-interest loan as a commitment to an idea/cause/group/etc.
