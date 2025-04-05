@@ -1,0 +1,5 @@
+I've been trying to come up with a way to build Familiar and support those who are working on it with me without taking VC.
+
+I'm still not sure what that will entail (although I've fantasized about different ways I could make it work). 
+
+Has anyone else attempted anything like this?
