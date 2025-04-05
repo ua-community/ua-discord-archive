@@ -1,0 +1,1 @@
+Iroh is cool - tailscale on wireguard on P2P WebTransport seems doable
