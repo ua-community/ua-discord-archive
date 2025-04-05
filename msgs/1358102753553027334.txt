@@ -1,0 +1,4 @@
+But I think it's a fundamental choice whether you want to go the OSS w/ what's essentially community funding, and maybe public funding to keep the lights on / bootstrap.
+
+Alternatively is just private funding. VC is an option, but not one I like.
+Imo this is part of the appeal for P2P solutions. I only have to fund myself, and maybe selfhost some discovery thing that's very cheap, and eventually becomes community funded once others start to selfhost it too.
