@@ -1,0 +1,1 @@
+I totally agree that some more ootb visualizations would be nice, and I think table is mostly legacy at this point, and we don't have a relation-oriented equivalent (might be some kind of whiteboard base?) at all. A refresh for both would be awesome.
