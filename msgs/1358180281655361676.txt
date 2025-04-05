@@ -1,0 +1,1 @@
+I mean, I'd think everything most websites need can be done in pure CSS. At least that's the way modern CSS is moving, I feel
