@@ -1,0 +1,1 @@
+Like, I think if we could get a totally transparent <data> element that can contain a standard tree with <data key="xy", type="string/object/array/number">value</data> *without* JS, we can do most visualization and many websites with pure HTML/CSS, no JS required.
