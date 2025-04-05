@@ -1,0 +1,1 @@
+I wonder if we get a Tailscale like thing on web (on top of WIP Web Transport), how empowering will be it be for the local first space
