@@ -1,0 +1,1 @@
+Getting back to a point where it was reasonable to just use an HTML site to get data from would be awesome, I think. And not just for developers, or people like us trying to modify things. It'd be faster, more private, and more stable. Likely would also enable users to understand more complex websites quicker, given everything is standard-ish.
