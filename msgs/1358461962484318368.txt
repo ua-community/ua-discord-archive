@@ -1,0 +1,14 @@
+Yah, I'm planning to implement SaaS as an income stream for Familiar.
+
+There remains a bootstrapping problem: how do we address the liminal space between idea and first meaningful revenue?
+
+To me, this is what is actually appealing about VC (downsides notwithstanding): it gives you the opportunity to navigate that space without giving up your income.
+
+The alternatives seem to be:
+- Ask collaborators to take a (risky) leap of faith and not be paid
+- Fundraise by some exotic means that hopefully has different trade-offs from VC
+- Some degree of personal sacrifice to self-fund the effort
+
+I'm not a web3 person, really, but the direct-staking-proceeds-to-org approach is thought provoking.
+
+Putting crypto aside for a second: it makes me wonder if a co-op or similar org in our space may fundraise from an interested community without giving up direct control of the project to the funders.
