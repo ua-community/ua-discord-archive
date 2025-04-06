@@ -1,0 +1,1 @@
+Perhaps one primitive would be a sort of webview abstraction that works with both controlled frames and regular iframes (where the other side is under your control or agrees to play ball)
