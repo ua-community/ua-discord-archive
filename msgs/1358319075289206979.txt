@@ -1,0 +1,1 @@
+The same, postMessage. IWAs can have controlledframes, which are like Iframes, but without the restrictions. And IWAs can inject code, intercept requests, etc
