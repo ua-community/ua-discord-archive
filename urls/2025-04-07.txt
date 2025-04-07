@@ -1,2 +1,3 @@
+https://blog.cloudflare.com/building-ai-agents-with-mcp-authn-authz-and-durable-objects/
 https://spec.modelcontextprotocol.io/specification/2025-03-26/#security-and-trust--safety
 https://coquitts.com/
