@@ -1,0 +1,1 @@
+Durable objects now part of the free tier
