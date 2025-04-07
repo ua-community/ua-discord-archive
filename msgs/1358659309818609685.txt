@@ -1,0 +1,1 @@
+i spent some time reading through the specs last week. this bit is where the security model boils down to a "SHOULD" https://spec.modelcontextprotocol.io/specification/2025-03-26/#security-and-trust--safety
