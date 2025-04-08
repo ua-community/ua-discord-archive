@@ -1,0 +1,1 @@
+someday we'll get resilient rent-free name services, right? https://github.com/tauri-apps/tauri/issues/13162
