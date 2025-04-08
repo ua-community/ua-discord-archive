@@ -1,0 +1,1 @@
+But, my text editor is built with hand-rolled contenteditable / raw DOM access code.
