@@ -1,0 +1,3 @@
+I've gone full Rust/Wasm for Familiar and haven't looked back (yet). So far, it has been a rather nice experience.
+
+My main complaint is that all the popular Rust frontend libraries are trying to mimic the popular JavaScript paradigms. I wish that there was more creative exploration.
