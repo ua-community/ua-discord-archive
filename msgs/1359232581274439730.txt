@@ -1,0 +1,1 @@
+Every popular library wants to be React-like, or at least sit in the stack in a cross-cutting way like React does
