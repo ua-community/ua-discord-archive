@@ -1,0 +1,4 @@
+I also don't want a framework, except:
+- I don't want to write my own framework (done enough of that for a lifetime)
+- I have a lot of UI in my future
+- I want to see if I can avoid any JS dependencies at all (which so far as been an easy challenge)
