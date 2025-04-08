@@ -1,0 +1,2 @@
+Yeah, I also want to avoid JS dependencies.
+Feels like writing some code to track a virtual DOM of my specific components (which I already somewhat have) + some JS code to materialize the DOM changes seems doable.
