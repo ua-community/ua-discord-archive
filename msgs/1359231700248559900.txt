@@ -1,0 +1,1 @@
+I ended up with Leptos. Although, it's very early and most of the code so far does not pertain to rendering UI at this time.
