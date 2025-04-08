@@ -1,0 +1,3 @@
+I have something in mind for this for Familiar. It's very similar to the design we used in Noosphere, but also incorporates content claims-style indirection.
+
+So, petnames + keys, basically.
