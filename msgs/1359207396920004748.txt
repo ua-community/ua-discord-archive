@@ -1,0 +1,1 @@
+wow, that's some brutal feedback. seems quite weird that they'd fork entire product for ai chat, so i wonder if there's underlying architecture that's enables future interesting things. closed source though, so i guess that doesn't matter.
