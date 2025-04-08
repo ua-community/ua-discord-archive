@@ -1,0 +1,4 @@
+Mainly I think working with the DOM is a pain ^^
+Also looked at leptos, but I don't want a framework.
+I'm considering rolling my own right now where it's some generated JS in the frontend communicating with one or more workers that run WASM code. Feels like the best way to get super fast and responsive UI.
+But I also need a sort of virtual DOM regardless, so that's not a drawback for me. Right now everything is a mess of JS adapter code I hand wrote, not great but works.
