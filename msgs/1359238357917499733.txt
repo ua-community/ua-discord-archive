@@ -1,0 +1,1 @@
+Mmm yeah, the bulk of my code is also producing a worker (a SW) and in theory it could be fronted by some non-Wasm UI.
