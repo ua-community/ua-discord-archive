@@ -1,0 +1,1 @@
+I'll put it another way: if it weren't practical to use the DOM, I would be using TypeScript (and probably Lit).
