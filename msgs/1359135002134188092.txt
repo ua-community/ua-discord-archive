@@ -1,0 +1,1 @@
+pipelines https://github.com/open-webui/pipelines
