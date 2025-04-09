@@ -1,0 +1,10 @@
+ya surely related! But I think Alex's essays focus on UX degradation of React (bundle size, loading times, data/rendering waterfalls, poor accessibility etc.). Particularly it's effect on mobile and public sector web pages. 
+
+I'm more interested in how the emergents below have affects agency, malleability, and openness on the web:
+- it's sovereignty over the web page is in tension the DOM as a multiplayer substrate
+  - web extensions breaking hydration
+- abstracting away the web
+  - obfuscation of view source (divintitis and hashed CSS names)
+  - the entire representation of the app is hidden away in JS
+  - entirely new approaches needs to be create for stuff the web already handles (e.g. CSS-in-JS)
+- both it's functional ethos and the tooling it requires increases technical gatekeeping to make things on the web
