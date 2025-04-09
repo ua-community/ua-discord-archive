@@ -1,0 +1,1 @@
+It's true that it is fairly easy to polyfill, but the old dream of "fully declarative custom elements" remains elusive until we somehow shoehorn this stuff into the platform (which.. honestly, the ship has sailed at this point)
