@@ -1,0 +1,1 @@
+Been following this for a couple years, flares up every now and then. Interest case which illustrates the strong single-protocol-ness of the web, and the enforcement of that by the priesthood. https://github.com/whatwg/html/issues/2791
