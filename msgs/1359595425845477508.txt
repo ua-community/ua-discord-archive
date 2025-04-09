@@ -1,0 +1,3 @@
+The good news, is that it's easy to implement that would-be standard in userland! One I know of the top of my head
+
+https://github.com/justinfagnani/html-include-element
