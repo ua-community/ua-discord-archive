@@ -1,0 +1,1 @@
+Yeah, I think it's difficult for folks to even fathom at this point. A thick JavaScript framework and tool stack is just a given, we don't spare the time to contemplate what we have given up.
