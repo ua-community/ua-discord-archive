@@ -1,0 +1,1 @@
+kinda digging tab groups on sidebar in Firefox Nightly. still super buggy, and some clunky interaction stuff, but is getting there.
