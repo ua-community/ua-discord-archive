@@ -1,0 +1,1 @@
+I really need to write down some thought about why React is (intentionally or not) antithetical to things this group is exploring around user agency, malleability, and a more open web.
