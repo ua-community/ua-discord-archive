@@ -1,0 +1,1 @@
+for a good time, read WebXDC's very serious attempts at making an exfiltration-proof web app surface. https://delta.chat/en/2023-05-22-webxdc-security
