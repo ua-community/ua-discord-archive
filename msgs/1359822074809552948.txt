@@ -1,0 +1,1 @@
+was looking at https://github.com/samuelmaddock/electron-browser-shell which gets extension support built-in, but i haven't evaluated how malleable/suitable it is for a base for *non-tabbed-browser-ness* or protocol extensibility.
