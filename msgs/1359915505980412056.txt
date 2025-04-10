@@ -1,0 +1,3 @@
+Dynamic GGUFs are nice, they allow you to load the base model and the LoRA adapter separately during inference, providing flexibility to switch between different adapters without the need to merge them into the base model each time. 
+
+Was looking at this recently: https://docs.unsloth.ai/basics/tutorial-how-to-run-and-fine-tune-llama-4
