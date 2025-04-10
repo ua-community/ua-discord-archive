@@ -1,3 +1,4 @@
+https://x.com/weights_biases/status/1910054982424133684?s=46
 https://newsletter.pragmaticengineer.com/p/mcp
 https://huggingface.co/spaces/FL33TW00D-HF/throughput-calculator
 https://github.com/samuelmaddock/electron-browser-shell
