@@ -1,3 +1,4 @@
+https://huggingface.co/spaces/FL33TW00D-HF/throughput-calculator
 https://github.com/samuelmaddock/electron-browser-shell
 https://peersky.p2plabs.xyz/
 https://youtu.be/T5cT3U2afC0?si=1mKeUrL3SmlDdOOY
