@@ -1,3 +1,4 @@
+https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code
 https://sublime.app/
 https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/
 https://docs.mcp.run/blog/2025/04/07/mcp-run-security/
