@@ -1,0 +1,1 @@
+Limited Centralization seems like the right practical approach to me, the sweet spot on the spectrum, a write up on why a team chose Iroh for their apps: https://ark-builders.medium.com/the-deceptive-complexity-of-p2p-connections-and-the-solution-we-found-d2b5cbeddbaf
