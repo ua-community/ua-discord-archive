@@ -1,0 +1,2 @@
+web browsers: HTTP
+web user agents: HTTP and other stuff too, whatever it's yours, idk
