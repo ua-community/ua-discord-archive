@@ -1,3 +1,4 @@
+https://gethopp.app/blog/tauri-vs-electron
 https://github.com/antiwork/gumroad
 https://dasl.ing/
 https://webassembly.org/news/2025-03-20-wasm-2.0/
