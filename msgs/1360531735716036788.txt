@@ -1,0 +1,1 @@
+the signature solves a longstanding problem in IPFS world, which bet everything on integrity but punted entirely on authenticity. "that's upstairs the application layer. not my job."
