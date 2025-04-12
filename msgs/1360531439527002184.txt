@@ -1,0 +1,1 @@
+there's a user agency pattern in there somewhere about addressing things vs locations. locationless findability vs immutability (they're different!).
