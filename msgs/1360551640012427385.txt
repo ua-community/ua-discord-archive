@@ -1,0 +1,1 @@
+and clearer separation between transport/findability hints vs the thing.
