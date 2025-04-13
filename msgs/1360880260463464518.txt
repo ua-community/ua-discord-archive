@@ -1,0 +1,1 @@
+in the end their decision was mostly b/c they needed to do raw video stuff and Tauri is more metal-on-metal. and they do nothing at all w/ web stuff so that didn't come up at all.
