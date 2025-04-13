@@ -1,0 +1,1 @@
+This runtime model from Snowflake for agentic enterprise experiences is interesting, I wonder if this model can be distilled preferably with MCP, could be that Google's A2A attempt is a step towards this kind of capablity based agentic model for driving such usecases:  https://stratechery.com/2025/an-interview-with-snowflake-ceo-sridhar-ramaswamy-about-data-and-ai/
