@@ -1,0 +1,1 @@
+and Swissknife, at TS CLI + MCP server for coding w/ LLMs, also w/ IPFS support. https://github.com/endomorphosis/swissknife
