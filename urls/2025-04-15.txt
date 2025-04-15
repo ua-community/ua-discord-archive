@@ -1,3 +1,4 @@
+https://arstechnica.com/gadgets/2025/03/google-announces-maps-screenshot-analysis-ai-itineraries-to-help-you-plan-trips/
 https://github.com/claudio-silva/claude-artifact-runner
 https://stratechery.com/2025/an-interview-with-google-cloud-platform-ceo-thomas-kurian-about-building-an-enterprise-culture/
 https://cloud.google.com/blog/products/ai-machine-learning/google-agentspace-enables-the-agent-driven-enterprise
