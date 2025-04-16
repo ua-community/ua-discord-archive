@@ -1,0 +1,1 @@
+To be clear, what I envision is public IPFS (so nodes run by anyone, including not using application directly), but nodes cannot look at the real content, unless they have seen the real content before.
