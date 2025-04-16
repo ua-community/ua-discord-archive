@@ -1,0 +1,1 @@
+I assumed transferable did *not* work across origins, given that data is *removed*, but maybe they do in some circumstance? The linked doc doesn't say, in a quick read.
