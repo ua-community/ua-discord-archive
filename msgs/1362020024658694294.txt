@@ -1,0 +1,1 @@
+You can give a message port across origins, and presumably use that to transfer anything you want
