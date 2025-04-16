@@ -1,0 +1,1 @@
+i wonder if we can get Discord link embeds to show text but not images.
