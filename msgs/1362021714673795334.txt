@@ -1,0 +1,1 @@
+Seems useful for say some api where a page requested some data and the request was handled by another origin (perhaps with greater access). The code that runs fetches the data and then uses a transferable object to postMessage it back to the requesting origin. The benefit being it doesnt need to be copied.
