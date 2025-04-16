@@ -1,0 +1,1 @@
+yeah it's move not a copy - the "sender" no longer has access to the data.
