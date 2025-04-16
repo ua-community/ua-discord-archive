@@ -1,0 +1,3 @@
+Just spotted (user) in the wild while researching this, so maybe someone else also has an opinion.
+What about privacy focused apps + IPFS - I want all user data to be encrypted, but I also want natural data deduplication and such. Seems like IPFS doesn't really provide a great solution here.
+The hypercore solution with an extra indirection is nice, but doesn't actually seem like it solves privacy, the data is out in the open, just not immediately obvious.
