@@ -1,3 +1,4 @@
+https://www.slsknet.org/news/node/680
 https://fleek.xyz/docs/ai-agents/remote_attestation/
 https://github.com/riseandignite/mcp-shield
 https://developer.chrome.com/blog/transferable-objects-lightning-fast
