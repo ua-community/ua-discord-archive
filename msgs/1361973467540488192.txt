@@ -1,0 +1,1 @@
+So far Gemini looks like best target for Claude and open ai I think you need to get onto cdnjs or similar site. Could attempt that later by publishing to npm and requesting they add the lib.
