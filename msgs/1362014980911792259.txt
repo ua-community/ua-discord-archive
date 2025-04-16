@@ -1,0 +1,1 @@
+you can't copy to/from the browser, which is the conductor and also somehow a non-entity in these flows.
