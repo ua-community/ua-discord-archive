@@ -1,0 +1,1 @@
+Yeah can still have url to point to most recent version of package as alt to content addressed version
