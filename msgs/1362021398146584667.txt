@@ -1,0 +1,3 @@
+I guess you're right in the sense that there's no way to transfer anything between top level origins.
+Iirc Iframes are not connected when they are children of different origins?
+Otherwise shared worker in iframe would also enable a roundabout way to enable top level origins to communicate
