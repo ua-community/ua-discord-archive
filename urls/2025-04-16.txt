@@ -1,3 +1,4 @@
+https://developer.chrome.com/blog/transferable-objects-lightning-fast
 https://developer.mozilla.org/en-US/docs/Web/API/MessagePort#example
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Transferable_objects
 https://developer.mozilla.org/en-US/docs/Web/API/Clipboard
