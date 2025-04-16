@@ -1,0 +1,1 @@
+walking out the door in a few mins, but will happily chat later about this. encryption and privacy with ipfs (or anything really) is not straightforward, so any clarity you can share on use-case and threat model would help.
