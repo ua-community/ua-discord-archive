@@ -1,0 +1,4 @@
+Honestly I'm a security amateur at best - but basically I want to store everything via IPFS, including user generated content (may contain private data) as well as semi-publicly accessible requests the browser has made (may be fully public, may contain a tracking/country based customization, may contain full credentials).
+So, in my mind, the only option is to encrypt that data with a user-controlled key. Anything else seems impossible.
+
+BUT I expect a significant amount of data to also be duplicates, and in my mind, for IPFS to work really well, that deduplication is essential to get a community cost saving.
