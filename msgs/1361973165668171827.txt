@@ -1,0 +1,1 @@
+Having a single esm module I can tell ai to include seems like a good approach. Sort of in browser dev tooling for in chat ai generated apps.
