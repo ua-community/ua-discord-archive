@@ -1,3 +1,4 @@
+https://developer.mozilla.org/en-US/docs/Web/API/MessagePort#example
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Transferable_objects
 https://developer.mozilla.org/en-US/docs/Web/API/Clipboard
 https://x.com/VictorTaelin/status/1791213162525524076?t=SQ7bvUJf0dSgKztGJ9eVMA&s=19
