@@ -1,0 +1,5 @@
+either (user) or (user) mentioned `transferables` on the chat this morning, which got me thinking about how things move (or don't) between contexts on the web platform:
+
+- `transferable` objects, typically things moving between worker contexts in a loaded page. this is used for *move* operations - the thing is no longer available when transferred. https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Transferable_objects
+
+- the clipboard API formalizes the de/serialization of things that are transferable between the web and the user's operating system. this is used for *copy* operations - the thing is still available where it was copied from, regardless of web or OS is source or target.  https://developer.mozilla.org/en-US/docs/Web/API/Clipboard
