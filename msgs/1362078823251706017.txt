@@ -1,0 +1,1 @@
+I've been eyeing HomeAssistant music there. Seems like they have an open implementation for practically all providers.
