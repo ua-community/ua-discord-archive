@@ -1,0 +1,1 @@
+I have thought a bit about how this could be solved, with some kind of encryption and ZK proof "I know what's inside this" with the real CID exchanged out of band (secure channel) but haven't come up with a functional solution
