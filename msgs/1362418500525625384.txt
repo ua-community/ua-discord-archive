@@ -1,0 +1,5 @@
+Not an expert here either, but I've always assumed that the combination of encryption & deduplication is impossible.
+
+The only situation I can think of that actually works today is deduplication based on a group. The group all uses the same key to encrypt/decrypt (eg. diffie-hellman shared secret). Some deduplication is better than none I guess, however, groups could be big <a:jake_shrug:1060243120568156160> 
+
+If you don't encrypt, then the owners of the (dumb) (cloud) storage can just loop over every CID and read anything they want. If the storage were only owned/readable by a specific group you trust, then you just end up in a similar solution as with the solution previously mentioned.
