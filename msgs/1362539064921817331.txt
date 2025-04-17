@@ -1,0 +1,1 @@
+Hmm, can you expand on what you find content addressing to be useful for? Given any addressing is limited in scope to one user I'm not sure I get it
