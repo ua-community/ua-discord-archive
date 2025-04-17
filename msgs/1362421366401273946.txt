@@ -1,0 +1,2 @@
+Yeah, but the main primitive IPFS is content addressing - so you already share something about the content, so it can be retrieved later.
+Encrypting with some content derived key changes seemingly nothing about that.
