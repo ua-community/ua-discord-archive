@@ -1,0 +1,6 @@
+Yeah, although it's encrypted and specific to a user, why would anyone touch that data, unless asked to do so by the user?
+Not sure, I'm not very knowledgeable when it comes to these things, feels like I'm missing something.
+Reading the BATs docs
+> Raw blocks are the most sensitive (they hold users' encrypted data)
+I wonder, why is this sensitive? In my mind encrypted = I'm happy to share this with anyone and everyone.
+Similarly I don't really get why bats are necessary, if someone wants to store my data for free, why not?
