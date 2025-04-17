@@ -1,0 +1,1 @@
+Right, that makes sense. I mean it seems like everyone on earth will have an easy attack vector at layers below. Ie the Internet pretty much mandated you transmit your data through a bunch of parties that you not only don't trust, you can't even list all.
