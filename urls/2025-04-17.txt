@@ -1,3 +1,5 @@
+https://peergos.org/
+https://github.com/Peergos/Peergos/issues/1044).
 (https://github.com/folk-systems/folk-canvas/blob/main/website/canvas/self-contained-html.html#L17).
 https://hacks.mozilla.org/2016/09/vaulting-out-of-walled-gardens-with-fancy-links/
 https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images
