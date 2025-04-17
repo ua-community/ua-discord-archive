@@ -1,0 +1,1 @@
+I'd be really interested in what advantages you see in IPFS for peergos. I've looked through the book a bit, and it seems like it's pretty smart the way you designed it from a privacy standpoint, just I don't see what IPFS does. Any standard S3 interface seems like it would work the same.
