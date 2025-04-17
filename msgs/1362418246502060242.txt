@@ -1,0 +1,1 @@
+interesting! lots of folks here probably had a "wait, what if the clipboard was a first-class citizen..." thought, but doing it securely/privately, and making an interaction flow that works is a big challenge. has anything in that vein ever taken off? these folks say "privacy yay" but i can't find where they say what it actually means wrt to how your data is treated.
