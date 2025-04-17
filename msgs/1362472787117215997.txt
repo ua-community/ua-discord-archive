@@ -1,0 +1,33 @@
+Lately I've been working on an NPM package that wraps up one corner of the Familiar stack.
+
+One of the things that perrenially sparks joy for me is how easy it is to generate idiomatic TypeScript from idiomatic Rust. The `dialog-artifacts` package in this case is 100% codegen:
+
+```ts
+import init, { Artifacts, generateEntity, InstructionType, ValueDataType } from "dialog-artifacts";
+
+await init();
+
+let artifacts = await Artifacts.open("test");
+
+await artifacts.commit([{
+    type: InstructionType.Assert,
+    artifact: {
+        the: "profile/name",
+        of: generateEntity(),
+        is: {
+            type: ValueDataType.String,
+            value: "Foo Bar"
+        }
+    }
+}]);
+
+let query = artifacts.select({
+    the: "profile/name"
+});
+
+for await (const element of query) {
+   console.log('The', element.the, 'of', element.of, 'is', element.is);
+}
+```
+
+Well, mostly idiomatic TypeScript..
