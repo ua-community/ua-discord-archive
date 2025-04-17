@@ -1,0 +1,3 @@
+There is something about the out of band sharing like you mentioned. I imagine a media company could upload an encrypted movie, and then share the key with whoever pays for the movie, preventing a lot of deduplication.
+
+It does however not prevent some person from just sharing the encryption key with everyone.
