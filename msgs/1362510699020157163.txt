@@ -1,0 +1,1 @@
+I don't know a whole lot about your implementation, but perhaps it could be thought of as a plausible substitute for [your `idb-keyval` module](https://github.com/folk-systems/folk-canvas/blob/main/website/canvas/self-contained-html.html#L17). It does use IDB for persistence on the web, and you can model a k/v store with triples.
