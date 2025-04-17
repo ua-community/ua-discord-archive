@@ -1,3 +1,4 @@
+https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images
 https://releases.any.org/desktop-0460
 https://x.com/officiallogank/status/1912633887978566115?s=46
 https://github.com/openai/codex
