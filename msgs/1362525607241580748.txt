@@ -1,0 +1,1 @@
+welcome to Ian, who made Peergos (https://peergos.org/) which was mentioned above re IPFS and encryption. they're doing seemingly impossible things in browsers (and bumping up against the edges of the platform sometimes too https://github.com/Peergos/Peergos/issues/1044).
