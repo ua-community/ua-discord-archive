@@ -1,0 +1,1 @@
+i mean, how can i hook into Discord's rendering of posted links
