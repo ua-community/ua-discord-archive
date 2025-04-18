@@ -1,0 +1,1 @@
+but for other things i can imagine having a serializable DB could be a better representation
