@@ -1,0 +1,1 @@
+The indexeddb stuff rn is just to store the file handle you want to save to so the save dialog only pops up once. Nothing to do with the actual content on the page
