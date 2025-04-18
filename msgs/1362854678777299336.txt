@@ -1,0 +1,1 @@
+To do that i made the `<head>` a `popover` and all inline scripts/styles `contenteditable`. Style tags live reload when edited and when script tags are edited the we reload the browser on save.
