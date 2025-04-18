@@ -1,0 +1,11 @@
+So here is a pitch:
+
+You could use `dialog-artifacts`  + an HTML storage layer to make a stateful app that is entirely self-contained (and even self-modifying) if you want it to be.
+
+`dialog-artifacts` is agnostic to storage layer and network transport, so you could support sync and persistence.
+
+The downside of using the document itself as your storage layer is that you don't have very good options if you want to do incremental loading of data into memory.
+
+But, I'm thinking of possible tricks you could employ to get around this, depending on the use case.
+
+For example: consider a self-contained document that includes the database at some checkpoint (which will be identified by a self-evident content address); the data is inlined in the document. When the page loads, you can check if the data at that checkpoint is available in a more efficient storage (IDB); if not, you can do a one-time transfer of the data from the document-backed storage into the IDB-backed storage. Then, the next time you want to "fork" (modify) the app, you transfer back out of IDB and persist the data in the document before you save the file.
