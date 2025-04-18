@@ -1,0 +1,5 @@
+This thing is content-addressed triple store with useful properties to enable efficient sync across replicas. If your use case fits into an IDB-shaped storage, you can probably make use of it. And, what you would get is: a way to easily diff your local data against another replica of it somewhere else and possibly sync across those two places.
+
+I'm still wrapping my head around how your self-modifying HTML file works, so I'm being a little speculative when I suggest that this would work for you.
+
+Anyway, now my brain is rathole-ing on using the HTML document itself as the storage layer.
