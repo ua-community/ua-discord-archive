@@ -1,3 +1,4 @@
+https://cristobal.space/note
 https://www.w3.org/TR/design-principles/
 https://github.com/WICG/proposals/issues/178
 https://opencollective.com/user-and-agents
