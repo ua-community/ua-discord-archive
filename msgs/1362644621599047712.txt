@@ -1,0 +1,1 @@
+Curious if you can only persist to indexedDB or is there a way to persist to text/binary?
