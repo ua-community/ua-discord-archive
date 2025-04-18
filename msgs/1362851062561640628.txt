@@ -1,0 +1,1 @@
+also worth reading to frame thinking about The Design of Web-Scale Things https://www.w3.org/TR/design-principles/
