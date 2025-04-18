@@ -1,0 +1,1 @@
+For context: in the case of my library, the keys and data are all byte arrays by the time they hit the storage layer
