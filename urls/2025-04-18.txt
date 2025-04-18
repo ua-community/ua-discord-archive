@@ -1,3 +1,4 @@
+https://github.com/WICG/proposals/issues/178
 https://opencollective.com/user-and-agents
 https://lu.ma/v457jxp2
 https://github.com/storacha/ipfs-car/issues/174
