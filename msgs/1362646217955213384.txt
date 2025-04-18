@@ -1,0 +1,4 @@
+I intend to support two additional options on web (in priority order):
+
+1) A Rust-backed implementation of File System API-based storage
+2) Dynamic storage where any duck-typed JS object that implements a well-formed read and write function can be used
