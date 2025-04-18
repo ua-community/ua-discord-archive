@@ -1,0 +1,1 @@
+discussion and early-stage proposal for a web api for letting web apps use local models. https://github.com/WICG/proposals/issues/178
