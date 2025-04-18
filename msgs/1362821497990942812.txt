@@ -1,0 +1,3 @@
+I dreamed about using HTML as the storage layer last night.
+
+TL;DR I think it will be fine for small datasets, but the scaling properties aren't the best.
