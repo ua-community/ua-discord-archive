@@ -1,0 +1,1 @@
+The Rust implementation is designed with a plugable storage layer, so theoretically you have a wide range of motion. The web package (which I just landed yesterday) currently hard-codes the storage layer.
