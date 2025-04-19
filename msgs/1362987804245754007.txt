@@ -1,0 +1,1 @@
+One thing I love about this is that you can add do stuff like treat the DOM like a k/v store, assigning keys to an attribute. Then, use CSS selectors to do key prefix search.
