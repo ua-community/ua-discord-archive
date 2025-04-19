@@ -1,0 +1,5 @@
+The catch with `dialog-artifacts` is that the actual thing that gets passed to the storage layer is already encoded and representative of an internal datastructure (a prolly tree). So, no matter _how_ you choose to persist, you will always be dealing with effectively opaque byte arrays at the storage layer, so markup will amount to a lot of character padding.
+
+That said, it's kind of cool that you could leverage the DOM APIs as a built-in mechanism for indexing into the data in clever ways.
+
+Even still, for `dialog-artifacts` you _really_ wouldn't want to be going to the DOM, or worse serialized, for every access. To give you a sense of scale, in one test I commit ~250 unique artifacts and it amounts to ~4500 total writes (not 4500 total things that need to be stored, but if you aren't transacting in bulk, you get a lot of intermediate nodes between versions). So, if you can move out of the document into something like IDB, you'll get much better per-access experience.
