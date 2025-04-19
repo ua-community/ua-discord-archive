@@ -1,0 +1,1 @@
+And, all _that_ said, I do think it's really cool to use custom markup for domain-specific data that doesn't need something like a triple store. Just consider my comments above to be a reflection on the properties of `dialog-artifacts`, and not a comment on the bigger picture of how you may want to encode data.
