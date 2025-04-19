@@ -1,0 +1,1 @@
+I was looking at virtual cards aspect of OC, we can setup Discord as a merchant I guess, but not sure how exactly that all spans out: https://docs.opencollective.com/help/expenses-and-getting-paid/virtual-cards
