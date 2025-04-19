@@ -1,0 +1,5 @@
+One bummer about custom elements (even unregistered ones) is that you pay a non-trivial cost per non-inert node when loading up a document, and that can make it feel like a worse approach compared to almost any non-DOM-based option.
+
+But, there are always trade-offs. Self-modifying HTML is so cool. It's probably worth it.
+
+Also CSS is so good these days. It's always been fast for what it is, but now it is also quite feature-rich.
