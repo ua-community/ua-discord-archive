@@ -1,0 +1,1 @@
+Yeah, exactly. For `dialog-artifacts` sake, you could use that as a serialized archive, and re-serialize it from IDB once the user saves a fork of the HTML. This would let you strike a balance between the relatively high cost of JSON deserialization (that would scale linearly with data) and the flexibility of being able to walk out with a fork at any time.
