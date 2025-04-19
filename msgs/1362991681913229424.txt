@@ -1,0 +1,1 @@
+The DOM as a hypergraph that you can extend with custom elements is an underused pattern
