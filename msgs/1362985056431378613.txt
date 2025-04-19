@@ -1,0 +1,21 @@
+(thinking out loud) I take this back, I think this is the second easiest type of data storage. The simplest is custom HTML elements as a data structure. For examples a `<wiki-notes>` element that has a property for it's backlinks via a querySelector
+
+```html
+<wiki-note id="foo">
+  A bunch of text with a <a href="#bar">link</a>.
+</wiki-note>
+
+<wiki-note id="bar">
+  A bunch of text with a <a href="#foo">link</a>.
+</wiki-note>
+
+<script type="module">
+class WikiNote extends HTMLElement {
+  get backlinks() {
+    return Array.from(
+      document.querySelectorAll(`a[href="#${this.id}"]`)
+   )
+  }
+}
+</script>
+```
