@@ -1,0 +1,1 @@
+I've got all messages and links from people who opted-in, saved in a private Github repo. We need to determine as a community whether to make that archive open.
