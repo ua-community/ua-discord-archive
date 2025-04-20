@@ -1,3 +1,13 @@
+https://livebench.ai/#/
+https://github.com/leobeeson/llm_benchmarks
+https://aider.chat/docs/leaderboards/
+https://www.wolfram.com/llm-benchmarking-project/index.php.en
+https://lmarena.ai/
+https://llm-stats.com/
+https://www.vellum.ai/llm-leaderboard
+https://scale.com/leaderboard
+https://artificialanalysis.ai/leaderboards/models
+https://openrouter.ai/rankings
 https://mcluhan.substack.com/p/reading-and-understanding-media
 https://blog.replit.com/everything-you-need-to-know-about-mcp
 https://arxiv.org/html/2402.02668v2
