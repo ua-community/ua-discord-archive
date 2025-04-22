@@ -1,0 +1,1 @@
+i was helping someone w/ some IPFS stuff and we were having a hard time communicating and eventually i said "hey let's start from the beginning" and he stated some WILD AND CRAZY ASSUMPTIONS that were in his head about how IPFS worked. his queries had started from false premises.
