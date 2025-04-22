@@ -1,0 +1,3 @@
+the two most common misconceptions i run into are:
+- that by running a node, you are hosting stuff for randos that you never added to your node
+- IPFS has some kind of ratio penalty system like Bittorrent
