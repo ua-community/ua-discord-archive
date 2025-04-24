@@ -1,0 +1,1 @@
+not mutually exclusive. https://cred.blue is more web-of-trust-y and uses the same underlying apis as the delegated trusted verifiers.
