@@ -1,0 +1,1 @@
+"extension" is an interesting word, since it implies a base (browser).
