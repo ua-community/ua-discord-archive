@@ -1,0 +1,1 @@
+however, as long as that kind of thing is specific to Surf, instead of an open specification which can have multiple independent interoperable implementations, it's less interesting to me personally.
