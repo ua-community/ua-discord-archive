@@ -1,0 +1,1 @@
+it would be super interesting to try and take a few examples of these, and Surflets and generate a draft spec which provides enough basics to build a security model and implementation guide around.
