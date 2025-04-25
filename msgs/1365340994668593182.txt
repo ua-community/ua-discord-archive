@@ -1,0 +1,1 @@
+i am interested in all the parts of my web user agent being composable and portable. i want AI-aided parts in particular to not lock me into a single-company product/experience that i can't control.
