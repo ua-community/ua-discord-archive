@@ -1,0 +1,1 @@
+webxdc, the w3c mini apps spec, web applets, open frames (farcaster frames) are all examples of specifications in the general area
