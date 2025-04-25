@@ -1,0 +1,1 @@
+i love the idea of browser as mcp server, i have "make extension that exposes all of the web-ext api as a mcp server" in my TODO list.
