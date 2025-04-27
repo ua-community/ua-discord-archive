@@ -1,0 +1,3 @@
+Pretty interesting, but I guess only find will tell whether this approach is actually better.
+
+> Performance benchmarks show that Luminal can run quantized large language models (Q8 Llama 3 8B) at 15-25 tokens per second on M-series MacBooks, approaching the performance of highly optimized libraries like llama.cpp.
