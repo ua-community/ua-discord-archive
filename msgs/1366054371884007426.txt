@@ -1,0 +1,1 @@
+This safari feature is very widget like represetation of traditional webpages, I'm really inspired by "widgets" omn iOS/MacOS and beyond, and currently writing a blog post titled: "The future of artifacts: widgets " in context of Tiles: https://support.apple.com/en-in/guide/iphone/iph5c398e1d1/ios
