@@ -1,0 +1,1 @@
+for many years i used Firefox iOS w/ anti-tracking strict mode, and this year switched my daily driver to Orion + uBO. i permavpn using Mullvad and Proton (switching between).
