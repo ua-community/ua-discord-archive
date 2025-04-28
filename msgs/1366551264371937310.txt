@@ -1,0 +1,3 @@
+Do folks here have a mental model or strategy in mind for how to preserve user agency when funding sources and/or corporate initiatives that enable "open weight" models start to dry up?
+
+A premise latent in my question is that user agency is in tension with closed models like ChatGPT, Claude, Grok etc. (you don't have to agree, that's just where I'm coming from).
