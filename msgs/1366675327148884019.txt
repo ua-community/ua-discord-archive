@@ -1,0 +1,1 @@
+you do get a bit more credible-exit with on-device tools, but you're not *in control* if the orchestrator is closed.
