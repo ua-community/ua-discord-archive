@@ -1,0 +1,1 @@
+a security model that speaks more to the ephemerality than HTTP+DNS+SSL+SOM can
