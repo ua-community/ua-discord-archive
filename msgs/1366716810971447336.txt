@@ -1,0 +1,1 @@
+I guess intentional perhaps they were more cautious as first mover adding ability to run generated html and js on the website
