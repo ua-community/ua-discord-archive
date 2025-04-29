@@ -1,0 +1,1 @@
+As for generating running said artifacts on mobile. Both ChatGPT and Gemini work on mobile web while with native apps (at least on iOS) only ChatGPT works. Gemini iOS app just provides a button to copy the html. Not super useful on mobile.
