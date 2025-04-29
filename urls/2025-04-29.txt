@@ -1,1 +1,2 @@
+https://www.lesswrong.com/posts/euam65XjigaCJQkcN/an-analogy-for-understanding-transformers
 https://www.pyspur.dev/blog/deepseek_open_source_week
