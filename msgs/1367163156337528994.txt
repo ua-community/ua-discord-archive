@@ -1,0 +1,1 @@
+IMO my extensions API is pretty easy to integrate into any shape of user agent
