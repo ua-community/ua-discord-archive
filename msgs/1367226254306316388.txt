@@ -1,0 +1,1 @@
+I got a fun one recently at an AI meetup. This guy was like "But how can you use p2p if Google could come in and destroy the network with a sybil attack at any moment??"
