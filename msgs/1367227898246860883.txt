@@ -1,0 +1,1 @@
+Once I get that in I'll slowly start working on mobile extensions and the "browser theme" so that we can get more feature pairity and user customization
