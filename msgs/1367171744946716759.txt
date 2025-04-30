@@ -1,0 +1,1 @@
+i was digging around in https://github.com/AgregoreWeb/agregore-browser/tree/master/app/extensions
