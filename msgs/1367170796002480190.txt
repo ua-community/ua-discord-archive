@@ -1,0 +1,1 @@
+does Agregore ship unbundled extensions in the main package, or does it pull in later like (user) is doing (iirc)?
