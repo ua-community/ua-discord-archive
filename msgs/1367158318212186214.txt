@@ -1,0 +1,1 @@
+Oh? Mind sending a link if you have it. I did a bunch of work getting manifestV2 extensions working in electron by hacking the existing extension APIs https://github.com/AgregoreWeb/electron-extended-WebExtensions
