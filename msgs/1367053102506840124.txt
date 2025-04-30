@@ -1,0 +1,1 @@
+(user) demo'd some personal finance widgetry and we talked about ideas for using web workbench approach for things like that.
