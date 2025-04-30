@@ -1,0 +1,1 @@
+I haven't looked into Sam Maddock's stuff for building out Extension APIs in Electron yet.
