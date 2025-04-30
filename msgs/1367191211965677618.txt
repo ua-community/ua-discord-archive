@@ -1,0 +1,1 @@
+Currently I embed zip archives in the executable and extract them at runtime into the "extensions" folder, then init extensions from there. This also lets users replace the builtin extensions with their own code if they want which is how I develop changes to them before releasing. https://github.com/AgregoreWeb/agregore-browser/blob/master/download-extensions.js
