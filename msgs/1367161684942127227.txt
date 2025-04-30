@@ -1,0 +1,1 @@
+i started looking into a how decouple-able the UI is from the underlying bits there, as a potential "web user agent" base layer.
