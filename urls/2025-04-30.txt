@@ -1,3 +1,4 @@
+https://tenor.com/view/conspiracy-theory-explaining-gif-13403485
 https://github.com/AgregoreWeb/electron-extended-WebExtensions
 https://github.com/AgregoreWeb/agregore-browser/blob/master/download-extensions.js
 https://github.com/AgregoreWeb/agregore-browser/tree/master/app/extensions
