@@ -1,0 +1,1 @@
+HTTP as a fallback is fine too, but IMO the p2p case should take priority in the Agregore context
