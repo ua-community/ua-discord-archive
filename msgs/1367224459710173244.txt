@@ -1,0 +1,1 @@
+I want to make the distribution offline capable. You should be able to share an extension with someone over ad hoc wifi and a QR code
