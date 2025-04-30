@@ -1,0 +1,1 @@
+Hippius is a storage+compute network running on Bittensor and Polkdadot w/ S3-compatible storage and IPFS pinning.
