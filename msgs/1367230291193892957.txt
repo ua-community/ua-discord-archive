@@ -1,0 +1,1 @@
+It uses orders of magnitude less resources than Kubo when we deployed both in distributed.press for example. They're also optimizing their stack to be mobile first since that's the primary userbase of Keet from what I can tell
