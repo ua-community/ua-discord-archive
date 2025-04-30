@@ -1,0 +1,9 @@
+My personal widget workflow:
+- pipe stuff into a spreadsheet
+- publish a particular sheet w/ the numbers i need
+- put a JS script in an iCloud dir
+- that JS script is loaded by Scriptable on iOS
+- it fetch()es the sheet URL, load the csv data
+- and publishes that data in widgets on my iOS homescreen
+- and b/c it's in an iCloud dir, i can edit the script in vim locally
+- so the dev workflow between desktop and mobile is nearly instant
