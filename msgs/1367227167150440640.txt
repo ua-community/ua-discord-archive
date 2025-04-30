@@ -1,0 +1,1 @@
+Totally unrelated but I'm like *thiiiiis* close to getting hyperdrive site loading into Agregore Mobile. I got an .AAR with a basic bare-kit based daemon and now I just need to plug it into chromium's build system and add a service the way I did for IPFS/Kubo
