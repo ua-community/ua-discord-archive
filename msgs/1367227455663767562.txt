@@ -1,0 +1,1 @@
+I'm able to compile the project on my personal machine after wrestling with Google's depot\_tools always wanting to update to the newest version. I'm hoping to release this new version during my talk at localfirstconf
