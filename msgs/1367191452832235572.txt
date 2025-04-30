@@ -1,0 +1,1 @@
+I'm thinking of adding the ability to pull extensions from the network but might need to figure out an "extensions store" type setup for that first :P
