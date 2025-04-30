@@ -1,0 +1,1 @@
+It's something I put together when integrating the WebRecorder extension as part of a FF grant a few years ago: https://github.com/AgregoreWeb/electron-extended-WebExtensions
