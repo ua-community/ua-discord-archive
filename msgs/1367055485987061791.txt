@@ -1,0 +1,1 @@
+in Peek you'd have a couple of ways to get the data (commands, scheduled content scripts), where it's stored locally, with updates piped to a webhook
