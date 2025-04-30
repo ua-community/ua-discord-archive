@@ -1,0 +1,6 @@
+Or maybe an extension hoard. The format I was thinking is a p2p site with a well known folder structure along the lines of
+
+```
+/extensions/{name}/{version}/extension.zip
+/extensions/{name}/index.json
+```
