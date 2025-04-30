@@ -1,0 +1,1 @@
+how does hyperdrive perform over mobile connection? ipfs mostly has to be fetch only. seems like hyperdrive wouldn't be able to serve either.
