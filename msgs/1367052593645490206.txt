@@ -1,0 +1,1 @@
+I stood up a storage miner w/ a friend, and we're testing, and I'm advising the Hippius folks on how to do their IPFS stuff.
