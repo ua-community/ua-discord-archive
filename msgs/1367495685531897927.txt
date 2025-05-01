@@ -1,0 +1,1 @@
+That's not entirely bad advice though. IMO we could stand to treat p2p web browsers as a new type of app. Especially if there's content authoring tools built in which IMO differs from regular browsers
