@@ -1,3 +1,4 @@
+https://www.wiz.io/blog/mcp-security-research-briefing
 https://www.nomic.ai/blog/posts/nomic-embed-text-v2
 https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/
 https://www.anthropic.com/news/integrations
