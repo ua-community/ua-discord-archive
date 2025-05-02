@@ -1,3 +1,4 @@
+https://www.anthropic.com/news/integrations
 https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823
 https://github.com/onkernel/kernel-images
 https://techcrunch.com/2025/04/18/chatgpt-will-now-use-its-memory-to-personalize-web-searches/
