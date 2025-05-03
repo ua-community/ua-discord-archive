@@ -1,0 +1,1 @@
+Though the plan with the applets thing is to make it usable in non-browser environments (eg. Unternet client)
