@@ -1,3 +1,4 @@
+https://manifesto.faces.site/
 https://frame.work/desktop?slug=desktop-diy-amd-aimax300&tab=specs
 https://youtu.be/kGBeT8lwbo0?si=AfufPkbMjPmhmJd4
 https://huggingface.co/spaces/onnx-community/model-explorer
