@@ -1,0 +1,1 @@
+Memory is the main thing and these ryzen chips the on board GPU can use shared ram.
