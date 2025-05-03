@@ -1,2 +1,3 @@
+https://youtu.be/kGBeT8lwbo0?si=AfufPkbMjPmhmJd4
 https://huggingface.co/spaces/onnx-community/model-explorer
 https://apxml.com/tools/vram-calculator
