@@ -1,0 +1,1 @@
+earlier this week i set up llama.cpp + llama.vim w/ qwen 2.5. super responsive locally for inline completions and code approach seems conservative/practical, not aggressive/garbage.
