@@ -1,0 +1,1 @@
+But probably CORS will be less of an issue there.
