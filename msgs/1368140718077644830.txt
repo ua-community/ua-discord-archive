@@ -1,0 +1,1 @@
+Diffuse running in regular browser? or a runtime that can break the rules?
