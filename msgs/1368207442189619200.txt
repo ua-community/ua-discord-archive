@@ -1,0 +1,1 @@
+yeah in regular web browser context, no real option there except a browser extension.
