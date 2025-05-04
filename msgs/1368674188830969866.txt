@@ -1,0 +1,3 @@
+I'm not sure how interesting it will be in the end, but I'll have something new to offer for consideration.
+
+It will be a lot like Noosphere's in terms of the practical UX, but changes under the hood to how it published and propagates names.
