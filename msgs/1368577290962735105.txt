@@ -1,0 +1,3 @@
+The metaphor I use is similar to this, but I talk about how in a web browser the metaphor is all about "going" somewhere. You browse "to" a webpage, and then you're just in it. So the web workbench idea (it's kind of catchy) is to zoom out on that so you are assembling your resources on your workbench and doing stuff with them.
+
+Less like traveling to someone elses world (server) where you are stuck, more like a collage artist assembling materials, scissors, glue, newspapers & magazines, and then working with them at hand.
