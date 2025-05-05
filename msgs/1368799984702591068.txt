@@ -1,0 +1,1 @@
+HTML Imports was always on shakey ground because even though it's very nice to have something like it, it was also the easiest thing to polyfill. The easier it is to polyfill something, the harder it is to justify that it _must_ be built-in to the browser.
