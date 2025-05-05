@@ -1,0 +1,1 @@
+Well... everyone had their very own garbage pile of a profile with crazy gifs, embedded music players, customized cursors and assorted decorative scripts. It was an age where [XSS-based worms](https://en.wikipedia.org/wiki/Samy_(computer_worm)) could propagate freely across the social network.
