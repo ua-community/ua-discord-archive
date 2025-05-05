@@ -1,0 +1,1 @@
+I've been thinking of it from the perspective of a "main" thread that does the majority of the app logic with the tabs being light and just focusing on rendering the page
