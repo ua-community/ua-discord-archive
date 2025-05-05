@@ -1,0 +1,2 @@
+>  The easier it is to polyfill something, the harder it is to justify that it must be built-in to the browser.
+This makes me think how the framing of being a
