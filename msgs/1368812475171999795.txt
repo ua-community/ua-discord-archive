@@ -1,0 +1,3 @@
+> We were regularly told that any standard that requires changing the HTML parser was a huge security effort, and therefor would be vetoed internally (<template> tag was one of the last concessions they made to us)
+
+I never understood why adding `<template>` required changes in the HTML parser? But it's sad to me that security vetos have caused HTML to essentially atrophy
