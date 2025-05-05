@@ -1,0 +1,5 @@
+There was a spin-off vision within Chrome where the pitch was that the browser should bundle JavaScript libraries that extend the platform in experimental, "easier to undo" ways in order to unlock more experimentation and incorporation of author land patterns.
+
+I always found the idea a little comical. Like, somehow the underlying implementation details of a browser-bundled API would make it immune from the implications of being used by actual websites.
+
+The hard truth of shipping anything in a web browser is the unspoken rule that browsers shall never outright break existing websites (at least, not on a human timescale). So, you have to be prepared to keep all new APIs around forever.
