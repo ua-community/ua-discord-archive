@@ -1,0 +1,1 @@
+But then a tab needs to own the worker and you need to deal with respawning it when the tab closes, no?
