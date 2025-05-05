@@ -1,0 +1,4 @@
+Two anecdotes from the early-ish Web Component days in Chrome:
+
+- We were regularly told that any standard that requires changing the HTML parser was a huge security effort, and therefor would be vetoed internally (`<template>` tag was one of the last concessions they made to us)
+- Perhaps speaking to (user) world, the death knell for HTML Imports was when Mozilla stated their position that with ESM being imminent, HTML Imports would constitute a second, parallel loading mechanism and they wanted to pick only one (and they had picked ESM)
