@@ -1,0 +1,1 @@
+One of the pitches we made internally was that if we got to declarative custom elements, we could avoid having to standardize a lot of new tags
