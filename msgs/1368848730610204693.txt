@@ -1,0 +1,3 @@
+> The easier it is to polyfill something, the harder it is to justify that it must be built-in to the browser.
+
+This makes me think about why it's important that more people think they are implementing their own faux-standards through the extension mechanisms that they web has given us.
