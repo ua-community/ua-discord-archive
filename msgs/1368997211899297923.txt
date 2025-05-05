@@ -1,0 +1,1 @@
+I feel like too many apps put a lot of logic in the render thread and then become unable to do multi tab as a result
