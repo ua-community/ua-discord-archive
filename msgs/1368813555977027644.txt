@@ -1,0 +1,1 @@
+The way the HTML inside a `<template>` tag is interpreted is different from the outer document (it becomes its own document fragment, and has properties like scripts being inert, inner custom elements not being upgraded etc.).
