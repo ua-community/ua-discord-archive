@@ -1,0 +1,1 @@
+It's kind of moot with Service Worker, but at the time it was the best way to have a shared core for your application state / business logic across many tabs (if you were doing something "local first"-y, anyway)
