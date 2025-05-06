@@ -1,0 +1,5 @@
+Coactive computing resonates for me.
+
+For Familiar, my expectation is a user will have a domain, and an AI will have a domain. They each have full read/write authority over their own domains. The AI may have read access to the user's domain, and may take it into account when working within its own domain. The user may have read access to the AI's domain, and can pull things in from it as desired.
+
+The dynamic I'm reaching for is that neither entity is limited in what they can produce, and neither has intrusive authority over a domain that is not theirs, but both may work in a collaborative fashion to produce something more interesting than they would in isolation.
