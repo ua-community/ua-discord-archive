@@ -1,0 +1,1 @@
+coactive in that doc seems to imply a distinction between working *with software* vs working *with people* (cooperative/collaborative), which isn't something we have had good language for yet. is quite muddy most of the time.
