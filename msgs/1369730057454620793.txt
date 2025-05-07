@@ -1,0 +1,1 @@
+i do, just wasn't running b/c i was running llama.cpp instead lately
