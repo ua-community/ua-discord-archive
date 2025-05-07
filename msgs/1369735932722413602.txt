@@ -1,0 +1,3 @@
+Hmm, not sure I get it. Are you saying storing 500_000x 4mb is cheaper than storing one 2tb block?
+Not sure I get that, storage systems have to split it anyways, no?
+It's not about deduplication at that level, there you're right.
