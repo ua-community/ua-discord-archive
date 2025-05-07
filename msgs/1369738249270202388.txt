@@ -1,0 +1,1 @@
+If you use UnixFS you can get streaming though, no?
