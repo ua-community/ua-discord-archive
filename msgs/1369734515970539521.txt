@@ -1,0 +1,1 @@
+sounds a bit like what WebRecorder did. custom splicing for streaming web archives.
