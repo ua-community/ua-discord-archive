@@ -1,0 +1,1 @@
+It's kinda like filecoin! But generally folks just bring whatever storage they have and get added to the swarm. I think it works kinda how people think IPFS means they're storing other people's data :P
