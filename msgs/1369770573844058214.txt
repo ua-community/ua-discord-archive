@@ -1,0 +1,1 @@
+Also the dev tools also aren't immediately extendable by the web page. For example one of the things i.ve been working on is an custom HTML attribute that lets you bind an language server to a input/textarea/contenteditable
