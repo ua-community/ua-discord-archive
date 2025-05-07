@@ -1,0 +1,1 @@
+generally the ways that web apps and user agent can advertise and negotiate what's personalizable is very under-explored in the web platform
