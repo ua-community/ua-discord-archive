@@ -1,2 +1,3 @@
+https://geminiprotocol.net/docs/protocol-specification.gmi
 https://peertube.eqver.se/w/p/95aJcuPHPiofU91NxKes6g
 https://fullmoon.app/
