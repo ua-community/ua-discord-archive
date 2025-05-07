@@ -1,0 +1,8 @@
+It's still WIP but I've been rewriting my personal website and trying to push some of these topics as far as possible. [chrisshank.com](https://chrisshank.com/)
+
+- What if anyone could save a copy of my website (i.e. gain ownership)?
+- What if the web page was it's own REPL?
+- What if anyone could see and modify the source without opening dev tools?
+- What if there was a tool that let me edit any part of the DOM tree as markdown?
+- What if we encode things like a wiki graph into the DOM (i.e. DOM as a hypergraph)?
+  - Think things like backlinks and graph visualization
