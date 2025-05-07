@@ -1,0 +1,3 @@
+> What if a web page had a self-contained JS module system?
+
+cc (user) , he's been poking in this direction
