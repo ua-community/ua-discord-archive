@@ -1,0 +1,6 @@
+```
+<button id="submitButton">Hey</button>
+<script>
+window.submitButton.onclick = () => alert("hey")
+</script>
+````
