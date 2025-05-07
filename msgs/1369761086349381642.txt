@@ -1,0 +1,6 @@
+Oh another bit we talked about:
+- building software for yourself vs for others
+- how that changes how you make things
+- making vanilla web stuff w/o modern complexity
+- how client-first minimalism allows for simpler protocols
+- eg Gemini protocol
