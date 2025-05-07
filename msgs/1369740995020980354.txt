@@ -1,0 +1,1 @@
+Iroh using just one hash function + chunking strategy is nice, but they are a more tightly integrated system which has it's tradeoffs too
