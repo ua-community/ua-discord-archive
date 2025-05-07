@@ -1,0 +1,1 @@
+IIRC you can do range queries for S3? And you can mount a CAR file on HTTP as a blockstore using an indexed CAR file
