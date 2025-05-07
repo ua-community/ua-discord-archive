@@ -1,0 +1,1 @@
+ya it is! it's honestly a big let down that [web bundles](https://chromestatus.com/feature/5377722941440000) was killed off. until then self-contained HTML files is the best we have
