@@ -1,0 +1,1 @@
+e.g. the trick where the `id` of an element makes it a global variable so you can skip `document.getElementById` or `querySelector` or w/e
