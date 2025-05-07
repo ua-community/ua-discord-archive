@@ -1,0 +1,1 @@
+Iroh might be a good match. It's a bit hard to add new transports to it right now though. https://www.iroh.computer/
