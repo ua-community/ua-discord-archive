@@ -1,0 +1,1 @@
+Yeah I was thinking I should do a check for ollama before that dialog and show the guide for setting up ollama there.
