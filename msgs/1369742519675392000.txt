@@ -1,0 +1,1 @@
+Not suggesting for mutability - just saying as a store in place of S3/IPFS. The live sync has to be out of band of course
