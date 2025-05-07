@@ -1,0 +1,3 @@
+`Generate code blocks based on the prompt.
+    Stop after outputting the code block.
+    Be short and quick.`
