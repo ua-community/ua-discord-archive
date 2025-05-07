@@ -1,0 +1,4 @@
+Storing yes - accessing not so much I imagine. Depends on the support for well, streaming. If I can say give me x..y range, you're completely right. Then I can store a map out of band.
+IPFS doesn't allow this.
+
+That's why I'm on about BLAKE3 - it allows you to do this streaming from a single large blob and still get it cryptographically verified.
