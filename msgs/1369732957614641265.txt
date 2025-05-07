@@ -1,0 +1,2 @@
+Either I chunk the data (making it streamable-ish) or I pre-chunk it, but then it's not really content addressable anymore.
+I have been considering BLAKE3 + IPFS somehow but idk
