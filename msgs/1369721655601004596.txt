@@ -1,0 +1,1 @@
+Baseline status has stages, and the "general availability" status is basically "an agreed-upon set of browsers has shipped the feature on their release channel, on by default, for 2.5yrs"
