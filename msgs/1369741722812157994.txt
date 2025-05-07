@@ -1,0 +1,2 @@
+The alternative approach I kind of like is in-app Sia node w/ wallet & handling storage via that. Bit annoying as you need some startup funds for every user, but might reasonably extend Sia in that direction.
+That gets rid of all central authority which I like
