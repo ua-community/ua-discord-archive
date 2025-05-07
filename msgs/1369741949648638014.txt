@@ -1,0 +1,1 @@
+Lately I like ignoring the global deduplication thing entirely and using https://github.com/holepunchto/hyperdrive
