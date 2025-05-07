@@ -1,0 +1,1 @@
+UnixFS adds some overhead in the DAG but you can store everything as one CAR file pretty cheaply in S3
