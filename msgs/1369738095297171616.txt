@@ -1,0 +1,1 @@
+IMO you can get streaming + determenistic hashing in IPFS pretty easily if you focus on one application and document your chunking settings
