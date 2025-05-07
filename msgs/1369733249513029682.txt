@@ -1,0 +1,1 @@
+Ah determenistic + content addressible without extra configuration. Yeah that's a rough part in IPFS
