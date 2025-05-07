@@ -1,0 +1,1 @@
+e.g. I tried to get iroh replication working over veilid and it was a lot harder than it would have been with libp2p
