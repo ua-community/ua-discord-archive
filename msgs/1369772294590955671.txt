@@ -1,0 +1,1 @@
+or something like this markdown instrument. Select a DOM element -> parse its `innerHTML` into markdown -> edit -> parse it back into HTML
