@@ -1,0 +1,1 @@
+I think that deeply ingrained into dev tools is the ethos of "view source" and debugging, not editing/authoring. Some things you change are persisted to the DOM other changes arent (e.g. overriding styles).
