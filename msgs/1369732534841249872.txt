@@ -1,0 +1,1 @@
+we did a lot of work to get IPFS scheme support into Curl and the rest of the open source video stack for exactly this! https://blog.ipfs.tech/2022-08-01-ipfs-and-ffmpeg/
