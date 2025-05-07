@@ -1,0 +1,1 @@
+More like, imagine you have 1B of web scraping data from different sites. Taking each scrape and decomposing that zip into the individual resources and storing them as individual blocks with deduplication will cost more than throwing the entire zip into S3 and fetching resources out of it as needed and ignoring whether there are duplicate bytes
