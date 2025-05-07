@@ -1,0 +1,1 @@
+(user) adaptive matching: scoring `{ charsTyped : entrySelected }` records for "magical" recall
