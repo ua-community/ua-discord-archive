@@ -1,0 +1,1 @@
+Why do you need it to be content addressed in that sense? Easy deduplication?
