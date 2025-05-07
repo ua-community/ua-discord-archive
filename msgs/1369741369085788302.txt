@@ -1,0 +1,1 @@
+For s3 you wou;d use it as write only storage and just track your CIDs or metadata in some other form of db like a local sqlite or a regular postgres IMO
