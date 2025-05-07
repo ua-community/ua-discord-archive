@@ -1,0 +1,1 @@
+So if you want to use a "block store" you need all those blocks to be actually stored somewhere. IT ends up being cheaper to store non-deduplicated archives as individual blobs rather than decomposing the archive and needing a bunch more smaller blobs for all the bits
