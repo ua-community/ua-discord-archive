@@ -1,0 +1,1 @@
+just a directory upload, then constructing an iframe with psuedo file references? or using a service worker?
