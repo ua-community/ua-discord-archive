@@ -1,0 +1,7 @@
+IMO to get the cheapest large scale storage you can do this:
+
+* S3 bucket where the ID is the root CID of your file
+* Application defines chunking for UnixFS to what makes sense for it
+* When you upload a file, generate a CAR file for it and store it in S3
+* Keep a map of "human name"->CID->s3
+* Optionally cache frequently used CIDs to your local blockstore (not a car, just one of the defaults)
