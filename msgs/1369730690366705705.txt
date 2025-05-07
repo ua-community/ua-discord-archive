@@ -1,0 +1,1 @@
+Immutable, P2P, ideally privacy built in, streamable, overall low overhead so it can function anywhere. I want it to be transport agnostic (so protocol level), to make sure it works in many situations.
