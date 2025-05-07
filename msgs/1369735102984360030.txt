@@ -1,0 +1,1 @@
+Once you get into the TB levels regular blob storage becomes cheaper than all the hash tracking
