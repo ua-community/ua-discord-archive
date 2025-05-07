@@ -1,0 +1,1 @@
+Even if you store a CAR file you can seek into it pretty easily
