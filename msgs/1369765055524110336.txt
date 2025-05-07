@@ -1,0 +1,1 @@
+Based on base16 color schemes: https://github.com/base16-community/base16 Very portable accross style systems
