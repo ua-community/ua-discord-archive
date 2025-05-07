@@ -1,0 +1,1 @@
+We just say `@import url("browser/theme/style.css")` for styled components, or `@import url("browser/theme/vars.css")` for standard CSS vars to include
