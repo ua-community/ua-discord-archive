@@ -1,0 +1,1 @@
+So you can look at BCD (Browser Compat Data) data set and from it, project when a feature will hit GA
