@@ -1,0 +1,1 @@
+Imo delta chat has a great impl of self contained web apps + sandboxed comminication apis
