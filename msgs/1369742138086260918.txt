@@ -1,0 +1,1 @@
+I'm not a fan of needing blockchains for state and mutability since you're immediately stuck with needing to be online and having to deal with currency for every little thing
