@@ -1,0 +1,1 @@
+What are the tradeoffs that are important for your use case? e.g. multi-writer, cloud backups, offline-capable, etc
