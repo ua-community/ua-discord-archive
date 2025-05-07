@@ -1,0 +1,1 @@
+> data:text/html,<button id="subby" onclick="subby.innerText='bye'">Hi</button>
