@@ -1,0 +1,1 @@
+i'd prefer the 100% reliability of the former at capability penalty, vs the dice roll of (network perf * service price * service availability).
