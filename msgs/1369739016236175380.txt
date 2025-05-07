@@ -1,0 +1,1 @@
+The overhead is miniscule TBH. IMO the IPFS impls could stand to advertise less of the intermediate DAG nodes to save on bandwidth but it's not going to be much more than the dag you generate on the fly with blake3
