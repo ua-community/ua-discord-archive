@@ -1,0 +1,1 @@
+we talked about closing the time-to-fun distance in making web things. for me, it feels like part of that is related to using *less* of the modern web platform. falls in the "radical subsets" category.
