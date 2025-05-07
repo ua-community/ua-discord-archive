@@ -1,0 +1,1 @@
+Ditching frameworks and fanciness and hacking stuff together with dirty but simple code
