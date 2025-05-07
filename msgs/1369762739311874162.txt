@@ -1,0 +1,1 @@
+With Agregore's built in style sheet I want to have enough defaults that devs can focus on structure and interaction more, Then stuff like color scheme can be configured at the user agent level. Akhilesh and I are collabing on a spec for the theme support so that peersky and agregore both load the "browser" styles into apps but have flexebility on what that style actually is
