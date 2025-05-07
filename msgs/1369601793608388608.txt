@@ -1,0 +1,9 @@
+Thinking on a thesis that guides investors on how to reason about the types of software that people here are building:
+
+- principles / values / goals
+- common characteristics of software in the space
+- target markets, use-cases, long-term impact
+- articulate how/why different (contrast w/ other companies)
+- history of prior investments in companies building similarly (success and failure)
+- overview of revenue approaches, pros/cons, what worked/didn't
+- valuation approaches, show examples
