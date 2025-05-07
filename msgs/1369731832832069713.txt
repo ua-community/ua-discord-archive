@@ -1,0 +1,1 @@
+Scanning this I think it's cool but not suited to blob storage (or the discussion didn't focus on that). IPFS but streamable is 95% of what I want
