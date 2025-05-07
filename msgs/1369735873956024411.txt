@@ -1,0 +1,1 @@
+IIRC the web3.storage folks ended up storing entire CAR files in s3 instead of splitting them into blocks for similar reasons
