@@ -1,0 +1,1 @@
+Shoot, do you have ollama installed? I really need to improve the onboarding to the AI stuff
