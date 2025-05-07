@@ -1,0 +1,1 @@
+Uh, not sure I follow. I mean sure storing file metadata and such isn't free, but practically any access pattern will make the broken down variant so much cheaper?
