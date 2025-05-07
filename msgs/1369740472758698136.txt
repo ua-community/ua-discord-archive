@@ -1,0 +1,1 @@
+Yeah that makes sense. Doesn't really work for a P2P world where I'd want to avoid a central thing like an S3 Server, but yes
