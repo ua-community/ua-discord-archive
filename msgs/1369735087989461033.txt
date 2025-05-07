@@ -1,0 +1,3 @@
+Yes, bolting it on top is okay, but not ideal ^^
+IPFS + BLAKE3 distributed verified streaming would be so nice :/
+Ie chunk a video into 15s blocks, and stream at will. Could be so good
