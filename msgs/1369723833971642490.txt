@@ -1,0 +1,1 @@
+ok building local clone of Agregore worked fine
