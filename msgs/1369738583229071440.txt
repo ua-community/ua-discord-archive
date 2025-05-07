@@ -1,0 +1,1 @@
+Doesn't UnixFS create a ton of blobs, including chunks of files? Doesn't that go against the idea that one large blob being cheaper? Not sure I follow what you're saying
