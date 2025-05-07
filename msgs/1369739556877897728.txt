@@ -1,0 +1,2 @@
+Ah now I understand what you mean. Yeah CAR archiving a DAG of CIDs works well. Haven't actually looked at how good modifying CARs works.
+Might be reasonable to store a user workspace as just a CAR and then either fully sync the CAR as a blob out of band or incrementally sync via IPFS.
