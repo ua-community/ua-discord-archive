@@ -1,0 +1,1 @@
+Could you cite which implementation doesn't support range queries? Streaming is supported on every layer from what I've seen
