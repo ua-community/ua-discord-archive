@@ -1,0 +1,2 @@
+I pretty much want to enable an experience somewhat similar to self hosted software, but without having to shell out for a huge storage server and complex backups.
+A privacy preserving central Discovery server would be provided to establish connections. Self hostable for the inclined pretty much.
