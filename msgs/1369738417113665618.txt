@@ -1,0 +1,1 @@
+When you upload a file with UnixFS (which you must do for files over 2MB in most impls) you can specify your chunk prefs or use the defaults
