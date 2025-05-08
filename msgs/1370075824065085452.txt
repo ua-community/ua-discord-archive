@@ -1,0 +1,1 @@
+what (user) said, esp the layer-on parts. in addition, you don't have to deal w/ the paradigmatic collision wrt data storage and same-origin policy + multiple domains
