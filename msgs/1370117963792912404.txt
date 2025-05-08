@@ -1,0 +1,1 @@
+That blog is so rich. Their post on datalog-in-JS is one of the things that helped me when thinking how and why to contruct Dialog as a triple store: https://www.instantdb.com/essays/datalogjs
