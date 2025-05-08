@@ -1,0 +1,1 @@
+(which is why i think we hit a wall when it comes to *actually* shipping unprefixed protocol handlers for web-ext)
