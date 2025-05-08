@@ -1,0 +1,1 @@
+What if I told you that you can publish a podcast for $0 (plus the cost of a static file server on the network)
