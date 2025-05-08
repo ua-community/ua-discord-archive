@@ -1,0 +1,1 @@
+getting Chrome and Mozilla both to agree and the CG to concur that unprefixed schemes should be ok
