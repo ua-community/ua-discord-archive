@@ -1,0 +1,1 @@
+I learnt storage tradeoffs in this context when I first came across this write up: https://www.instantdb.com/essays/next_firebase
