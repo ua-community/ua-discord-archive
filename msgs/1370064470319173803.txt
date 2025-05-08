@@ -1,0 +1,1 @@
+once we get proper custom protocol support in extensions, can do some nicer things in status quo browsers in the "moving self-contained things around".
