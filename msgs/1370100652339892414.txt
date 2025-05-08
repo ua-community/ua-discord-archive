@@ -1,0 +1,1 @@
+https://vercel.com/changelog/mcp-server-support-on-vercel
