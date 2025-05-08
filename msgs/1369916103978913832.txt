@@ -1,0 +1,1 @@
+Currently artifacts/widgets on tiles.run are HTML, I wonder whether to move to JSX or push boundaries of what HTML based self contained solution can do
