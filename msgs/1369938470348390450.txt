@@ -1,0 +1,1 @@
+tl;dr: Changes to the web in the last ~10yrs have focused on large publisher needs to the exclusion of others. Authoring web content that functions w/o an HTTP server is drastically less complex and works almost anywhere.
