@@ -1,0 +1,12 @@
+SQLite is a great solution for a large number of local-first use cases.
+
+There are two use-cases that Dialog is shooting for that are not well-served by SQLite alone:
+
+- Efficient synchronization across partial replicas
+- Schema-on-read, in support of a software-comes-to-data programming model
+
+As for Automerge:
+
+CRDTs have their strengths but also some trade-offs. One flow that Dialog is designed to support is: a user can write to a locally-sync'd partial replica and sync the novel changes back without replicating the whole DB.
+
+Conflict resolution is not as comprehensive as it may be with a CRDT, but for a lot of non-realtime synchronization use cases a naive last-write-wins strategy is a reasonable default. And, you get an actual database in the bargain.
