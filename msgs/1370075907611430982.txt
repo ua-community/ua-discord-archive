@@ -1,0 +1,1 @@
+all this stuff is grand until the web app js writes some data to localstorage
