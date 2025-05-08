@@ -1,0 +1,1 @@
+we had positive backchannel and quick review on the chromium work to support non-http addresses across processes, and the protocol redirector stuff too
