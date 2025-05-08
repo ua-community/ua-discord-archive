@@ -1,0 +1,1 @@
+something i left out of the conversation yesterday b/c it was a bit in the weeds was that the Web Features project made clear the trend towards compound features - where a feature that crosses what-wg, w3c, ietf b/c has pieces of html, dom api and http headers.
