@@ -1,3 +1,4 @@
+https://vercel.com/changelog/mcp-server-support-on-vercel
 https://dev.to/warpdotdev/the-terminal-is-on-life-support-is-it-worth-saving-20cm
 https://github.com/tileshq/tiles
 https://www.instantdb.com/essays/next_firebase
