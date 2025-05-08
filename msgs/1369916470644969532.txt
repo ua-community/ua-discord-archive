@@ -1,0 +1,1 @@
+Currently thinking a solution where each user gets a sqlite db, its scalable to bigger datasets and portability
