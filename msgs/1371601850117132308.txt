@@ -1,0 +1,1 @@
+Gittea -> Hard fork -> ForgeJo -> Codeberg, instance of ForgeJo, and I guess they either customize and/or upstream changes
