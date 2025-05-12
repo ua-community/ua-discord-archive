@@ -1,0 +1,1 @@
+I signed up for it last night. I'm still wondering what the best solution for CI/CD would be (I don't want to risk abusing their community instance of Woodpecker)
