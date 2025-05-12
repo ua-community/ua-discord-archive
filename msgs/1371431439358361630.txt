@@ -1,0 +1,1 @@
+Warp basically has a agent mode where it just takes over and do deep research style thinking and doing over the given intent
