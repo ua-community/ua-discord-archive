@@ -1,3 +1,4 @@
+https://codeberg.org/Codeberg/Contributing/issues
 https://forgejo.org/
 https://www.indiegogo.com/projects/ollie-your-grandparent-s-ai-companion-phone
 https://reader.distributed.press/
