@@ -1,0 +1,1 @@
+No, but adding a P2P FEP for serving AP over IPFS/Hypercore which works in Agregore :P https://codeberg.org/fediverse/fep/pulls/379
