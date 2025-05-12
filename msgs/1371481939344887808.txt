@@ -1,0 +1,2 @@
+Yeah, I like at proto too, but extending it (compatible, but own lexicon, separate keys for service) seems next to impossible.
+The PDS the user is with has to support everything a user uses
