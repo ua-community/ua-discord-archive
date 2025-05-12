@@ -1,0 +1,6 @@
+The text on Forgejo's main page is kind of confusing if that is true:
+
+> Forgejo is a self-hosted lightweight software forge.
+> Easy to install and low maintenance, it just does the job.
+> 
+> Brought to you by an inclusive community under the umbrella of Codeberg e.V., a democratic non-profit organization, Forgejo can be trusted to be exclusively Free Software. You can create an account on Codeberg and other instances or download it to self-host your own
