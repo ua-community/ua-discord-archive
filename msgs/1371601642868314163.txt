@@ -1,0 +1,1 @@
+Yeah, you're right. I looked some more, here's the explanation https://docs.codeberg.org/getting-started/what-is-codeberg/#:~:text=Codeberg%20is%20powered%20by%20Forgejo,to%20host%20their%20own%20projects.
