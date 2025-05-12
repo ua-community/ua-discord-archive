@@ -1,0 +1,1 @@
+Haptic is an Obsidian-alike that is open source and has a web client https://app.haptic.md/notes and the desktop app is built with Tauri.
