@@ -1,0 +1,1 @@
+Has someone here tried extending At proto / ActivityPub? Currently considering my options, and it doesn't seem worth it.
