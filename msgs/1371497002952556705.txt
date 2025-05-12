@@ -1,0 +1,1 @@
+If your idea fits into the default spec (Actor/Follow/Notes) it's pretty easy if you use a framework for the JSON-LD bits. Past that there's a lot of "standard" extensions via FEPs which might apply to your use case. https://codeberg.org/fediverse/fep
