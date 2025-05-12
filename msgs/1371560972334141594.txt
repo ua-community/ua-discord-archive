@@ -1,0 +1,1 @@
+https://forgejo.org/ (I guess this is what Codeberg is built from?) seems really nice, I'm just time constrained and don't want to self-host.
