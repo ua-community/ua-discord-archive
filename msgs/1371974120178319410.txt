@@ -1,0 +1,1 @@
+Awesome. They must be expecting someone to force apples hand as currently you are not allowed to ship any browser on tvOS (even WebKit based webview)
