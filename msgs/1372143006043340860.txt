@@ -1,0 +1,1 @@
+we're talking a bit about the data import/export dynamics of when you as the "kernel" don't want to make that part of your architecture (or business model)
