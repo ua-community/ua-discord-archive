@@ -1,0 +1,4 @@
+nice pattern:
+- app logic and data are decoupled
+- the "data" is files
+- the files are synced
