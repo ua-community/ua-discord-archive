@@ -1,0 +1,1 @@
+what's the MCP of metadata/storage persistence and portability?
