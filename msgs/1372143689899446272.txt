@@ -1,0 +1,4 @@
+eg which of these are
+- local vs remote or both
+- open source vs dark boxx magick
+- OS vs 3rd party
