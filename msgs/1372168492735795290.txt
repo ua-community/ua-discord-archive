@@ -1,0 +1,2 @@
+This is awesome. Currently building something on it. Not sure the latency is low enough for interactive.
+They have a great alternative section in the docs with a long list.
