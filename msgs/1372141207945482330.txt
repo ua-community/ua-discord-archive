@@ -1,0 +1,6 @@
+Talked about updates on tiles and areas I'm focusing on:
+
+- context selection in notebook
+- using notebook as an asssitant
+- magical copy/paste paste
+- cognitive kernel for intent routing
