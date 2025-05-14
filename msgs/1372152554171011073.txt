@@ -1,0 +1,1 @@
+ElectricSQL seems like a really good local-first library, has CRDTs, client side SQLite and many other good sync and collaborative goodies
