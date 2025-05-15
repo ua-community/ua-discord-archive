@@ -1,2 +1,3 @@
+https://tinfoil.sh/
 https://www.w3.org/TR/privacy-principles
 https://unternet.co/docs/web-applets/introduction
