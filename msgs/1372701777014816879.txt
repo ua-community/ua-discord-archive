@@ -1,0 +1,1 @@
+I can't speak for the rest, but the youtube one is basically there's a dom element that contains the whole transcript, and you can just grab it
