@@ -1,0 +1,1 @@
+The biggest potential vulnerability I see is what if the loop takes forever to close but you have and urgent need?
