@@ -1,0 +1,1 @@
+Yeah, backwards compatibility is the main thing html has going for it. Otherwise, the industry has already invested in moving away from it as much as possible without technically moving away from it.
