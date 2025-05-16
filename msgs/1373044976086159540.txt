@@ -1,0 +1,2 @@
+This is a far from mature project, but I want to throw these motivations out there
+https://github.com/npetrangelo/BFTML/blob/main/docs/motivations.md
