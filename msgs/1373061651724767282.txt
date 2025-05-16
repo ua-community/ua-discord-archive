@@ -1,0 +1,1 @@
+I've got the beginnings of a parser in my project, one of my major design decisions early on was that a more consistent syntax makes for a much simpler parser. HTML parsing in particular seems like nightmare, with all its ambiguous whitespace rules.
