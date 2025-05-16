@@ -1,0 +1,1 @@
+No, I'm claiming devs make bad assumptions about how whitespace works and it takes them longer to get the results they want, because the whitespace rules are all implicit and you basically have to just know them.
