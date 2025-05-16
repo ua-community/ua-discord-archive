@@ -1,0 +1,3 @@
+Not sure if I'm missing something, but seems like those pages are all fake-wikimedia? 
+
+Exactly the kind of thing I am sceptical of in the user-driven UI world. Unique UI language is really important in making it obvious how things work. This does exactly the opposite...
