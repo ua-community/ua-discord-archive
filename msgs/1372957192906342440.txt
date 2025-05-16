@@ -1,0 +1,5 @@
+Quite interesting, although I wonder about this section:
+> Banks could also offer LedgerLoops-compatible bank accounts, making it easier for their customers to trade with unbanked neighbors.
+
+Doesn't the whole concept rely on only promising things to people you trust?
+If I trust the bank, aren't classical ledgers outright better?
