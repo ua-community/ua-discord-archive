@@ -1,0 +1,1 @@
+if i can send a msg to *only* the people w/ the role, then i can get their opt-in and aim for 100%
