@@ -1,0 +1,1 @@
+i disabled it on the bot, but not sure how to disable it in the onboarding if it's there
