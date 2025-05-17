@@ -1,1 +1,2 @@
+https://www.redox-os.org/faq/#what-features-does-redox-have
 https://github.com/feynon/experiment-openrouter
