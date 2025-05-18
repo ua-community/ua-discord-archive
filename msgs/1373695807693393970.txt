@@ -1,0 +1,1 @@
+This but open source, built in to the operating environment itself: https://stratechery.com/2021/passport/
