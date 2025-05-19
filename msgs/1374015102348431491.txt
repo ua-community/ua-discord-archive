@@ -1,0 +1,1 @@
+they have this hardware estimator for GGUF based models in built with hugging face model repo
