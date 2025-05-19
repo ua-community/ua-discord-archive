@@ -1,0 +1,1 @@
+can you update the indexing text to be very clear that 1) usernames are removed and 2) the index will be *public data*
