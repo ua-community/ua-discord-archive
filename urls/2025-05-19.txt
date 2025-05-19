@@ -1,3 +1,4 @@
+https://blog.ngxson.com/fosdem-2025
 https://blog.ngxson.com/very-simple-to-understand-rope-2drope-mrope
 https://blog.ngxson.com/introducing-ggml-easy
 https://blog.ngxson.com/common-ai-model-formats
