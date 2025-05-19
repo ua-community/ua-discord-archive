@@ -1,0 +1,1 @@
+browsers, operating systems etc mostly only support these things when a "good offline UX" is possible, and use PWA features to determine that... instead of letting the user decide.
