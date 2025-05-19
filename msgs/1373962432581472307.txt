@@ -1,0 +1,1 @@
+Now I'm thinking I might flip the functionality, so Singular itself is a cmd+k w/ some history, and opens URLs in ephemeral browsers, and has an optional "install" flag if you want the URL as a persistent OS-level app.
