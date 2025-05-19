@@ -1,0 +1,6 @@
+bunch of goated LLM/SLMs internals links:
+
+https://blog.ngxson.com/very-simple-to-understand-rope-2drope-mrope
+https://blog.ngxson.com/introducing-ggml-easy
+https://blog.ngxson.com/common-ai-model-formats
+https://blog.ngxson.com/introducing-gguf-my-lora
