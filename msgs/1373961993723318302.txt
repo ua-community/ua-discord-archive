@@ -1,0 +1,1 @@
+You pass a URL and the app makes new profile in temp dir (so, throwaway), opens an undecorated window and loads the URL in it.
