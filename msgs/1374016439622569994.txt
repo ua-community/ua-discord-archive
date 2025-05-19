@@ -1,0 +1,1 @@
+this is going be hard, hacking/resuming a year old work under https://www.tilekit.dev/ umbrella, but im just rushing to a video demo with whatever existing i find in regards to the current sota fast function calling/reasoning capabilities on device
