@@ -1,0 +1,1 @@
+So I've been experimenting w/ taking the idea a bit further, and making "ephemeral browsers", where there's not really any "appness", just the web page.
