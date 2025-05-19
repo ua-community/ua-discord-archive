@@ -1,0 +1,1 @@
+Singular started as a way to install websites as completely standalone OS-level apps (Nativefier replacement). But the UX still feels too cognitively heavy, and you have to manage the apps and whatnot.
