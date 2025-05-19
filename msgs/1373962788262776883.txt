@@ -1,0 +1,1 @@
+I wonder the change with recent multimodal capabilities in Gemma SLM wrt tokenizers
