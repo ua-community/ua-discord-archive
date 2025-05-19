@@ -1,0 +1,1 @@
+Yeah this person's work on extensions is what made extension support possible in Agregore in the first place. I used to use their extension library but had to do a from the ground rewrite due to needing support for some APIs that WebRecorder needed and for supporting custom protocol handlers
