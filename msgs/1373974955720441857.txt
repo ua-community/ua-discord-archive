@@ -1,0 +1,1 @@
+Official registry out now: https://github.com/modelcontextprotocol/registry
