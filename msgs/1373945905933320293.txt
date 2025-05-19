@@ -1,0 +1,3 @@
+"Everything is open if you can reverse engineer:"
+
+https://app.getcontrast.io/watch/sota-the-state-of-llms
