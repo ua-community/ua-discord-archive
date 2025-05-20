@@ -1,0 +1,1 @@
+Yeah TBH I don't like their API very much. It feels like the time they tried to shove speech recognition in a way that only Google Cloud could support and in the end it made the API pretty much useless to app devs outside very specific cases.
