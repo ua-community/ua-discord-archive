@@ -1,0 +1,1 @@
+IMO web frameworks for mobile are going to be way more janky than using the native app APIs. I've done this a bunch with different incantations and the ease of dev for webdevs isn't worth the poorer user experience IMO
