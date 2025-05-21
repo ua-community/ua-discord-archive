@@ -1,3 +1,4 @@
+https://github.com/Igalia/webengineshackfest/issues/55#issuecomment-2897770874
 https://blogs.opera.com/news/2025/03/opera-browser-operator-ai-agentics/
 https://epochai.substack.com/p/wheres-my-ten-minute-agi?utm_source=post-email-title&publication_id=3755861&post_id=162722649&utm_campaign=email-post-title&isFreemail=true&token=eyJ1c2VyX2lkIjoxMTMwMTM2NzIsInBvc3RfaWQiOjE2MjcyMjY0OSwiaWF0IjoxNzQ2Mzc0NzQwLCJleHAiOjE3NDg5NjY3NDAsImlzcyI6InB1Yi0zNzU1ODYxIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.uzhOROTNgaVVmuR45kMg4X4dWdLTwnr9pKQWdhfNW0A&r=1va9wo&triedRedirect=true&utm_medium=email
 https://blog.jupyter.org/r-in-the-browser-announcing-our-webassembly-distribution-9450e9539ed5
