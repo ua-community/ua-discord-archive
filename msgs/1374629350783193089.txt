@@ -1,0 +1,1 @@
+Scrapper is doing desktop only for now.
