@@ -1,0 +1,1 @@
+As somehow who tied themself in knots fighting native app edge cases for _one_ platform, I have a sober PoV on this.
