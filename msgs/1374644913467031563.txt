@@ -1,0 +1,2 @@
+Here's a concrete stat:
+> Globally, Android dominates the smartphone operating system market, holding approximately 72% share, while iOS (used on iPhones) holds about 28%
