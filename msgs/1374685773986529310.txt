@@ -1,0 +1,14 @@
+we were rappin on...
+- multi-browser usage and feature-specific browser routing
+- tinybase vs electricsql
+- seeing automerge mentioned everywhere but not seeing it used?!
+- OS level integration of browsers (eg Windows integration of IE was great direction, monopolizer behavior aside)
+- ephemeral web pages at OS level (nobrowser) vs web app "install" (eg Nativefier) in Singular
+- blur your eyes and the Local First schedule looks like "sync sync  sync sync"
+- app-specific sync protocols vs interop and utility layer convergence
+- app data archiving is also f'd, can't save your stuff in a reasonable way
+- DHH's latest interest in small powerful computers
+- the hw has arrived, but the sw for orchestration, coordination, "one click"-ness is still so far away
+- AMD and ROC
+- cloud vs local vs both
+- icloud does the isomorphic bit nicely
