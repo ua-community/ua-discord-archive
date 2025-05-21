@@ -1,0 +1,1 @@
+I question the blanket claim that native app SDKs offer advantages to the web. This seems at best circumstantial, because for a lot of popular use cases the web has a lot of the same capabilities.
