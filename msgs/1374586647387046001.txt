@@ -1,0 +1,1 @@
+Gemini doesnt have an on device version, on device models are released under gemma umbrella
