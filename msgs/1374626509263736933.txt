@@ -1,0 +1,1 @@
+It has more friction to install than a native app (lack of knowledge of PWAs by consumer)
