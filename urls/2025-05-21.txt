@@ -1,3 +1,4 @@
+https://developers.googleblog.com/en/introducing-gemma-3n/
 https://www.theverge.com/news/670868/apple-intelligence-ai-third-party-developer-access-model
 https://github.com/Igalia/webengineshackfest/issues/55#issuecomment-2897770874
 https://blogs.opera.com/news/2025/03/opera-browser-operator-ai-agentics/
