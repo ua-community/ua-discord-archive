@@ -1,0 +1,1 @@
+It's supposed to be write once, run anywhere, including as mobile app
