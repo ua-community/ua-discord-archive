@@ -1,3 +1,4 @@
+https://blog.jupyter.org/r-in-the-browser-announcing-our-webassembly-distribution-9450e9539ed5
 https://huggingface.co/microsoft/bitnet-b1.58-2B-4T
 https://www.youtube.com/watch?v=jIzc1XpTGpc&t=596s
 https://open.substack.com/pub/tanay/p/infrastructure-in-the-age-of-ai-gatekeepers
