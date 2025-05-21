@@ -1,0 +1,1 @@
+We wrote two generations of text editors for Subconscious, one in SwiftUI and the next in UIKit. We eventually had to abandon them for a web view.
