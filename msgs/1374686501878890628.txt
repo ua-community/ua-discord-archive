@@ -1,0 +1,4 @@
+Two ends of the mini pc spectrum. 
+High end.  < 2k USD for top range AMD ai chip with 128GB ram, 2TB storage  https://www.gmktec.com/products/amd-ryzen%E2%84%A2-ai-max-395-evo-x2-ai-mini-pc?spm=..index.image_slideshow_1.1 
+Low end  < $150 USD for intel N150 with 16GB ram, 512 GB storage. 
+Both you can add more NVMe drives easily to increase TBs of storage.
