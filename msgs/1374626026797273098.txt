@@ -1,0 +1,1 @@
+*Huge* props to React Native for granting access to native app features in a web-like code base, btw
