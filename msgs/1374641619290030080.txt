@@ -1,0 +1,10 @@
+Thanks for the engaging discussion.
+
+A closing thought:
+
+I may deploy a website that can reconfigure itself to suit exactly my needs (for example: a wiki or a codepen). It's sufficiently feasible to do this that we have been witness to a cambrian explosion of LLM-based creative software that turns a user's natural language intent into software.
+
+When I ponder the logistics of achieving this same behavior with native apps, I can imagine two possibilities:
+
+1. A super app that constrains what is able to be generated, but eventually grows in scope to be akin to a web browser 
+2. A cumbersome "generate -> download -> install" loop that has vastly inferior UX to what is achievable with the modern web
