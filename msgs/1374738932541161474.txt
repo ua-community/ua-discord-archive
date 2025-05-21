@@ -1,0 +1,1 @@
+Fascinating view of affordably cobbling together a browser engine from the Blitz team (well, ok, the one person team). https://github.com/Igalia/webengineshackfest/issues/55#issuecomment-2897770874
