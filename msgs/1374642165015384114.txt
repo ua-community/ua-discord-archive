@@ -1,0 +1,1 @@
+I wanna mention that Tauri has one build -> download -> install process and after that, can do hot reloading, on mobile. React Native can do the same with Expo Go.
