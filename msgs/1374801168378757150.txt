@@ -1,0 +1,1 @@
+n version has a different architecture that saves on active memory usage and speeds up inference. https://developers.googleblog.com/en/introducing-gemma-3n/
