@@ -1,0 +1,1 @@
+One advantage of android native apps specifically is they work with GrapheneOS, but some web things don't work on Vanadium browser (such as tiles.run, as I discovered today)
