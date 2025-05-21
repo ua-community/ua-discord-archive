@@ -1,0 +1,1 @@
+Early adopters? Web. Maybe a Tauri wrapper. Ignore mobile.
