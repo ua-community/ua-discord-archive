@@ -1,0 +1,1 @@
+My intuition is that Apple would not approve of an app that may be prompted by an end-user to become something that violates app store guidelines. But, it seems like they must make affordances for the sake of the trend towards generative AI..
