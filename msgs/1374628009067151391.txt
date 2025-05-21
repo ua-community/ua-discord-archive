@@ -1,0 +1,1 @@
+Yep. At what cost tying yourself into knots fighting mobile web edge cases. Which maybe just argues for React Native.
