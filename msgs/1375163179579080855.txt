@@ -1,0 +1,2 @@
+>  Claude Code now supports background tasks via GitHub Actions 
+Man, do all the AI companies have like a monthly meeting where they decide what to implement next? Google, Claude, OpenAI, Jetbrains, all on the GitHub wagon. And I'm probably missing some
