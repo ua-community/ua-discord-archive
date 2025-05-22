@@ -1,0 +1,1 @@
+I wonder if ai can help by adapting the ui so that the user focuses on parts in a more natural mobile way while still being able to use the full canvas as a sort of menu / zoomed out part
