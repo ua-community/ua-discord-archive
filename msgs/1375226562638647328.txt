@@ -1,0 +1,1 @@
+A server can play a very useful role as host to a redundant copy of your data. Pure P2P is nice, but a lot of user stories will put data availability at the center. I don't feel very agentic when Kubo times out looking for a block I desperately need..
