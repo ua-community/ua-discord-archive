@@ -1,0 +1,2 @@
+Point is, fingers in general are just so imprecise. Most other UI works fine regardless (except maybe text selection, that also gets finicky).
+Feels like one would have to come up with a more flexible input system for canvases in general. I do also mess up with a touchpad on occasion, it's just easier to fix.
