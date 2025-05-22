@@ -1,0 +1,3 @@
+Just tried tldraw, it's pretty good, but still feels a bit awkward. Needs two hands, and selection jumps.
+
+My main mode on canvases is zooming in/out to move around and keep track of the context at the same time. On mobile this is mostly awkward. Might also just be my habit though, not sure
