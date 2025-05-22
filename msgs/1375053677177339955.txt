@@ -1,0 +1,3 @@
+The quite unique approach is that it uses type safety to model states in the world. A non-AI agent takes actions to reach some goal. Quite similar to how "AI" in gaming works.
+Actions can be calling an API, LLM, whatever.
+It's surprisingly effective.
