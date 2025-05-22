@@ -1,0 +1,1 @@
+TLDraw does a good job on mobile but it still feels like the canvas on mobile is shoehorned into too small a space. Like mobile should be for card based view / detail of things in the canvas vs the whole thing.
