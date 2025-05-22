@@ -1,0 +1,1 @@
+Install the apk on release page then download the task file from hf, add the .task  model file to app and done
