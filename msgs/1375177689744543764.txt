@@ -1,0 +1,2 @@
+I think it's primarily that canvas on mobile usually means empty space is used to do things like panning & zooming. At the same time fingers are horribly inaccurate, so it's easy to get into a situation where you have to move things to have even a remote chance to navigate.
+The accident chance is high, and fixing the accident is non-trivial.
