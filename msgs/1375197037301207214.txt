@@ -1,0 +1,1 @@
+Also why the current push of making local first software "might work offline and syncs via a server" makes me sad. We end up having the same failure modes as just storing on the server, but with a bit off offline editing
