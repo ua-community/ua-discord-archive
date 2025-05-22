@@ -1,0 +1,1 @@
+Also just being able to make canvas shapes responsive via CSS (this demo uses container queries). You could also do similar things use media queries, etc.
