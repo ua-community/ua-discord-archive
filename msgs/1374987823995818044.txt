@@ -1,0 +1,1 @@
+I took a brief walk down the concept of URAID on a beefy machine that can run any VM including Windows, with the Windows VM in such a way that it connects to real GPU hardware
