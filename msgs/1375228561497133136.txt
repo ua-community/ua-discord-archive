@@ -1,0 +1,1 @@
+It also simplifies the exercising of dialing your peer when you have trusted nodes in the mesh that have opportune positions in the network.
