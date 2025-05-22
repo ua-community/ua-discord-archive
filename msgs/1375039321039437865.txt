@@ -1,0 +1,3 @@
+https://github.com/embabel/embabel-agent
+
+Just listened to a talk from the creator (incidentally also the creator of spring). Quite an impressive approach to Agentic Systems!
