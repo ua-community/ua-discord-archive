@@ -1,0 +1,1 @@
+They just released ATProto integration and publications (kind of like Substack - you can publish long form docs to ATProto)
