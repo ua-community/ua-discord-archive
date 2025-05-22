@@ -1,0 +1,1 @@
+Excellent technical details: https://ai.google.dev/gemma/docs/gemma-3n
