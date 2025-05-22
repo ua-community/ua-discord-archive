@@ -1,0 +1,1 @@
+we talked about that on Weds a bit. application-specific sync gives a false sense of agency. the bar is so low for controlling our own data that having to install an app on >1 device to access it feels like a win.
