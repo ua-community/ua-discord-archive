@@ -1,0 +1,1 @@
+That's what I love about AT Proto, separating storage from the app
