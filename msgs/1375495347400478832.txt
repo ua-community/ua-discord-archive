@@ -1,0 +1,1 @@
+Looking forward to it! Yeah good shout, it's not as much the file system aspect that I like/need, it's more the support for storing large binary blobs. Oh, and partial syncing.
