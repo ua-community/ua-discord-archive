@@ -1,0 +1,1 @@
+I like the concept of a data mesh or fabric. Would be cool if the user can choose on a scale from fully local +own cloud, +trusted circle, +fully distributed p2p network. Kinda increasing decentralization but with the user at the core.
