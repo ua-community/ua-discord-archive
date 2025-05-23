@@ -1,0 +1,3 @@
+I'm hopeful that Dialog will be able to fill an unmet need here. We are exploring what it will take to make use of Keyhive on top of Dialog. I'm eager to avoid reinventing the wheel when it comes to authorization schemes, and we have some good past experience with UCANs from our time on the WG.
+
+Dialog isn't going to be coherent with the file system the way WNFS was, but it will be useful for many of the things you will want to do in an app. Its primary role is as your app 's database, but we plan to include support for storing and sharing large binary blobs like images and videos.
