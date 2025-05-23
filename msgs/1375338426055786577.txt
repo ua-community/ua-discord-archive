@@ -1,0 +1,1 @@
+Different people will feel more comfortable at different points on that scale but at the app layer it should just work. Separate apps and the data storage concern
