@@ -1,0 +1,1 @@
+I gotta plug the Reticulum network stack for this, it's encryption based mesh networking
