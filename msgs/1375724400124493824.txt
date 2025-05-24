@@ -1,0 +1,3 @@
+https://github.com/evalstate/fast-agent
+
+the only mcp client with coverage of all of the current mcp spec, diagram from: https://modelcontextprotocol.io/clients
