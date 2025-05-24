@@ -1,1 +1,3 @@
+https://github.com/evalstate/fast-agent
+https://modelcontextprotocol.io/clients
 https://x.com/readwise/status/1918044158263968228
