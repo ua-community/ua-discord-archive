@@ -1,0 +1,1 @@
+Interesting that Google Android team took just Samsung Dex code for their desktop thing: https://www.theverge.com/news/671577/google-android-desktop-mode-samsung-dex
