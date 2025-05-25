@@ -1,0 +1,2 @@
+Yeah planning Automerge CRDTs. Not sure about the chat yet, whether 100k+ messages in a CRDT is a good idea.
+But for settings, user profiles, etc. etc. it's great and can be authed very nicely
