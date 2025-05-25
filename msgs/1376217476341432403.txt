@@ -1,0 +1,1 @@
+apparently Raycast seems to have MCP support too
