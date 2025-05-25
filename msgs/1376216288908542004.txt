@@ -1,0 +1,2 @@
+Kind of toying with the idea of making a discord-like chatapp. They seem increasingly enshittfied, and after playing with it the last week it'd be so incredibly simple to make a better experience.
+Also, I have strong opinions on community software, and chat seems the perfect enabler for community / collaborative software.
