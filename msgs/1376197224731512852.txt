@@ -1,0 +1,1 @@
+Ollama supports local models now, and once it gets tool calling (with their set of AI extensions) I think it would be preety rad for on device launcher usecases
