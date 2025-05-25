@@ -1,0 +1,1 @@
+Wondering what you guys think. I'm not a huge UI guy, but other than that it seems straightforward. Group encryption is nothing new at this point, and building this at least community-first (with data owned by communities, similar to mastodon) is easy enough.
