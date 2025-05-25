@@ -1,0 +1,3 @@
+What if we did this in the style of trail runner. The chat is a single crdt running behind a service worker, with a default GUI, but one anyone could extends in their own way. Mainly just have to figure out auth
+
+https://github.com/pvh/trail-runner
