@@ -1,0 +1,1 @@
+but it's so few... and we store msg id. so i might look at purging those.
