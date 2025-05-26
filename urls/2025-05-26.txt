@@ -1,3 +1,4 @@
+https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 https://discord.com/channels/1202905357022924810/1202905357505138800/1376604822681423913
 https://discord.com/channels/1202905357022924810/1202905357505138800/1376584667960049806
 https://www.iroh.computer/:
