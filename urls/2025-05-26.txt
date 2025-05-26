@@ -1,5 +1,5 @@
-https://github.com/duckdb/duckdb-wasm/pull/1490
 https://github.com/pvh/trail-runner
+https://github.com/duckdb/duckdb-wasm/pull/1490
 https://andymasley.substack.com/p/all-the-ways-i-want-the-ai-debate
 https://jazz.tools/
 https://x.com/testingcatalog/status/1926715350965493960
