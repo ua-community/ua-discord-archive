@@ -1,0 +1,7 @@
+Just thought I'll briefly explain how everything works on tiles:
+
+1. A list of MCP servers are fetched from https://mcp.run to the client side when the site is loaded. That's basically our registry. This allows the user to use '@' or use the 'show available servers' button to see what's available to use.
+
+2.When the user mentions the MCP server (using @) and enters a prompt, selects the prompt, and click run Tiles, client side fetches the corresponding WASM code/module from mcp.run, and runs it in the agentic loop.
+
+For more, you can check out this file https://github.com/tileshq/tiles/blob/main/packages/tiles-playground/plugins/McpRunnerPlugin/index.tsx#L1. Everything about agents is in this one file.
