@@ -1,0 +1,1 @@
+Some notes around the service worker sorcery from (user)
