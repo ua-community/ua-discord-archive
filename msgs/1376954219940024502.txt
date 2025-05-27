@@ -1,0 +1,1 @@
+which is problematic since a determined attacker could take that msg id and go through each message in the Discord UI and map a message back to its author
