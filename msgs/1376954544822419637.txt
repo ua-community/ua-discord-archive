@@ -1,0 +1,6 @@
+so i'm going to:
+- delete the consent-less messages in the private repo
+- rename all the files using unique ids instead of the msg id
+- create new public repo
+- add all the renamed files
+- point the bot at the new public repo
