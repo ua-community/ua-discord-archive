@@ -1,0 +1,1 @@
+fly.io has a parallel-by-default strategy and my low-effort approach to locking was to have all the parallel instances of the bot(s) try and commit a message and just bail if a file (message) w/ the given filename already existed
