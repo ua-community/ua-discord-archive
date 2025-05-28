@@ -1,0 +1,1 @@
+TL;DR - firebase.studio is good for free vms running on google cloud. use as you wish
