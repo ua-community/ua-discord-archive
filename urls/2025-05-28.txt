@@ -1,3 +1,4 @@
+https://github.com/juspay/hyperswitch
 https://invariantlabs.ai/blog/mcp-github-vulnerability
 https://www.youtube.com/watch?v=CJXp3UYj50Q
 https://www.youtube.com/watch?v=JCZUIm4S9QQ
