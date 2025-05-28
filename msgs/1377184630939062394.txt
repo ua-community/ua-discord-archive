@@ -1,0 +1,1 @@
+If you just want to test integrating with an API I really like https://github.com/juspay/hyperswitch - It's not payment processing, just routing, but the API makes sense.
