@@ -1,0 +1,1 @@
+why I like it, its based around syncing sqlite db and event sourcing, fits well with react, can have backend on cloudflare.
