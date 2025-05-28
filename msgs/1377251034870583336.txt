@@ -1,0 +1,1 @@
+fun discord api thing: there's no sane way to get from msgid to userid without iterating over ALL CHANNELS or at least until you found which has the msgid
