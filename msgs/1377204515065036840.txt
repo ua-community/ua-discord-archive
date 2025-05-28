@@ -1,0 +1,1 @@
+initial reaction.. meh. compared to firebase.studio this is lacking. it works by checking out your project in the clould and then the agent works on it. I guess similar to codex although less powerful by the looks of things or manus/devin style. Might be ok for code reviews or small prs but its a nah for me right now. Pass.
