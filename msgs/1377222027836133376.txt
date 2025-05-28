@@ -1,0 +1,1 @@
+reminds me of approach zero from rocicorp has for client side storage in local first apps
