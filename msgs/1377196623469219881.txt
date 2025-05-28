@@ -1,0 +1,2 @@
+2. jazz.tools - https://jazz.tools/ 
+why I found it interesting. It's billed as framework for localfirst vibe coded apps. Seems good for quickly spinning up apps, in llm friendly way. Also they are working on open source (commercial bent) discord like app. Showed a demo of an early prototype, looked good.
