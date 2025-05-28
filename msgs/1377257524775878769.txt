@@ -1,0 +1,1 @@
+"Access to Firebase Studio is available at no cost for three workspaces per user. You can increase the number of workspaces you can create to 10 by joining the Google Developer Program. To upgrade to 30 workspaces with an increased Gemini quota for the App Prototyping agent, subscribe to the Google Developer Premium plan."
