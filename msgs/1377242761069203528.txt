@@ -1,0 +1,1 @@
+(user) you would love this tldraw obisidan bi directional sync from jess martin, its also showcases a very prgamtic way to achieve user agency for application developers, there were not much weed level sync implementation detail in this talk which you also might appreciate: https://feynon.notion.site/localfirstdays2025brief#2013faaa1f1c8074864ad2fe83076212
