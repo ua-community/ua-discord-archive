@@ -1,0 +1,1 @@
+I have a vision that the separation of user data from front end can change the paradigm for search engines
