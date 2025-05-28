@@ -1,0 +1,1 @@
+If browsers natively supported AT Proto, then any app using it could show an indicator for it
