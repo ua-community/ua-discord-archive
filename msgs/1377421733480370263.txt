@@ -1,0 +1,1 @@
+Such that a search service doesn't actually have to crawl everything, it just has to aggregate the search results from these feeds
