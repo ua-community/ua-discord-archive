@@ -1,0 +1,6 @@
+from https://app-2025.localfirstconf.com/schedule/talks-day-2/local-first-ux-patterns
+
+- communicating offline capablity
+    - cant show that by putting it ina web browser
+    - ideal soluiton: browser-level indicators: one appraoch make it fullscreen
+        - https://fullscreen.space/
