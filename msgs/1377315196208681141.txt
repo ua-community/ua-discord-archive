@@ -1,0 +1,3 @@
+brilliant talk on https://www.inkandswitch.com/patchwork/notebook/ from PVH, some notes from today's talk at local first conf, the demo which they actually dogfood it for their lab work, for me personally it felt how it must steve jobs would have felt seeing gui at xerox parc, biggest aha moment for me at this conf: https://feynon.notion.site/localfirstdays2025brief#2013faaa1f1c80408b01c0bca946569e
+
+validates my work on tiles too, I see tiles with a similar vision, but much more multimodal/llm native,
