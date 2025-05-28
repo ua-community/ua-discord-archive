@@ -1,3 +1,4 @@
+https://api-reference.hyperswitch.io/introduction
 https://opral.substack.com/p/company-update-february-2025
 http://lix.dev/
 https://app-2025.localfirstconf.com/schedule/talks-day-2/local-first-os
