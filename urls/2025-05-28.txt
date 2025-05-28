@@ -1,3 +1,4 @@
+https://github.com/livestorejs/livestore
 https://x.com/schickling/status/1927304242215206927
 https://braid.org/
 https://api-reference.hyperswitch.io/introduction
@@ -9,7 +10,6 @@ https://docs.hyperswitch.io/learn-more/payment-flows
 https://feynon.notion.site/localfirstdays2025brief#2003faaa1f1c8097805ef339047b05b0
 https://jazz.tools/
 https://x.com/schickling
-https://github.com/livestorejs/livestore
 https://github.com/juspay/hyperswitch
 https://invariantlabs.ai/blog/mcp-github-vulnerability
 https://www.youtube.com/watch?v=CJXp3UYj50Q
