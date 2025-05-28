@@ -1,0 +1,1 @@
+Right, in that case especially don't bind yourself to stripe :)
