@@ -1,0 +1,2 @@
+Hyperswitch is quite powerful, but this may be a good starting point: https://docs.hyperswitch.io/learn-more/payment-flows
+I don't know your use case exactly, but I'd guess you also have payouts? In that case the marketplace use-case is probably for you.
