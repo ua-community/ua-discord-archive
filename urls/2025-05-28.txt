@@ -1,3 +1,4 @@
+https://github.com/livestorejs/livestore
 https://github.com/juspay/hyperswitch
 https://invariantlabs.ai/blog/mcp-github-vulnerability
 https://www.youtube.com/watch?v=CJXp3UYj50Q
