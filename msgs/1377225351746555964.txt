@@ -1,0 +1,1 @@
+Reminds me of my idea that AT Proto or similar should be a native browser API
