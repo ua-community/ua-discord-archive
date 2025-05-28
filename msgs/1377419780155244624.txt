@@ -1,0 +1,1 @@
+Google crawls web pages, but when user data is separated from front end, we actually want search engines to crawl the user data, and then pull up the right front end to display it if the user wants to view it
