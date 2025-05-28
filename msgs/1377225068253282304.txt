@@ -1,0 +1,1 @@
+Seems like for that to be really useful, the browser needs to somehow confirm the app is indeed local first
