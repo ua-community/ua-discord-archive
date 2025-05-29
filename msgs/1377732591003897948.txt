@@ -1,0 +1,1 @@
+Here is a video demonstrating Dialog's partial replication in principle (it also demonstrates pathological replication if you watch until end; we have some optimizations ahead of us to address this).
