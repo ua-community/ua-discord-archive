@@ -1,3 +1,4 @@
+https://9000-firebase-claude-code-1748359953413.cluster-3gc7bglotjgwuxlqpiut7yyqt4.cloudworkstations.dev/?embedded=0&monospaceUid=467275
 https://github.com/Agent54/xe-iwa-tldraw-desktop-poc
 https://github.com/Agent54/xe-iwa-launcher
 https://github.com/Agent54/xe-tldraw-window-manager
