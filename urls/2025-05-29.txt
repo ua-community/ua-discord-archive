@@ -1,3 +1,4 @@
+https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/rust/dialog-artifacts/src/artifacts/store.rs#L10-L43
 https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/typescript/dialog-experimental/test/react.spec.web.tsx#L47-L67
 https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/typescript/dialog-artifacts-web-tests/bindings.test.ts#L133-L173
 https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/rust/dialog-artifacts/src/artifacts.rs#L593-L626
