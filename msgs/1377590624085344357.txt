@@ -1,0 +1,1 @@
+Started on a lib for extending TLDraw to be used as a window manger. https://github.com/Agent54/xe-tldraw-window-manager
