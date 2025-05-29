@@ -1,0 +1,6 @@
+(user) demoed apps created with quickcode with an on device vibe app generator with Aggregate browser
+
+
+ps: the demo runs a Qwen 7B model using Ollama 
+
+https://agregore.mauve.moe/
