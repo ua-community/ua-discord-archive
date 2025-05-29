@@ -1,0 +1,1 @@
+I wonder if I run dmgs on pendrive, if it will persist the application state/ inside the sandbox on mac
