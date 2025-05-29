@@ -1,0 +1,1 @@
+I want DBs to be more like SurrealDB
