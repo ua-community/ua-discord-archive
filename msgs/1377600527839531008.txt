@@ -1,0 +1,1 @@
+Multi-paradigm with APIs that don't need the QL
