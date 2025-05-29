@@ -1,0 +1,1 @@
+My plan is to improve the xe-tldraw-window-manager a bit more and then make a new iwa desktop example that imports the window manager as a lib.
