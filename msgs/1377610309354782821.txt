@@ -1,0 +1,1 @@
+That said, the key advantage of Dialog DB is its support for querying over partial replicas, with flexible schemas. So, if your preference is to have something that supports multiple query paradigms, you would probably be served better but other projects.
