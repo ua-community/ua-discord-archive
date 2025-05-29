@@ -1,0 +1,40 @@
+If you peel back the query engine layer, this is the API you are working with:
+
+https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/rust/dialog-artifacts/src/artifacts/store.rs#L10-L43
+
+```rust
+/// A trait that may be implemented by anything that is capable of querying
+/// [`Artifact`]s.
+#[cfg_attr(not(target_arch = "wasm32"), async_trait)]
+#[cfg_attr(target_arch = "wasm32", async_trait(?Send))]
+pub trait ArtifactStore
+where
+    Self: Sized,
+{
+    /// Query for [`Artifact`]s that match the given [`ArtifactSelector`].
+    /// Results are provided as a [`Stream`], implying that they are produced
+    /// from the implementation lazily.
+    ///
+    /// For additional details, see the documentation for [`ArtifactSelector`].
+    fn select(
+        &self,
+        selector: ArtifactSelector<Constrained>,
+    ) -> impl Stream<Item = Result<Artifact, DialogArtifactsError>> + 'static + ConditionalSend;
+}
+
+/// A trait that may be implemented by anything that is capable of
+/// of storing [`Artifact`]s.
+#[cfg_attr(not(target_arch = "wasm32"), async_trait)]
+#[cfg_attr(target_arch = "wasm32", async_trait(?Send))]
+pub trait ArtifactStoreMut: ArtifactStore {
+    /// Commit one or more [`Artifact`]s to storage. Implementors should take care
+    /// to ensure that commits are transactional and resilient to unexpected
+    /// halts and other such failure modes.
+    async fn commit<Instructions>(
+        &mut self,
+        instructions: Instructions,
+    ) -> Result<Blake3Hash, DialogArtifactsError>
+    where
+        Instructions: Stream<Item = Instruction> + ConditionalSend;
+}
+```
