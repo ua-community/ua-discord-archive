@@ -1,0 +1,1 @@
+seeing how close to "undecorated window" apps i can get inside the status quo extension space: a little page groups UI that runs in a web extension and ditches the entire rest of the tabbed browser that spawns it
