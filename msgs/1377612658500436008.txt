@@ -1,0 +1,4 @@
+Taking inspiration/reference from:
+
+- https://miniapps.farcaster.xyz/
+- https://www.notion.com/blog/data-model-behind-notion
