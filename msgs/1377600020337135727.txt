@@ -1,0 +1,14 @@
+Last week, we open-sourced a (still highly experimental) project: Dialog DB.
+
+You can find the Github project here: https://github.com/dialog-db/dialog-db
+
+The properties of Dialog DB include:
+
+- The core of the implementation is Rust (delivered as Wasm)
+- The high-level API is TypeScript and includes an optional React hook
+- Data is held in a [triplestore](https://en.wikipedia.org/wiki/Triplestore)
+- Data is retrieved using a [Datalog](https://en.wikipedia.org/wiki/Datalog) inspired query engine
+- Queries can be executed over sparse replicas of the database (including replicas with no data at all)
+   - The database can infer from the query the minimum slice of the data that must be replicated to respond to the query, and fetches it behind the scenes
+- The database is offline / local-first: reads and writes are allowed on the local data (including on sparse replicas)
+  - The only network infrastructure expected by the database is a "dumb" file store e.g., Amazon S3
