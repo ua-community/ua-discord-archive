@@ -1,0 +1,1 @@
+New messaging for tiles: "A notebook interface that makes working with AI agents easier. The notebook is a multiplayer, offline-first interface for working with MCP agents and generating artifacts. Our vision is to make personal software ubiquitous in the future."
