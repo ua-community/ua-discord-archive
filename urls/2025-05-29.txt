@@ -1,3 +1,4 @@
+https://github.com/ollama/ollama/pull/10415
 https://x.com/ollama/status/1927835844754194638
 https://portableapps.com/
 https://agregore.mauve.moe/
