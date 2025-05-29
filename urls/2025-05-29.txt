@@ -1,3 +1,5 @@
+https://docs.readwise.io/readwise/guides/mcp
+https://www.anthropic.com/news/agent-capabilities-api#:~:text=more%20about%20pricing.-
 https://github.com/ollama/ollama/pull/10415
 https://x.com/ollama/status/1927835844754194638
 https://portableapps.com/
