@@ -1,0 +1,9 @@
+Our project is nascent. We have a demo app that I've been showing here at the Local-First Conference, but it's not ready to be made public yet. Consequently, the best examples are in the tests (and, for low-level details, the Rust docs).
+
+Here is an example of the TypeScript query engine + React: https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/typescript/dialog-experimental/test/react.spec.web.tsx#L47-L67
+
+The "raw" triplestore bindings in TypeScript: https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/typescript/dialog-artifacts-web-tests/bindings.test.ts#L133-L173
+
+Similar "raw" triplestore API in Rust: https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/rust/dialog-artifacts/src/artifacts.rs#L593-L626
+
+Some Rust docs: https://github.com/dialog-db/dialog-db/blob/a449b2624176d155948227d1da970f04300dce12/rust/dialog-artifacts/src/lib.rs#L3-L39
