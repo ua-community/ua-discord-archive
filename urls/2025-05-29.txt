@@ -1,3 +1,4 @@
+https://portableapps.com/
 https://agregore.mauve.moe/
 https://github.com/autonome/peek
 https://github.com/WICG/isolated-web-apps/blob/main/README.md
