@@ -1,0 +1,1 @@
+I'm not sure how this compares to SurrealDB, but in our case we do "layer" the query engine on top of a relatively simple pattern-matching API for selecting data.
