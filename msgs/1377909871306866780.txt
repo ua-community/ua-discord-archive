@@ -1,0 +1,2 @@
+Personally I'm hoping for communities to figure it out. In my mind local-first should also mean universal comparability, so communities can figure out where to store user data between devices themselves, and function more like co-ops. I don't see what other infrastructure costs there really are.
+It's not a business model, but the software itself can be developed as free as in freedom FOSS.
