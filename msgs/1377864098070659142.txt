@@ -1,0 +1,2 @@
+If this is the entire protocol, it's smaller than I thought
+https://solidproject.org/TR/protocol
