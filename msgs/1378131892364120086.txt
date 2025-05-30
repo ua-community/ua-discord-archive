@@ -1,0 +1,1 @@
+i tried testing IWAs in Electron today and so far it looks not possible (but i haven't exhausted all options)
