@@ -1,0 +1,3 @@
+Perplexity has a new workbench like mode in their product now: https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs
+
+they almost built an interface akin to [tiles.run](https://www.tiles.run/), the thing im working on, but its still not a notebook and thus lower on the  malleablality scale
