@@ -1,0 +1,1 @@
+Honestly I feel like the local first business model of the future is hosting local services federating with each other for serverless functionality. I think users, when they know what's good for them, won't want to pay for apps, they'll want to pay for generic hosting
