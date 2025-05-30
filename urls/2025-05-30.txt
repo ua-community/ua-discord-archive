@@ -1,3 +1,4 @@
+https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)
 https://solidproject.org/TR/protocol
 https://solidproject.org/
 https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
