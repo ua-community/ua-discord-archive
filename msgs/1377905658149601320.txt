@@ -1,0 +1,1 @@
+initially it looked like the set of Chromium flags able to be set from Electron was small subset which did not include the experimental features like IWA and ControlledFrame
