@@ -1,0 +1,1 @@
+If we build it right, the local hosting infrastructure should be relatively low maintenance, and we'll spend most of our time developing the apps users love.
