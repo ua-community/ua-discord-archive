@@ -1,0 +1,1 @@
+`BrowserView` is deprecated, but that was API not custom element https://www.electronjs.org/docs/latest/api/browser-view
