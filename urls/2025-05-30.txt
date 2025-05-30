@@ -1,3 +1,4 @@
+https://www.electronjs.org/docs/latest/api/browser-view
 https://www.platformer.news/ai-web-browsers-openai-perplexity-opera/
 https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)
 https://solidproject.org/TR/protocol
