@@ -1,0 +1,1 @@
+I want interfaces that can render and display things in various different ways and move between them easily.
