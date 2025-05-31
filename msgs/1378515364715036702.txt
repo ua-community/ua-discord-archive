@@ -1,0 +1,5 @@
+- reading mode
+- incognito/privacy mode
+- annotation mode
+- foraging mode
+- collaging mode
