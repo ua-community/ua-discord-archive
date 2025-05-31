@@ -1,0 +1,1 @@
+and boom, there's a reply on the Electron issue now! https://github.com/electron/electron/issues/42455#issuecomment-2923629683
