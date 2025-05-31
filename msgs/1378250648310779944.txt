@@ -1,0 +1,1 @@
+a post on the pain level of custom Chromium-in-Electron, and a proposal from a group I got funded to fix it: https://littlebearlabs.io/perspectives/electron-spins-a-special-case-of-chromium-mods
