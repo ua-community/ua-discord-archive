@@ -1,0 +1,1 @@
+ya circling by to Orion's thesis, I wonder what a browser with a pluggable/extensable interface would look like and if the spatial canvas can facilitate that in any way
