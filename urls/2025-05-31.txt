@@ -1,2 +1,3 @@
+https://github.com/electron/electron/issues/42455#issuecomment-2923629683
 https://bsky.app/profile/burrito.space/post/3lqg7xz2zjk2a
 https://littlebearlabs.io/perspectives/electron-spins-a-special-case-of-chromium-mods
