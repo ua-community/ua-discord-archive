@@ -1,0 +1,1 @@
+I'm also aware that the interfaces we have now e.g. the browser do a fairly good job of thier main usecase.. eg. browsing between pages.
