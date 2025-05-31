@@ -1,0 +1,1 @@
+Over next few days I'm going to try and build a fairly standard browser out of an IWA (mostly to see where things are lacking) but it could be an interesting base for exploring some of this. It should have history and event stream of actions that have been taken. I'll do it without AI first but then we can add AI on top and see what we can come up with.
