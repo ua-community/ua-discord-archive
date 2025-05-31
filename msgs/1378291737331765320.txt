@@ -1,0 +1,1 @@
+hi weird-problem people... if one of your weird problems is that you're annoyed at how hard it is to compile Electron with a custom Chromium build, i've got good news for you: there's hope! https://discord.com/channels/1309454711392305192/1377905658149601320/1378250827847696435
