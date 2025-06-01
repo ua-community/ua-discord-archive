@@ -1,0 +1,1 @@
+Endless divs are a thing because HTML fails to capture the semantics of what we're building
