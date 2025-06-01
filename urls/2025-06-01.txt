@@ -1,3 +1,5 @@
+https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE
+http://www.userandagents.com&size=64
 https://stackoverflow.com/questions/10282939/how-to-get-favicons-url-from-a-generic-webpage-in-javascript
 https://genius.com/Marc-andreessen-why-andreessen-horowitz-is-investing-in-rap-genius-annotated
 https://en.wikipedia.org/wiki/NCSA_Mosaic
