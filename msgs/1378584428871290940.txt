@@ -1,0 +1,1 @@
+7 years between https://github.com/facebook/react/issues/11347 being filed and the React 19 release with this footnote https://react.dev/blog/2024/12/05/react-19#support-for-custom-elements
