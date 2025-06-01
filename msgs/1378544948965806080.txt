@@ -1,0 +1,1 @@
+I've inspected the source that gets delivered in most web apps, there's divs in divs in divs in the HTML. Meanwhile the developer writes in a component framework using tailwind or some such to handle the layout logic. The code the dev sees and the code the user sees are very different.
