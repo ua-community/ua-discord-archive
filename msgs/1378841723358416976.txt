@@ -1,0 +1,1 @@
+We might need to do it manually using code along the lines of... https://stackoverflow.com/questions/10282939/how-to-get-favicons-url-from-a-generic-webpage-in-javascript
