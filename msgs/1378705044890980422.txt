@@ -1,0 +1,1 @@
+PVH's recurring line on this is "it's a browser not a keeper". when explaining IPFS to people i often describe it as if your browser cache is the center of the experience, vs a side-effect.
