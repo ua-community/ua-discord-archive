@@ -1,0 +1,1 @@
+at this point html/css has become a layout engine like those we used to develop desktop GUIs. it's very different in the way it works, but no less powerful. if anything the GUI potential is the same, but the text handling potential is more powerful than the desktop GUI tools
