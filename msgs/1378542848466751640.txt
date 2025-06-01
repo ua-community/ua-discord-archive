@@ -1,0 +1,1 @@
+Most of these tags have their roots in the desire to format web pages similar to documents. Most modern web apps look nothing like documents, and don't even use most of these.
