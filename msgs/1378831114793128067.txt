@@ -1,0 +1,1 @@
+Things will be cleaner if we have a custom chromium build with a different icon
