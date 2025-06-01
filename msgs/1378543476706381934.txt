@@ -1,0 +1,1 @@
+Which demonstrates my point. We're creating semantics beyond what HTML can express and wind up with things like endless divs.
