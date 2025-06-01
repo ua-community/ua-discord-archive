@@ -1,0 +1,1 @@
+Apparently it fails due to this check. https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/cache_storage/cache.cc;l=81;drc=9b045da738d6f6f5218604f66ad5c2c2ca6657a8;bpv=0;bpt=0
