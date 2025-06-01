@@ -1,0 +1,3 @@
+Yeah, it's a nice dream. We thought web components could help somewhat. Some of us from the team are still working on the WYSIWYG idea (not me though).
+
+Ultimately what motivates people at large to make things is money, sadly. They'll suffer the worst DX imaginable if you pay 'em enough.
