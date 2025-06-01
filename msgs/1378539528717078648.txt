@@ -1,0 +1,1 @@
+My thoughts on browsers is we've got to move past HTML. It's just too text oriented. We need to express more than just the intended function of pieces of text.
