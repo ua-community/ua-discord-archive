@@ -1,0 +1,1 @@
+I think once the IWA is running the parent chrome instance can be closed
