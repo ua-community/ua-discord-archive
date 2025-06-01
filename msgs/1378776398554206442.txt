@@ -1,0 +1,1 @@
+I dont think extensions are supported in IWA + controlled frame but its worth testing to see.
