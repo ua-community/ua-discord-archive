@@ -1,0 +1,1 @@
+so i created a new role that has all the permissions of an admin, and added you and (user)
