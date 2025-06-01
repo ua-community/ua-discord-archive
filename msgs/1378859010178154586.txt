@@ -1,0 +1,3 @@
+I'm working on something in this area that isn't ready for prime time yet, but have you checked out LiveStore? It seems like it could fit the bill, depending on how you model authority.
+
+https://github.com/livestorejs
