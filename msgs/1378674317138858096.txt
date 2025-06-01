@@ -1,0 +1,1 @@
+i get your point, but isn't that very react centric? with other frameworks i would not build webapps that way. a component would focus on functionality, leaving the styling and layout to the outer layers
