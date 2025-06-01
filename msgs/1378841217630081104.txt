@@ -1,0 +1,1 @@
+Favicons are available to extensions via the chrome favicon server. Its unclear how we access this for IWA / controlled frame.
