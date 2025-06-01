@@ -1,0 +1,1 @@
+I think for controlled frames it would require hacking to inject it and could clash with an origins provided service worker
