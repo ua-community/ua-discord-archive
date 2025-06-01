@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/NCSA_Mosaic
+http://1997.webhistory.org/www.lists/www-talk.1993q2/0416.html
 https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/cache_storage/cache.cc
 https://groups.google.com/a/chromium.org/g/chromium-dev/c/9yQjWho9Ht8?pli=1
 https://blogs.nvidia.com/blog/geforce-now-thursday-steam-deck-geforce-now/
