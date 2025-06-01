@@ -1,0 +1,1 @@
+that was the original goal. was it amaya that implemented annotations or mosaic? also different reading modes or protocols: http, nntp, ftp, smtp (that's where thunderbird came from), also editing mode, again i think it was amaya that had a gui html editor.
