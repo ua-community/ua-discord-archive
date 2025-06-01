@@ -1,0 +1,1 @@
+I want a system that's easier to make a wysiwig editor for. I've seen PenPot's attempt to translate CSS options into menus and buttons, and that woke me up to how clunky it all feels.
