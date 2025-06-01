@@ -1,0 +1,1 @@
+Most of the semantics in HTML are the semantics of text. Modern UIs want semantics in a lot more than that.
