@@ -1,0 +1,1 @@
+hmm that would be interesting to test w/ BCD... could graph HTML spec changes as a whole vs web components specs over time.
