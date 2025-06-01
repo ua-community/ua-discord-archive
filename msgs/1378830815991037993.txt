@@ -1,0 +1,1 @@
+If you look inside the installer application shortcut there is a plist file with various options and what looks like a small binary to start chrome
