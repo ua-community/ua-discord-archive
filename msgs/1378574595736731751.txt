@@ -1,0 +1,5 @@
+I wouldn't necessarily put stock in articles like this. The React Industrial Complex championed the untruth that Web Components were meant to be a one-size-fits-all development model for the web.
+
+Web Components were intended to enable content authors to extend web browsers on terms that browser vendors could relate back to their implementations. They were not designed to replace frameworks. We imagined that the benefit would be that frameworks could spend less time "fixing" the DOM and more time innovating on ergonomics.
+
+We also know after many years that the argument that they might stifle innovation or bloat toolchains. Web Components raise the ceiling for potential interop across all frameworks, and even React has managed to interoperate with them despite deliberately delaying efforts by everyday web authors to help them do it.
