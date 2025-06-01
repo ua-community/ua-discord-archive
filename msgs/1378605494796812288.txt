@@ -1,0 +1,1 @@
+Ultimately I think all the solutions have pain points stemming from building off HTML/CSS/JS. Web components suffer from needing to be compatible, and the component frameworks suffer from lack of native browser support.
