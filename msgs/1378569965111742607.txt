@@ -1,0 +1,1 @@
+Honestly, since the component frameworks have demonstrated that the HTML/CSS/JS separation of concerns isn't useful for building complex UIs (since every component has markup, styling, and behavior defined together), I would prefer a solution that respects that
