@@ -1,0 +1,1 @@
+The component frameworks and tailwind exist because raw HTML+CSS wasn't good enough for web apps, ergonomically
