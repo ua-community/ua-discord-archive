@@ -1,2 +1,4 @@
+https://github.com/facebook/react/issues/11347
+https://react.dev/blog/2024/12/05/react-19#support-for-custom-elements
 https://dev.to/ryansolid/web-components-are-not-the-future-48bh
 https://vimeo.com/33430613?share=copy#t=1946.296
