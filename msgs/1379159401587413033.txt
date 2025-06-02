@@ -1,0 +1,5 @@
+(user) quick and dirty take. Web Features has a "web components" group, so i got the BCD keys for each of the features in that group, and then mapped those to release years. then i got all BCD keys in the HTML set of specs and did same for release years. 
+
+two methodology issues i need to look at still:
+- the set of keys for the Web Components seems suspiciously small (just over 50), so i need to validate that
+- the set of keys for the HTML features could be overly broad, so i need to peruse the set of specs included by BCD in that category
