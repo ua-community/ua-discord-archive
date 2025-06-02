@@ -1,0 +1,1 @@
+When I was Chrome OS primary i figured out a bunch of things that worked on there, including yes an ssh / terminal client
