@@ -1,0 +1,1 @@
+This is exciting for me as I'm thinking of using claude as the MCP client / server for bootstrapping more things in the system. Getting it running inside the system itself is step one on that.
