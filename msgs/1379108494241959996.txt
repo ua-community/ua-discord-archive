@@ -1,0 +1,1 @@
+I'll setup a repo for exploring this direction. Testing out frameworks like agent-sdk and redwoodjs
