@@ -1,0 +1,5 @@
+i'm not sure the Alex Russel question in answerable from BCD. you'd need to do something like (handwaving):
+
+- aggregate view of use-counter data across major browsers
+- qualitative research survey of developers who are using it, and also who are not
+- there's a company (can't remember offhand) who does large scale crawls for in the wild stats of published web content, though i bet we could ask IA for a private crawl also
