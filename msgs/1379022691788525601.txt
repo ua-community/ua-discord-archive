@@ -1,0 +1,1 @@
+Ultimately the container orchestration / system should be pluggable so you can use any of these or even as (user) pointed out some remote system to host the apps.
