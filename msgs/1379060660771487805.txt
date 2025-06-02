@@ -1,0 +1,1 @@
+wrt to timespan... no one answer. eg one feature area of one browser might be constantly changing (within bounds) and others may remain static for decades, and each for reasons that can vary from "has a champion dev doing it on the side inside their company" to "it's today's hotness" to "it drives revenue"
