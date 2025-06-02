@@ -1,0 +1,1 @@
+Ok so we want something pluggable where containers could run under podman, docker, or remote (cf)
