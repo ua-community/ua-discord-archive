@@ -1,0 +1,1 @@
+I want to have a system wide cmd + k sort of shortcut to bring up the input omnibox or whatever its called to send input to the system. That should work regardless of if im in the IWA shell or not.
