@@ -1,0 +1,1 @@
+Regarding github repos for now I'm keeping things in different repos as we figure things out but after things become more clear we can start using a mono repo that brings parts of the project together.
