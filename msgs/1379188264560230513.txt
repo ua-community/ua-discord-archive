@@ -1,0 +1,1 @@
+I guess similar to raycast, alfred, etc. This should also be available via xe command in regular command line system shell.
