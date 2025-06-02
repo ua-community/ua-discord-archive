@@ -1,0 +1,1 @@
+We can probably bundle workerd as a sidecar that can run as part of the system.
