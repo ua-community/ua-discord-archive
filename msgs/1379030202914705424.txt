@@ -1,0 +1,10 @@
+Thinking about this a bit more as a spectrum of how / where code runs... 
+
+* in page as script
+* in page as esm imported module
+* in worker (on local machine)
+* in worker on server (e.g. winter tc, cf, deno, etc)
+* in web container (in wasm, but locally)
+* locally on the same machine (e.g. via bun as sidecar under tauri)
+* in container such as podman (e.g. under linux vm, e.g. vite dev) 
+* in container or vm remotely
