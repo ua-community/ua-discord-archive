@@ -1,0 +1,1 @@
+it seems to be more for app developers though. what i'd like to see is a selfhostable data store that app developers can integrate with
