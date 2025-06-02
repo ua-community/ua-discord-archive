@@ -1,0 +1,1 @@
+(this is something we're thinking about for Dialog, and you can guess the rough shape of it from what we did in Noosphere)
