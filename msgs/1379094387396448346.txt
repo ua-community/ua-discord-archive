@@ -1,0 +1,1 @@
+its all vibe coded and im not really a rust dev so be warned there may be dragons. however its working quite well and it got claude running under debian with pty support
