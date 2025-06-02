@@ -1,0 +1,1 @@
+this got discussed on bsky already, but the no-previous-setup-required of the newer OAuth stuff should be a fine flow
