@@ -1,0 +1,1 @@
+Is there a Junie-like fully autonomous AI agent for solving code related issues that's local-first / OSS? They use devcontainers + presumably a butt load of MCP. Seems like a really interesting concept from a devex perspective.
