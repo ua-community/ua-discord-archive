@@ -1,0 +1,1 @@
+I'm a big fan of durable objects and think they are a good fit for doing processes and running agents.
