@@ -1,0 +1,1 @@
+this looks interesting. sadly it doesn't offer selfhosting yet. i can't even find the backend code on their repos.  it's on the roadmap at least. i also can't find anything about licensing.
