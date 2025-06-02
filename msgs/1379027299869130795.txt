@@ -1,0 +1,1 @@
+Currently trying to get claude code running inside container under podman as a test of running relatively complex animating TUI app.
