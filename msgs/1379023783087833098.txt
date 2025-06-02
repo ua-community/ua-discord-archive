@@ -1,0 +1,1 @@
+I feel a package manager at edge with https://wintertc.org/ APIs is also a promising direction to explore, so hosting single scripts that on edge platforms like deno/cf/vercel etc
