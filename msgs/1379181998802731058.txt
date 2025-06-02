@@ -1,0 +1,1 @@
+and based on my previous analysis of "ever-increasing rate of growth of web platform surface", BCD might not be enough to answer "is the bar higher", even if the number of new elements remains constant
