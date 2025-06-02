@@ -1,3 +1,4 @@
+https://docs.basic.tech/readings/user-owned-data-stores
 https://wiki.xxiivv.com/site/uxntal.html
 https://controld.com/
 https://jsr.io/
