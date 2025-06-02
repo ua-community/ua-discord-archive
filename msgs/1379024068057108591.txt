@@ -1,0 +1,1 @@
+Yes this works for built apps but I'm guessing not for apps that are running in dev mode. I'm thinking workerd / miniflare for running locally.
