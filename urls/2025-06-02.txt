@@ -1,3 +1,4 @@
+https://github.com/w3c/webappswg/issues/121
 https://store.app/
 https://open.spotify.com/episode/6SDalpojZs1dz2mLUpVMmC?si=y307bYg-TImyv73WRx21PQ
 https://github.com/tileshq/mcp-cli
