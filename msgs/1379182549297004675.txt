@@ -1,0 +1,1 @@
+it's cross-browser, not a Chrome-specific thing: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/runtime/sendNativeMessage#browser_compatibility
