@@ -1,0 +1,1 @@
+Next step is to run this inside the IWA and give it ability to create mcp tools it can use to understand the environment
