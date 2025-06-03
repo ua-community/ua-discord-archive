@@ -1,0 +1,1 @@
+* also suggested having sane default for permission requests but with ability to increase or decrease the amount of permission requests based on the users security posture. e.g. if you are at risk ramp it up to highest level
