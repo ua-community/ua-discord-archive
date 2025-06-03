@@ -1,0 +1,1 @@
+I like the auth scheme beelay/keyhive have come up with - each device is an identity, a user becomes a group of identities. Fairly straightforward, and can support either QR-Code "scan me" auth, or password, or backup a file somewhere / central server model.
