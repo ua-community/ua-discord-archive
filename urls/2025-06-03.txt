@@ -1,3 +1,4 @@
+https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/WebInstall/explainer.md
 https://docs.google.com/drawings/d/1xo1RJaBCt7wxzPMmZv7wmXdl7246MACgXD569ZfwUjQ/edit
 https://github.com/Igalia/webengineshackfest/issues/53
 https://docs.google.com/presentation/d/1I9C6bffh-kXyPCLVq0F01_4Lj3MyXdcTKTQF4pyxqlk/edit?slide=id.g35fb85b3938_0_147#slide=id.g35fb85b3938_0_147
