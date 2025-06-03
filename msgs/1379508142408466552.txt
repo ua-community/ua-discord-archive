@@ -1,0 +1,1 @@
+Yeah, this is how Noosphere's authorization scheme worked (and was built around UCANs <:rsucan:1017619096969424937> ).
