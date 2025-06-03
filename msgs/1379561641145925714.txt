@@ -1,0 +1,1 @@
+Is it related to the title bar or does it happen in main window area ?
