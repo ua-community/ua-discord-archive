@@ -1,0 +1,1 @@
+Agree with the audit logs part. I think browser could do a better job of exposing this log to app under user control which could watch for bad behavior.
