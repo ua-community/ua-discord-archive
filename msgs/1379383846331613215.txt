@@ -1,0 +1,4 @@
+(user) put up a nice question at the session around how in the LLM age the threat model would look like
+- idea that: event log of what a website did that helps a user agent, or a software installed by user in their user agent for modelling the threat in a non invasive way
+
+correct me/add pointers if needed
