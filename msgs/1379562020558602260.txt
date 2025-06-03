@@ -1,0 +1,1 @@
+No doubt we will run into bugs as we are pushing things in new directions but if we can document for chrome team with simple examples we can file bugs
