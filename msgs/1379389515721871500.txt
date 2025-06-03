@@ -1,0 +1,1 @@
+Or we can just start with a repo and GitHub wiki/PR system, minimum viable community effort ethos
