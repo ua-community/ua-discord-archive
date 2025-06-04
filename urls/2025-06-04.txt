@@ -1,1 +1,2 @@
+https://github.com/mozilla/qbrt
 https://github.com/soul4kills/userChrome?tab=readme-ov-file#default-functionality
