@@ -1,0 +1,1 @@
+aha ok so passing a XUL file to Firefox used to be `-chrome path/to/file.xul`
