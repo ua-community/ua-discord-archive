@@ -1,0 +1,1 @@
+Yeah I think we do bunch of experiments, review learnings then create a component that we build on
