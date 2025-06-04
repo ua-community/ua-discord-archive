@@ -1,0 +1,1 @@
+the folks in r/firefoxcss do rad things to mod the ui, here's a nice "chromeless" approach (complete w/ demo video) https://github.com/soul4kills/userChrome?tab=readme-ov-file#default-functionality
