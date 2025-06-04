@@ -1,0 +1,3 @@
+> . So launching Firefox with a modified profile should allow it to load a html that can then create browser views inside.
+
+any more info on this? the old chrome.manifest thing doesn't seem to work anymore for launching profiles with a custom browser.xhtml but maybe i'm mistake
