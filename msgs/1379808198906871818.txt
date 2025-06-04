@@ -1,0 +1,10 @@
+Summary
+Recent Firefox (2024-2025): The -chrome flag and custom XUL browser interfaces are effectively dead. Mozilla has locked down the browser for security and maintainability. Your options are limited to:
+
+CSS styling (userChrome.css)
+Minor JavaScript modifications (with loaders)
+WebExtensions (very limited)
+Building Firefox from source
+Using alternative browsers that maintain XUL support
+
+For true browser UI customization, you'll need to either use a Firefox fork that maintains legacy support or build your own browser using Electron/Chromium Embedded Framework.RetryClaude can make mistakes. Please double-check responses.
