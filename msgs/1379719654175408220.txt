@@ -1,0 +1,1 @@
+I'll keep poking at IWA in Electron. IWAs having a life outside ChromeOS that is a low barrier to entry is interesting, and also an Electron app dev story that is more web-shaped is 100% good - some subset of people will choose that road if it's available.
