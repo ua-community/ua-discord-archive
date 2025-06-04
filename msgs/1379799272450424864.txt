@@ -1,0 +1,6 @@
+maybe relevant: https://github.com/mozilla/qbrt
+
+> For an example, clone qbrt's repo and try its example/ app, which will start a process and load the app into a privileged context, giving it access to Gecko's APIs for opening windows and loading web content along with system integration APIs for file manipulation, networking, process management, etc.:
+
+
+> Unprivileged URLs have access to Web APIs, and privileged apps also have access to Gecko's APIs.
