@@ -1,0 +1,3 @@
+Good signals:
+- not disappearing immediately
+- alignment w/ WebExtension APIs means less code divergence
