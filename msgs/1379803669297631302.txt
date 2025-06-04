@@ -1,0 +1,1 @@
+yeah, you can do that in firefox too. but the browser.xhtml isn't in there, it's in Firefox.app/Contents/Resources/browser/omni.ja (a zip file)
