@@ -1,0 +1,1 @@
+but you used to be able to make a `chrome.manifest` file in your firefox profile dir and redirect it to your own browser.xhtml
