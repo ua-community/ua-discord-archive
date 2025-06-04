@@ -1,0 +1,1 @@
+nice, so loading a `.xul` doesn't work but i tried `.xhtml` instead after remembering The Great Renaming, and can get Firefox to hang
