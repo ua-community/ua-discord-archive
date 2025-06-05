@@ -1,0 +1,1 @@
+Currently everything runs in dev mode so checking https://github.com/Agent54/xe-iwa-launcher and xe-iwa-tldraw-desktop-poc or xe-darc run the IWA first then the launcher. Ask in <#1378770757731094608> if you get stuck
