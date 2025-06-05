@@ -1,0 +1,1 @@
+If done right, app devs would never have to think about infrastructure costs, and cloud services would make whatever improvements they want to their services so long as they stay compliant to the standards making it all work.
