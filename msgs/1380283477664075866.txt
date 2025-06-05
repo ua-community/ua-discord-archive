@@ -1,0 +1,1 @@
+We've got tools to make things feel easy to use, but not so much to empower the user to actually understand how anything works
