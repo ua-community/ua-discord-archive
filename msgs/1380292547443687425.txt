@@ -1,0 +1,1 @@
+have a look at Cloudron https://cloudron.io and Coolify https://coolify.io/ -- these are not local first apps
