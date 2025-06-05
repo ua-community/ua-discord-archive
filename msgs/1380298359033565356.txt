@@ -1,0 +1,1 @@
+but the users pick which browser they use, resulting in people using a plurality of browsers, which means you want to support all browsers to access all users, which eventually leads to standards
