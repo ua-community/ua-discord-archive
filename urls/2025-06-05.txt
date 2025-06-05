@@ -1,3 +1,4 @@
+https://www.cursor.com/blog/llama-inference
 https://univer.se/
 https://docs.cursor.com/tools
 https://block.github.io/goose/
