@@ -1,0 +1,3 @@
+Today in fun hacks: I used Axum (a Rust web server framework) to define the routes handled by a service worker running in the browser.
+
+I wrote a transform from a fetch `Request` to a Rust `http::Request`, and from a Rust `http::Response` to a fetch `Response`. Then, it most just worked!
