@@ -1,3 +1,4 @@
+https://deno.com/blog/history-of-javascript
 https://blog.stackblitz.com/posts/cloudflare-backing-pkg-pr-new-data-infrastructure/
 https://x.com/jandotai/status/1930434019768009166?s=46
 https://ollama.com/blog/secureminions
