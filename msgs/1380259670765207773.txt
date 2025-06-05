@@ -1,0 +1,1 @@
+The UX would be like an app store for the cloud infrastructure. They could choose which apps to install and run on the cloud service they pay for.
