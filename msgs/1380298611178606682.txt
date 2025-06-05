@@ -1,0 +1,1 @@
+We have standards in browsers because they are user facing, and we don't in cloud services because they haven't been user facing historically
