@@ -1,0 +1,1 @@
+and an app only has to work with one of them to service all of its users, because the app picks the cloud service provider instead of the user
