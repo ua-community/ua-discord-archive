@@ -1,0 +1,1 @@
+I have this crude prototype of an custom HTML attribute that syncs DOM trees via a CRDT https://folkjs.org/canvas/network/folk-sync.html and this makes me wonder if the presentation API could be a useful transport method
