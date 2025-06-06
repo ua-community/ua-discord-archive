@@ -1,0 +1,6 @@
+```html
+<div id="content-to-cast" cast-mixer>
+  <h1>Hello World!</h1>
+  <p>This content will be   cast to the secondary display.</p>
+</div>
+```
