@@ -1,0 +1,1 @@
+the "how to fund browsers" session at Web Engines Hackfest started with "well how much does it cost" and it was very clear very quickly to the whoel room that most people didn't understand much about how large a major browser product is... even the people who came from *browser companies*.
