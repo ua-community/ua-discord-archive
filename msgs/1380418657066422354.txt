@@ -1,0 +1,1 @@
+So long as it produces the session token required by the standard, or some such
