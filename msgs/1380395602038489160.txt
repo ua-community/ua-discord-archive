@@ -1,0 +1,1 @@
+IIRC the original specs allowed for a single `<content>` per shadow root, but multiple shadow roots per node. We ended up with one shadow root per node and multiple named `<slot>`s per shadow root.
