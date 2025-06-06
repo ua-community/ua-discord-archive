@@ -1,0 +1,1 @@
+oh fascinating "multiple shadow roots per node" would have been very nice for custom HTML attributes
