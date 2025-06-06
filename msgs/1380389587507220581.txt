@@ -1,0 +1,3 @@
+There were a handful of things in the original idea of web components that were deemed too ambitious, and when we pared back the scope of the specs we had to make a hard choices about usage patterns in order to get buy-in from other implementers.
+
+`is=` had the unfortunate properties of being partially redundant as a mental model for how custom elements should be defined, and less quickly implemented by other browsers.
