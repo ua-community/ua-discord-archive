@@ -1,0 +1,3 @@
+https://github.com/simple-elements/simple-interaction-state/blob/master/simple-focused-state.html
+
+This was abandoned after the first prototype phase, but it's a Polymer pre-1.0 web component that enhances its host element with "focus state" features. I made one for "active state" and "disabled state" as well.
