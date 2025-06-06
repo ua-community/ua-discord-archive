@@ -1,0 +1,1 @@
+honestly i thought i didn't have any means to push, but i just found a github key that still works thankfully. (getting k3s up & getting my email working, after my VPS has a crash ~2 years ago, has been a slow project i make so little progress on but is such ongoing high urgency.)
