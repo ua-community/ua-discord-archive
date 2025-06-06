@@ -1,0 +1,1 @@
+as i said above, also not a fan of starting from canvas. i think the spatial bit is a cognitive trap and also doesn't integrate w/ the OS nicely.
