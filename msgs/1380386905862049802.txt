@@ -1,0 +1,1 @@
+i really like that idea, of making attributes first class, not just incidental onto the element.
