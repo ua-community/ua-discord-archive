@@ -1,0 +1,1 @@
+i should probably prototype using tldraw w/ transparent background as window manager, i suspect i might catch the bug that way.
