@@ -1,0 +1,1 @@
+idk, need to see what's possible. i was thinking less about rendering to a canvas, and more about using tldraw as the "manager" api so that i could have a mix of canvasii and OS-window-level things.
