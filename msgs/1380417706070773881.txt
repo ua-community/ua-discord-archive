@@ -1,0 +1,1 @@
+If an ecosystem of cloud services emerges, then hopefully that empowers people to care more about security, reliability, efficiency, and other things to vet cloud hosts by
