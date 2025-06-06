@@ -1,0 +1,1 @@
+The standards should let cloud services to continue to improve under them without locking them into specific implementations
