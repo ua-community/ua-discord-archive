@@ -1,0 +1,1 @@
+One thing I'm already thinking about is the standards between cloud service and host should not dictate a specific auth method - that should be an implementation detail up to the cloud service, so you can pick one with an auth method you like.
