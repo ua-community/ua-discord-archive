@@ -1,0 +1,1 @@
+technically, most licenses work like that. no license requires that you publish your apps for free. not even the GPL. you can sell the binary and then the recipient gets the right to the source. the problem is that this includes that they have the right publish the app for free, and that is why very few people/projects sell open source apps.
