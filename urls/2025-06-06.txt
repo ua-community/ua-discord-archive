@@ -1,3 +1,4 @@
+https://github.com/rektide/persister-mixin
 https://folkjs.org/canvas/network/folk-sync.html
 https://github.com/rektide/cast-mixer
 https://github.com/simple-elements/simple-interaction-state/blob/master/simple-focused-state.html
