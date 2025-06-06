@@ -1,3 +1,4 @@
+https://folkjs.org/canvas/network/folk-sync.html
 https://github.com/rektide/cast-mixer
 https://github.com/simple-elements/simple-interaction-state/blob/master/simple-focused-state.html
 https://bsky.app/profile/did:plc:zjbq26wybii5ojoypkso2mso/post/3lqvapu7d7k2x
