@@ -1,0 +1,2 @@
+It's not across different devices, but one of the other little hacks I started spinning up is a persister mixin, that syncs DOM tree via indexeddb. Ultimately I want to represent more code-like things in html, and something like this is how I'd like to persist the workspace, I think? I don't know how clear it is, but it feels like a very (user) / folk.js sort of thing to me.
+https://github.com/rektide/persister-mixin
