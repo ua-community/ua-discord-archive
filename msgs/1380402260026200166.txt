@@ -1,0 +1,1 @@
+The backend cloud hosting part will be fully open source, because that won't be my primary source of income anyway and the goal is for others to copy me and cultivate an ecosystem of compatible cloud service providers
