@@ -1,0 +1,1 @@
+well i tried grok to generate a pdf from cursor's output on this repo and got this: https://www.dropbox.com/scl/fi/p391052gkf2pm44vbc7ef/OnDeviceAI_CommunityViews_2025.pdf?rlkey=tyuigjujid2bg0o6xd46z0e4z&dl=0
