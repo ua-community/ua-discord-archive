@@ -1,0 +1,1 @@
+Worth noting that for folkJS, (user) has made a bunch of progress on the underpinnings of this idea over the last couple of days. Tentatively calling it a "desktop-interlay, will share more soon!
