@@ -1,0 +1,1 @@
+> Essential software should be fully automatable. Web browsers aren't. Let's change that.
