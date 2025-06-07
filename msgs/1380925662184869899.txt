@@ -1,0 +1,3 @@
+- there were four users to purge
+- three had no messages in the archive, never responded, and i removed the role
+- one had messages, but reached out and gave consent
