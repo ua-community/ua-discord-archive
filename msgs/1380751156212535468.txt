@@ -1,0 +1,1 @@
+> Run beachpatrol to launch a Chromium or Firefox browser which can be controlled externally through Playwright scripts. You can use it as your daily driver; it works like a regular browser.
