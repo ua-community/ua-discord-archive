@@ -1,0 +1,1 @@
+https://github.com/cloudflare/workers-oauth-provider cloudflare/workers-oauth-provider: OAuth provider library for Cloudflare Workers
