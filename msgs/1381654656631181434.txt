@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T15:22:20.043Z
+
+ok pretty easy to find the relevant IWA install/launch stuff in Chromium: https://github.com/search?q=repo%3Achromium%2Fchromium%20iwa&type=code
