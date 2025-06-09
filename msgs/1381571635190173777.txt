@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T09:52:26.189Z
+
+and macOS showing 3 apps w/ exact same name in Finder...
