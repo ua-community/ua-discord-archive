@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:41:50.794Z
+
+i think thats just opened chrome with the right profile so its still running and now the most recent so default chrome when this command runs
