@@ -1,0 +1,7 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-06-09T20:41:35.775Z
+
+Yes, it was the original pitch from Steve Jobs himself for how non-Apple developers should target the iPhone.
+
+Also, it's something we've had for years on other platforms.
