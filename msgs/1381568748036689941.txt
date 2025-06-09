@@ -1,0 +1,16 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:40:57.838Z
+
+#[tauri::command]
+fn launch_iwa(_state: tauri::State<ChromeState>, app_handle: tauri::AppHandle) -> Result<(), String> {
+    let handle = app_handle.clone();
+    println!("launching iwa");
+    tauri::async_runtime::spawn(async move {
+        let (rx, child) = handle.shell().command("/Users/luke/Applications/Chrome Apps.localized/U&A IWA Test.app/Contents/MacOS/app_mode_loader")
+            .args(["--remote-debugging-port=9222 --enable-features=IsolatedWebApps,IsolatedWebAppDevMode,ControlledFrame,AutomaticFullscreenContentSetting,WebAppBorderless"]) //EnableImmersiveFullscreenToolbar
+            .spawn()
+            .unwrap();
+    });
+    Ok(())
+}
