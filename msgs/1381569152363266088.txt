@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:42:34.237Z
+
+I'll work on improving it and see if we can get it working so it works without the install first
