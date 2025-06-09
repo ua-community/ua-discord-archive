@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T08:57:38.859Z
+
+sadly, it didn't. i was testing moving the archiving bot to different cloud back-ends.
