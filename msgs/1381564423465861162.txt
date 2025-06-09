@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:23:46.780Z
+
+Can reinstall from the IWA launcher or there is button to open the IWA but might need to check the path
