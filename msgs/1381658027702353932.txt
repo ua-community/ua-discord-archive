@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T15:35:43.769Z
+
+so ideally i find the right glue and then convince Electron to add it so we can just flip runtime flags there
