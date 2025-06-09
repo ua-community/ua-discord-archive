@@ -1,0 +1,6 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T15:14:19.855Z
+
+>  any apps installed pre enabling the flags or restart wont work unless uninstalling and reinstalling
+aha thanks for mentioning this. the hidden name situation was related. i was loading the old one instead of the new one. blew em all away and it's working now.
