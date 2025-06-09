@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:30:15.118Z
+
+Did you start the iwa via its shortcut install app
