@@ -1,0 +1,7 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T09:25:12.059Z
+
+there's the Chrome that installs the IWA, which i call like:
+
+> /Applications/'Google Chrome.app'/Contents/MacOS/'Google Chrome' --install-isolated-web-app-from-url=http://localhost:5193
