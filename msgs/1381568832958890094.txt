@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:41:18.085Z
+
+also needs to pass the chrome profile there I guess too
