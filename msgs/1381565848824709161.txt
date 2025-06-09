@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T09:29:26.612Z
+
+but doesn't have any child processes, so is def not a whole Chrome
