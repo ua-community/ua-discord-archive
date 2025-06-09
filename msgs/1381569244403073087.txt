@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:42:56.181Z
+
+Other way would be to see if we can patch the app launcher plist to reference the correct profile
