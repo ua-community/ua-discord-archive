@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-06-09T14:53:07.838Z
+
+My current setup does have head tracking so I'm not sure I'd call it XR yet. I'm hoping to daily drive https://stardustxr.org/ once it stabilizes a bit and then I'll invest in the head tracking drivers more. If you're happy with a static screen on your face I'd go for a https://pro.viture.com/ or https://us.shop.xreal.com/products/xreal-one-pro The viture is my fave right now cause the diopters make it easier to share with folks that need glasses. The xreal can give you basic 3dof head tracking without needing software on the device you connect to.
