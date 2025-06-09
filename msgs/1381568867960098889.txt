@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:41:26.430Z
+
+it works if i run it after installing the iwa
