@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-09T09:22:28.949Z
+
+When it installs the IWA it does it with a different chrome profile
