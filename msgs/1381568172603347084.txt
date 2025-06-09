@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-09T09:38:40.644Z
+
+wild, plist points points to a path with a "-" folder in the profile, that doesn't exist
