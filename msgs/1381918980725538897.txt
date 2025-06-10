@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-10T08:52:39.818Z
+
+https://developer.apple.com/apple-intelligence/foundation-models-adapter/
