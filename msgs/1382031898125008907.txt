@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-06-10T16:21:21.424Z
+
+It's kind of an object lesson: though it runs WebOS, it is indistinguishable in practice from the typical App Store-style distribution model.
