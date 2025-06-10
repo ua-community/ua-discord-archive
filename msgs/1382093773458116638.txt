@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-06-10T20:27:13.653Z
+
+Mikeal was an uncommonly user-agency-oriented human. PouchDB was my first exposure to thinking "local first" when building stuff for the web. His work had a major impact on me over the years, and I always found him to be a nice person to boot. RIP.
