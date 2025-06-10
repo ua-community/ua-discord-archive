@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-10T08:14:11.179Z
+
+most platforms require PWA for "page install" vs "bookmark to homescreen"
