@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-10T21:47:06.565Z
+
+Found an issue for ControlledFrame, commented there, see if we get any bites. https://github.com/electron/electron/issues/38577#issuecomment-2960648543
