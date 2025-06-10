@@ -1,0 +1,7 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-06-10T16:09:51.573Z
+
+As someone who tried to make an actual app-like thing on the first iPhone: it sucked.
+
+You could really "feel" how it was way worse than the native app experience. And, that's before even getting to the capability deficiency (although arguably Apple might have pushed the web forward faster than even Google did if they really took responsibility for making it a bonafide app delivery channel).
