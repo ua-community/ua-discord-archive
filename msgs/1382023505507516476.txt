@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-06-10T15:48:00.468Z
+
+also no frontend frameworks, so making local first apps (which all mobile apps should be) was really hard
