@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-06-10T14:58:23.509Z
+
+i think the problem was that the web was to slow on those early devices
