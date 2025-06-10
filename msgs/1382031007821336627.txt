@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-06-10T16:17:49.159Z
+
+I wonder if Android phones would have gone web instead of Java :o (probs not)
