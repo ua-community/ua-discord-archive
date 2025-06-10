@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-06-10T04:23:51.665Z
+
+referencing this concept of LLM-based end user programming https://bmannconsulting.com/notes/malleable-software/
