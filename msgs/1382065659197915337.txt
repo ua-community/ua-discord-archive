@@ -1,0 +1,6 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-06-10T18:35:30.691Z
+
+Malleable software post has hit the HN,
+https://news.ycombinator.com/item?id=44237881
