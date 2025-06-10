@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-10T09:29:27.366Z
+
+Cursor did something similar; they created a data flywheel with big server-sided APIs, collected the data, and then trained adapters on that. Now, all inputs and outputs are routed through their own adapter, tuned with small LLMs, with a big server-sided LLM API sandwiched in between.
