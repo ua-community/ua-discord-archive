@@ -1,0 +1,6 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-06-10T19:42:59.817Z
+
+PostmarketOS is amazing but they use some very interesting hacks to run Android device drivers, via Android/vendor kernels, which is impressive as heck & useful. But I don't think most of these devices can get kernel upgrades, maybe? Ideally I'd want mainline support for phones. There was a bunch of Qualcomm 835, 845 devices getting upstreamed to some degree, but it feels like that positive trend hasn't kept up this past year or two.
+https://wiki.postmarketos.org/wiki/Hybris
