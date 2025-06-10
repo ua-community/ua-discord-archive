@@ -1,0 +1,5 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-06-10T19:20:04.787Z
+
+Really appreciated Baldur Bjarnason's negative take on workers-oauth-push. I thought this was a really good & interesting project by Kenton Varga, really interesting public example, useful output. But also hadn't seen these CVE's, & nice hearing some counter-perspectives. https://bsky.app/profile/baldurbjarnason.com/post/3lqsam5op2x26
