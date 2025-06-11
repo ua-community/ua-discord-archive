@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-11T17:49:34.990Z
+
+Quite less agency over what goes in memory though
