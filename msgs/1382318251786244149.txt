@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-11T11:19:13.457Z
+
+^ community-manager role. should have all perms as admin, basically.
