@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-11T13:11:28.538Z
+
+yup, my workflow involves saving/syncing everything i consume, books, links, pdfs etc to Notion automatically via first party API integrations/ connectors , and then I use Notion AI to retrieve them ad hoc, they also have a deep research feature!
