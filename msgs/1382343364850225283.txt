@@ -1,0 +1,5 @@
+UserId: 750270743136174100
+Username: (user)
+Time: 2025-06-11T12:59:00.878Z
+
+Do you mean in terms of gathering docs ad-hoc for you?
