@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-11T16:01:09.739Z
+
+interesting language - does something move from the servers back to your device? and what happens on your device after 7 days?
