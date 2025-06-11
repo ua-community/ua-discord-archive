@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-06-11T15:05:06.863Z
+
+IMO on device isn't free enough. I hope these OS level integrations allow for "bring your own model" approaches kinda like how Android speech recognition services can be replaced
