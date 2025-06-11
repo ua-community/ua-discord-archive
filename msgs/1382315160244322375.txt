@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-11T11:06:56.376Z
+
+moved <#1378770757731094608> to a new category "Projects", made a <#1382315105760444476> as well
