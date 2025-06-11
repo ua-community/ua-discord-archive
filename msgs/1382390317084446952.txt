@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-11T16:05:35.163Z
+
+as per print, the processing is done on server but the processed data is stored only locally and deleted after 7 days
