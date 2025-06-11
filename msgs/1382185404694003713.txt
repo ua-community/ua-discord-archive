@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-06-11T02:31:20.242Z
+
+Here is the replication demo of Dialog that I gave during the "hallway track" at Local-First Conference in Berlin: https://youtu.be/0a_Nb2CAoJc?si=KuvVTussPph-2fKf
