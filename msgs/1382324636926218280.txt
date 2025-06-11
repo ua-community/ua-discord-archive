@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-11T11:44:35.793Z
+
+thanks, hadn't seen this! this is on my TODO list for Peek, i want a nice HUD of "selected sections of web pages".
