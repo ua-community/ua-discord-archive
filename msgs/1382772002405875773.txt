@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-12T17:22:16.035Z
+
+Isle browser (née Flux) new release - kinda interesting approach to somewhat chromelessness https://www.reddit.com/r/browsers/comments/1l9b1ww/new_isle_browserformerly_flux_browser_new_major/
