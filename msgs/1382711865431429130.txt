@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-12T13:23:18.263Z
+
+https://github.com/apple/container/blob/main/docs/technical-overview.md
