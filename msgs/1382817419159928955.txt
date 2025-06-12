@@ -1,0 +1,5 @@
+UserId: 280352675445473281
+Username: (user)
+Time: 2025-06-12T20:22:44.233Z
+
+X is intermittent as well. Saw someone post that several of the big backbone services are partially or fully down
