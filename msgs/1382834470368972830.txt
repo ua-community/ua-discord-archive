@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-06-12T21:30:29.558Z
+
+So long as Digital Ocean doesn't shit the bed I should be fine with all my self hosted stuff :P
