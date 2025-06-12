@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-12T14:14:33.487Z
+
+thats kind of an intent router
