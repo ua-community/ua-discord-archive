@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-13T10:27:02.474Z
+
+Can selectively pickup api endpoints from different generated MCP servers on their API network and export a single mcp server package with those fields, surely gonna copy this kind of composable workflow with tiles pages 
+
+https://learning.postman.com/docs/postman-ai-agent-builder/ai-tool-builder/overview/
