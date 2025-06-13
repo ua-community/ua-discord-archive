@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-13T13:43:16.436Z
+
+changed SEO inspired from Notebook LM to target keywords, these all become super important as we are living in a hive mind now, and I want the shared tiles pages to be consumed as MCP endpoints too,  I think we will still have SEO in the future but it would be an augmentation of human-ai remix/ "intent router" forming agentic/tool/pipeline topologies based on the metadata of mcp agents
