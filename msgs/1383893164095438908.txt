@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-15T19:37:21.812Z
+
+In other words interface/agents is the OS not os/apps
