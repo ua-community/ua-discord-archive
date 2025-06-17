@@ -1,0 +1,7 @@
+UserId: 578176240117088256
+Username: (user)
+Time: 2025-06-17T07:07:44.261Z
+
+Made few improvements to Artifacts/widgets to make it more more good-looking and accurate/robust.
+
+On the prompt side, we took inspiration from other system prompts for generating artifacts (what was missing was with strict delimeters), which seems to have made the process way less error-prone.
