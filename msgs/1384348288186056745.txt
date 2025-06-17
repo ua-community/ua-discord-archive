@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-06-17T01:45:51.851Z
+
+One thing real clear to me is I only want AI agents to read and browse for me, not actually do things on my behalf
