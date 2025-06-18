@@ -1,0 +1,8 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-06-18T23:52:00.052Z
+
+https://bytes.zone/posts/should-we-design-for-iffy-internet/
+https://news.ycombinator.com/item?id=44290580
+
+the first and second (at the moment) comments in the hackernews discussion about the article point out what the article doesn't, that building apps for a slow internet means building local first.
