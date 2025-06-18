@@ -1,0 +1,7 @@
+UserId: 578176240117088256
+Username: (user)
+Time: 2025-06-18T19:02:12.999Z
+
+https://blog.cloudflare.com/connect-any-react-application-to-an-mcp-server-in-three-lines-of-code/
+
+Looks like they made a simple "React hook-y" mcp-client-toolkit.
