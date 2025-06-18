@@ -1,0 +1,5 @@
+UserId: 750270743136174100
+Username: (user)
+Time: 2025-06-18T06:27:55.546Z
+
+Would it be fair to say that these are workspaces really? Just looking at this and think it's important to define what they are which are active spaces. The LLM thread model is completely different so would want to seperate from that.
