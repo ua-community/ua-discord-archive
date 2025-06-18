@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-18T10:07:22.869Z
+
+https://www.fastmail.com/blog/jmap-new-email-open-standard/
