@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-18T09:18:46.996Z
+
+so, mcp.run is the registry (provides metadata), xtp is the control plane for extism packages (data plane/wasm framework)
