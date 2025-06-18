@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-18T18:56:38.709Z
+
+We will come to workspaces once we figure out the UX around templates and user accounts
+
+Not sure what you mean by last sentence
