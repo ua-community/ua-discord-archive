@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-18T17:08:11.096Z
+
+https://machinelearning.apple.com/research/introducing-apple-foundation-models
