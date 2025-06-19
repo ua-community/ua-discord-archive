@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-19T12:33:05.610Z
+
+https://www.interconnects.ai/p/crafting-a-good-reasoning-model
