@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-06-19T15:49:48.420Z
+
+We need standards and APIs and schemas to work multiplayer with others so at some layer you have to have common interfaces
