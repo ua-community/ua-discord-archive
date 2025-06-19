@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-19T20:34:29.378Z
+
+extensions on android missing from brave too. https://community.brave.com/t/extension-support/215377/100
