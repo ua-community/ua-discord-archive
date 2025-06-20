@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-20T05:07:11.863Z
+
+These is also the IWA install process which is similar to extensions on desktop. On Android apparently they do it a bit different for PWA with an webapk or something.
