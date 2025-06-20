@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-20T18:33:57.967Z
+
+this is fine tuning at build time, but the text to lora stuff from Sakana AI is at runtime and also parametre efficient which is wild: https://discord.com/channels/1309454711392305192/1357325149615030302/1385304799498473625
