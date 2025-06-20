@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-20T05:05:13.505Z
+
+GuestView which controlled frame depends on in IWA is part of extensions code in chrome.
