@@ -1,0 +1,7 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-06-21T15:31:51.388Z
+
+Digging this Temporal Memory Banks prompt for Cline. Good breakdown of (global) project, (short term) active, technical context markdown files, system patterns file, progress file, and a changelog.
+https://github.com/cline/prompts/blob/main/.clinerules/temporal-memory-bank.md
+https://convergence.ninja/post/blogs/000010-A-Better-Memory-Bank.md
