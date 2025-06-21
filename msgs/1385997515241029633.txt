@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-21T14:59:18.222Z
+
+there are public URLs for these monitors apparently as well, this is what I wanted ChatGPT Tasks to be: https://scouts.yutori.com/cb154cbf-924b-426b-9c93-e343c14ece66
