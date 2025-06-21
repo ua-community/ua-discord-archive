@@ -1,0 +1,7 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-21T10:05:08.967Z
+
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg?pli=1
+
+chromium moving from ninja to siso for  builds. Looks like there is already an issue with nativelink to add support
