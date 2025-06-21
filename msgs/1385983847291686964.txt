@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-21T14:04:59.529Z
+
+At this point I tend to ignore these things, but browser use is necessary for tail end use cases and as a bridge to purely intent driven future
