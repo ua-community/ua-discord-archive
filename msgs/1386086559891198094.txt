@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-21T20:53:08.121Z
+
+i wish somebody did similar with gemma 3n as its multimodal adn does dynamic resource allocation, but for that to work llama.cpp/ollama needs to be patched(effort) and $200 compute(effort + money) to finetune on tool calling/reasoning capablity
