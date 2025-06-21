@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-21T18:15:09.314Z
+
+This is crazy, they trained this small 4B model for MCP tool calling which outperforms bigger model on this criteria, it also incorporates dynamic quantisation!
+
+https://www.reddit.com/r/LocalLLaMA/s/aUP37QIO1j
