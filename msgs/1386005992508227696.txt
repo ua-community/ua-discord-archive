@@ -1,0 +1,5 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-06-21T15:32:59.360Z
+
+Also hella impressed seeing workflows defined in mermaid. LLM's using mermaid to do workflows is crazy sweet.
