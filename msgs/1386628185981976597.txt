@@ -1,0 +1,6 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-23T08:45:21.844Z
+
+todo 1: gotta plan for a fall event, make a list of confs to have the u&a event co locate
+todo 2: make links full text indexable with the u&a second brain discord bot
