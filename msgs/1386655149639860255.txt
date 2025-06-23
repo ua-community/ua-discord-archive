@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-23T10:32:30.481Z
+
+(i mean, technically yes you *can* get a ws running in a worker but why when you can also not)
