@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-23T14:54:38.008Z
+
+you can just do it all on web without any npm thingies on tiles, here is me adding a memory to supermemory via MCP on tiles: https://tiles.run/shared/CHbbmwe5QFaNyy8nsbDvH
