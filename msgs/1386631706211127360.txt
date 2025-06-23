@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-23T08:59:21.132Z
+
+Both assumed you install it on bare metal or buy it with hardware. Ie it was a full operating system but using web browser at the core. The problem with this is you have a new os cold start problem. The other approach is where the existing browser on existing platforms morphs into something more than a browser. Chrome platform apps probably closest to this but never fully realized. Back in the day Netscape had plans but also never managed to ship the vision.
