@@ -1,0 +1,5 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-06-23T09:53:54.382Z
+
+If archiving is giving you trouble let me know. I can provide hosting and if discord.js is not working well I'd be happy to rewrite it as well, it seems easy enough to implement.
