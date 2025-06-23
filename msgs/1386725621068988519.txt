@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-23T15:12:32.179Z
+
+ecosystem has def moved on to remote mcp servers now, where they just give a URL and you are good to go, but clients are kind of lagging in their support, you will be surprised to know that claude desktop doesnt support many features but cursor does, seems they dont support streamble http yet: https://github.com/orgs/modelcontextprotocol/discussions/16
