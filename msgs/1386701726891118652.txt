@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-06-23T13:37:35.363Z
+
+There are a lot of people very mad at how security is not baked in. Perhaps related again to the original issue of lacking an account layer that is more universal.
