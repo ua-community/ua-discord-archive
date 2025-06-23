@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-23T10:44:12.608Z
+
+Created event as biweekly to start as that seems easier than every week. More chance there will be enough people wanting to demo. We can promote at hack and chats
