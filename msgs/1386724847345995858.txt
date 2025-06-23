@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-23T15:09:27.709Z
+
+exa remote mcp server seems to work fine for me
