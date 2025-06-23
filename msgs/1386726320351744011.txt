@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-23T15:15:18.901Z
+
+this flow where mcp servers expose endpoints withoit signing up for them and to try it out then there for any other client from web itself seems very user agentic to me
