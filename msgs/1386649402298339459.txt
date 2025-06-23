@@ -1,0 +1,6 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-06-23T10:09:40.208Z
+
+Not sure I understand - some years ago when I worked with the API there were endpoints to get events via websocket.
+Pretty sure the native websocket thing in the UI is write only (similar to ie slack)
