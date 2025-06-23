@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-06-23T13:36:25.338Z
+
+Yep! My investigation into this says to me that there are OS primitives - contacts, calendaring, email as protocol primitives, then files, core features like search, and a few core apps like photo management / editing. And web browsing! (Many of these can be apps, but people assume a level of integration into the thing we call OS)
