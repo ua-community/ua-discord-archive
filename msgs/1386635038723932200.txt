@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-23T09:12:35.665Z
+
+the security model will be emergent/adaptive, not planned. just like the web.
