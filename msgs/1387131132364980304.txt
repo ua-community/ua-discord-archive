@@ -1,0 +1,5 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-24T18:03:53.606Z
+
+Hey there are no releases and no docs on how to run iwa-launcher, can someone guide?
