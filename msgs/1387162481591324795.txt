@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-24T20:08:27.844Z
+
+https://rivet.gg/blog/2025-06-24-cloudflare-containers-vs-rivet-containers-vs-fly-machines#platform-architecture
