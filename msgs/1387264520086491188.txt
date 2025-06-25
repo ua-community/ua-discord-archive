@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-06-25T02:53:55.717Z
+
+I think they need to start on not a rewrite but a new product reimagining email. Probably on JMAP. Their userbase is going to keep shrinking.
