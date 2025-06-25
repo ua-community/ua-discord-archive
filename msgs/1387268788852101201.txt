@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-25T03:10:53.470Z
+
+However what we want is the user to own their browser
