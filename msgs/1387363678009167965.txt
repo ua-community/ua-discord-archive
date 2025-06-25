@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-25T09:27:56.808Z
+
+https://huggingface.co/unsloth/Jan-nano-128k-GGUF
