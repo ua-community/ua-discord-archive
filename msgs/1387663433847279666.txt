@@ -1,0 +1,7 @@
+UserId: 823757327756427295
+Username: (user)
+Time: 2025-06-26T05:19:04.169Z
+
+also, assuming you're across this (user) ?
+
+https://github.com/WICG/isolated-web-apps
