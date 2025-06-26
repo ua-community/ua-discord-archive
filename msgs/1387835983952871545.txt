@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-26T16:44:43.320Z
+
+Discord's webhooks API is *post-only*. Dead end.
