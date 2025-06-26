@@ -1,0 +1,1 @@
+https://huggingface.co/unsloth/Jan-nano-128k-GGUF
