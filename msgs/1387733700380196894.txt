@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-26T09:58:17.016Z
+
+readwise-vector-db: "an open source project that transforms your Readwise highlights into a blazing-fast, self-hosted semantic search engine." https://www.reddit.com/r/readwise/comments/1ljzpku/announcing_readwisevectordb_supercharge_your/
