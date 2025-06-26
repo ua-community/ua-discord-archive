@@ -1,0 +1,5 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-26T14:02:12.233Z
+
+Again if you don't need tao window handler and WRY, why are using Tauri?
