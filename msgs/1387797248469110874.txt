@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T14:10:48.061Z
+
+But it gives us something we can build off for anything native we want to add
