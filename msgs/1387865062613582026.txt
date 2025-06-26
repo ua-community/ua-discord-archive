@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T18:40:16.213Z
+
+Tried gemini cli didnt work as it just said waiting for auth (assume it tried to open browser but its in container). So figured would try asking claude to fix it.
