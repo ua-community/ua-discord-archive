@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-26T17:15:34.227Z
+
+its on ollama too, but only supports text atm: https://ollama.com/library/gemma3n, tracking issue: https://github.com/ollama/ollama/issues/10792
