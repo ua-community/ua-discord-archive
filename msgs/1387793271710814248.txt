@@ -1,0 +1,5 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-26T13:54:59.928Z
+
+Can you list other "capabilities" IWA's have and PWA's don't?
