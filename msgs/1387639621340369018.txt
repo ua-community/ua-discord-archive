@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-26T03:44:26.825Z
+
+(user) this kind of model would be pretty useful for your client: https://huggingface.co/unsloth/Jan-nano-128k-GGUF, its a fine tuned qwen model on mcp tool calling
