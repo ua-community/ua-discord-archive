@@ -1,0 +1,5 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-26T13:48:45.858Z
+
+"The user interface in Tauri apps currently leverages tao as a window handling library on macOS, Windows, Linux, Android and iOS. To render your application, Tauri uses WRY, a library which provides a unified interface to the system webview, leveraging WKWebView on macOS & iOS, WebView2 on Windows, WebKitGTK on Linux and Android System WebView on Android."
