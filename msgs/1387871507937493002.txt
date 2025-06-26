@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T19:05:52.898Z
+
+It uses xdg-open to try to open the browser and then localhost callback which isn't going to work out of box in bare container without browser. Apparently the url is printed to console but here gemini is already running in pty mode. So i think I need to add way to view console to get the url and then a way to have multiple tabs open so i can call curl to trigger the localhost callback.
