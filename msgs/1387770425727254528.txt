@@ -1,0 +1,9 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-26T12:24:13.021Z
+
+And to get the chromium binary in PATH, 
+
+I am not familiar with rust it seems lol.
+
+Bun handles the js part? Tauri handles the rust part? And why do you need vite/react? Just use svelte lol.
