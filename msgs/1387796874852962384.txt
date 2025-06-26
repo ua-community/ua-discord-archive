@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T14:09:18.984Z
+
+This launcher uses tauri but you could write one in any language or just use command line. The choice of tauri here was to get the cross platform support than/ os level integration side of things without the browser being bundled
