@@ -1,0 +1,7 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-26T13:40:08.361Z
+
+Mobile PWA's don't ship with chromoum coz mobiles have a thing called "webview", I don't think we have a webview for desktops
+
+There are UWA on windows, appimage on linux, apple has ".Application" package.
