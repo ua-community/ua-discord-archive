@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-26T04:02:17.052Z
+
+observable has canvases now in addition to notebooks: https://observablehq.com/platform/canvases
