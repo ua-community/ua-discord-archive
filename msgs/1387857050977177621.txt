@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T18:08:26.090Z
+
+https://github.com/Agent54/xe-tauri-podman currently standalone poc of running containers (under podman in this case but could be other ways) and connecting to the from the web layer. able to run claude code with PTY terminal emulation. part of the puzzle, should become a module that gets loaded into xe if enabled
