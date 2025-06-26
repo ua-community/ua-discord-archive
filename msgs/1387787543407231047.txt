@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T13:32:14.194Z
+
+PWA is served from domain, whereas IWA is more of a bundle you install signed with a certain key you trust.
