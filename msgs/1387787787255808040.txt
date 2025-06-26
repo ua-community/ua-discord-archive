@@ -1,0 +1,7 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-26T13:33:12.332Z
+
+I thought IWA launcher basically spins off per-profile chromium PWA.
+
+And can you defend the argument that "electrum is a bloated way" to build apps, I like native - (bare metal?)
