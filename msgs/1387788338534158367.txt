@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T13:35:23.767Z
+
+If you are looking for way to do electron like things but without having to ship chromium in your app yeah I guess IWA do help with that
