@@ -1,0 +1,5 @@
+UserId: 1386676760799608854
+Username: (user)
+Time: 2025-06-26T12:28:00.384Z
+
+Don't use react pl just use svelte, we don't need virtual DOM!
