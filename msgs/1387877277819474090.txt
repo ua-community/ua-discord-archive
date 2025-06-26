@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-06-26T19:28:48.545Z
+
+Got it working by spinning up gemini in background and then calling curl to do callback.
