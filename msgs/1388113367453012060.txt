@@ -1,0 +1,7 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-27T11:06:56.700Z
+
+i couldn't figure out how to share a whole screen for demo day yesterday, but was going to show:
+- Peek running from package, key step for daily use milestone
+- all "features" running under an opaque URL space with web permissions + a few special APIs
