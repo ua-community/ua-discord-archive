@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-27T18:32:13.633Z
+
+one can already do this with jan nano (fine tuned qwen 4b model for mcp tool calling, though not multimodal, though you can do the same fine tuning with the newly released gemma 3n) and sakana's text to lora which has ability to train models at runtime
