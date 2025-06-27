@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-27T11:48:12.027Z
+
+https://publish.obsidian.md/ruperts-notes/Events+%26+Talks/2025/2025.05+User+%26+Agents+hack+day
