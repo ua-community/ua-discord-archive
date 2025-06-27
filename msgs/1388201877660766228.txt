@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-06-27T16:58:39.178Z
+
+That's awesome! In terms of web XR I've been mostly excited by the xrfragments project: https://xrfragment.org/#XR%20Fragments For compositors and stuff I've been looking outside the browser towards stuff like Godot or StardustXR
