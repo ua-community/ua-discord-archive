@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-27T11:10:42.741Z
+
+- Stash: a library for browser extensions modeled vaguely after git stash/pop. for use in prototyping new browserish experiences in status quo browsers. `.stash()` takes all your windows/tabs, serializes and stores it, so you can open an undecorated extension window and do New Fun Things easily on top of your Old Regular Profile
