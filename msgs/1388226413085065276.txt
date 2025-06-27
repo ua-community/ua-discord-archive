@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-27T18:36:08.879Z
+
+reminds me of this snippet from dwarkesh's recently released book: https://press.stripe.com/scaling, the importance of program synthesis and the likes
