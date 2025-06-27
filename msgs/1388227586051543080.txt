@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-27T18:40:48.536Z
+
+this snippet is from an interview dwarkesh had with FRANCOIS CHOLLET, Creator of ARC-AGI and Keras
