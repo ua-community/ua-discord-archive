@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-27T11:02:29.645Z
+
+we discussed also giving everyone channel creation permissions...
