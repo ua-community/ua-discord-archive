@@ -1,0 +1,6 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-06-27T18:24:32.480Z
+
+I don't think people understand that what they've come up with is literally "I want an algorithm that does x" and it literally just does it.
+Not in some AI way with bells and whistles, but in a proven optimal way. Producing idiomatic code. No "you give three examples and it generates if/else with the correct answers", just correct code that I'd write after thinking about it for a while.
