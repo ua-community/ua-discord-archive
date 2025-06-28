@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-06-28T07:17:18.207Z
+
+Dialog is getting a TUI inspector
