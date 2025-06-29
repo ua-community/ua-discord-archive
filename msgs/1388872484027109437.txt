@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-06-29T13:23:24.195Z
+
+TIL about DSPy : https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html
