@@ -1,0 +1,9 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-06-30T09:10:51.816Z
+
+- Peek works with browser windows (OS level windows), not embedded frames
+- Need to work w/ multiple windows, with a bunch of the capabilities that Electron's window APIs have (hide/show, transparent, various visual treatments)
+- Custom protocol support (and the capability configuration that comes w/ it)
+- Content script execution
+- OS-level shortcut registration and management
