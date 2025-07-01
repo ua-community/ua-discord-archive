@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-01T23:02:54.799Z
+
+https://www.dbreunig.com/2025/05/29/a-small-model-just-for-structured-output.html
