@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-01T10:59:28.445Z
+
+https://archive.is/20250630184850/https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt
