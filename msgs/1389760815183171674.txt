@@ -1,0 +1,5 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-07-02T00:13:18.847Z
+
+Lovely idea. I don't expect a ton of compliance. But who knows. Reminds me of Platform for Privacy Preferences Project a bit, but that was more about user privacy/content usage rather than the sites. https://en.wikipedia.org/wiki/P3P
