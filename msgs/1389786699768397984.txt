@@ -1,0 +1,5 @@
+UserId: 637126184664301588
+Username: (user)
+Time: 2025-07-02T01:56:10.213Z
+
+I thought other hosting services already did this but turns out it's a rare thing
