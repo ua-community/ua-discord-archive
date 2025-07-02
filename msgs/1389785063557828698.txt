@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-02T01:49:40.110Z
+
+further validates the approach of intent routing I posted for tiles, its an extension to the simple dual model setup though: https://arxiv.org/abs/2503.18813
