@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-03T14:03:05.454Z
+
+oh and web content shipping without (or with less) presentation layer made me think a little about Agregore / Peersky recently shipping portable user themes.
