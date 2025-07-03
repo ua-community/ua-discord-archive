@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-03T15:37:55.240Z
+
+Gonna test this out https://yuexun.me/how-to-make-your-tauri-dev-faster/
