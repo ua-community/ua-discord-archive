@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-03T13:33:46.316Z
+
+> My current take is that my data indicates that current MCP will always be harder to use than writing code, primarily due to the reliance on inference.
