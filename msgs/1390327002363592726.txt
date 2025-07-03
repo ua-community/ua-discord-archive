@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-03T13:43:08.390Z
+
+had an interesting chat w/ Daniel Feichtinger today about Hypermap https://www.allpurposemachines.com/ twigged my brain around various alternate timelines like xforms, xslt, a more CLI-oriented web and all kinds of other stuff, invited him to join here.
