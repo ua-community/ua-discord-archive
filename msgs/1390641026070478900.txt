@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-04T10:30:57.476Z
+
+the various permutations of chromed vs chromeless windows, maybe worth looking through Electron's Window API. ultimately that's what i lean on most.
