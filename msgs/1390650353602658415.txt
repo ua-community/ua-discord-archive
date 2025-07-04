@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-04T11:08:01.333Z
+
+i'm explicitly taking the "build it how i need it to work" approach and then working my way backward from there.
