@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-07-04T11:58:39.842Z
+
+generic hosting would not work. he is benefiting from the fact that most minecraft servers are only running while their owners are playing them. only 0.25% of servers are active at one point of time. he has an SLA of 26%. i don't know how he came up with that number, but it's ridiculously low. and it barely makes a profit from ads and affiliate links. it's mainly profitable because he is able to recoup sunk costs for his streaming business. he doesn't have to worry about people hosting illegal content or running expensive blockchain or AI stuff, cutting down on admin work. diskspace for minecraft servers is also more predictable. free hosting services that exist all work only because they specialize on one specific type and tech stack.
