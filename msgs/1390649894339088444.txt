@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-04T11:06:11.836Z
+
+not really. desktop PWAs are a nightmare hellscape of fail and mobile PWAs are a nightmare hellscape of partial fail.
