@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-07-05T00:50:00.497Z
+
+Difference is right now apps pay for hosting, and I want a model where users pay for generic hosting that powers all their apps
