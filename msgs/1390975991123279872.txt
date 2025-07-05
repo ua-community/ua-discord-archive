@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-05T08:41:59.368Z
+
+side note: i was rapping w/ someone still working on the Web Features project full time for Google yesterday, and it sounds like Baseline/WF might evolve to 1) capture the whole lifecycle of a "web feature" and 2) start including single-vendor features in a way that is better than pretending they don't exist.
