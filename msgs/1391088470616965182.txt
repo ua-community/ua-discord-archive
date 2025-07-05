@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-05T16:08:56.569Z
+
+The build is also way more flexible in that you can decide which plugins get compiled in, which are default loaded on startup, which users have turned on / off, etc. Nice to have for users but more of an unlock for parallel dev as agents can work on self contained plugins independently.
