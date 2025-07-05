@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-07-05T07:40:34.112Z
+
+i did read it, and i am not getting it. how does the model work? my point is that generic hosting is more expensive than minecraft hosting,  because it needs more resources. by a magnitude or a few more. paid hosting can't make up for that. to figure out if the model works you have to look at the actual resource and cost numbers, compared to the profit the paid part makes. how do you make enough money to afford offering free hosting?
