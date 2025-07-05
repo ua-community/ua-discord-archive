@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-05T08:38:10.308Z
+
+your summary is bang-on, absolutely correct! and from a browser vendor and web standards pov, that is a mess.
