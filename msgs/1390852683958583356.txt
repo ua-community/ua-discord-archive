@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-07-05T00:32:00.649Z
+
+that doesn't change the equation. the problem is that most hosting is way more resource intensive compared to minecraft servers. not even google is doing generic hosting for free. it can be cheap. a few dollars per month, like digital ocean. but free? you'd have to explain how that would work.
