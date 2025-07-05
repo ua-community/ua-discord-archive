@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-05T08:45:58.983Z
+
+there's no one answer. eg Apple and Google's own reasons for supporting or not supporting the web in their own products are wildly different. two different wars-with-self, not even looking at how they're at war with each other.
