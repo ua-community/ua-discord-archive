@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-07T11:39:43.572Z
+
+okayyyy Electron remembers window size/placement... but does crazy stuff when there's more than >1 display, or when there *used* to be >1 displays.
