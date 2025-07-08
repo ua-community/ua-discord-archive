@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-08T15:12:11.832Z
+
+and in my case there's some "rule sets" (for lack of a better description) that i need to implement. eg "lock to right side of primary display, but allow resizing"
