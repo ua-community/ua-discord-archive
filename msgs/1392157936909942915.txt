@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-07-08T14:58:37.203Z
+
+I save window locations to a JSON file in Agregore for this reason BTW
