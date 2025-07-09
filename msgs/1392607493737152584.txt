@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-09T20:44:59.903Z
+
+speaking of prompt injection this is a great read: https://arxiv.org/abs/2503.18813
