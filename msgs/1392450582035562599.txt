@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-09T10:21:29.238Z
+
+sad part is that we probably lost some % of messages along the way
