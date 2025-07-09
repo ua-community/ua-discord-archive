@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-09T10:07:34.958Z
+
+aha was inline encoding message content to base64 but if there's any non-latin chars `btoa()` barfs.
