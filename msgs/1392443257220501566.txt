@@ -1,0 +1,11 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-09T09:52:22.866Z
+
+ok i figured out why Discord screen sharing was not working for me, and it was a confluence of things:
+
+- after migrating OS to new laptop, Discord did not re-ask for screen recording permission, i had to manually re-add it
+
+- the "share entire screen" option is NOT DISPLAYED IN DISCORD! it's overlaid on the top-right corner of the *display*, so if you're usually on a laptop but are now on a large secondary display, you can miss it completely (or i can, anyway)
+
+- on macOS, i could not get Discord to share a desktop that it was not on. i ended up just moving Discord to the desktop i wanted to share.
