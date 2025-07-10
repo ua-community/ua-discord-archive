@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-10T11:54:50.230Z
+
+There are two levels the IWA itself and then the controlled frame. For IWA we are setting everything we can to allow for controlled frames chrome it’s a mixed bag, some are able to be handled in code, others ui is broken, others missing. So yeah still something we are figuring out. Recently I’ve been messing about with chrome profiles patching settings and things so maybe we end up updating the state there and having our own ui.
