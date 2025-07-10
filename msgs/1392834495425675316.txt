@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-10T11:47:01.323Z
+
+how are y'all dealing w/ permissions popups? eg geolocation and whatnot?
