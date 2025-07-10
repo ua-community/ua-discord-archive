@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-10T16:40:06.222Z
+
+the socket gotta come from somewhere, i wonder if you could instead transport over webrtc
