@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-11T17:23:27.240Z
+
+https://github.com/browserbase/stagehand-agent/blob/main/tools.ts
