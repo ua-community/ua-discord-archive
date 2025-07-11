@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-11T19:33:22.355Z
+
+everyone gets a unique generative invite card! Their designers trained a LoRA for this: https://x.com/eschadiol/status/1943743241154965601?s=46
