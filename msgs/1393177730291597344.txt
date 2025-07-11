@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-11T10:30:54.892Z
+
+I read the page when it hit the news, and it just read "different master, same trap" so hard that i didn't look into how they're actually designing the browser experience differently. anything interesting?
