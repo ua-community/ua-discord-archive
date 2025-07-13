@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-13T19:35:04.309Z
+
+from what im hearing, kimi is actually real deal, from multiple sources, until now only anthropic has figured out reliable tool calls, and now they did it too adn its open source (theo's video explains its a similar pattern as of o1, the first reasoning model followed by the open source deepseek R1 model which made the reasoning sauce apparent for the industry):
