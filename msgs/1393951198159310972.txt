@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-13T13:44:24.002Z
+
+my nextjs websites localhost renders get broke in dia, but works nice in comet, guess its time to change defaults again, install a auto pip extension and miss vertical tabs until they ship it
