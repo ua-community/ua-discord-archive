@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-13T07:56:00.802Z
+
+took inspiration from (user)'s approach with his IWA talk at FUTO
