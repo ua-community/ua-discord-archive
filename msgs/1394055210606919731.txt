@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-07-13T20:37:42.502Z
+
+Alright, which genius decided MCP should have direct access to SQL in Supabase?
+https://youtu.be/GhTu53CRtJc?si=6nWSZULrcQcVcB3r
