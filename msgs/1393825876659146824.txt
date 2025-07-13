@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-13T05:26:25.028Z
+
+ok llama 3 8b instruct did ok. I wish they had gemma3
