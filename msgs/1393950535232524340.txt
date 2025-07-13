@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-13T13:41:45.948Z
+
+renders extensions chromeless too unlike arc/dia which I was quite irrirated with
