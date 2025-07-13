@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-13T17:54:24.614Z
+
+Just a simple test of connecting up some context with tool call. Barely scratching the surface of what’s possible
