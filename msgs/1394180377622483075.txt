@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T04:55:04.644Z
+
+Few more links from my search. This issue and comment is helpful. https://github.com/anthropics/claude-code/issues/1454#issuecomment-3015121719
