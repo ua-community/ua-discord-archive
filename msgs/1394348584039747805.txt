@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-07-14T16:03:28.179Z
+
+The most common downside of a strategy like this is the (de)serialization cost, so that's what I would be measuring. The less state you have to share across workers - or between workers and main thread - the better I expect this to work.
