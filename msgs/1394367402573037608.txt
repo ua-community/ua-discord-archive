@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-07-14T17:18:14.867Z
+
+Fair point yeah. I do make use of shared workers now for the most part to reduce the need for state cloning. The use case for the pooling is more specific, for example, there's a worker that's pretty heavy-duty, responsible for both making huge directory trees based on a number of HTTP requests, and downloading large binary blobs. If I wouldn't create multiple workers for that one, there would be too much waiting/blocking. And in that case, the (de)serialization cost is surprisingly low (I do make use of `postMessage` transferables when possible).
