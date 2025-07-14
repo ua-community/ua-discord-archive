@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T05:10:08.184Z
+
+Couple of ways to turn GitHub url into LLM friendly content (change g to u) https://uithub.com/agent54/xe-darc and deep wiki is another one https://deepwiki.org
