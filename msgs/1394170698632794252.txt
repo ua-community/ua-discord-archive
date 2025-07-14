@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T04:16:36.993Z
+
+On the topic of models for tool calling / mcp, Jan Nano seems interesting to me. mlx-community/Kimi-K2-Instruct-4bit
