@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T04:59:20.272Z
+
+Dumping more links for future self reference. How claude code sub usage limits work. https://www.youtube.com/watch?v=2fbqo9Bdd_w
