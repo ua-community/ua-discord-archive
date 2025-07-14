@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-07-14T17:11:24.053Z
+
+Good to know! It's actually a mix between multiple same-origin and cross-origin. In some rare cases it's additionally also a mix between UI and processing, so I do want to keep workers in there just to avoid UI blocking.
