@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T04:46:37.937Z
+
+Searching for article I saw but cant find on how to get the claude code max sub auth token out of claude code so you can used in your own stuff and found this article. https://idsc2025.substack.com/p/how-i-built-claude_max-to-unlock
