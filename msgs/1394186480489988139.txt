@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T05:19:19.681Z
+
+Yeah I run it from source.
