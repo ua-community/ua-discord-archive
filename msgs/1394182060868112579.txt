@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T05:01:45.961Z
+
+RooCode declined to add the feature but the thread is interesting. https://github.com/RooCodeInc/Roo-Code/issues/4799
