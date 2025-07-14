@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-14T05:00:03.606Z
+
+open code added support.. https://github.com/sst/opencode/blob/dev/packages/opencode/src/auth/anthropic.ts
