@@ -1,0 +1,7 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-07-14T15:50:55.390Z
+
+Has anyone done pooling of web workers? If so, did you use any js libraries, or just wrote manual code? And how did you find the performance benefits?
+
+context: I'm trying to build a solution to spread work cross-origin using web workers, building a tunnel from the consumer to the cross-origin web worker (through iframes). So far, I've got some "free" parallelization because every iframe starts a worker; so if you want to execute tasks in parallel you just create multiple iframes. There's most likely too much overhead here tho, but it works. Pooling of web workers would be neat I assume, but it is again extra code.
