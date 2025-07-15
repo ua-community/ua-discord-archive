@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T20:07:49.925Z
+
+The way: “Users won’t adopt a new system just because it’s “the right thing.” They’ll adopt it because it works better. In the status quo marketplace of software, users usually must trade privacy for functionality. The opportunity now is to flip that equation — to create tools so useful that users don’t even realize they're benefiting from sovereign data.”
+
+https://blog.usv.com/the-rebel-alliance
