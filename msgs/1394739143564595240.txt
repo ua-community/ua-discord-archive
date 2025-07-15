@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T17:55:24.826Z
+
+This paper uses a SLM for generating reasoning traces that's used by a larger model to improve inference speed by 8X: https://openreview.net/attachment?id=kwhQ6Btu5E&name=pdf
