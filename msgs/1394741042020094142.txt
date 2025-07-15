@@ -1,0 +1,11 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T18:02:57.453Z
+
+"In Minions, the raw context stays local and can only be accessed by the local LLM. The frontier model orchestrates local LLMs and aggregates their outputs."
+
+They introduce a a comprehensive security protocol that builds around the new “confidential computing mode” introduced with NVIDIA’s Hopper H100 GPUs, so that some information that still goes to the cloud remains end to end encrypted.
+
+This setup has less than 1% overhead/latency
+
+https://ollama.com/blog/secureminions
