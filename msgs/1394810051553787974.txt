@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T22:37:10.608Z
+
+From what I’ve learnt they’re not based on transformers architecture
