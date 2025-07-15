@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T13:22:52.541Z
+
+Also: https://www.notion.com/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
