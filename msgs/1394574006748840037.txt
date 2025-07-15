@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T06:59:13.141Z
+
+Interesting research from Apple: https://arxiv.org/abs/2504.02122
