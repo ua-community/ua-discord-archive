@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T20:19:36.499Z
+
+Workshop Labs speak of training billions of models, one for each person, their own data moat
