@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-07-15T20:18:44.977Z
+
+I've been using https://tinfoil.sh/ and so far I'm pretty happy with them. Not "enterprise grade," but accessible confidential inference for me.
