@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-15T10:09:10.265Z
+
+@here last week over in <#1352159794559189112> we remixed the U&A homepage text a bit now that more (A LOT MORE) people are here, and half a year of conversation + sharing have given more shape to the interests and practices and values of the community. take a look at https://userandagents.com/. PRs and suggestions or emoji reactions all  are welcome. thanks for being here and sharing some of your short time on earth with us all, and making this a rad place to hang out!
