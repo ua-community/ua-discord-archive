@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T22:17:00.013Z
+
+New Gwern essay on continual learning: https://gwern.net/ai-daydreaming
