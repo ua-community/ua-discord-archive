@@ -1,0 +1,7 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-07-15T21:37:39.373Z
+
+Human-computer intra-action (HCIA)
+
+https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1083800/full
