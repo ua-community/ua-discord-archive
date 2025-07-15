@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T21:33:41.775Z
+
+can confirm, works great with Claude, now I can deep research all my content across Notion and Drive from a single interfacehttps://www.notion.com/blog/notions-hosted-mcp-server-an-inside-look
