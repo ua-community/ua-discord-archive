@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-15T20:20:27.294Z
+
+With the new Tiles my goals are similar but I’m limiting myself to infrastructure systems that can do continual learning on your usage, but the core thesis is similar to them: “We’re betting that tacit and local knowledge will be a bottleneck to AI, especially for qualitative work”
