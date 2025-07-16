@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-16T10:49:34.355Z
+
+https://github.com/1rgs/claude-code-proxy
