@@ -1,0 +1,5 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-07-16T04:12:52.371Z
+
+I'm definitely in awe of Excel, the malleable system to beat. But the lack of version control is notable. Much less capturing intent! The way that intra-action writing markdown files ad-absurdum captures/clarifies intent is a powerful improvement that this AI era is bringing the software-development lifecycle, records history & intent so much better than so much of how dev has been done before.
