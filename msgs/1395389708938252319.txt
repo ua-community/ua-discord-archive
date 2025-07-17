@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-17T13:00:31.698Z
+
+This post is changing my mind on the intent router concept: https://gwern.net/tool-ai
