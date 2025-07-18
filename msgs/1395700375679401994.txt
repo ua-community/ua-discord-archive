@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-18T09:35:00.421Z
+
+https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025
