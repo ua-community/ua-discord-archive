@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-18T06:29:39.719Z
+
+I bought a ticket although I may actually have a conflict now (IETF in Montreal for ATProto proto-wrangling)
