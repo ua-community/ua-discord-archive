@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-21T10:28:33.062Z
+
+Maybe used for post message routing or something
