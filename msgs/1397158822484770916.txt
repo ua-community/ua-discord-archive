@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-22T10:10:21.236Z
+
+quite interesting architecture tradeoffs for diff applications: https://www.youtube.com/watch?v=-OXiljTJxQU
