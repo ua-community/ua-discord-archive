@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-22T10:59:31.915Z
+
+Maybe that’s too complicated but it’s clear managing and visualizing what is and isn’t in context is big deal
