@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-22T10:58:56.113Z
+
+It might make sense for it to be  associations that are on or off for including in the current context. Like if I start chat with one thing connected then it suggests a bunch of pages which get added, then later in chat I decide context is growing too much and disable some of the things. But historically they are still part of the chat, they were connected at some point
