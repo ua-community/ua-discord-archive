@@ -1,0 +1,9 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-07-22T21:14:54.365Z
+
+https://groups.google.com/a/chromium.org/g/blink-dev/c/W444JxsqxZw?pli=1
+
+This seems similar in spirit to what a few folks here have been exploring.
+
+> Script Tools enable authors to expose JavaScript APIs on their site for automated use by the user agent. They allow an author to annotate these APIs with descriptions and provide input schema, allowing automation frameworks a more specific method to access the site's functionality.
