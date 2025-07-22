@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-22T10:51:29.287Z
+
+Does it make any sense. Not saying it’s right but it also doesn’t feel like having chat as child of tab is correct either as I’ll likely be moving between pages and tabs but want to bring the chat context along with me
