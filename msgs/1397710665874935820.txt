@@ -1,0 +1,5 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-07-23T22:43:10.953Z
+
+it'll be interesting to see what the model is. i initially thought that you'd need to leave the page open, and the page could basically be an MCP server, offer tools. a headless applet, a context provider. but perhaps maybe chrome will be able to on-demand re-launch pages; that'd be wild.
