@@ -1,0 +1,5 @@
+UserId: 750270743136174100
+Username: (user)
+Time: 2025-07-23T13:25:56.051Z
+
+For all you fellow Obsidian nerds: https://medium.com/@martk/talking-to-your-second-brain-build-a-flowise-rag-to-chat-with-your-obsidian-vault-00645106e73b
