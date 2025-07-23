@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-23T11:34:23.297Z
+
+Changed default back to Dia, thread closed, mostly for vertical tabs 😂
