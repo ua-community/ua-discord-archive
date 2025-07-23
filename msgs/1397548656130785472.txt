@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-23T11:59:24.820Z
+
+https://9to5mac.com/2025/07/22/apple-almost-open-sourced-its-ai-models-heres-why-it-didnt-report/
