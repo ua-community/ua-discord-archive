@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-24T14:43:04.078Z
+
+I split it into two separate things in my head... one is clearly AI's arrival means our computing platforms and interfaces are going to undergo massive change. It feels like early days of the internet with big companies trying to control the "portal" to this new world in order to capture context/data of users and lock them in. Thankfully we have open source and some subset of people will choose to run and create software that prioritizes their agency. The other is the existential question of what happens to humanity when different groups of humans wield ASI and try to use it for their advantage, what can/will go wrong, etc. Nobody knows where we end up. If there is any solace it's that humans have in the past proven to be quite adaptable to change and resilient in the face of adversity.
