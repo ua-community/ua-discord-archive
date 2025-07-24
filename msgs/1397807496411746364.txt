@@ -1,0 +1,9 @@
+UserId: 823757327756427295
+Username: (user)
+Time: 2025-07-24T05:07:57.152Z
+
+Quick ask for this group: I'm putting together this event in NYC in August, all about the future of the web (along with some colleagues in the AI/protocols/web publishing space).
+
+We're still looking for a speaker to talk about MCP, in particular how someone might publish information to the agentic web via MCP (instead of a traditional web page). We've had some pretty cool people sign up – WaPo, ProPublica, Cloudflare, Mozilla, and Free our Feeds.
+
+Would anyone be interested/know someone who might be knowledgeable on this topic? Also if anyone from this group happens to be in NYC on the 20th of August you should totally come join!
