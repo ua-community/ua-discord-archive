@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-24T11:56:12.493Z
+
+has a CoT too
