@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-24T11:57:11.251Z
+
+cant access Amazon India, possibly due to CORS on the server side, only way out is shipping a client side browser at least for the short term/bridge
