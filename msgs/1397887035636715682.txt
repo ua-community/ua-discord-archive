@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-24T10:24:00.781Z
+
+Yup and have the ai auto generate the tools for a given site and then cache them for future use
