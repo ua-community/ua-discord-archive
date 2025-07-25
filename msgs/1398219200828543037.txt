@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-25T08:23:55.134Z
+
+https://statmodeling.stat.columbia.edu/2024/05/09/who-understands-alignment-anyway/?utm_source=substack&utm_medium=email
+
+“Observes that all interdisciplinary collaborations tend to be hard, and the one between Machine Learning (ML) and Human-Computer Interaction (HCI) seems likely to be particularly slow and messy. HCI reached its apogee with the advent of desktop and mobile UIs, while ML is currently at its peak; so, what should the HCI expert do? Continue to work on AI within their field or "temporarily reinvent themselves as an ML researcher"?”
