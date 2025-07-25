@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-25T08:16:52.109Z
+
+https://www.gettheleverage.com/p/who-wins-the-browser-wars
+
+“Armstrong argues that the ultimate winner will be the browser that amasses the deepest user data to train agentic models, making subscriptions and behavioral logs, rather than ads, the decisive moats.”
