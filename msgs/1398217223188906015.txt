@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-25T08:16:03.628Z
+
+https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law
