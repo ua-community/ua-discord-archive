@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-26T10:46:40.553Z
+
+sort of compating what its created to keep the good bits while tightening the prompts and guards
