@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-26T09:40:05.452Z
+
+i ended up with one main claude running opus, a minion one that runs a watcher loop (watching and unblocking sub agents), then a bunch of sub agents doing actual work
