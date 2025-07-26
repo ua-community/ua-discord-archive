@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-26T21:18:36.670Z
+
+I’m making a Tauri client which will act as the Ollama alternative
