@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-07-26T10:34:46.238Z
+
+right, which is why we need server applications that make that easy. we have server platforms that allow others to register and create accounts. some of them are easier to use and manage than others. including the server i am working on
