@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-26T21:35:27.714Z
+
+As an internal thing with this new Tiles I’m making a Tauri client which will act as the Ollama alternative, It’ll use mistral.rs rather than llama.cpp cause of its multimodal, and quant variety support. still runs GGUF, but has its own take with UQFF format models, guess this is exciting wrapper bit work to do: https://github.com/EricLBuehler/mistral.rs/issues/947
