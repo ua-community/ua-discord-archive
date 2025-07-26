@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-26T04:37:29.411Z
+
+exploring tmux + claude code + git worktree today. key ahah moment when I realised the main agent can fully interface with tmux and see the other panes, this allows it to spin up more claudes and interface with them via the tui sort like sub agents in claude but better as each is an isolated claude and both the ai and I can interact with them.
