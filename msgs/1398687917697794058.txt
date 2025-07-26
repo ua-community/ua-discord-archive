@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-26T15:26:25.944Z
+
+Perhaps splitting review tasks and action tasks might help as often it feels like agents overdo whatever it is they are asked to do
