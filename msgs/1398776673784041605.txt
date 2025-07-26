@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-26T21:19:07.044Z
+
+It’ll use https://github.com/EricLBuehler/mistral.rs
