@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-26T15:26:53.216Z
+
+Like you told me to keep it simple so I’ve just deleted half your code base
