@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-26T22:04:27.861Z
+
+Self hosting (hosting for yourself) is a very different setup than what is needed for a service to a group
