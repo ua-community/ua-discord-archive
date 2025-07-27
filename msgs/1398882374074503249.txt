@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-27T04:19:07.957Z
+
+Chrome platform apps would have used https://developer.chrome.com/docs/apps/reference/clipboard so maybe it’s left over from that
