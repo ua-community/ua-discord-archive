@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-27T12:36:17.517Z
+
+For a note, with the new Tiles, I’m just doing my best to make the best fine tuned model for myself as the first step, on my data exports from Notion
