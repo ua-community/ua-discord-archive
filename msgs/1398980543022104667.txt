@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-27T10:49:13.258Z
+
+if clipboard code out there falls back to older api it might be possible to monkeypatch in the paste event on document
