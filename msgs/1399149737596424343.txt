@@ -1,0 +1,7 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-07-27T22:01:32.388Z
+
+a reply to the above article making some interesting points.
+https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign
+btw, both articles are also being discussed on hackernews. if you like i can share those discussions too.
