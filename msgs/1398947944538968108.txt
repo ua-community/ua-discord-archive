@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-27T08:39:41.174Z
+
+“The thing is, when it comes to network resources, we already know that the best way to optimize network capacity is to offload traffic to other services where possible. That’s why phones like to use Wi-Fi for calls, for example. Why would it be any different for AI?”
