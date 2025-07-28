@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-28T00:19:18.038Z
+
+Yep but right now it’s probably flakier than discord (eg no email notifications and no recurring events)
