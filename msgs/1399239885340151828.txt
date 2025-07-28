@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-28T03:59:45.285Z
+
+Welcome (user)! my friend John is based in eastern Canada. A long time ago he helped build adoption for Digital Ocean and is generally an expert at go to market for dev tools. He’s working for an agent code builder and thinking about how and why these tools get adopted into teams.
