@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-28T00:20:20.884Z
+
+Eg Discord event (API) publish to smoke signal would get you an ICS feed
