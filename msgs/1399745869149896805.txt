@@ -1,0 +1,13 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-29T13:30:21.226Z
+
+Likely be a good group of folks attending, for people working on privacy:
+
+> Protocol Labs x Web3PrivacyNow are organizing a digital privacy retreat this fall (Sept 21-23, near Berlin). Our goal is to bring together the top builders and front-line organizers and policymakers in digital privacy and digital rights to align on roadmaps, drive technical coordination, and accelerate progress toward a more resilient internet. It's a 3-day retreat hosted at Landgut Stober about 1h outside of Berlin. All expenses are covered onsite. 
+
+> beyond known leaders & luminaries, we're convinced it's the next generation of builders who will actually make the things that move the needle. ("In-between founder energy" is one way to put it.) To that end, we want to invite people who have capacity to pursue new ideas, and we're setting up a $100k grant pool / fellowship program for projects that arise from this retreat.
+
+> We have a small pool of funding available for travel support for those who couldn't otherwise make it.
+
+https://cypherpunk.camp
