@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-07-29T09:06:07.145Z
+
+I used to refer to this as the pain of learning to that of you keep banging your head against the wall (debugging and trying things until it works) the wall will eventually crack and break. Keeping going despite the pain was part of the job. Now it’s very different
