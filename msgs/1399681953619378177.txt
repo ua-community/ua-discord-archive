@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-29T09:16:22.576Z
+
+Haha yeah that's kinda what Singular does under the covers: Electron app that generates Electron apps.
