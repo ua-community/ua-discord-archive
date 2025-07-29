@@ -1,0 +1,9 @@
+UserId: 586956413452943397
+Username: (user)
+Time: 2025-07-29T13:59:43.836Z
+
+Hi all, just joined this discord (thanks (user) for inviting me) - super interesting community here.
+I'm trying to figure out how entire organizations (not just techies) can put swarms of agents to work.
+Some early experiments [here](https://agents-chat.jldec.me/) probably give away my affinity to building on Cloudflare.
+Next on my radar is managing [memory](https://x.com/jldec/status/1949897383145517510) using simple stored history and editable text for context.
+Please reach out if you want to collaborate (or if you know anyone looking to hire in this space).
