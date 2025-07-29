@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-29T09:04:06.648Z
+
+I was thinking about it, and I have a few very specific times where I had to debug something for *days*. I learned way more in those times, than I did while writing the code that was failing.
