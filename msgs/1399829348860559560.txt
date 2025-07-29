@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-29T19:02:04.340Z
+
+agree but you're splitting semantic hairs. the same origin model is both paradigmatically and implementation locked, so "origin" means what is implemented. we are in fact actually talking about better origin models.
