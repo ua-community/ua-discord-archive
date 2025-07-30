@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-30T14:32:08.656Z
+
+DNS-only SOP is not everything under the sun, and shouldn't have to be.
