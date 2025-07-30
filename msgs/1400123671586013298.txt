@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-30T14:31:36.346Z
+
+i think we're in agreement. there's not great language b/c of how single-definition goggled things have been on the web for so long. definitely a "yes and" to SOP and DNS.
