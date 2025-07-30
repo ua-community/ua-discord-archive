@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-07-30T18:49:36.515Z
+
+The data is my data. Why should some other authority determine what constitutes (un)desirable leakage?
