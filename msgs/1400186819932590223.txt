@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-07-30T18:42:32.085Z
+
+DNS may not be _the_ elemental evil, but it is conspicuously adjacent to a lot of the properties of the web that are user hostile.
