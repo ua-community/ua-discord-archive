@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-07-30T18:33:16.693Z
+
+These things are interrelated, though. "My origin, my rules," mentality begets self-serving behavior over time. You can see it in the way the web has transitioned from interconnecting / co-operating origins into silos (where even hyperlinking is carefully mediated).
