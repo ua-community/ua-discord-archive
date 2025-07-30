@@ -1,0 +1,7 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-07-30T14:35:07.372Z
+
+I summarized it like this, at https://github.com/webtransitions/initiatives/issues/12
+
+> While DNS-based origins and the SOP have proven a generally successful security model for web applications, the specific and exclusionary use of the DNS system in origins does limit the use-cases the web is able to address.
