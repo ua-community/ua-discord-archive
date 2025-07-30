@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-07-30T18:44:23.089Z
+
+From my PoV, the main issue with it is that it moves the center of the model away from the user. The user is going to someone or somewhere else, some other authority, to access their data and to do basically anything on the network.
