@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-31T10:54:32.324Z
+
+Yeah, for me table stakes are csv imports/exports, newsletter/RSS support, fast branding/theming options, monetisation options, and a non spammy/cluttery ui
