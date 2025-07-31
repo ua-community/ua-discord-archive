@@ -1,0 +1,5 @@
+UserId: 332330209858813952
+Username: (user)
+Time: 2025-07-31T12:38:50.887Z
+
+leaflet is building "substack for atproto" https://bsky.app/profile/leaflet.pub though I suspect its probably not as mature as you're looking for
