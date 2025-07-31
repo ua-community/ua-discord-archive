@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-31T04:16:05.896Z
+
+(user) some of you may already know. Worked with me at Fission and is one of the best systems thinkers I know. From design to product to vibe coding a little e2ee rust protocol or two
