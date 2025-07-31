@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-07-31T22:09:51.000Z
+
+https://github.com/pipecat-ai/smart-turn?tab=readme-ov-file
