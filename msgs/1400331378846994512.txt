@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-07-31T04:16:57.616Z
+
+He’s also done a lot of thinking about key recovery and privacy among many other things
