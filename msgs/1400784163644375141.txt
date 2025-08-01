@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-01T10:16:09.924Z
+
+I’m increasingly convinced that making fine-tuning accessible through parameter-efficient methods is a core building block for enabling truly personal software.
