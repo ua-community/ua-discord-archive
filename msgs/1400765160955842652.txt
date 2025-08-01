@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-01T09:00:39.330Z
+
+"Cogito v2 Preview is Deep Cogito's latest release of models that spans 4 model sizes ranging from 70B to 671B. By using IDA (Iterated Distillation & Amplification), these models are trained with the model internalizing the reasoning process using iterative policy improvement, rather than simply searching longer at inference time (like DeepSeek R1).
+
+Deep Cogito is based in San Fransisco, USA"
