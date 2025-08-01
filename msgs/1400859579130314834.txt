@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-01T15:15:50.377Z
+
+also amp's implementation is similar to vscode that covers 100% of MCP spec, the only MCP client to do so, they automatically assemble set of tools definitions from different server/batch it intelligently to improve the workflow response
