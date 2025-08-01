@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-01T15:14:23.461Z
+
+Instead of just using traditional deterministic search tools, AMP delegates the task of context gathering to an internal subagent. This subagent operates agentically—it iteratively invokes different low-level search tools, reasons over the results, and refines its queries to collect the most relevant context from the codebase or external sources.
+
+"AI calls the tool" / "Tools call the AI phenomenon: https://gwern.net/tool-ai
