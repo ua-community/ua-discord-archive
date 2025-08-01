@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-01T14:47:48.929Z
+
+excellent resource for anybody playing with MCP agents: https://www.youtube.com/watch?v=HNzH5Us1Rvg
