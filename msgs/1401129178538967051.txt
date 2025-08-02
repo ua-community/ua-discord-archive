@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-02T09:07:07.885Z
+
+after trying a LOT of them, i like this one best: https://github.com/apexskier/DefaultBrowser
