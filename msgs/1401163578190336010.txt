@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-02T11:23:49.401Z
+
+~1yr ago they appointed the current CTO and VPE, and both are *excellent* folks. while the rest of upper management keeps doing crazy+useless stuff that makes headlines for pissing off users, having that technical leadership in place has been great for letting the eng group focus - has shown in how much better the front-end has gotten. it's honestly kind of amazing how much they've shipped in the last year, considering how little changed for so long.
