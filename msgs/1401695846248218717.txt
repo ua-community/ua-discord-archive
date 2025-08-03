@@ -1,0 +1,16 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-03T22:38:51.995Z
+
+I want a world where we have mainly local inference using open source models. But, I'm skeptical we will get that world.
+
+My skepticism of smaller and/or open-source models is two-fold:
+
+- They still cost a lot of money to train (perhaps less over time, but today it is still a lot more than an individual can typically muster) and the business case to train them and release them for free/unencumbered is unclear
+- Intelligence-on-tap game dynamics inform us that when the rubber hits the road, users do not want to settle for a "lesser" intelligence e.g.,
+
+> gpt-3.5 is 10x cheaper than it was. it's also as desirable as a flip phone at an iphone launch.
+> 
+> when a new model is released as the SOTA, 99% of the demand immediatley shifts over to it. consumers expect this of their products as well.
+
+Via https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed
