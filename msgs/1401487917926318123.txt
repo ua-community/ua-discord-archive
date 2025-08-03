@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-03T08:52:38.020Z
+
+i'm still trying to figure out how smaller+better+faster w/ open source models doesn't end up killing the internet economy by removing real views and then micro-models putting all these LLM services companies out of business (except Nvidia maybe), collapsing their briefly consolidated power, resulting in total global economic meltdown and then revolution and glorious communist utopian rebuild.
