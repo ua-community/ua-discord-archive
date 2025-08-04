@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-04T15:21:51.900Z
+
+https://www.reddit.com/r/LocalLLaMA/comments/1mgt5bx/a_rambling_post_on_ollama_llamacpp_and_when_to/
