@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-04T08:11:00.904Z
+
+Small models better than frontier models when fine tuned and costs and ease to do fine tuning have gone down in last year or so. It’s just that we need more accessible ways to deploy SLMs on device, orchestrate and fine tune them coherently, that’s the problem I’m working on presently with the new https://tiles.run/
