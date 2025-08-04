@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-04T00:20:51.068Z
+
+Maybe framing this problem another way: who here is a daily driving a model that they chose because it is better on principled grounds (versus whatever SOTA managed model that is considered the "best for coding" or "most intelligent")?
