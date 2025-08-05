@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-05T07:32:58.804Z
+
+the narrow ui i designed for tiles homepage, communicates how our present paradigm for information processing have become multi tab interfaces and the ways users cope with them, either through better window managers and wider screens
