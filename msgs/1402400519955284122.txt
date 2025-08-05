@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-05T21:18:59.299Z
+
+https://stratechery.com/2025/apple-earnings-cooks-ai-comments-apples-ai-strategy-redux/
+
+“In other words, Cook’s evaluation of the Siri flub is not that Apple was pursuing the wrong strategy, but simply that they executed poorly.”
