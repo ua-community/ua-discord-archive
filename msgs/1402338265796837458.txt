@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-05T17:11:36.751Z
+
+the harmony library is built with a Rust core: https://cookbook.openai.com/articles/openai-harmony
