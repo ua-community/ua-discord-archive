@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-08-06T23:34:36.257Z
+
+ok, apps web i can see as a focus for alternative browsers, because you'd install that to get specific apps.
