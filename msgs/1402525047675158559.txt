@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-06T05:33:49.021Z
+
+Perhaps a reduced version of the problem is if I do a linear regression on half a dataset and another on the other half, can I get the combined linear regression just from some operation on the first two regressions?
