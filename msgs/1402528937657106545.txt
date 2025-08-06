@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T05:49:16.465Z
+
+Also ART framework have made it easier to fine tune as we don’t need to implement policy or reward functions at all for fine tuning anymore, it uses Unsloth: https://github.com/OpenPipe/ART
