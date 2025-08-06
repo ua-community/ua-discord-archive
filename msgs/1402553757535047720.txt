@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T07:27:53.985Z
+
+Ollama has a subscription tier now
