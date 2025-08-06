@@ -1,0 +1,7 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-06T17:47:50.529Z
+
+I agree with you that hardware is in play.
+
+My observation is that we (and I include myself here) are hoping that comparatively small, free models remain in abundance because that suggests we may have a world with private, personal, local inference; but, we are lacking a viable economic loop to secure that world.
