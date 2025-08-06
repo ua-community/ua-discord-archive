@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-06T05:30:39.072Z
+
+Another thought, I'm no expert in AI math and training but it would be cool to have a combination of on-device models, personal data server models, and models that train off each other p2p. One thing I'd like to know is if I train one model on half my data, and another model on the other half, is it possible to merge the two models faster than it would take to train one model on all of the data?
