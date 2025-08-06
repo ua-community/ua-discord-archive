@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-08-06T23:38:12.130Z
+
+i mean the seam client, it's using html tech, but it wouldn't have to, and we would not notice
