@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T06:00:23.994Z
+
+This can work rn if we had a continual learning based SLM on device, presently we don’t have that. Most model experiences only store either short term things through RAG or long term through static weights, so key is to have fast personal weight updates on device/any other secure method like TEE, we can imagine people tapping to each other phone to exchange such details like they do rn for contacts on iPhones
