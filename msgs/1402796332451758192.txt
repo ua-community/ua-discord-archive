@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-06T23:31:48.352Z
+
+So, by saying "the first thing it needs is a full translation layer" is setting impossible starting conditions
