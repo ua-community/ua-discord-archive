@@ -1,0 +1,5 @@
+UserId: 301640021054717954
+Username: (user)
+Time: 2025-08-06T23:29:47.062Z
+
+i'd love for this to become real, but how is it going to work? i don't want to sound defeatist but alternative browsers are going to have a hard enough time catching up supporting the DOM as it is. i don't see them taking the lead on developing a better HTML alternative. the first thing a new form of HTML needs is a translation layer to the old form so that my website can be viewed with browsers that don't support it.
