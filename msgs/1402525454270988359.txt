@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-06T05:35:25.961Z
+
+If that is possible, that should be much computationally cheaper than training the entire model linearly, because the size of the model is always much smaller than the size of the data
