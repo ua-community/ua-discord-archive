@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-06T07:52:33.525Z
+
+So all these open-weight model vendors are (secretly?) gunning to sell us hardware for inference at home?
