@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T06:00:58.884Z
+
+Also most of them are based on facts rather than reasoning traces
