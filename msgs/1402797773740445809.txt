@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-06T23:37:31.982Z
+
+Steam is a publishing platform which doesn't itself have any facility for building games ... but they do include an account system, payments, AND really great file storage sync
