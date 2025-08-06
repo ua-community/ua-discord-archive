@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T07:11:23.440Z
+
+Exo labs would use event sourcing for their new v2 release, the Yrr bhislding a distributed inference and training solution: https://x.com/MattBeton/status/1930833977985679362
+
+cc (user)
