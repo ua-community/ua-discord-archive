@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T05:54:59.506Z
+
+Adapters are way to go for this, there’s a thing called lora switching at runtime, and lora merging too but they’re suboptimal imo. A better way to do is through hypernetworks which are basically MLPs with ability to generate LoRAs as they are trained on 7-8 diff kind of LoRAs adapters, so in theory we can just share and merge these LoRAs and trai in into a hypernetwork (it’s a 200MB or so MLP that works alongside a main LLM)
