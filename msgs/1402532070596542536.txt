@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T06:01:43.416Z
+
+I’ll like to see more tools that do training on reasoning traces to personalise models not just vague input/output prompts, this way to me feels much more efficient and scalable
