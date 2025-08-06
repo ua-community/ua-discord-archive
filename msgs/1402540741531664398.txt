@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T06:36:10.728Z
+
+“Our approach can be viewed as a form of model merging—combining multiple models into a single unified model [4, 5, 6]. However, FlexOlmo is specifically designed to address the unique challenges of our setting: merging models that have been pre-trained on entirely disjointed datasets with differing distributions. We show that prior model merging techniques struggle in this scenario, whereas FlexOlmo is able to handle it effectively.”
