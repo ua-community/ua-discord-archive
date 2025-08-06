@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-06T05:53:35.879Z
+
+Crazy biomimicry idea: SLMs dialoguing with each other to transfer the most important info, similar to how human brains synthesize their models
