@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T05:50:41.959Z
+
+There’s research here on model merging and LoRAs as well, I’ll specifically point at hypernetworks as a promising approach as it has ability to fine tune at runtime in a way, it generates small lora adapters at runtime for each prompt
