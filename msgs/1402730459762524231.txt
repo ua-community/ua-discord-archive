@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-06T19:10:03.079Z
+
+https://acko.net/blog/html-is-dead-long-live-html/
