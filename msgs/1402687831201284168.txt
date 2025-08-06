@@ -1,0 +1,16 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-06T16:20:39.638Z
+
+Yeah, I get that. I just don't see how the economics make sense. The proposed scenario as I understand what I'm reading here:
+
+1. Spend billions on research and training to produce the model (a commodity artifact)
+2. Release the unencumbered weights for free
+3. ???
+4. Make it up selling a device that facilitates inference (perhaps only for the vendor's model?)
+
+What doesn't make sense to me:
+
+- If the hardware is constrained so that it only supports the vendor's models, that seems to be the same as the OpenAI play: users effectively are not able to choose their model
+- Model choice only matters if there are models to choose from; hardware play seems like it would favor vertical integration (at least for the foreseeable future); how will all the alternatives make money?
+- If the hardware is open-ended (in the sense that it preserves user choice of models), great! But, that implies that the hardware is also a commodity. Where is the economic return going to come from?
