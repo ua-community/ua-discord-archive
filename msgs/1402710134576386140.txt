@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-06T17:49:17.177Z
+
+When I look at what we have right now, the easiest thing to imaging is a funnel up into a proprietary, sticky, vertically-integrated world where users are beholden to an intelligence vendor.
