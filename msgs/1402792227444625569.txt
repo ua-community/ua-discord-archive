@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-06T23:15:29.642Z
+
+What new primitives might alt browsers include? is a good questions
