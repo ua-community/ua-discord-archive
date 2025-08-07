@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-07T16:21:44.423Z
+
+I hope we get there. Model training is a red queen's race for the foreseeable future (e.g., no one cares how cheap it is to train a ~GPT-3.5 tier model in 2025). The capital cost demands VC investment, which means there has to be some large multiple of the principle in upside opportunity to justify it.
