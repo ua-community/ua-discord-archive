@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-07T18:58:02.057Z
+
+on swe bench claude opus 4.1 and gpt-5 score the same, its still a commodity
