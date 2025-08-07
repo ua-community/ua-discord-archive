@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-07T18:36:45.951Z
+
+list of models I'll be implementing/working around for tiles first generation, starting with gemma3n and gpt-oss-20b
