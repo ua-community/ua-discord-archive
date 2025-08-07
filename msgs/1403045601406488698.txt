@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-08-07T16:02:18.702Z
+
+Right anyone up for demos today. I know @janj has some mind bending container / dev workflow stuff to show.
