@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-07T00:02:32.558Z
+
+I have a lot of thoughts about how alt browsers need to get the single responsibility principle right
