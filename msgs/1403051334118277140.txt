@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-07T16:25:05.487Z
+
+Will look into it, I’ve a very rough understanding of optimisers used in training LMs atm
