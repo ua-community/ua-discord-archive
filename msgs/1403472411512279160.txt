@@ -1,0 +1,7 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-08-08T20:18:18.161Z
+
+https://spacecadets.love/web-browsers-and-the-politics-of-media-power/
+
+> As browsers are rebuilt for mass surveillance and manipulation, the systems that decide what people see and who gets heard are being rewritten without us. Control over the browser is control over political reality.
