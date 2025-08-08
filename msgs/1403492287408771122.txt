@@ -1,0 +1,7 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-08-08T21:37:16.944Z
+
+Most notably, (user) and I wrote a paper titled "Live Programming in Hostile Territory" which outlines a set a adversarial strategies for how to reappropriating existing computing infrastructure like the web and accessibility trees to be more amenable to additive changes by end-users.
+
+https://folkjs.org/live-2025/
