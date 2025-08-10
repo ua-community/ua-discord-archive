@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-10T00:36:46.792Z
+
+But otherwise, vanilla JS is always looking elements up by ID like an ECS
