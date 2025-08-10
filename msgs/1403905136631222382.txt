@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-10T00:57:47.869Z
+
+The encapsulation boundaries of the vanilla web are very strange, the DOM has composition hierarchy of elements but then JS has basically a god view of everything in it
