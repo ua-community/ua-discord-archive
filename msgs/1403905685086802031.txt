@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-10T00:59:58.631Z
+
+Why on earth did we built the web so insecure by default?
