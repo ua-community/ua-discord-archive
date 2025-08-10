@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-10T00:35:33.222Z
+
+Well, I guess HTML provided static composition hierarchy
