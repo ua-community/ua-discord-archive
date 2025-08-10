@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-10T01:02:20.685Z
+
+It's embarrassing that bobby tables was *ever* possible
