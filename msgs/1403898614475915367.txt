@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-10T00:31:52.866Z
+
+It occurs to me that HTML, CSS, and JS have a similar separation of concerns as Entity Component Systems, meanwhile component frameworks champion composition hierarchies more similar to OOP
+https://youtu.be/wo84LFzx5nI?si=DASYrbxjzdAtRpmd
