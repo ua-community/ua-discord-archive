@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-10T10:22:28.767Z
+
+https://developers.googleblog.com/en/introducing-langextract-a-gemini-powered-information-extraction-library/
