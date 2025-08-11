@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T11:27:40.676Z
+
+Components just draw useful encapsulation boundaries within that
