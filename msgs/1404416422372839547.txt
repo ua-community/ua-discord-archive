@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T10:49:27.889Z
+
+UI components are great, but the underlying data structures of the UI that the components drive should be an ECS
