@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T11:07:20.534Z
+
+You know, I think a UI isn't actually as dynamic as games and simulations, it's almost static between IO events
