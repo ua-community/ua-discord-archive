@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T11:10:04.340Z
+
+Even a loading bar can be considered basically static between updates on the loading progress
