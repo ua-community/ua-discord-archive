@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T10:42:56.511Z
+
+Now I feel like somehow, UI components should be built on top of an ECS layer (not a DOM!)
