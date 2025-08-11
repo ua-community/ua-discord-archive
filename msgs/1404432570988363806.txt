@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T11:53:38.019Z
+
+This is the rough outline for that algorithm. I think caching makes lots of sense in it so if only alignment changes, you only have to do last few steps again and not the whole thing
