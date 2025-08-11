@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T11:23:26.227Z
+
+UI generally consists of state (structure and styling together) and declarative behavior (what changes in an IO event)
