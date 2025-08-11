@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T11:08:15.983Z
+
+But then when IO events happen, they should update quickly
