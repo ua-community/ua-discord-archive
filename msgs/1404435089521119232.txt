@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-11T12:03:38.484Z
+
+Critical aspect: UI is just a runtime hierarchy, not a compile time hierarchy. However an ECS has no hierarchy at all, so it's probably not the best for UIs.
