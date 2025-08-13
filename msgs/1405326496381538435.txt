@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-13T23:05:46.441Z
+
+Trying out amp code
