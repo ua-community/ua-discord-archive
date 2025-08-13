@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-13T12:29:01.130Z
+
+https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models
