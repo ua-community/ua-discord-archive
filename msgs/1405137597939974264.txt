@@ -1,0 +1,6 @@
+UserId: 586956413452943397
+Username: (user)
+Time: 2025-08-13T10:35:09.543Z
+
+i - is content censorship by cloudflare a new risk for publishers? 
+ii - what if google calls the bluff and stops indexing sites behind cloudflare?
