@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-13T18:13:41.916Z
+
+their unified memory is less, their power profile is different and suited to server side not a homelab
