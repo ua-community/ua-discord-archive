@@ -1,0 +1,5 @@
+UserId: 586956413452943397
+Username: (user)
+Time: 2025-08-13T08:22:01.600Z
+
+I was surprised by [recent statements](https://www.youtube.com/watch?v=ZttW75ys0BQ&t=1642s) about google from cloudflare.
