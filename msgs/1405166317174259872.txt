@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-13T12:29:16.742Z
+
+this org makes diffusion SLMs and theyre super small yet very capable
