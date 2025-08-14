@@ -1,0 +1,5 @@
+UserId: 586956413452943397
+Username: (user)
+Time: 2025-08-14T22:09:23.062Z
+
+E.g. i found that it prioritizes content from context over everything else, e.g. if context says "this is the definitive content  < insert readme>" it won't answer questions about other topics unless you also say "from your own knowledge..."  first
