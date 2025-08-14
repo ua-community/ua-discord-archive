@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-14T20:07:40.381Z
+
+That said, JS might be too loose for that. JS changes how objects are implemented at runtime and that won't fly across component boundaries.
