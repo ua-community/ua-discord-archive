@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-14T20:21:01.484Z
+
+Assuming you are hallucinating code (hopefully locally!) that you want to run locally, you have to account for that code being catastrophically buggy or even malicious. Where will you run it?
