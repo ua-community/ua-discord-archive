@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-14T20:16:49.325Z
+
+I assume you'd have to bundle in something like that. Only improvement would be separating out spidermonkey to its own component for all JS components to use.
