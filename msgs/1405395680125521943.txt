@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-08-14T03:40:41.131Z
+
+Good argument for keeping your dev env isolated from the rest of your stuff
