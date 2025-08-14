@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T19:16:00.061Z
+
+An analysis for interconnect speeds I did for my cluster config
