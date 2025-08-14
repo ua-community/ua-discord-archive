@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-14T20:14:42.102Z
+
+This is a cool proof of concept, but comes with the trade-off that it bundles Spidermonkey in the Wasm blob 🙈
