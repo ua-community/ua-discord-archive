@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T05:58:08.278Z
+
+Docker runs llama.cpp models through a Bytecode Allaiance wasi server side spec
