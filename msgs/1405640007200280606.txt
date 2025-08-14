@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-14T19:51:33.245Z
+
+I will say, that wit files are the clunkiest part of the component model, but I suspect that's largely a tooling issue
