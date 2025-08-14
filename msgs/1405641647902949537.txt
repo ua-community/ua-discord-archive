@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-14T19:58:04.419Z
+
+You can do more with wasm than JS
