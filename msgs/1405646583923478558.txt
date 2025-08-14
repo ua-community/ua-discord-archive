@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-14T20:17:41.258Z
+
+Yeah. They do some clever pre-initialization of the JS (to ammortize the runtime cost in future compilation/instantiations), which is partly why the whole thing is bundled together.
