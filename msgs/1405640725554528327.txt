@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-14T19:54:24.514Z
+
+I think anything that hopes to supplant the HTML and JS paradigm, must do it with wasm and its component model
