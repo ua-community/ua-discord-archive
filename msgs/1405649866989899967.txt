@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-14T20:30:44.002Z
+
+My bet is a mix of p2p and atproto style federation
