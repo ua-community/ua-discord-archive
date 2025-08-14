@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-08-14T20:22:18.505Z
+
+I don't think it'll be local for businesses and it'd probably be through apache spark access control
