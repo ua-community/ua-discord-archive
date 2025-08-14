@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-08-14T20:17:57.042Z
+
+Only nerds care about wasm/non js UIs and I think the opinions of nerds might get less relevant
