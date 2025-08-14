@@ -1,0 +1,5 @@
+UserId: 586956413452943397
+Username: (user)
+Time: 2025-08-14T10:37:05.031Z
+
+sqs fixing bugs, [steve_yegge](https://x.com/Steve_Yegge/status/1955765270859145508) editing slides with amp, [thorsten](https://x.com/thorstenball/status/1955733956378419341) rawdogging corndogs, I'm bullish on sourcegraph 🚀
