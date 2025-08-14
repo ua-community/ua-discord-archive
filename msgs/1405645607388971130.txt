@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-14T20:13:48.434Z
+
+This is already happening via the component model e.g., https://github.com/bytecodealliance/ComponentizeJS
