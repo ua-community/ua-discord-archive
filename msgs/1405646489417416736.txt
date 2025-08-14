@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-08-14T20:17:18.726Z
+
+I do wonder if a lot of this stuff will become moot if front end gets eaten by LLMs making on the fly interfaces for data hoarded behind tool calls
