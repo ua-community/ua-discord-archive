@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T02:41:31.943Z
+
+Swift is perfectly positioned now with its wasm support, docker desktop integration for apple containerization framework, and first class support for MLX with mlx-lm
