@@ -1,0 +1,5 @@
+UserId: 586956413452943397
+Username: (user)
+Time: 2025-08-14T22:25:37.076Z
+
+building context iteratively, e.g. by re-using memories from earlier interactions, feels like a reasonable high-level approach. introducing a different model means some amount of forgetting and re-learning will be required
