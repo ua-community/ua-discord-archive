@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T04:15:22.511Z
+
+https://www.docker.com/blog/build-ai-agents-with-docker-compose/
