@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-14T20:18:31.968Z
+
+I think sandboxed/controlled execution is still gonna matter <:blob_shrug:871867170391470160> maybe not for rendering UIs, though..
