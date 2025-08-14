@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-14T20:25:04.185Z
+
+That sounds fine but I'm not hearing an argument that you shouldn't be sandboxing runtime hallucinated code..
