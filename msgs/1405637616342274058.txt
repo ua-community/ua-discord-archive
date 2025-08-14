@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T19:42:03.220Z
+
+An analysis for Thunderbolt 4 Pro interconnect speeds I did for my Mac cluster config
