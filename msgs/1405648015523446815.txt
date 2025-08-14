@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-08-14T20:23:22.578Z
+
+I hope that there will be more local codegen / sandboxing use cases but I feel that "enterprise" is stronger than I'd like to admit having done some subcotracting for large orgs
