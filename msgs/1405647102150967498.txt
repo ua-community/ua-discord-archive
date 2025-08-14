@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-08-14T20:19:44.813Z
+
+I could see databricks + AI just eating the bespoke backend+frontend market. https://www.databricks.com/
