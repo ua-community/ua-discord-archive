@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T06:06:53.317Z
+
+Imagine this diffusion architecture with jan nano like model specialised at mcp/tool calling
