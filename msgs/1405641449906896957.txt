@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-14T19:57:17.213Z
+
+I've done a lot of thinking on standards economics, at first I thought "low level as possible and no lower" and then I realized there's kinds of supply and demand at play. There's more demand if you can do more with it, and more supply if it works in more places. Good standards maximize both.
