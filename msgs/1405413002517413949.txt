@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T04:49:31.111Z
+
+LMStudio is really SOTA in terms of LocalAI client app
