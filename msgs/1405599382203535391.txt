@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-14T17:10:07.491Z
+
+The speed is 5 times lesser than the built in SSD in M4 Max Mac Studio
