@@ -1,0 +1,7 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-14T19:43:20.604Z
+
+SwiftWasm is perhaps unambitious in that it only wants to support the HTTP handler use case. But, if they can support it then it is at least evidence that Swift in general can target WIT-based APIs more generally down the road.
+
+Modern WASI is defined in terms of the Wasm component model, and I would personally rate the Wasm component model as a very cool example of a standard.
