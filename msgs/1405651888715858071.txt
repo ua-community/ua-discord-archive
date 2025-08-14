@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-08-14T20:38:46.019Z
+
+Either an LLM or a programmer would want to use it and your thing would need to be easier than the existing alternatives IMO. The DX/UX of tools + marketing seems to be at least if not more critical than how the arch works
