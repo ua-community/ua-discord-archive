@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-08-14T21:08:54.819Z
+
+I talked to a guy at p2p summit that got me thinking about how to get this tooling on the same level of availability as the current cloud stuff is and UX / getting it into businesses hands instead of whatever Deloite / Microsoft will offer them seems important
