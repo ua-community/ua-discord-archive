@@ -1,0 +1,5 @@
+UserId: 637126184664301588
+Username: (user)
+Time: 2025-08-15T20:57:22.398Z
+
+core js was 26M downloads every week, and yet the maintainer is broke, not sure about now
