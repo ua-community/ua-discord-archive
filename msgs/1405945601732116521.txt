@@ -1,0 +1,5 @@
+UserId: 586956413452943397
+Username: (user)
+Time: 2025-08-15T16:05:52.659Z
+
+I concur -  [reverted](https://agents-chat.jldec.me/chat-openai-sdk) back - gpt-5 api perf is too sluggish for interactive use
