@@ -1,0 +1,5 @@
+UserId: 637126184664301588
+Username: (user)
+Time: 2025-08-15T20:55:58.315Z
+
+reminds me of that core js maintainer who has a really shitty life but most companies depend on it for their work
