@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-08-15T01:31:13.445Z
+
+Interesting, worst case they remove most command line options but if we control the user data dir we can patch the config there if needed.  Config has to be saved somewhere
