@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-15T11:48:23.095Z
+
+There’ll be a Rufus image as well
