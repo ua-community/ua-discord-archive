@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-15T11:15:39.221Z
+
+It splits models into multiple layers, latest of which is in Gemma3n, that can dynamically offload part to disk and memory
