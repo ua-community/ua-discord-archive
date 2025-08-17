@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-17T21:35:08.235Z
+
+tailscale funds headscale in official capacity, the open source control plane implementation for tailscale
