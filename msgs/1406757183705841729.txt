@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-17T21:50:48.880Z
+
+link for others: https://github.com/jj-vcs/jj
