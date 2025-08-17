@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-17T13:54:40.003Z
+
+I would like this with Apple's new containerization framework
