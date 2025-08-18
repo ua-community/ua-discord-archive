@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-18T06:54:45.072Z
+
+The first case seems limited to operating systems, if you consider Blender as a graphics OS
