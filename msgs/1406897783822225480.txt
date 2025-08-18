@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-18T07:09:30.560Z
+
+Instead of "this works best on our hardware", it's "we made this feature and also took advantage of it first so our app is the best"
