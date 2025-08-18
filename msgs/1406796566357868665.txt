@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-18T00:27:18.436Z
+
+feels like embedded Ollama to me, meant for devs, packaging wise, similar go that I've with Tiles. Run any compute on any data anywhere combination.
