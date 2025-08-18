@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-18T23:00:59.212Z
+
+interesting pattern where the app presents you an interface so that they can fine tune the experience better for you
