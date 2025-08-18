@@ -1,0 +1,8 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-18T07:51:19.999Z
+
+They’ve 3 orgs for aligning incentives:
+1. DuckDB: core maintainers get funded by DuckDB labs 
+2. DuckDB Labs: a consultancy / service arm that provides managed services to enterprise for deploying duck db and developing custom extensions. They get paid cash + equity both from MotherDuck
+3. MotherDuck: they’re a VC backed company building a friendly and enterprise data analytics product based on DuckDB and is a customer of DuckDB Labs
