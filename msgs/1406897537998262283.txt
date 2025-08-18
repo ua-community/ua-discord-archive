@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-18T07:08:31.951Z
+
+If OSes are just above hardware, the browser is just below apps, so the business model should be inverted.
