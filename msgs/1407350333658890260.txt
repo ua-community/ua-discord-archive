@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-19T13:07:46.849Z
+
+For example see this usecase where I’ve had to replace a text across a blog post, I just selected all and it automatically selected the context in the chat sidebar and followed my prompt, I can also use “/refine” a custom prompt/Dia like skills I use for refining sentences being a non native English person
