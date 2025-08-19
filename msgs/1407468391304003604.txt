@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-19T20:56:53.985Z
+
+removed the pricing page for now
