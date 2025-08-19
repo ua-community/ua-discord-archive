@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-19T02:17:38.905Z
+
+Note that Airtable has pivoted messaging (but not product really) to be all about vibe coding apps
