@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-19T10:43:43.530Z
+
+the wiring was hard to setup with fastmail rules across multiple mail clients I use like Gmail,  Matter and Notion Mail
