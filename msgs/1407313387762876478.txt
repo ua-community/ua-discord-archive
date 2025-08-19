@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-19T10:40:58.261Z
+
+also a nice browser meta layer by Pperplexity Comet over Gmail/Notion mail to suggest actions that they can automate with browser use, quite effective agentic UX imo
