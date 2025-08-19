@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-19T17:11:05.827Z
+
+Seems like it would be nice if an LLM could tell instruction from data
