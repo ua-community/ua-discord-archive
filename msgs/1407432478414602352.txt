@@ -1,0 +1,7 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-19T18:34:11.685Z
+
+https://discord.com/channels/1309454711392305192/1357325149615030302/1405646796616630404
+
+You can't control what you can't control (e.g., 3P tools that allow for RCEs), but you _can_ constrain the blast radius of an exploit.
