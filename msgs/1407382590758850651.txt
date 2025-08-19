@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-19T15:15:57.541Z
+
+thanks for the honest feedback, really appreciate it: changed a few things based on the feedback, the testflight/beta version is free forever, while the stable released will cost 60$ for one generation of updates
