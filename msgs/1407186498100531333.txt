@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-19T02:16:45.408Z
+
+Not malleable (let’s reserve that word for at least a deeper level of end user programming)
