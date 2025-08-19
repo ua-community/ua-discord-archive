@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-19T02:17:19.559Z
+
+Pivots? Lenses? Taking fields and having them display in typed displays is definitely a thing
