@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-19T17:05:11.748Z
+
+its just usb club but with real tiem finetuning on your own data, you can share those fine tuned adapters in your network etc, itll get more apparent with time and demos
