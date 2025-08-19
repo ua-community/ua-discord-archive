@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-19T17:13:15.961Z
+
+its just USB Club + AI in a way, where "The model can finetune with small data from the applications each user uses, adapting to individual tacit and local knowledge."
+
+the fine tuned models are packaged as lora adapters, small 10MB files which can be shared with friends and they get the same expertise by that fine tune
