@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-20T07:29:13.661Z
+
+So the host provides a function through the WASI interface, that wasm can pass a function name, and then the host looks for the function with that name
