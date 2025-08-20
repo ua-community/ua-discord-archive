@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-20T23:43:26.357Z
+
+eg i used Alipay (super app) to load Eleme (Chinese-language-only food delivery app), and translate it and then handle the payment layer, proxy the notifications and 11 minutes later i have breakfast.
