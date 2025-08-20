@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-20T08:28:19.600Z
+
+Btw WIT is just the interface language for WASI. That's like saying someone has a .h question instead of a C question
