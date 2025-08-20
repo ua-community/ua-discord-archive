@@ -1,0 +1,9 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-20T23:55:10.841Z
+
+but as to why not that specific combo like in China, i suspect it's a multivariate scenario, a few things off the top of my head:
+
+- SV investor/founder zero-sum thinking
+- browsers not making the mobile transition well (started 5yrs late and a million miles short)
+- throw in a massive bucket of cultural and regulatory differences
