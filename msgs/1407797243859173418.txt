@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-20T18:43:38.544Z
+
+Zed’s open model is built by fine tuning on Qwen with Unsloth: https://zed.dev/blog/edit-prediction
