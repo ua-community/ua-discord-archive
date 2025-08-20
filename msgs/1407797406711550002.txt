@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-20T18:44:17.371Z
+
+https://zed.dev/blog/sequoia-backs-zed
