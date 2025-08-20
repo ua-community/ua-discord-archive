@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-20T23:40:41.902Z
+
+also there's something about the superapp/miniprogram combo that is already what a bunch of AI services are doing today: loading up a service, detecting what's happening in it, and augmenting it for you.
