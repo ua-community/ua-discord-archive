@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-20T07:27:11.203Z
+
+Maybe I can have the wasm pass in a function name and the host can just look it up
+https://docs.rs/wasmtime/latest/wasmtime/component/struct.Instance.html#method.get_func
