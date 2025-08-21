@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-08-21T00:28:37.295Z
+
+it's primarily just a map with search and current directions
