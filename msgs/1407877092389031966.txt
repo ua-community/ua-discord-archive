@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-21T00:00:55.917Z
+
+(user) re the mapping thread (better here than bsky): short version is that at one point i had marshaled some funding around "decentralized critical infrastructure", and maps were a top priority. i poked around and talked to a few folks who were 1) experienced in the space and 2) had a good mix of technical + forest-level thinking who might either be interested in spending a year researching it, or would have recommendations for people who'd fit the bill. everyone kinda said the same thing: don't bother. come back with a billion (at minimum) dollars and a decade of protected time.
