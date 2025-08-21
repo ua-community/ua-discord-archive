@@ -1,0 +1,9 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-21T00:22:56.270Z
+
+>  open street maps based
+
+>  I think also OSM based?
+
+this is the key bit: OSM is fine as a layer/service inside other apps. it's not a consumer everything app the way Google Maps is.
