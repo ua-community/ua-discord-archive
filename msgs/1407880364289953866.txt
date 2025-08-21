@@ -1,0 +1,6 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-08-21T00:13:55.999Z
+
+Not decentralized or properly open, but I almost daily drive kagi maps. Works great, open street maps based, with data ingested from all over. And it's at least somewhat private.
+It would seem fairly straightforward to build something like that yourself, the data sources seem (mostly) open, just not the search.
