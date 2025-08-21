@@ -1,0 +1,10 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-08-21T00:18:09.010Z
+
+I don't know if elsewhere Google maps does more, I've seen cool public transport features in some cities and such, but here (Southern Germany) the data quality is horrible.
+From public transport that teleports, to impossible connections, not usable imo.
+Driving may be better, but I don't use that.
+Bike isn't great either.
+
+So yeah, I use a non-maps app for transit information, but it doesn't even have a map in the first place so I'd probably use it regardless.
