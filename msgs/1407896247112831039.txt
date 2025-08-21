@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-21T01:17:02.759Z
+
+the comprehensive (and unmatched) POI db is where the magic is. everything else builds on it: search, navigation, reviews, labeling.
