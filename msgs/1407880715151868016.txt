@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-21T00:15:19.651Z
+
+i try it every now and then! i'm not an expert in the space, but my experience is that there is no OSM consumer product that does the nexus of things that Google Maps does, and that's a major UX barrier. for OSM life, you need to use different apps and they all different shortcomings. feels like once a year i ragequit Google Maps and everything is 1000x worse with the alternatives.
