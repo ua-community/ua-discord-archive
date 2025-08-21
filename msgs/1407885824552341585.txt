@@ -1,0 +1,8 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-08-21T00:35:37.827Z
+
+Yes, although I'm on the "many apps and standards" side instead of the mega app side.
+I really like how kagi maps has just the search, and then encourages links outside. Choice, privacy, scope creep, etc, not a problem.
+If only the OS was a little better. Right now I press "Geo" and then it links into the OS, and I choose one of the apps that do different things.
+Can't easily save a location or share it from there though, for example.
