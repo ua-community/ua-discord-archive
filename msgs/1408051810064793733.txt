@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-21T11:35:11.857Z
+
+i wish there was a portable/pluggable sidecar like service for camel security model (that controls data and control flows in agentic workflows) https://arxiv.org/abs/2503.18813  for popular frameworks like Vercel AI SDK
