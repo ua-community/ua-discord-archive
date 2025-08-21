@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-08-21T01:40:22.358Z
+
+And I wonder through my own research how finding ways to lower the cost of software production so we dont have to depend on one large company with a army of software engineers/PMs/designers to build software
