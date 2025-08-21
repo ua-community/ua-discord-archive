@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-21T01:38:56.275Z
+
+(user) dropped another one: "Evaluating the Quality of Randomness and Entropy in Tasks Supported by Large Language Models" https://kdd-eval-workshop.github.io/genai-evaluation-kdd2025/assets/papers/Submission%2032.pdf
