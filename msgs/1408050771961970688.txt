@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-21T11:31:04.354Z
+
+I want to make a current gen super app like launcher version for this relic: https://portableapps.com/
