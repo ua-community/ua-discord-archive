@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-21T01:32:36.674Z
+
+it's like the browser funding session at Web Engines Hackfest: a room full of people who work on the web and browsers and when the "yeah but what does it take to make a browser" question came up, each answer was just a tiny slice.
