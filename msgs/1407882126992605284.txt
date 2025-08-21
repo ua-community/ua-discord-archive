@@ -1,0 +1,6 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-08-21T00:20:56.260Z
+
+I use the local transit coop or the national train app. Works nicely ofc.
+I used citymapper in larger cities, pretty nice. I think also OSM based?
