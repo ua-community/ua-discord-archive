@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-23T11:05:42.387Z
+
+Local AI hardware acquired, Apple M4 Max chip with 16‑core CPU, 40‑core GPU, 16‑core Neural Engine
