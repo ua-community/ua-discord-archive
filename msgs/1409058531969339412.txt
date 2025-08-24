@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:15:33.063Z
+
+You can certainly expose things to JavaScript in a web browser that way, though
