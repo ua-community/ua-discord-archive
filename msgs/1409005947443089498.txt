@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T02:46:35.935Z
+
+Alright, now I'm trying to figure out if it's possible for a wasm component to export a function not included in its WIT. My use case: Passing an "anonymous" function to a resource's constructor. I would like implement this by having the component export this function with a name that gets passed to the resource constructor, so that the constructor can look up the function by name and save it for later use. It looks like pure wasm can export whatever it wants, so I think it's a question of whether the tooling allows wasm components to easily create such exports?
