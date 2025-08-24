@@ -1,0 +1,7 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T07:10:11.425Z
+
+In the example
+>JS defines callback referencing DOM node
+>DOM node registers callback
