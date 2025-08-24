@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-08-24T18:19:18.888Z
+
+But a solution that works with the browser you already have installed is clearly best path for adoption
