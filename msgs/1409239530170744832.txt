@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-08-24T18:14:46.397Z
+
+Is it possible to use in Firefox without doing custom builds? Last I checked the ability to load alt xul ui had been removed.
