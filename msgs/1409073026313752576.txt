@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T07:13:08.784Z
+
+Rust solves it by forcing self references to be behind smart pointers, so a type doesn't actually contain itself in memory
