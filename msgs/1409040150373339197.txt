@@ -1,0 +1,7 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-08-24T05:02:30.549Z
+
+I had not come across it but the idea is similar to what we are trying to do with xenon project <#1378770757731094608> 
+
+Essentially unbundle the browser engine from the browser and have a system that runs a layer under the users control between the engine and the rest of the web. We do this using tauri for the native os level parts and IWA in chrome for the browser ui / layer. The key insight is for the web to be a true application platform we need a user controlled layer above what browsers expose today. Once you have that user agency can cascade down.
