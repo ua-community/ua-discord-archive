@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T18:46:17.007Z
+
+The UI engine I'm working towards will have event elements whose one job is to trigger the registered callback when its event happens. That limited scope means I'm totally okay with callbacks not referencing their hosts, because it just means a callback cannot replace itself.
