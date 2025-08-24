@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T03:17:21.130Z
+
+It occurs to me that in the context of wasm components, in addition to compile time and run time, there exists a third context
