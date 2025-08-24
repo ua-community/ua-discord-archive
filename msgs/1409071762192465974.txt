@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T07:08:07.394Z
+
+Okay, interesting
+> The challenge arises when the reference-counted callback holds alive the callback's closure (aka environment or scope chain), which holds (via local or global variable) a handle to the host resource that owns the callback. (E.g.: in the Web, an example is when a JS callback is stored on a DOM node where the callback function's scope chain holds a reference to the DOM node.) When this happens, you get a reference count cycle which leaks unless you additionally have a way to detect and free cycles.
