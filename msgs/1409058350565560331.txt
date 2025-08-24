@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:14:49.813Z
+
+Yeah, unfortunately for something to be legible as a Wasm Component it must be associated with a `component` (in Wasm terms) and `wasm-bindgen` doesn't deal in producing Wasm Component outputs.
