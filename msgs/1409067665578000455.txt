@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:51:50.685Z
+
+Here is a concise explanation of the challenges and an example of a reasonable WIT definition to work around the pitfalls, strait from the horse's mouth: https://github.com/WebAssembly/component-model/issues/223#issuecomment-1664258641
