@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T07:22:10.802Z
+
+It makes sense to me that a callback should mostly only reference things within its component anyway
