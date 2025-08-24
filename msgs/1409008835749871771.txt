@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T02:58:04.561Z
+
+I see `bindings::export!(Component with_types_in bindings);` here, maybe that means a component written in Rust can export other things too?
+https://component-model.bytecodealliance.org/language-support/rust.html
