@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T03:24:25.864Z
+
+In my case, this "anonymous" function I want to support exists for a specific component implementation, but it does not exist at the interface level
