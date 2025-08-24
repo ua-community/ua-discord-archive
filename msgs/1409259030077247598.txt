@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-24T19:32:15.537Z
+
+cursor background agents triggered via linear issues
