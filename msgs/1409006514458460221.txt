@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T02:48:51.122Z
+
+I want the component to be able to use the constructor with as many functions as it wants, meaning these extra functions cannot be captured by the WIT.
