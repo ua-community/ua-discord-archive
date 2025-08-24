@@ -1,0 +1,7 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:08:34.924Z
+
+You can use both on the same code, but they are designed to produce different outputs. Wasm Components are a superset of Wasm Modules, and in Rust this is expressed through different toolchains: `wasm32-wasip2` in the case of `wit-bindgen` (which produces Wasm Components) and `wasm32-unknown-unknown` in the case of `wasm-bindgen` (which produces browser-friendly Wasm Modules).
+
+You may wish to use both in cases where you are targeting both usages, but I don't think they should be used simultaneously when producing a single Wasm artifact.
