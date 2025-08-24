@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:19:50.764Z
+
+Maybe try expressing what you want as something that works with `wasm-bindgen`? Then you can share the code and we can talk about if it is even possible to define with WIT. It's worth noting that there are some common (and reasonable) library patterns that aren't recommended when defining WIT.
