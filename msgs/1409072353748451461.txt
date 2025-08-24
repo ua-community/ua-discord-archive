@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T07:10:28.432Z
+
+In which case the DOM node indirectly references itself
