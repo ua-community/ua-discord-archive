@@ -1,0 +1,9 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:00:31.330Z
+
+(user) the WIT definitions should be thought of as describing the linking boundary of the component insofar as the host environment or other components may care.
+
+If you want _other_ components, or the host environment, to construct something you are exporting using a callback argument of some kind, you may be able to express that with a `resource` definition (e.g., I recommend the discussion in this issue (which is topical, if I understand you correctly): https://github.com/WebAssembly/component-model/issues/200).
+
+But, if you only care about construction from within the component itself, it doesn't really matter that WIT cannot express what you're trying to do; you can just do it with whatever idioms apply in your language.
