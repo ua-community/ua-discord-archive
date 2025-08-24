@@ -1,0 +1,1 @@
+https://component-model.bytecodealliance.org/language-support/rust.html
