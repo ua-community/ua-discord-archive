@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T20:05:30.376Z
+
+Oh, and signal callbacks shouldn't be mutating their signals directly either
