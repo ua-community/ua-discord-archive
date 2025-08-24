@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T07:11:13.171Z
+
+This is a circular dependency problem, which is why Rust struggles with self-referential types
