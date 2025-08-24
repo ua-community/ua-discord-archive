@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:22:42.438Z
+
+(check out that Github issue I linked for a good explanation of why some reasonable patterns may not be a good idea as part of a Wasm Component's exported interfaces)
