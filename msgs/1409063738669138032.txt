@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T06:36:14.437Z
+
+If the distinction matters, maybe it's more like a closure? It's not really calling back exactly
