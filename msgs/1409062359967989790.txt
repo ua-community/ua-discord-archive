@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:30:45.729Z
+
+With ergonomics in mind, you'll probably have to abstract the callbacks using a whatever idiom applies in the guest language you intend to use.
