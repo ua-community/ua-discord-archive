@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T18:43:20.393Z
+
+I joined the bytecode alliance zulip to ask this. I might just try to implement callbacks with the constraint of not referencing the host, because my use case is totally fine with that.
+https://bytecodealliance.zulipchat.com/#narrow/channel/219900-wasi/topic/How.20exactly.20does.20this.20problem.20work.3F/with/535887188
