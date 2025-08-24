@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-08-24T18:18:34.266Z
+
+I’m not against doing something similar on gecko or someone adding it later. I would think IWA/controlled frame and xul:browser parts are similar enough.
