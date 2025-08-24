@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:12:28.782Z
+
+It's possible to polyfill support for Wasm Components in browsers (I'm not sure if that's why you are interested in both toolchains). But, it's a little involved.
