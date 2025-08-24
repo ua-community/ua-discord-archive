@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T06:32:11.757Z
+
+I just want the wasm to pass a function to the signal engine, basically, a la solid's createEffect()
