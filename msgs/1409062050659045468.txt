@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:29:31.984Z
+
+It's possible to express a callback pattern with WIT going in either direction (in case that helps). The main thing you want to be careful about is re-entrancy e.g., host calls guest -> guest calls host -> host calls guest.
