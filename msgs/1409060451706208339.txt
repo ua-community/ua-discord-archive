@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T06:23:10.764Z
+
+Overall, I'm basically trying to make a signals engine through wasm, like SolidJS has, such that the wasm side can declare signals and the engine host tracks the dependencies and runs everything.
