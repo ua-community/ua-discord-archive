@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T07:16:21.557Z
+
+The naive answer seems like, disallow the callback from holding a handle to the host resource
