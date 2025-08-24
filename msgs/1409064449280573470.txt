@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:39:03.860Z
+
+IIUC you want a thing that can be given to the host (via some API available in the guest) that the host may use to call back into the guest.
