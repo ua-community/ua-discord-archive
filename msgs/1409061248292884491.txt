@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-08-24T06:26:20.685Z
+
+Can I ask just so I have a better picture: what advantage are you reaching for by having the host do the dependency tracking? Performance? Or perhaps cross-component dependency relationships?
