@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T03:33:41.907Z
+
+In fact, I put "anonymous" in quotes because it's anonymous to the WIT but not to the component implementation
