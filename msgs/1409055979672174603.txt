@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-24T06:05:24.548Z
+
+If I used wit-bindgen and wasm-bindgen at the same in Rust, would they play nicely when compiling to wasm?
