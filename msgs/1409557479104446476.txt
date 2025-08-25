@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-25T15:18:11.330Z
+
+I’ve done some exploring conceptually here and email + notes is not even close to all. The system of record is the core OS primitives - CalDav for Calendar and To do, CardDAV for Contacts, and IMAP also gives you Notes
