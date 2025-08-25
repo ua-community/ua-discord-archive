@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-25T09:08:24.875Z
+
+Couldn't just be precisely what the closure actually uses, that would be too easy
