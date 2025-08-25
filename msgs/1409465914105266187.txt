@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-25T09:14:20.533Z
+
+Gotta also include what the closure *might* use across all the parent scopes up to global scope
