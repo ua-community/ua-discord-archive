@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-25T15:18:48.044Z
+
+“Photos” is the abstraction that is unique from generic “files”
