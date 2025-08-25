@@ -1,0 +1,14 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-08-25T15:15:46.107Z
+
+> Every enterprise has a system of record.
+> Every person has... email—a compost heap.
+> 
+> What we need: a garden that grows from that compost.
+> Something we tend, prune, curate.
+> 
+> An emergent system of record for our personal lives.
+>
+> LLMs should handle the weeding.
+> We should choose what blooms.
