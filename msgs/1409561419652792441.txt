@@ -1,0 +1,8 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-25T15:33:50.830Z
+
+Some good comments recently for understanding where browser makers stand on custom schemes and how they're thinking about them in the context of dangerous-y stuff like credentials and wallets:
+- https://github.com/mozilla/standards-positions/issues/1003#issuecomment-3212917334
+- https://github.com/whatwg/html/issues/11552#issuecomment-3214929725
+- https://github.com/w3c-fedid/digital-credentials/blob/main/custom-schemes.md
