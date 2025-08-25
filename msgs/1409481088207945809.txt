@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-25T10:14:38.321Z
+
+i do not recommend enabling it yet, i tried a couple weeks ago and it horked my Canary
