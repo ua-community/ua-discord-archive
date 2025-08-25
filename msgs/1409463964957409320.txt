@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-25T09:06:35.820Z
+
+After digesting this a bit, what I'm getting from this is that largely, WASI struggles to support callbacks because of Javascript scope chains, which means not even WASI can escape the jank of JS 🫠
