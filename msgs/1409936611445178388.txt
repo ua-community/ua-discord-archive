@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-26T16:24:43.524Z
+
+I think in the olden days we'd be able to confidently say "well, the old web and browsers will always be there". Not so sure about anything, these days.
