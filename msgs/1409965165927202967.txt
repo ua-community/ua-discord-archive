@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-26T18:18:11.443Z
+
+A simpler web app stack will lead to more web apps because the cost of learning is lower
