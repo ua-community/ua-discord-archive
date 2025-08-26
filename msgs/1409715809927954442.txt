@@ -1,0 +1,7 @@
+UserId: 106036643932155904
+Username: (user)
+Time: 2025-08-26T01:47:20.340Z
+
+My brain is a little overloaded when trying to bring in digital credentials work, and I can allow for the security need to be higher there. But man, it was really dismaying hearing some of those pretty strong stances that seem fairly broadly against custom schemas.
+
+What's more frustrating is it feels like the custom schema issue would be much lower priority. If the browsers hadn't dropped `registerContentType`!!!! Which is very webby!
