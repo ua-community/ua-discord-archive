@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-08-26T18:16:51.096Z
+
+I think it'll take a shift that makes the web more easily moddable, and decentralized such that it's easier to make web apps. Then more people will make web apps because they can, and those apps will lead to more adoption. AT Proto is leaning in this direction.
