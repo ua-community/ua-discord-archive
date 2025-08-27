@@ -1,0 +1,9 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-27T16:54:53.172Z
+
+Work on episodic memory controller by LLM: https://research.ibm.com/blog/memory-augmented-LLMs
+
+episodic memory as per my understanding is basically the middle ground between short (context window) and long term memory (model weights)
+
+Screenshot from tiles website
