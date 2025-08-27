@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-27T13:49:25.881Z
+
+Quoting that doc: “When Rewind first launched, the limitations of M1 computers made local processing for such a task nearly impossible. But times have changed. We’re on M4s and anything can happen. Especially when you go local :)”
