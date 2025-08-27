@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-27T17:13:21.004Z
+
+Its natural that Gemini (Google trying to win dev mindshare) partnered with Zed (a runner up in IDE space)
