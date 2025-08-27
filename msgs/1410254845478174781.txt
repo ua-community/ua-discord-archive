@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-27T13:29:16.430Z
+
+Solves MxN problem between IDEs and agentic CLIs: https://agentclientprotocol.com/overview/introduction
