@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-08-28T10:27:32.929Z
+
+been talking on and off w/ these folks for a bit, and they just launched Enchanted on iOS. trying to do verifiably e2ee pipeline. https://www.freysa.ai/blueprint/verifiable-mcp-servers
