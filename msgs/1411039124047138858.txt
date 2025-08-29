@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-29T17:25:43.012Z
+
+Latest MLX release supports mxfp4 quantization now, OpenAI gpt-oss can run at intended native speeds on Mac now: https://github.com/ml-explore/mlx/releases/tag/v0.29.0
