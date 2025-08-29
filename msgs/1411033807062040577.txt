@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-29T17:04:35.344Z
+
+tldr: opt out or they will store your data for training purposes for 5 years
