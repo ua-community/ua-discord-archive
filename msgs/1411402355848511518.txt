@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-30T17:29:04.222Z
+
+sketched out a clear roadmap, took lots of research to figure out the proper design choices to ship what i envision, working on a blog post to communicate this roadmap to help with sponsorships for the project
