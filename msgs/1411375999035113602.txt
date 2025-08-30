@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-30T15:44:20.268Z
+
+also removes a strcutured output generation overhead from LLMs, particularly enticing for edge deployments: https://www.liquid.ai/blog/liquid-txt-collaboration
