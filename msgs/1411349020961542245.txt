@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-30T13:57:08.194Z
+
+Very interesting discussion on SF/tech circle dynamics: https://www.troynikov.io/essays/telescoping_ambition/
