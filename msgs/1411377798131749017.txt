@@ -1,0 +1,7 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-08-30T15:51:29.206Z
+
+I don't really have the skills to try this out easily, but I'm guessing you can get very far with pruning and quantizing + structured output. Presumably the LLM would not have to retain even a fraction of the information.
+Even constraining to a context-free grammar of some programming language, and it only has to retain information about what order the syntax tokens go in, right? Obviously still how code in general works, but it seems like it would be extremely efficient.
+Seen some promising things with pruning, but I wonder how this combines.
