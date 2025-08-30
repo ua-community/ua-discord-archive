@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-30T13:57:39.650Z
+
+It’s a writeup from Chroma’s founder
