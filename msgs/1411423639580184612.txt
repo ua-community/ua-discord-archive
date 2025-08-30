@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-30T18:53:38.659Z
+
+Can’t seem to do it with Rust, too much binding indirections, going full on with Apple only devices approach for now, using Swift for Modelfile implementation on top of  https://github.com/ml-explore/mlx-swift which has feature parity with the python MLX bindings
