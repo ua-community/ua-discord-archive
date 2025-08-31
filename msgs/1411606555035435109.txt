@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-31T07:00:29.102Z
+
+It’s a fortunate thing that Swift has a better cross platform story now with better Windows and WebAssembly support, still a lot of work needs to be done, but it’s all pointing towards a healthy direction in recent years with open source and cross platform push from Apple
