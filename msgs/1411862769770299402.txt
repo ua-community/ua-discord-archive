@@ -1,0 +1,14 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-31T23:58:35.455Z
+
+From one of Gordon’s article:
+
+“Some answers will vary from project-to-project, but I see some common patterns:
+
+Immutable data
+Universal identifiers
+User-controlled keys
+If you have all three, you have a fair shot at building first, decentralizing later”
+
+So I was wondering what a pragmatic decentralised solution would look for tiles registry which will host Modelfiles and machines metadata, how should I tie them with user identities
