@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-08-31T06:59:28.944Z
+
+Can’t use Swift either for MLX as they don’t ship updates as frequently, MLX LM is the python package which gets updated regularly, so will have to figure a way with a Swift Modelfile CLI that wraps over MLX LM on MacOS and MLX Swift on iOS devices
