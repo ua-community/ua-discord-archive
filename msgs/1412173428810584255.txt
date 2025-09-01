@@ -1,0 +1,5 @@
+UserId: 524125522825969684
+Username: (user)
+Time: 2025-09-01T20:33:02.342Z
+
+I like the idea of a browser just being a webview, as a space for exploring this stuff at least
