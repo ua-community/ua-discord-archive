@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-01T20:02:37.074Z
+
+got clarification on this argument from the author of the kaitchup, he excels in on device ml/peft techniques, internet is beautiful!
