@@ -1,0 +1,5 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-09-01T14:06:43.580Z
+
+I love this. I do something similar with jujutsu locally, using workspaces to isolate. Works incredibly well. Obviously I don't have the fancy cursor integration 😄
