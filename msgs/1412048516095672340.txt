@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-01T12:16:40.830Z
+
+I think I posted this in <#1357325149615030302> not long ago but seems relevant in relation to your cdp research https://browser-use.com/posts/playwright-to-cdp
