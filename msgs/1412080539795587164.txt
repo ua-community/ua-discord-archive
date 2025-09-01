@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-01T14:23:55.875Z
+
+But also … building social features (eg making a list of models or whatever) is a big task that you should avoid until you need it 😉
