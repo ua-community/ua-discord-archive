@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-01T19:06:36.877Z
+
+there is an argument in ML research that RL is better done with full model fine tuning rather than partial LoRA adapter training. But with mergekit I suppose we can get best of both worlds, we can fine tune a model fully and then extract LoRAs from it to make the task adaption modular
