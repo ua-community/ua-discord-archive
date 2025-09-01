@@ -1,0 +1,9 @@
+UserId: 524125522825969684
+Username: (user)
+Time: 2025-09-01T18:17:46.624Z
+
+The IMAP also gives you Notes but is interesting — Rob Ochschorn created a system that would link research projects on a board to email threads of researchers (+ others!) thoughts that led to the creation of the final research prototype.
+
+So, in retrospect, it was IMAP as a kind of record keeping + the BigBoard project acted as a novel interface
+
+https://dynamicland.org/archive/2015/Research_gallery
