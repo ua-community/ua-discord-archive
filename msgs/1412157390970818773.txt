@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-01T19:29:18.623Z
+
+apparently Mira Murati's new company Thinking Machines Lab  is heavily using this model merging and distiallation techniques
