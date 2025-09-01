@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-01T17:21:31.476Z
+
+Money has these properties, roughly, too
