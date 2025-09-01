@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-01T00:18:16.179Z
+
+In one of his articles Gordon suggested wallets to be one of better ways for user authentication and I’ve seen privy being used to same effect
