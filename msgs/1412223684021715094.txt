@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-01T23:52:44.118Z
+
+How does somewhere discover YOU and decide to pay you - as node operator or software maker
