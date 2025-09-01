@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-01T12:11:53.468Z
+
+Curious what trips up playwrite with regard to IWA. I think I managed to get it to connect before.
