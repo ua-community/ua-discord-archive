@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-01T19:21:39.989Z
+
+I wish to package all these model weight manipulation and orchestration techniques in a familiar git/docker cli like workflow, it's quite doable, nobody has worked much on DX for non-ML folks for these kinds of usecases, except Ollama ig, but they leave out the training part completly
