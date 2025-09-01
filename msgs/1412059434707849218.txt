@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-01T13:00:04.030Z
+
+I might have just been using cdp directly, I’ll check
