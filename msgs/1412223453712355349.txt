@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-01T23:51:49.208Z
+
+So purity aside, looking at inputs and outputs is necessary.
