@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-01T18:57:10.358Z
+
+take any fully fine-tuned model and extract a LoRA adapter from it, even if the original model was never trained using LoRA in the first place: https://www.arcee.ai/blog/use-mergekit-to-extract-lora-adapters-from-any-fine-tuned-model
+
+crazy!
