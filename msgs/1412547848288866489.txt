@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T21:20:50.902Z
+
+I’ll go full local once I build the technology preview of this, it’s going to be a decentralised version control for model weights, tldr a git like thing with Modelfiles for SLMs and LoRA adapters workflows
