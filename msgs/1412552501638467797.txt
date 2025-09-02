@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T21:39:20.347Z
+
+You as a client can verify service providers runtime code through code attestation cryptographically
