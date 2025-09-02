@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-02T15:30:11.660Z
+
+There's gotta be a way of automating {cadence} subscriptions via crypto. IIRC that's what Unlock was trying to do, but I haven't checked in a long time.
