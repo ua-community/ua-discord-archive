@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T15:24:29.860Z
+
+Switched the way I get sponsorships for my work from Patreon to Github Sponsors today: https://github.com/sponsors/tileslauncher. Lucky that the org got verified. I hated Patreon and its closed ecosystem but it was the only way as I had no other way to receive funds to my Indian bank (Substack didnt work either). Benefits with Github Sponsors include better visiblity for both my work and sponsors, and that funds directly go in the bank so comes with less fees than Patreon.
+
+There's also a crypto way of paying as well with Paragraph, the platform that https://neurons.pub/ is published on.
