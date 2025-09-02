@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T21:17:08.611Z
+
+I am presently working on on device AI and software personalisation research with https://tiles.run/
