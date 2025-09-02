@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-02T00:11:42.866Z
+
+Currently, I do have a user facing product idea, which I read is important. Since the value proposition is facilitating mostly local moneyless economics, vertical scaling with large cloud bills would be antithetical. It must scale into more of a fediverse model.
