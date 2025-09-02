@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T06:09:07.571Z
+
+https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html
