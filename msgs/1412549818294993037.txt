@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T21:28:40.588Z
+
+tilekit or tiles wont have anything to do with agentic coding though, tilekit is gonna be a general git like CLI for model weights, took inspiration from: https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html
+
+and Tiles (built with Tilekit) strictly a memory network thing that's private (trains on your device or with TEEs on servers)
