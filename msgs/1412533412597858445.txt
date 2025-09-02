@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T20:23:29.165Z
+
+ChatGPT project folders can have individual memory now, was much needed.
+
+“With project-only memory enabled, ChatGPT can use other conversations in that project for additional context, and won’t use your saved memories from outside the project to shape responses. Additionally, it won’t carry anything from the project into future chats outside of the project.”
