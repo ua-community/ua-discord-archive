@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T21:56:09.459Z
+
+Just the Cursor ones, and yes Codex uses GPT 5 Now
