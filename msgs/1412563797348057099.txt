@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T22:24:13.454Z
+
+Friends from the old WebAssembly days
