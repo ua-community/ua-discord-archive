@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-02T21:40:32.288Z
+
+There’s homomorphic encryption as well that Apple’s been working on where the processing happens on encrypted data server side (data doesn’t need to be decrypted on server)
