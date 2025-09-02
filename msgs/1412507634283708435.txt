@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-02T18:41:03.136Z
+
+Claude users in the house, check your settings - the new tracking is on by default, and has a "location" one also. https://www.anthropic.com/news/updates-to-our-consumer-terms
