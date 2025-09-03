@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-03T21:25:11.500Z
+
+I don’t use a RSS reader anymore, I like having everything through mails even RSS through Feedrabbit to be sent to my Fastmail where so use it’s Filters and rules to route emails to correct folders and Matter reader, it’s one of the best research/sense making tool out there, has a great web version too: https://hq.getmatter.com/
