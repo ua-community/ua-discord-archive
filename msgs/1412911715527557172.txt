@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-03T21:26:43.612Z
+
+Also the service I use to convert RSS to emails: https://feedrabbit.com/
