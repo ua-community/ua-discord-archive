@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-03T04:20:56.960Z
+
+Oh this AT Proto talk today reminded me that I think the Reticulum network stack could be an interesting DID method
