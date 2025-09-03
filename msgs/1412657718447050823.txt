@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-03T04:37:25.989Z
+
+Compare that weakness against did:web which costs a little $ to maintain a domain, and did:plc which is, ironically, a central authority for your did
