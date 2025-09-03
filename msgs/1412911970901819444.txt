@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-03T21:27:44.498Z
+
+Interesting. I've been going the other way with emails going into my readers. First Feedbin and now Readwise. Filtering rules would be nice though...
