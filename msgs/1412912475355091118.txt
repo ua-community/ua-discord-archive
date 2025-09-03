@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-03T21:29:44.769Z
+
+Fastmail filters and rules are really nice as the newer rules override older ones so I don’t have a need of gardening them
