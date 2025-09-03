@@ -1,0 +1,5 @@
+UserId: 524125522825969684
+Username: (user)
+Time: 2025-09-03T10:48:00.434Z
+
+Yeah! I think rolling up Contacts and integrating DIDs into you platform-of-choice's Contacts and being able to check on your friend's say personal website OR their data updates is interesting. extends "browser" to mean not just the web but also your friends, via non-DNS addresses
