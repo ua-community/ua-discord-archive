@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-03T21:28:24.578Z
+
+Emails go to my Fastmail and subset of them gets routed to my Matter reader app
