@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-03T02:01:36.704Z
+
+Interestingly, although Mozilla created Rust with browsers in mind, Andreas Kling found it hard to implement the DOM with because that's easier to do with OOP inheritance, which Rust doesn't support. That makes me wonder, what sort of browser would lean into Rust's strengths, i.e. the trait system?
