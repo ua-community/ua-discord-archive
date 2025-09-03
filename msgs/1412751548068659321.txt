@@ -1,0 +1,5 @@
+UserId: 524125522825969684
+Username: (user)
+Time: 2025-09-03T10:50:16.714Z
+
+Yes! It's just a website that does this for now, but still satisfying to type in DIDs and see it actually resolve 🙂 https://github.com/cwervo/aura
