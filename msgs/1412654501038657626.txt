@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-03T04:24:38.899Z
+
+A server you manage could service it as in did:web, but it cannot expire similar to did:plc
