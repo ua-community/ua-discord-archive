@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-03T03:17:09.317Z
+
+It’s the ✨part after your profile name that opts in to adding messages and links to anonymized message archive index collected on GitHub. We wanted a way to index useful stuff people post but without hovering up everything without explicit consent. This felt like the right balance
