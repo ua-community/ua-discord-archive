@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-04T12:51:54.190Z
+
+looks like it just starts one container that then runs jupiter
