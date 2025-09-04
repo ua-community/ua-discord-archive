@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-04T19:37:45.069Z
+
+TY for testing! May I quote you on the GH issue for future reference?
