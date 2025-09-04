@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-04T12:52:28.753Z
+
+so yeah python centric but nice to see its less than 100 loc to dl the container manager and spin up a container
