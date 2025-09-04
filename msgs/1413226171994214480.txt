@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-04T18:16:15.876Z
+
+slow to open, detach etc. im not sure what the source is but some apps were particularly bad, i think it was sourcetree.
