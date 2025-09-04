@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-04T19:19:00.141Z
+
+Apparently I can listen to an event for MacOS: https://www.electronjs.org/docs/latest/api/app#event-new-window-for-tab-macos
