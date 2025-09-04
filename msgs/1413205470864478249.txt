@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-04T16:54:00.342Z
+
+but because we want to support multiple background tasts in mutliple tabs we need subagents for these things in any casae
