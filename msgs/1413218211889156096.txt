@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-04T17:44:38.039Z
+
+IMO folks should be doing more at the OS window manager level instead of apps having to reimplement features
