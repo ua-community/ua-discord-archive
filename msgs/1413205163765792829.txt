@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-04T16:52:47.124Z
+
+(user)   to answer the question. the problem with 11 labs is that the mcp server has to be server side, they dont suport client side mcp servers only client side tool calls, which mens i have to rewrite the mcp server as a tool cal interface. the other problem is that without real background agents, every voice input is killing the ongoing mcp operations because there agenent has to process the text even if it will be ignored, so the diarization is not the issue.
