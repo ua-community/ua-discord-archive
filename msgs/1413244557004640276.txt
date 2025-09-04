@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-04T19:29:19.204Z
+
+yeah i tried new window, and cmd+t, which should do it with the always-use-tabs option.
