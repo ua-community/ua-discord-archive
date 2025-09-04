@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-04T12:51:17.715Z
+
+https://github.com/instavm/coderunner/blob/main/install.sh < downloads and runs via cli
