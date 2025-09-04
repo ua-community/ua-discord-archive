@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-04T19:39:43.565Z
+
+New window just opened a new window with no tabs presumably?
