@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-04T18:17:06.299Z
+
+they only look ok if your app looks exactly like macos finder
