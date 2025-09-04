@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-04T20:24:07.168Z
+
+Doesn't look *too* awful IMO. I need to figure out what hex codes / opacity I need to use to fully match macos. It seems the colors all get tinted based on your background which is a PITA to emulate in CSS
