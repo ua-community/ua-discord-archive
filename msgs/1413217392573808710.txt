@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-04T17:41:22.699Z
+
+If anyone has time to test out native window tab options on Windows/MacOS/GNOME/KDE I'd appreciate info on whether they work for you with Agregore. https://bsky.app/profile/agregore.mastodon.mauve.moe.ap.brid.gy/post/3lxzormubefw2
