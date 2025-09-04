@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-04T16:39:37.302Z
+
+that's what the DID is for, encoded in the UCAN
