@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-04T18:28:53.001Z
+
+I've been working on reusing the native color scheme on macos/windows actually. Still allowing user customization but doing some basics to match the OS by default
