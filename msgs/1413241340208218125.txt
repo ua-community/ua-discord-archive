@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-04T19:16:32.260Z
+
+i can't get it to make a tab. is there a case you know would trigger the native path?
