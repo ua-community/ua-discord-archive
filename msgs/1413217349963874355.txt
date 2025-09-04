@@ -1,0 +1,10 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-04T17:41:12.540Z
+
+Hopefully a bit more clear explanation of my UCAN + applets exploration.
+
+Data provider could be anything: automerge, ipfs, dropbox, s3, etc.
+Not sure what the capabilities will be yet, it's possible to do granular data access.
+
+Like (user) said, this signed receipt is portable and you could add time limitations to this (or any other limitations you can think of really).
