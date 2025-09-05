@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T16:43:14.185Z
+
+so i would argue we need both. tabs for windows that work on os level and are not constrained by one app. so you can tab eg. a browser window and you vscode window.  and a sidebar with the  actual data of your browsing session that is treated as sacred as any user data. eg. i find it extremely offensive chrome asks me if i want to restore my tabs.
