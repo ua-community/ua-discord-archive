@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-05T13:31:20.742Z
+
+The more general comment that many people are saying is “sign everything” aka use cryptographic keys / DIDs. That still means verifying that the owner of the keys is a unique human which is the actual hard part 😉
