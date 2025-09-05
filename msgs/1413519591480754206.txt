@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-05T13:42:12.533Z
+
+Prediction: Flash storage companies powering edge inference are going to be the next NVIDIA
