@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T16:57:45.812Z
+
+for linux my last 2 attempts failed at some multitouch gestures or mouse behaviour configuration. or that it was impossible to change the things i hated without c++ and a month of work which i did not have.
