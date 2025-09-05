@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-05T21:10:09.354Z
+
+Unrelated, I was reading a philosophy paper on the concept of group agency and it got me thinking about how the idea of discrete individual agency is an extremely western idea. Which got me thinking about what a group web user agent could look like.
+
+Has anyone ever shared a browser sync profile with anyone before? I'm curious what the experience of browsing the web together on the same account(s) feels like. Shared history, shared bookmarks, shared extensions, etc.
