@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T08:04:56.259Z
+
+(user) wow that whole discussion fully escaped me. if iwas dont work out we should make a push to make a common browser engine with cef and maybe something like a native tauri binding instead of forking chromium?
