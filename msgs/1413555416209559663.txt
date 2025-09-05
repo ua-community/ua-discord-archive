@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T16:04:33.814Z
+
+That could be cool! it'd go against my goal of leaving more to the OS/users and staying minimal though. But maybe it's time to ditch that constraint
