@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T21:29:12.358Z
+
+i have made experients with this concept and want to do many more.    the initial version of a shared space in darc is supposed to be just this shared sync session where we have shared relevant tabs and canvases. plus there is this view mode i call squat mode that is supposed to be like more like a conversational space for this.
