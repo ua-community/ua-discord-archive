@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-05T08:14:59.749Z
+
+When i was working directly w/ various Chromium-based browsers, i asked why not CEF and every time they'd answer w/ "we tried, it's bad". Apparently it's not well owned at Google so doesn't benefit from drafting the way building on Chromium does. But those were browser products in the contemporary sense, and what you're doing is different.
