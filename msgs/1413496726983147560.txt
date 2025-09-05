@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T12:11:21.212Z
+
+not as in restricting. in the sense of not caring to put in effort for the usecases if they don't support the agency of a single user.
