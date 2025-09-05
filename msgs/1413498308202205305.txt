@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T12:17:38.204Z
+
+it was the same discussion we have now but in 2000 - 2014 in the era of semantic web https://en.wikipedia.org/wiki/FOAF
