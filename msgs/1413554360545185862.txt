@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T16:00:22.124Z
+
+clicks stall for 200 to 500 ms
