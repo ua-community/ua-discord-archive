@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T08:30:41.282Z
+
+it sounds to me like a layer problem, if chromium used cef it would naturally get resources/ improvements but if its as separate as it sounds now it suffers from the same issues apis made only for a few third party devs vs apis used by a companies own apps too face
