@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T11:56:25.010Z
+
+sure thats needed on top, otherwise we could not filter the signals we are interested in and build the trust networks on top, but the order is inverted. plus those identifiers would not be part of the applications but of my data
