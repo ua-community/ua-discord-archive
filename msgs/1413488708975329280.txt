@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-05T11:39:29.570Z
+
+https://controld.com/ has such a thing, they offer a bot in UI where in natural language you can specific which kinds of origins you want to get rid of
