@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-05T07:41:45.523Z
+
+I think they were building on chromium directly never seen mention of cef. I saw early mention of prototyping in electron. As for cef one of the main devs gave a talk at the webengineshackfest and sounds like dev being driven by Spotify I think.
