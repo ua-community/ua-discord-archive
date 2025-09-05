@@ -1,0 +1,9 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-09-05T10:33:43.928Z
+
+I'm a big fan of user agency - my philosophy was always that you should be able to do anything as long as you're not hurting/limiting others. As there's infinite space, this should be no issue.
+But some users want to get attention even when others aren't interested. You can call this marketing, but there's levels to it in my mind. This, to me, ends up poisoning the whole pot.
+
+I have no problem with you taking power back from Facebook - things like user scripts to change UI or whatever are one thing.
+But creating a fleet of accounts and automating them with specially crafted browsers, is not taking back power. It's abusing the system.
