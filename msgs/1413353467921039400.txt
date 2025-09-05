@@ -1,0 +1,9 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-05T02:42:05.590Z
+
+One thing I've always loved about browser innovation is the side effects that get spun out that sometimes have even greater impact than the development or experiments themselves. Rust and Wasm for example.
+
+I've been hoping that the browser company would release their Ark Development Kit as theirs. https://www.swift.org/blog/swift-everywhere-windows-interop/
+
+In May they said they weren't going to open source it, because of competitiveness reasons, but maybe now that'll change.
