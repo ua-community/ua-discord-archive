@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T16:36:48.339Z
+
+I'm all for folks making new OSs and window managers. I've built up my desktop environment from a terminal and each feature it has I added and configured myself 😁 I wish the apps I installed could at least pull my style prefs and use multi windows instead of each one reinventing tabs or only allowing a single page at a time.
