@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T15:52:45.972Z
+
+Yeah! My window manager arranges each new window into columns that are 1/3rd of the screen by default and then I have infinite horizontal scroll.
