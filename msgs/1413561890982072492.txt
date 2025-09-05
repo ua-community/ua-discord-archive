@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T16:30:17.520Z
+
+the problem is not so much just that they suck but that tabs are in reality two different things and only one of those belongs on the os layer. tabs are used to put windows into the same position and switch between them as developed out of beOS and firefox tabs. but tabs are also used for browser context state which can never be supported on a generic os level to the right degree
