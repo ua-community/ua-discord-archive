@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-05T02:48:24.725Z
+
+["ADK is also the foundation of Dia. So while we’d love to open source Arc someday, we can’t do that meaningfully without also open-sourcing ADK. And ADK is still core to our company’s value. That doesn’t mean it’ll never happen. If the day comes where it no longer puts our team or shareholders at risk, we’d be excited to share what we’ve built with the world. But we’re not there yet." ](https://browsercompany.substack.com/p/letter-to-arc-members-2025) From May.
