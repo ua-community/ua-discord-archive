@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-05T07:18:08.439Z
+
+They’ve dropped the UI parts of Swift at least while building Dia
