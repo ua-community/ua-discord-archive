@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-05T02:43:50.618Z
+
+I thought they released the swift windows stuff
