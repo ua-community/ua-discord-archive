@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T16:41:07.522Z
+
+sorry it was poor choice of words. i meant "browsing / session like userdata" vs "window/ desktop level state" if that makes more sense
