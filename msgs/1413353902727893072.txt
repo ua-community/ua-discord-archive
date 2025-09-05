@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-05T02:43:49.256Z
+
+In a sense from a developmental point of view, the Ark Development Kit was the browser company's XUL, and Dia their Firefox.
