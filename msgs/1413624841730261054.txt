@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T20:40:26.148Z
+
+nimo uses pipedream.net for mcp / integrations which i havent heard about, might be interesting for prototyping integrations
