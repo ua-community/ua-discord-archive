@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T16:45:12.181Z
+
+Oh yeah. I think which windows/tabs are open and what their content should be makes more sense under the app when possible. I'd love to be able to rip it out of the app though >:) Like eithout having to be the app developer
