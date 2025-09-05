@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T15:54:32.400Z
+
+Before niri I used different "corners" of my ultrawide screen to place stuff and would use a keyboard shortcut that pops up a text input witg fuzzy search to quicly switch between windows based on window title
