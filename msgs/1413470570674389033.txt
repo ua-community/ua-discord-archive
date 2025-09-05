@@ -1,0 +1,9 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T10:27:25.062Z
+
+but where is the line. we have on one hand facebook with policies that are not in my interest, governemnts not working for me to even enforce my existing rights and wehre i dont have an alternative  except losing my social network or play by those rules. i would argue any tool that lets me take power from facebook is justified and we should not take any rules or laws as a given that were made without our interest at heart.    (also if they are in us urisdiction and dont even apply to my country)
+
+on the other hand we have a community like ours where the rules are made by us and for our interests if someone would try to circumvent the safeguards and post spam here it would actually be what you refer to. but these two are very close in some ways, not as distant and clearly separated as you put it.   
+
+i dont have a clear answer where this will lead (eg. something like cloudflare bot protection for eveything where users have certificates and are fully identifyable everywhere with keys owned by google and apple) or what the right approach is. from the xenon/darc perspective we would support anything that increases user agency but not support things that are either catered to use these systems at scale vs just for individual use.
