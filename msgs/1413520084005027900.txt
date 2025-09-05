@@ -1,0 +1,9 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-05T13:44:09.960Z
+
+Signals:
+
+1. https://arxiv.org/abs/2312.11514
+2. PLE in https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/
+3. https://openreview.net/pdf?id=TJjP8d5bms
