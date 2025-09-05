@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T16:48:15.411Z
+
+you mean apple missing for window management or linux missing to switch?
