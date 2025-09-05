@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-05T07:33:32.297Z
+
+They’ve a good person in their team who contributes to core Swift open source, they’ve hired him for that reason in first place
