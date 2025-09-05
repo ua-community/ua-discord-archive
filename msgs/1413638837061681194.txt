@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T21:36:02.895Z
+
+yeah this combination is a sweet spot. especially as the AR layer is hard to reach with a mouse pointer when someone also works on a main tasks. these really shine when multitasking and agents work on supporting tasks or prepare the next task and generate ad hoc interfaces that are presented on an auxiliary device such as ar HUD
