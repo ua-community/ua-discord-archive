@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T16:16:23.178Z
+
+I dunno. I think I just personally dislike how much each app I use wants to be "the os" and expects to be a single full screen window that does everything. Becoming that doesn't fill me with joy. I'd rather tha p2p web stuff disappear as just another part of the os and the web apps being closer to native apps that integrate with the rest of the flow
