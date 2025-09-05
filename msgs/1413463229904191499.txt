@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-05T09:58:14.886Z
+
+its interesting to me that grammarly, a chrome extension that corrects grammar, acquired coda and superhuman in last one year or so. they seem to be competing with gusite/notion suite of workspace tools here it seems
