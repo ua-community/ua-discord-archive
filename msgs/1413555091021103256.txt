@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T16:03:16.283Z
+
+Yup! Then I toggle it betwee 1/3,1/5,2/3,1/1 and 10% adjustments
