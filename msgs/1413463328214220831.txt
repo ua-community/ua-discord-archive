@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-05T09:58:38.325Z
+
+they also redesigned coda (a note taking tool like notion) to look like a carbon copy of notion
