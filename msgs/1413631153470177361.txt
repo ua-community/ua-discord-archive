@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-05T21:05:30.984Z
+
+I wonder if Igalia has been experimented with Wolvic (formerly Firefox XR) having browser mcp installed.
