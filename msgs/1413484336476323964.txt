@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T11:22:07.085Z
+
+this makes me think. having passwords and accounts sucks. if ai makes it trivial to create fake accounts and everything is possible so the spam and filtering restrictions have to be pushed one level deeper what would be needed to make the whole of the web feel like its writable/ postable without accounts or similar restrictions in the way
