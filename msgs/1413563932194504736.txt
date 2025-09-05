@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-05T16:38:24.183Z
+
+Mind elaborating on what browser context state is in this context and how that relates to the os?
