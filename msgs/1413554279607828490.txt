@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T16:00:02.827Z
+
+i tried edge today and im just totally shocked how slow it is even with just one tab and a fresh install,, its basically totally unusable for me
