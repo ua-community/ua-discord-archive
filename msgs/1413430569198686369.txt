@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-05T07:48:27.967Z
+
+Notes (you can guess who mentioned IWAs): https://github.com/Igalia/webengineshackfest/wiki/2025-Chromium-Embedding:-Experiences-and-challenges
