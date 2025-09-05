@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T07:27:23.941Z
+
+i really doubt how much you can read into statements like this. at this point i think anything they say is bs. i would not be surprised if they did not open source it because its so bad and they did that announcement to justify rewrite
