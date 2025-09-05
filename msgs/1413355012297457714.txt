@@ -1,0 +1,7 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-05T02:48:13.798Z
+
+swift-winrt lets Swift code talk to Windows APIs.
+    •    swift-build helps you build Swift toolchains that can target Windows.
+    •    windows-samples provides example applications to demonstrate how this wor
