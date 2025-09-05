@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-05T20:27:38.254Z
+
+but its so rough i am not sure what it will do underneath
