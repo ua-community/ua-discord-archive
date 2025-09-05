@@ -1,0 +1,5 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-09-05T09:43:42.780Z
+
+Email & a lot of the "older" tech just have these half functioning solutions to spam because they came up in an era where trust in the Internet was more or less a given - before extreme widespread adoption things were made to be as open as possible with blacklists. Nowadays this has been abused to hell.
