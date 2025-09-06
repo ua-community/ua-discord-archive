@@ -1,0 +1,5 @@
+UserId: 797243795728629760
+Username: (user)
+Time: 2025-09-06T18:50:02.587Z
+
+I had found a blog that basically documented how perplexity did their thing and it kind of brought me to these theories:
