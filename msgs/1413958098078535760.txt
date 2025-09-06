@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-06T18:44:40.653Z
+
+i see. well for context: browser company and perplexity are the steroid startuppy examples with 50 to 300 employees and 600mill to billion+ evaluations and 100+ million investments. at that scale and structure they have resources in theory to build any product (except something like foundation models) and its more about the strategy with their investment structure and founder personalities leading to negative behaviours towards  users in the direction of data extraction, limiting user agency in areas that cannot be monetized or dont supprt their growth and lockin strategy, rug-pulling etc.  Nimo, fellou, BrowserOS etc. are also startups and want to "make it" but are between 2 and 10 people with a few million investments. They behave all over the place as they try to find their market fit and are much more resource constraint in a way that it cannot be expected they can build proper security frameworks or embed values like user agency  into their products as the only goal they have is to try getting traction to get a bigger investment so they dont die in the next year.
