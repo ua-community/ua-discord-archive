@@ -1,0 +1,11 @@
+UserId: 797243795728629760
+Username: (user)
+Time: 2025-09-06T18:53:27.258Z
+
+- bigger models aren't necessarily better than old ones because they can provide inaccurate information. they just tend to be more likely to be right, but they can be supplemented by search (using SERP, etc) Their biggest advantage is context size / window.
+- If we can run a smaller model but supplement it with trustworthy information by supplementing it with the right data, having some kind of trust system for domains / websites used for information / some user choice on what sources to pick from the ai's keyword generator's SERP results, maybe we could also pick out better sources for information, perhaps have some selectivity on where it brings it's information from
+- I suppose a semantic model would be best for giving coherent responses, basically acting as some mega search engine that does the searches for you and aggregates the information for you.
+
+- Is it possible to combine a keyword semantics ai model to supplement search information, and use that to boost a smaller, more locally rannable model (Lower parameters, maybe higher context window) that can be trusted and unfiltered?
+
+these are my big questions and I hope to learn more about any flaws in them.
