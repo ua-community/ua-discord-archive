@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T21:14:05.743Z
+
+https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/
