@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T14:52:09.231Z
+
+unsloth keeps getting better: https://docs.unsloth.ai/basics/memory-efficient-rl
+
+their neat trick this is their standby mode which allows memory space for inference and training to be re-used,
