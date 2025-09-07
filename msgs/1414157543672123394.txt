@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T07:57:12.188Z
+
+It’s used by the likes of OpenRouter: https://openrouter.ai/docs/community/openai-sdk
