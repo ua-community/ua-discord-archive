@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T19:57:17.738Z
+
+so in theory we can have best of both worlds with models like https://huggingface.co/janhq/Jan-v1-edge-gguf when combined with different lora adapters
