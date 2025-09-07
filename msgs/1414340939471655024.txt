@@ -1,0 +1,8 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T20:05:57.154Z
+
+just a cli, swift based implementation of https://ollama.readthedocs.io/en/modelfile/, following these 3 basic design goals: 
+- Immutable data
+- Universal identifiers
+- User-controlled keys
