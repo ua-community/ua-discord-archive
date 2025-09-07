@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T18:32:37.310Z
+
+It’s actually open source as they’ve released their training data too: https://huggingface.co/datasets/continuedev/instinct-data
