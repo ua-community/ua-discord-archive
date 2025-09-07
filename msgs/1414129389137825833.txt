@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-07T06:05:19.624Z
+
+in theory yes, ( though there are also still the pwa support issues on ios) but unclear if financially doable in this climate: https://appleinsider.com/articles/25/07/14/apple-still-effectively-blocks-rival-browser-engines-on-ios-despite-eu-order
