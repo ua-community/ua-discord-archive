@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T07:54:53.397Z
+
+Sadly doesn’t supports migrating code to Swift
