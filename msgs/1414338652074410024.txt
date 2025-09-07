@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-07T19:56:51.796Z
+
+i've learnt that full finetuning works best for training broad, general-purpose model capabilities, while partial methods like LoRAs excel at modular, task-specific specialization.
