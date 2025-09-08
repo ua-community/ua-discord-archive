@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-08T14:06:38.877Z
+
+IMO qwen3 is still not reliable enough for local tool call use. 😅 At least not without fine tuning and a bunch of constraints
