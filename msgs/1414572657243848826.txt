@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-08T11:26:42.976Z
+
+https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
