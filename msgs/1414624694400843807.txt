@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-08T14:53:29.601Z
+
+Yeah I don't think this is significantly better than regular qwen
