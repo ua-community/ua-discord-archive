@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-08T15:05:42.034Z
+
+Actually, I just set the recommended parameters and it seems to be performing a lot better. 😮 Gonna test more later
