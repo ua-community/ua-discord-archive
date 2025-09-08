@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-08T14:50:10.171Z
+
+I think it might be expecting a tool to send responses?
