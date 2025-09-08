@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-08T12:22:41.561Z
+
+Yeah, and Jan edge is a fine tuned Qwen 3 1.7B model by Jan folks specialised for tool calls (MCP) and deep research talks, I think his argument is about local so integration with popular end user experiences
