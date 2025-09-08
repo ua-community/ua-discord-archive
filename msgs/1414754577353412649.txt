@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-08T23:29:36.110Z
+
+https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android
