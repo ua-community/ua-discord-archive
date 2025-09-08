@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-08T14:07:56.985Z
+
+Probably the best Qwen 3 1.7B finetune out there: https://huggingface.co/janhq/Jan-v1-edge-gguf
