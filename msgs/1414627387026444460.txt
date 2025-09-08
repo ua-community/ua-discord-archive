@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-08T15:04:11.573Z
+
+You’re comparing with the 1.7B version right?
