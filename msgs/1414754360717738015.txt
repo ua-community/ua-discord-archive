@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-08T23:28:44.460Z
+
+Yeah. Bad news today. Huge opportunity as a foothold into Android and incrementallly replace Google android apis in a user agenty way.
