@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-08T17:27:37.125Z
+
+ok thanks, we can do a joined test session but porbably better after fixing some of the linux issues
