@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T05:43:25.337Z
+
+and thats needed to make your own locked down secure boot? or anything else?
