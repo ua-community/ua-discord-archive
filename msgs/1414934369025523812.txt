@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T11:24:01.785Z
+
+oh yeah that's just a window setting, is just off by default globally in the build right now. i have it as a TODO to make it configurable globally and per-app by end user.
