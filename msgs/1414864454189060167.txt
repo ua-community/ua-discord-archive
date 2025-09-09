@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T06:46:12.789Z
+
+could you explain what you mean? if it is generated with the dataschema and a few parameter eg. timeframe and number of entries, its technically metadata but could be simple to audit and should be possible to limit the information
