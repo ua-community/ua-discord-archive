@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T15:48:00.827Z
+
+maybe its enough to be easy to toggle and visible, experimented with a simple switcher that is on by default for apps that are pinned as app tabs and of for other tabs. can be toggled with one click at any time. works great but is confusing to non power users that dont understand yet, so would love to find a ux that is more discoverable as users proficiency increases
