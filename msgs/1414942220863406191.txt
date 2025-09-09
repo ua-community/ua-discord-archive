@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T11:55:13.809Z
+
+how do you think about cross origin navigation and window open calls in pages. we had multiple discussions in what situation we should force either every navigation to stay inside its frame or force every origin to stay inside a separate frame ie open a new frame when you navigate cross origin.
