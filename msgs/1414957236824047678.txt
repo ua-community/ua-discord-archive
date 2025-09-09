@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T12:54:53.893Z
+
+plus it means its easier  to reason about what security context i am in, because even when urls are shown or highlighted when the origin changes its easy to lose track, especially when someone does an attack where eg. they copy the gmail ui
