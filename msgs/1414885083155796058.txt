@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T08:08:11.118Z
+
+ah i see what you mean. i was more talking about system schemas like bookmarks , emails etc. i experimented with ways to mark whole apps and metadata as confidential in which case you would be prevented from using that context in tainted agents with exfiltration vectors. all of this assumes you trust the hosting of llms you use though. if you dont want to have your data schemas and metadata seem by cloud llms you have to use explicitly local models
