@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-09T04:26:56.052Z
+
+That said it’s awesome you are testing and we can likely make fixes that improve quality of life
