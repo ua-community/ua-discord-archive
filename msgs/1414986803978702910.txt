@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T14:52:23.252Z
+
+would love to write up once things are more validated in practice. im lacking a bit of prior art and common research knowledge at the moment so i want to avoid writing something that as long accepted state of the art or was dismissed already by experts.
