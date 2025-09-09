@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T11:57:26.725Z
+
+thanks gordon for helping me figure out the implementation with his posts on decentralizability
