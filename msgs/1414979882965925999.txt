@@ -1,0 +1,7 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-09T14:24:53.154Z
+
+While we're on the topic of sandboxing, anyone have any thoughts about state partitioning? 
+
+Personally, I like the security it brings, but the APIs to ask the user for permissions feel poorly designed; or is it just me?
