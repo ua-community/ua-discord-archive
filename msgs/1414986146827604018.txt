@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-09T14:49:46.575Z
+
+Browser partitions yeah. Just looking to see how other people feel about it, if there's any frustrations or great benefits. I haven't seen much writing on it except from the stuff on MDN & working groups. My context is, trying to make a cross-origin component system based on html/js/iframes in the browser.
