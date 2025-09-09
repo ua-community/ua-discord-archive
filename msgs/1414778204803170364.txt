@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T01:03:29.333Z
+
+I subscribe to this publication, I can share the book’s PDF privately that I’ve purchased, it’s a WIP but already useful, but I’ll say just go through Unsloth and Mistral.rs docs for now
