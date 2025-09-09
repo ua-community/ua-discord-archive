@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T14:04:28.054Z
+
+i dont think there will ever be a silver bullet. we will need something like a type system where the underlying runtime does rigorous taint tracking and the user intent is destructured into just the parts that are relevant for the evaluator. the evaluator then has a set of strategies based on the taints and sub context graph that include things like cleanroom sub agents, context eviction, as well as hermetic frames (i think that is a good term). unlike type systems this is subjective. a user might see metadata as sensitive or be in a user profile where nothing matters except experimentation
