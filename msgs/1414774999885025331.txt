@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T00:50:45.221Z
+
+It’s free with the Tesla T4 GPUs that come by default with Google Collab notebooks that they give you
