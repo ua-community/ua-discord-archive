@@ -1,0 +1,7 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-09T11:15:29.338Z
+
+Is there a "browser" out there that allows you to load web pages through os-level windows which you can move around? I'd like to load web pages in separate windows and still have them talk to each other like tabs in a regular browser (eg. over a broadcast channel)
+
+It sounds like Peek allows you to do this, minus the ability to move them around with your cursor. Though tbh, I can't get Peek to work on my linux machine 😅 (keyboard shortcuts aren't triggering)
