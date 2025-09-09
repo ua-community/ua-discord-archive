@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T12:53:24.482Z
+
+because if i see a web app as running inside a window. it wuld mean breaking my expectation contract that an app is an app is an app and not changes to a different app under my fingers
