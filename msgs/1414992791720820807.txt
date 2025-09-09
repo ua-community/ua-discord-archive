@@ -1,0 +1,13 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-09T15:16:10.841Z
+
+Yeah sorry, didn't realise that was a term used elsewhere as well 😅 
+
+Use case:
+Domain A consumes a "component" by using a web page through an iframe from domain B.
+So for example, a component that provides data to domain A.
+When loading that page through the iframe, it would have no user interface, only a postMessage interface through which the data could be retrieved.
+However.. if you would load that page from domain B on its own, outside the iframe, you would get a configuration interface. There you can configure how the data should be fetched.
+
+With state partitioning enabled, this doesn't work, because the configuration made outside the iframe is not available inside the iframe. I know I can use those storage-access apis to resolve that, but that api feels like a hot mess.
