@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T06:48:38.896Z
+
+untrusted models just start tainted so have limits what you can do wit them but apart from that the method would work the same
