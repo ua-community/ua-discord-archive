@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T06:55:01.678Z
+
+generating mock data and intermediary steps in this process should be something local models will be reasonable good at. of course its not perfect and has limitations but i see a number of uaecases that
