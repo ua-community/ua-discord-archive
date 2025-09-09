@@ -1,0 +1,8 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T09:25:09.400Z
+
+hm, probably some threads on it, but i should probably write a blog post, is the idea that:
+- the web is increasingly complex, which makes the barrier to implementation higher, reducing the set of implementors, and concentrating decision-power over what the web can be -> overall bad feedback loop that we're stuck in
+- but not all needs on the web require 100% of what's in Baseline (https://webstatus.dev/)
+- so one method of breaking the cycle is to implement (or fork implementations) in need-specific ways that are more manageable for smaller entities by reducing the web platform surface area radically - eg cutting whole chunks of it off, or only implementing targeted parts (as they did here in LightPanda)
