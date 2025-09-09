@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T00:59:37.545Z
+
+I mean on a M4 Max Mac Studio 64GB it takes around 30 minutes to train a LoRA if the dataset is ~300/400 rows for a 4B model
