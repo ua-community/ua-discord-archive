@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T11:53:30.924Z
+
+Market signal with Swift and on device models: https://x.com/mattt/status/1965375375510569401?s=46
