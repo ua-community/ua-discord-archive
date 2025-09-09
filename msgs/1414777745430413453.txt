@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T01:01:39.810Z
+
+Yeah PEFT methods are mostly partial fine tuning but you can fully fine tune too but then it’ll override base model characteristics so if you want to do full fine tuning it’s better to do some RL training like a combination of DPO and SFT
