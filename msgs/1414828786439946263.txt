@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-09T04:24:28.935Z
+
+For context I’ve ran networks of 10K plus paid devices for customers before
