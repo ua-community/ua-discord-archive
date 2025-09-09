@@ -1,0 +1,7 @@
+UserId: 797243795728629760
+Username: (user)
+Time: 2025-09-09T00:55:47.160Z
+
+new plan is to pick a bunch of datasets, training them into separate LoRAs and then using mistral.rs to frankenstein them into a MoE
+
+I was also thinking of making a smaller model to use speculative decoding to make it just really fast and efficient overall
