@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T09:01:39.153Z
+
+They chose hardmode, which is pretty cool. Their post the other week made it sound like they actually went deep into platform implementation, and used WPT to validate. Definitely falls into the "radical subset" category.
