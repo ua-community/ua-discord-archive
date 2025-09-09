@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T12:12:42.607Z
+
+why would navigation to a different origin fork from the active view if there's not a link target specifying that behavior?
