@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T13:36:48.274Z
+
+will go through those docs in depth. agree its easy to mess up, i think it would need a shared standard like a "sealed container frame"   with scrutiny from different angles simlar to [sandboxed iframes ](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#attr-iframe-sandbox) but without any configuration whatsoever, there cannot be ambiguity what could happen
