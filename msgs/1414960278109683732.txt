@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T13:06:58.992Z
+
+now that i think about it is really two modes: weba apps i would want to have domain constraint as mentioned. for browsing windows i would want the opposite, they never can open a new window or tab unless i do it myself with eg. shift click
