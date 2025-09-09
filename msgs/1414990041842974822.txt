@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T15:05:15.219Z
+
+ah you mean literally the browser feature.  dont think there is an alternative for default but there could be exceptions or use r opt out for certain situations
