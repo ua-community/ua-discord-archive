@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T15:37:55.480Z
+
+Yeah the design is not great, and very inconsistent across browsers. Generally, security *user interface* for the web not being standardized is superdanger. I isolated by default in Peek at first, if only b/c there was no sec ui at all yet 😅
