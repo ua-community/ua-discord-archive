@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T12:59:34.108Z
+
+yeah thats why we introduced this lighbox concept every "web app" has a maximum of one external domain they can open, if they open multiple they are all forced into the same lightbox. similar to an in app browser. this avoids the exploding window but keeps the other advantages
