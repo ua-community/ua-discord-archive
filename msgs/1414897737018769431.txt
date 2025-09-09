@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T08:58:28.034Z
+
+The groups implementation is probably closest, since you could probably jam all of history in there using a bunch of different lenses. It's similar to the Panorama/TabCandy implementation that Firefox used to have, but loading up pages in isolation, instead of in a set of tabs.
