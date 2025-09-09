@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T11:28:14.135Z
+
+re broadcast channel - should work same as any web browser, if the cookiejar/container isn't isolated.
