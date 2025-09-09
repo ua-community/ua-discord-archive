@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T11:33:18.832Z
+
+the anti-tab browser. every page is a single window.
