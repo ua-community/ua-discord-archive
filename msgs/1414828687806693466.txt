@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-09T04:24:05.419Z
+
+Chromeos is a weird platform that many things gated behind requiring a paid license like kiosk mode as you mention. Outside of existing edu I deployments don’t see a lot of use. Not saying we shouldn’t support, just note on the ecosystem.
