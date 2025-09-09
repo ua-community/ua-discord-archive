@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T05:41:28.826Z
+
+omg schrödingers data is the solution to the issue i have been fighting with,  where did you get that? so if we have a securely locked down surface that is fully quarantined, is not allowed any communication except painting itself, no network at all, we can allow a half tainted agent to create an app that runs in this as its the same isolation system that we used to isolate the web app that tainted the agent. ( if there was an attack from the sandbox, the page could just have directly used that) any assets the app needs even imges have to be baked, the userdata is mocked at that stage so no exfiltration can happen but the app can be tested and optimized by the agent. the. then s final step we push in the userdata, as nothing can come out this step is as safe as the sandbox
