@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T05:12:35.023Z
+
+yeah when you work on the iwa internals iwa reload is quite helpful. so either that or i give user normal ctrl r but find a good modifier that is unused eg alt crl r
