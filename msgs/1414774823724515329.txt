@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T00:50:03.221Z
+
+Look at Unsloth, train LoAs there, and idk about other libraries but mistral.rs can make MoEs from LoRAs
