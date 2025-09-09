@@ -1,0 +1,9 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-09T12:02:58.062Z
+
+this work is inspired majorly from:
+
+- https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html
+- https://www.inkandswitch.com/essay/local-first/
+- https://newsletter.squishy.computer/p/decentralizability
