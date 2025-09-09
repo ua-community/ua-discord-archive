@@ -1,0 +1,5 @@
+UserId: 797243795728629760
+Username: (user)
+Time: 2025-09-09T00:51:27.279Z
+
+I was planning on running it locally since I have a 4070ti but I realize training just takes really long
