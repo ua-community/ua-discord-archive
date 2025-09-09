@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-09T12:55:53.268Z
+
+i tried playwright tesst framework and fortunately its somewhat of a different project from playwright browser automation library because the test framework is utter garbage
