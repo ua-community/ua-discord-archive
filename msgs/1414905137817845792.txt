@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T09:27:52.522Z
+
+here's the post where they talk about it: https://lightpanda.io/blog/posts/why-build-a-new-browser
