@@ -1,0 +1,5 @@
+UserId: 797243795728629760
+Username: (user)
+Time: 2025-09-09T00:57:37.885Z
+
+you said if I finetune using PEFT to make LoRA's it would be feasible to run locally right? would you use a base model, or LoRA? how does that work?
