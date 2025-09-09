@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T11:32:55.989Z
+
+with Singular (standalone experiment for eventual integration in Peek), i was playing with "loading a page completely standalone at OS level". i imagine if it shared a single runtime instead of making app-per-page, and just opened new windows, would be quite close to what you mean here.
