@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T08:56:48.503Z
+
+Just different approach from a browser where the purpose is 1:n of "user interface paradigm":"all reasons for opening up any web page". So the "if not tabs, what?" question doesn't have a singular answer like "oh, we use aardvarks instead".
