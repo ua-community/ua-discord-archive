@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-09T11:45:08.195Z
+
+it's already what Peek does when registered as default handler for HTTP URLs - open in a single undecorated window. but i hadn't thought about doing *only* that, without any of the rest of Peek's functionality. and that it'd be a tiny code change for Singular (and the name kinda works too). so thank you for the idea!
