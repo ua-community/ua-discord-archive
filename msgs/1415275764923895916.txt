@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T10:00:36.910Z
+
+you have to package it to really test it correctly, and then combine it with something like Velja / DefaultBrowser for usage.
