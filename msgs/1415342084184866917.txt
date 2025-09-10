@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T14:24:08.654Z
+
+Aww yiss, this is the future I wanted. Almost feels like the old Winamp days 😄 Thanks (user) ! Didn't know it was so easy to make a frameless window draggable by just adding some CSS <:notbad:497087782850789386>
