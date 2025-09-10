@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T17:08:14.032Z
+
+is there anything the user can identify as “his” that the page cannot forge?
