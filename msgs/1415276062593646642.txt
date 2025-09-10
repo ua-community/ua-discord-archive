@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T10:01:47.880Z
+
+Velja is nice, b/c you can set a default for a link click modifier, eg i can hold down the function key and click a link, and it's opened in Singular instead of the Velja picker or default browser.
