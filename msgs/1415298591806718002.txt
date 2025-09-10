@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T11:31:19.263Z
+
+Ties better with ATProto/Email based user identities
