@@ -1,0 +1,6 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T12:07:00.748Z
+
+I haven't tested that, just used the open-url button.
+I assume I need to package it before it can be used as a HTTPS handler in the OS?
