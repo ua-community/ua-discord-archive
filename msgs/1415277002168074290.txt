@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T10:05:31.892Z
+
+- partitioning/privacy/persistence options would be quite nice to experiment with. eg could imagine a modifier+router for ephemeral+incognito, for named partitions ("my main YT account"), etc.
