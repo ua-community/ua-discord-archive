@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T17:17:25.817Z
+
+another one is to to rely on user session entropy. eg if there is something like a tab sidebar that shows the users tabs, add the sec ui to that and never only show sec ui but in a way that would require for the spoofer to know all the users other tabs
