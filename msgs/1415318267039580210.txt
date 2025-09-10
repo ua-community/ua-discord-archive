@@ -1,0 +1,10 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T12:49:30.204Z
+
+Did some testing on opening URLs in Linux, doesn't seem to work with the following combination:
+1. Packaged Singular as an AppImage (required some electron-forge config)
+2. Installed using Gearlever: https://flathub.org/en/apps/it.mijorus.gearlever
+3. Tested opening URL via Junction: https://flathub.org/en/apps/re.sonny.Junction
+
+Just opens the default window and not the requested page.
