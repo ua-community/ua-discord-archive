@@ -1,0 +1,7 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T10:00:03.722Z
+
+i added the feature to Singular in this way:
+- register as HTTP/S handler w/ the OS
+- add a button to open URL directly in a new decorated window
