@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-10T16:42:32.740Z
+
+i'm guessing it's have similar issues as regular STT where it won't be able to recognize novel words like "Agregore" or be able to output weird formatting for code
