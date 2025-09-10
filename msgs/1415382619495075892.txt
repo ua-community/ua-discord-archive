@@ -1,0 +1,7 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T17:05:13.025Z
+
+my current thinking is sort of an inverse lightbox:
+- content dims, reduces in size 10% and appears to "move back"
+- all identifying UI, priv/sec info, actions, metadata, calculators appear and "move in", partically over the dimmed content
