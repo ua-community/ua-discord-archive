@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-10T13:21:08.418Z
+
+Yep same realization here. Native matmul in the chip https://bsky.app/profile/timkellogg.me/post/3lyi2y3pguk2n
