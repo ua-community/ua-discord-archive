@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T17:14:56.768Z
+
+you have to proof in the part that is used for sec ui that that section is not spoofed by the page you are on. one way is to reserve a transparent section on one side of the window and use that to make the dialog overlap the border putside of the window, something that is impossible for the content to do except the controlling context
