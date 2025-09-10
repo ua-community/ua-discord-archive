@@ -1,0 +1,8 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-09-10T21:20:42.575Z
+
+ya this aligns closely with what I've been thinking about too! Two additional thoughts: 
+
+- I see web applets as being a very pragmatic way to bridge the current reality of the web with a future web that is much more composable and malleable, but I see custom HTML elements as the thing we actually compose together (of which web applets are custom HMTL elements).
+- There are tons of low hanging fruit of how to compose UI's together that can be end-user friendly, I sort of  see "chuck in a LLM" as a last resort. Take, for example, freely associating HTML widgets in space
