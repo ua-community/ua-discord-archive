@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T21:01:39.850Z
+
+ill try to rephrase it simpler, its just keybase model + sigstore, keybase tied device keys to user's PGP key, each new device needed provisoning from an existing device, and i find this essential for "user ownership of weights and data", but at the same time for private training or CI/CD pipelines keyless approach is much better suited. So that'a a hybrid approach where you access is tied to device keys rather than identity, but once you link the device you can use the tied identity to carry keyless ops
