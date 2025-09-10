@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T11:22:39.399Z
+
+TIL how Sigstore works: https://docs.sigstore.dev/about/overview/
