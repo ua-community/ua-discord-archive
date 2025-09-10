@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T15:00:21.779Z
+
+yeah for Peek everything is hidden by default, and i'm playing w/ ways of making it available easily/contextually.
