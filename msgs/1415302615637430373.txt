@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T11:47:18.619Z
+
+For the latter I should also add, making it actually user friendly is the big challenge. My hope is that LLMs/agents will be useful here, something along the lines of: "make me an app that does X and Y"
