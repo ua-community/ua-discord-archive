@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-10T11:15:05.645Z
+
+What do y'all think about Wordpress's work on the Gutenberg editor and their block interactivity ecosystem? I've been pondering if the Gutenberg editor could serve as a proof of concept for interacting with a more composeable web.
