@@ -1,0 +1,6 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T11:57:02.390Z
+
+Both audio player instances are connected to the same audio instance (same audio)
+Working on a "track/music collection browser" now which will be another window here.
