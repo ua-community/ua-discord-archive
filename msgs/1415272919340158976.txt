@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T09:49:18.470Z
+
+some bits in scrollback here from chat yesterday about OS-level page loading, some interaction patterns and security ux. https://discord.com/channels/1309454711392305192/1309454711392305195/1414939680734187704
