@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T17:05:55.901Z
+
+of course i mean how long valid, invalid certs should not even show the pge
