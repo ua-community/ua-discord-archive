@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T11:30:24.266Z
+
+I wonder if this checks the user owned keys checkbox, its user owned identity rather than user owned key which feels fair enough
