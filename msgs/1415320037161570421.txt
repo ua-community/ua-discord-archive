@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T12:56:32.234Z
+
+Hehe yea 😄 Should also mention that I'm using an atomic distro (Bluefin, Fedora); which is probably also a special case because everything is sandboxed.
