@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T13:00:16.928Z
+
+i removed all the protocol handler stuff b/c the app-level handling was working alone in the basic cases. i'll try adding it back in.
