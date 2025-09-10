@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T16:46:03.525Z
+
+im not sure what a window manager is for you, its just the browser part that handles windows so the same as what i said or am i missing something? im not aware how the os could understand intricacies of browser sec contexts
