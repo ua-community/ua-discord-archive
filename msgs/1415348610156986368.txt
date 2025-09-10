@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T14:50:04.567Z
+
+re decoration, i was thinking about things like shortcuts or gestures for hide/show
