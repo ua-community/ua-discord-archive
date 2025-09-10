@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T20:56:17.290Z
+
+there seems to be some prior work in this direction as well, but they dont seem to be packaged well for adoption: https://github.com/sigstore/model-transparency
