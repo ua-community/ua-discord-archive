@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T09:56:08.024Z
+
+and an idea from (user) about zerotab browsing, that's in the general direction of Peek's default loading behavior, and Singular just loaded a page directly vs packaging/ephemeral.
