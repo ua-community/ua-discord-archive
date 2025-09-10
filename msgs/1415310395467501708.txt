@@ -1,0 +1,8 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T12:18:13.475Z
+
+Figured can stay keyless way with Sigstore approach and still honor
+"user-owned keys" at setup by binding a user's long-lived key to their Sigstore identity once, then accepting keyless signatures from that identity thereafter.
+
+Can even do a Keybase like provision workflow where one device provisions other where device keys are all tied to a single identity
