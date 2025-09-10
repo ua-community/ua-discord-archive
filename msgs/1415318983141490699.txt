@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T12:52:20.936Z
+
+Hmm, i wonder how Electron's "default" handler receives events on Linux
