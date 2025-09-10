@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T20:39:29.412Z
+
+i think with advent of centralized systems, increasingly targeting personal data and turning into dystopian tech, we have an urgent need of decentralized, and private alternatives that affords similar convenience as the former systems
