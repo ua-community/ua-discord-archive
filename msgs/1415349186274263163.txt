@@ -1,0 +1,6 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T14:52:21.924Z
+
+Is this not provided by one's window manager?
+Or you mean hiding/showing the window controls?
