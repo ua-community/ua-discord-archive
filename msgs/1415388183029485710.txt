@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T17:27:19.475Z
+
+but yeah its a lost cause if content has transparency and borderless its impossible to make it safe. this is maybe a core difference of iwa and  electron. iwa will never allow transparency and only maybe full borderless. electron will never be safe in the general case
