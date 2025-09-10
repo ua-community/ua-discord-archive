@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-10T21:52:58.272Z
+
+I'm gonna see about using it as the default in Agregore and try to dogfood it for my usual codegen tasks
