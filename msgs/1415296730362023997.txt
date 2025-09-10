@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T11:23:55.460Z
+
+Evaluating use of Sigstore for Tiles registry
