@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T16:25:50.869Z
+
+always a challenge for borderles because everything from the security layer above the content should not be painted inside the pint surface for spoofing protection so i would try to reserve an area that is transparent and not paintable by the app surface where sec dialogs can proof they come from the parent.  for iwas this is bot solved tet, which is the main reason borderless has the experimental flag
