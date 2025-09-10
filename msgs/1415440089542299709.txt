@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T20:53:34.952Z
+
+trying to bake that into tiles control/data plane design with these four invariants, with things like sigstore and keychain on mac this seems to be doable for a mvp
