@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T22:00:39.169Z
+
+Aza Raskin's early Ubiquity demos, chaining content between pages (that were not designed for it), were the first "user composable web" thing i'd ever seen. Not sure I've used anything that felt as *natural* since then.
