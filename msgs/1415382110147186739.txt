@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-10T17:03:11.587Z
+
+sorry not 100% sure we talk about the same thing, could you exlain onone example what you mean?   maybe something like how to check what domain a page is on in a borderless design and if the certificate is valid?
