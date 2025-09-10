@@ -1,0 +1,9 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-10T11:40:09.059Z
+
+That's a good shout. I can't comment on the editor specifically, but I am reminded of https://blockprotocol.org/spec/core which does have a plugin for Gutenberg.
+
+I'm also trying to make a more composeable web, using a custom version of https://unternet.co/docs/web-applets/introduction/
+
+A composeable web could take a lot of different shapes. What does it look like for you? My vision is that it needs to be composeable on the user level, not just for developers. Something that could enable a maleable software web. Mix and match pieces to build your software basically.
