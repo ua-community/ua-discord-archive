@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T21:05:51.599Z
+
+previously i wanted to do training p2p on device, but the allure of mature ecossytem on python/server side is too hard to ignore, so had to dive into these solutions, there is confidential compute/TEE as well but those methods are not as accessible at least in present
