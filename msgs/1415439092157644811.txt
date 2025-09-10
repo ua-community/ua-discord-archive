@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-10T20:49:37.157Z
+
+invariants for tiles registry/CLI design: https://www.tilekit.dev/roadmap
