@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-10T17:33:28.220Z
+
+we went through all this with the paymentRequest APIs many years ago, i'm very familiar with the spoofing problem.
