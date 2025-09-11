@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-11T01:52:02.757Z
+
+An interesting exchange I had with Kin Lane aka the API Evangelist. Here's the link shared at the bottom of the screenshot: https://github.com/mamund/apis-and-agents
