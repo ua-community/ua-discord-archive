@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-11T11:56:28.045Z
+
+added important features... like animating the spinner while you're typing.
