@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-11T22:01:46.886Z
+
+i was just using v0 for frontend tasks, as i hate writing frontend code myself and was pleasantly surprised when out of nowhere (as in not instructed in prompt), it noticed acceisblity issues and started fixing them as part of its routine review every now and then, its a good tool
