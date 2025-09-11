@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-11T21:04:13.336Z
+
+well there are classes of bots, they block LLM bots by default
