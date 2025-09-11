@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-09-11T03:56:41.992Z
+
+ah ocaps -> object capabilities
