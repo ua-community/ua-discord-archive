@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-11T21:00:08.779Z
+
+i mean if people chose to make something public then its better for LLMs to have omnipresent visibility conditional to terms they've set on that public information, for instance I would love to have people discover tiles when someone has a usecase and they are researching about it with ChatGPT, I would love to market and activate the solution right three in chatgpt if there was a way, I do not hate chatgpt as a general public search engine, Cloudflare seems to be doing the inaugural work here that I feel is the right direction, but we need an open solution here, it all comes down sometimes to same origin vs cross origin, centralized vs decentralized 
+
+ps: what i hate in chatgpt is personal memory dossier thing, that's why i completly avoid talking anything personal there
