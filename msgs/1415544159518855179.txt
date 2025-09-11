@@ -1,0 +1,9 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-11T03:47:07.168Z
+
+During the Mozilla Webmaker era circa 2011ish, web components were at the very beginning of their ideation/experimentation. In parallel, Webmaker was Mozilla's attempt to build a learnable code editor, and some of the visioning and experimentation was around building a ui for creating and collecting web components for end user composability. Essentially, nocode before nocode as a core primitive of the browser. My contribution to the visioning was to tie it to API discoverability whereby websites could use microformats to point to some kind of api definition format (we had Swagger at the time which folded into OpenAPI, and then later on Kin Lane came up with apis.json which satisfied what I was imagining) and the api definition could include a widget manifest. Also, I wanted all apps oauthing into the browser instead of each other, and in doing so more widgets would be added to your widget inventory along with endpoints that could be accessed through a Zapier-like interface built into the browser. That was what I was shopping around 10-15 years ago. Got some people thinking about it but it was mainly the web components ideas that got people's imaginations going. Also, browsers aren't for the data layer, silly.
+
+I came up with these ideas because, no joke, I thought making the browser the very center of the api ecosystem alongside installable webapps would empower movement organizers to cut fascism off at the pass. After gamergate, I started to feel like the window for Firefox to shift the culture of data+code and therefore culture had passed. I think there's a new window right now, though I now know we can't rely on an organization like Mozilla to take any leadership in the type of work we're talking about here.
+
+Anyways, I digress. Composability for the masses. Yes.
