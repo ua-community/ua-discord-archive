@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-11T17:31:31.799Z
+
+updated the website today (now the mac launcher app, sdk and registry are all under one umbrella, not focusing on pure consumer usecase anymore, instead the goal is to make a dev platform/tooling with consumer level of convenience, as in i dont expect the audience to be ml experts)
