@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-11T03:48:41.772Z
+
+My current imagining involves crdts and ocaps extending dom objects to flatten the relationships between dom objects across the web into networks.
