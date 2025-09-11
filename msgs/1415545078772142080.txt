@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-11T03:50:46.335Z
+
+I'll be blogging about this in a few weeks hopefully. Unfortunately I'm not a coder, so prototyping has long been a pen+paper/figma/ms paint/PowerPoint practice for me. Haven't started playing with the ai coding yet.
