@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-11T21:04:58.170Z
+
+"intent bidding", before LLMs it was done for information (ads), now it'll be done directly for actions (outcomes)
