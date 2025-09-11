@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-11T21:01:45.956Z
+
+i wish i could though, and merge my personal and work as a singular entity eventually, and thats why the need to build tiles as the base infrastrcuture to unlock those kind of experiences. I think Claude as published in their research paper will get there eventually sometime in future, but their recent TOS makes a conflicting case too, its confusing if Anthropic is the good guy, well they are backed by Amazon and theyre def not lol
