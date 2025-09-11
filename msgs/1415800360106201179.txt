@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-11T20:45:10.148Z
+
+I still think both have their own roles, and private/local doesn’t mean absence of viability of server sided models. technology by design can be private and tamper proof if we as society desire that
