@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T14:56:01.268Z
+
+i'm not totally sure what the persistent + custom partition use-case is.
