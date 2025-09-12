@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T12:59:53.922Z
+
+alright yeah i can run packaged on linux w/ `--no-sandbox`
