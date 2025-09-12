@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-12T02:10:36.072Z
+
+Valid, I think rather to be on extremes it’s better to be pragmatic and understand both sides and keep chugging after you find a balance/relationship, and I think software attestations that Apple is doing for their PCC system to train on personal data is one such case
