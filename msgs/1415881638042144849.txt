@@ -1,0 +1,5 @@
+UserId: 797243795728629760
+Username: (user)
+Time: 2025-09-12T02:08:08.318Z
+
+I do uv virtualenv, uv pip, etc I don't even know what I'm doing
