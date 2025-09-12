@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-12T15:00:53.069Z
+
+I do like the idea of custom partitions as a sort of profile switcher
