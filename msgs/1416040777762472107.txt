@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T12:40:30.184Z
+
+i'm getting "The SUID sandbox helper binary was found, but is not configured correctly." etc etc
