@@ -1,0 +1,7 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T15:32:56.919Z
+
+landed support for:
+- `partition` option which just passes through to Electron, so you can prefix with `persist:` or not as you prefer
+- `ephemeral` option for opening temporary apps in one-shot from the command line or other apps
