@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-12T00:35:57.999Z
+
+privacy and security are real things that we take for granted on web platforms, my respect for people working in this space has increases by multiples after giving apple security bible a skim today, and reading about pegasus exploits on Apple devices: https://help.apple.com/pdf/security/en_GB/apple-platform-security-guide-b.pdf
