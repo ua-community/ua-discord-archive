@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-12T10:54:06.761Z
+
+how do they isolate the iframes if they dont at least hash the target url and use that as subdomain ?
