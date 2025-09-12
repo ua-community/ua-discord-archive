@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T14:52:41.690Z
+
+Separate topic: i went down the rabbit hole of emulating incognito mode. what a mess.
