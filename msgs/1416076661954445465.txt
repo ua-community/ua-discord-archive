@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T15:03:05.642Z
+
+yeah there's some level of default isolation i'd like to have everywhere
