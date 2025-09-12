@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-12T01:56:02.071Z
+
+It’s not a Tim Cook or technology problem but a capitalism problem 
+
+I wonder if runtime/code attestations like in PCC system would make for a good middle ground between open source and closed source softwares
