@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-12T13:07:05.503Z
+
+(just like MacOS)
