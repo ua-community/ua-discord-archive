@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T14:57:27.941Z
+
+eg if expiration caps are per partition then you might want a custom partition for your app so other Singular usage doesn't impact your storage ceiling.
