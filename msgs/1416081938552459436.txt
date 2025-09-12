@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-12T15:24:03.681Z
+
+yeah thats exactly how you would build ff containers with chromium base. it works pretty solid so far.  if i understand correctly chrome isolates multiple incoginito windows with different effemeral partitions and using somethig like playwrite tests would also use one effemeral partition per test run
