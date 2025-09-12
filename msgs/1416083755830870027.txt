@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T15:31:16.954Z
+
+https://www.electronjs.org/docs/latest/api/structures/web-preferences - is here, but the Electron docs are sparse. i've assumed it's like Firefox containers how (user) explained, but tbh i have not tested or looked into the Electron source to ensure that's actually what's happening there.
