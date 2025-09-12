@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T12:40:40.647Z
+
+hm, open Electron issue https://github.com/electron/electron/issues/42510#issuecomment-2171583086
