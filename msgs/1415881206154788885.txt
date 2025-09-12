@@ -1,0 +1,5 @@
+UserId: 797243795728629760
+Username: (user)
+Time: 2025-09-12T02:06:25.348Z
+
+today I leanred how to use virtualenv to pick a python 3.10 environment for ai finetuning. fun. (yesterday but you know)
