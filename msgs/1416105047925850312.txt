@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-12T16:55:53.385Z
+
+hmm saw this, they are using scramjet proxy,  but it looks to me as if everything is sharing one origin and being proxied through the same endpoint, i dont see how that could work.
