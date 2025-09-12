@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T13:37:15.696Z
+
+i'm probably just making assumptions about titlebar/menubar defaults on Linux
