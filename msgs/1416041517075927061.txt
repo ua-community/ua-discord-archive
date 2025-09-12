@@ -1,0 +1,5 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-09-12T12:43:26.450Z
+
+Though I haven't tested with your latest changes, lemme see
