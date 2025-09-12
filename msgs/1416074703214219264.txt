@@ -1,0 +1,9 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T14:55:18.642Z
+
+seems fine to:
+- have a default partition
+- that is persistent
+- and offer custom partitions
+- and ephemeral is an option (not default)
