@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T14:51:17.614Z
+
+i assume in your case (user) you might want all media cached etc, so you probably want to persist
