@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-12T14:49:28.998Z
+
+hm, so if using Singular an invisible tool to load web content, is there a reason to not have it use an ephemeral dir by default
