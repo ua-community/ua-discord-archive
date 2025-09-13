@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-13T22:57:05.320Z
+
+I'm rather excited to explore web of trust security methods with trust itself a bit more structured
+https://en.wikipedia.org/wiki/Web_of_trust
