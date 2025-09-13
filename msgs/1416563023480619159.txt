@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-13T23:15:43.266Z
+
+Turns out ChatGPT can be my context engine for my other AIs if I play them off each other. I wonder if it's possible to turn my ChatGPT client with all its context and all my projects and everything into an MCP server, because that would be really helpful.
