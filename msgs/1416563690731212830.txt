@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-13T23:18:22.351Z
+
+It'd be hilarious to turn two AIs into MCP servers and attaching them to each other.. wait. What would that do?
