@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-13T21:16:09.141Z
+
+Quick question for whoever might be here atm. I'm talking with an llm about pitching Automattic on a custom role, and there's a few framings I'm looking at, and I want to correlate these framing options with browser/user agency work.. but I need to shake up its assumptions about what that means with some cross-sections of our contexts here. Can anyone suggest an article something I can introduce into the context so it can do the right correlations?
