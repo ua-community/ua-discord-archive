@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-13T21:59:59.735Z
+
+I've been using this one. Hasn't been updated in 2 years, but it's still good enough for me. https://github.com/jaschaephraim/obsidian-title-generator
