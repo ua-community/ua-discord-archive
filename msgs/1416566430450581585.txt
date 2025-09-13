@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-13T23:29:15.551Z
+
+Gotcha. RWOT is one of the central groups that's been incubating DIDs. It's been a workshop based group for the past 10 years. They also have a signal group. I'm like 900 messages behind. https://www.weboftrust.info/
