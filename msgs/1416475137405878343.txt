@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-13T17:26:29.593Z
+
+eg local first data meaning it’s all on your own machine rather than on a corporate cloud
