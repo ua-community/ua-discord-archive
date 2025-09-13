@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-13T21:52:36.025Z
+
+The “owning” frame sets us on the wrong track. Ownership ties it to property, but knowledge has always been relational. I agree with sōm that writing, encyclopedias, and search didn’t make us less capable, at least in aggregate (there’s something to be said about individual agency vs collective agency here, but I think that’s a side conversation). Each of them shifted how we work with information. The real issue is whether we have agency in how these tools are built and who they serve.
+
+In this context, agency comes down to control over the systems themselves: who designs them, who maintains them, and who decides their limits. If AI is sealed off and run by a handful of actors, that is enclosure and we lose control over those systems and the domains they shape. If they stay open and participatory, our capacity expands while keeping us directly involved in how they work.
