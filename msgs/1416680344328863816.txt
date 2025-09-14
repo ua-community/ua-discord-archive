@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-14T07:01:54.736Z
+
+Yeah, chrome has two versions right, chrome for general consumers and then chrome for enterprise 
+
+And they both are same so their argument is about building a work focused browser
