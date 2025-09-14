@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-14T01:20:52.592Z
+
+Why does anyone do anything? Developers are some of the few when it comes to open source that build because they want it to exist for themselves.
