@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-15T14:24:16.152Z
+
+But not sure about correctness of definition of RAG, but in the author’s context it’s that
