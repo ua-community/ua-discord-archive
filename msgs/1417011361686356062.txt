@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-15T04:57:15.424Z
+
+I think that side feature should have been scripting, not prompting
