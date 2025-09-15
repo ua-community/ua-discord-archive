@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-15T14:26:24.348Z
+
+ah so i used the term wrong? how would you call an agent using a traditional search index instead of vector db? i see little value in using a completely different term UnLess ypu want to emphasize that one of the models relies more on the agents tool calling ability and the other can be made to work a bit less explicitly eg you can use vectors on initial prompts without an agent explicitly requesting it
