@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-15T20:20:34.792Z
+
+Personal model creation is just RAG on top of that index 🤣 
+
+Gotchu discord
