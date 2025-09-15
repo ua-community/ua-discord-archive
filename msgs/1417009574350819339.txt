@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-15T04:50:09.290Z
+
+Posthog is an analytics platform and he's getting into data science territory here, which loves Jupyter notebooks
