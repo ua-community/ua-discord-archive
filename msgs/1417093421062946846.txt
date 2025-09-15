@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-15T10:23:19.904Z
+
+there was a great post either here or on hn about the diff between open ai and anthropics memory system
