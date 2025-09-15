@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-15T14:22:33.256Z
+
+i was thinking about that too! i think it boils down to the definition of rag, for me its anything that is based on agent decision and not pre populated into context, for the author it seems to be rag has to use a vector db
