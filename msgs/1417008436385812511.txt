@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-15T04:45:37.978Z
+
+You know what, his posthog example reminds me so much of Jupyter notebooks and matplotlib
