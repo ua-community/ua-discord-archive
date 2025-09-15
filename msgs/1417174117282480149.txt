@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-15T15:43:59.382Z
+
+It seems software is moving in two extreme ends, on one side the vibe coded software empowering niche end user solutions and on other hand the models/infra becoming even more closer to hardware/hardcore engineering
