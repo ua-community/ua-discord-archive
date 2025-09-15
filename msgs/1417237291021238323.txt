@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-15T19:55:01.175Z
+
+Slides from today's W3C Authentic Web session on Originator Profile. (didn't attend, just saw the email about it) https://drive.google.com/file/d/1jz9YLhwy-pW38OLlV1B-Fec0VN-xVImc/view
