@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-15T23:49:18.269Z
+
+Someone we've added bullshit artificial constraints while removing natural constraints
