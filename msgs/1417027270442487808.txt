@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-15T06:00:28.367Z
+
+Imagine a cryptographically hashed based model and its layers (like prompts, lora etc) is customised through Modelfiles and final model builds are built on the fly with deltas, ie only one base model is on device and every other model is built on the fly based on that apps Modelfiles on the fly
