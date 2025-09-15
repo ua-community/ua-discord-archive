@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-15T03:20:52.683Z
+
+And maybe apps could ship with SLMs that only know the vocabulary for their app
