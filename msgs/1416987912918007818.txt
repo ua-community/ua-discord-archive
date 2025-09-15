@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-15T03:24:04.802Z
+
+Part of app dev would be knowing which vocabulary to train the SLM on and which behaviors to map the vocabulary to
