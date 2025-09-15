@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-15T14:20:24.974Z
+
+Claude doesn’t has RAG apparently according to author, which makes me think what do they use. It’s just structured tool calls
