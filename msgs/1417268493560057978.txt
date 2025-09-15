@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-15T21:59:00.440Z
+
+Open WebUI is a really fascinating piece of software and vision: https://jryng.com/thoughts/why-open-webui
