@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-15T04:52:48.512Z
+
+I feel like you could even make these analytics graphs in a jupyter notebook given a library to retrieve the data
