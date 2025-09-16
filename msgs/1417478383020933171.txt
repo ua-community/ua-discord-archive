@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-16T11:53:01.987Z
+
+For OP and related specs tho, i think success is probably defined differently. is a bunch of major publishers around the world implement it and browsers support it, it's probably a win if it can mitigate dis/misinfo in a moving window of time.
