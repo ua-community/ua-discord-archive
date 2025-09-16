@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-16T05:32:14.048Z
+
+this is really an interesting approach, i'm on the fence and either we will go into an everything goes data soup world where signals just work in a new way or we really need something like this.   a mixture of content addressable mekle dags, pgp signatures, hypothesis like web annotation layer would be needed  and seing how many of these projects were started and did not even get close to a critical mass and traction its hard to imagine how a rollout would work unless something like cloudflares bot blocker system decides to enforce it
