@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-16T12:50:35.887Z
+
+i checked and 139 release and beta chan is currently crashing, the dev channel starts fine!! 🙂
