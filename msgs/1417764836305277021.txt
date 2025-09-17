@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-17T06:51:17.772Z
+
+The Veilid stuff is interesting. We worked for 5 years on similar tech. It’s also a different category - more Signal / chat like than open world public like ATProto. Need both.
