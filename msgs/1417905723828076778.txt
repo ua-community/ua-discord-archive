@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-17T16:11:07.975Z
+
+yeah it's bizarre. my biggest closed source dependency aside from macOS probably.
