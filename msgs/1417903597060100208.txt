@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-17T16:02:40.914Z
+
+yeah, that's what i was looking at it for, obsidian vault -> repo -> sync -> gh action -> static -> www
