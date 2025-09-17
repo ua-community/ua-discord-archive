@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-17T05:05:29.404Z
+
+never considered radicle general purpose, what are the issues with atproto? currently evaluating atrpoto for some social bookmarking and app sharing features in darc/xe and would be helpful
