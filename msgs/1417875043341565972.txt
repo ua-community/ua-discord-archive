@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-17T14:09:13.177Z
+
+i just dont use local mcp servers anymore until it makes sense to, reason is I setup a remote MCP once and it gets synced across devices
