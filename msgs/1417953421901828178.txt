@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-09-17T19:20:40.082Z
+
+Lots of people use it with Obsidian. It’s fine but it’s kind of Hugo inspired for building and a few other quirks where I’m still stuck on my custom Jekyll install
