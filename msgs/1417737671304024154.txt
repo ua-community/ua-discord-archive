@@ -1,0 +1,11 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-17T05:03:21.131Z
+
+many mixed feelings about this
+
+- a compnay calling itself something like  "interaction company of california" is just so pretentious smells like the browser company of new york ptsd
+- the personality is super annoying and rude, reminds me of early dia agent personality which i found unbearable  and rude
+-  normal messenger with notifications and a much simpler interface also used for humans actually feels different, but there is always a point where you need more agent specific ui and i doubt messengers will be able to add that anytime soon given how long it took for even buttons to be added to most platforms and even that is still a mess, plus the api, interop and data ownership mess of messengers
+- their video ending is more frightening than they realise and reminds me more of the bot encouraging the guy to commit suicide
+- permission uis and system in general of the last decade are  just utterly incapable for this world  and have to die.  i would never grant something like this access up front to something as general as downloading all contacts and email.
