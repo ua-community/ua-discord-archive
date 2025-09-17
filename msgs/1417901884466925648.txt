@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-17T15:55:52.600Z
+
+Feels like obsidian that I can self host for free without paying for Obsidian sync, it’s Obsidian comparable as well so I get the text editor too with this setup
