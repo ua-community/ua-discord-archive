@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-17T16:48:25.397Z
+
+poke is inevitable, right, but this is dystopian withoit verifiable privacy guarantees, i just wish apple executes in a way that preserves user privacy and still align with shareholder interests, if not we surely will have a privacy friendly alternative with fairphone/frmaework ecosystem etc
+
+i tried poke with a throaway gmail account setup with some auto forwards and general MCPs and its insane, works much better than chatgpt connectors too
