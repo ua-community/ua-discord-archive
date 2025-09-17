@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-17T13:05:48.875Z
+
+remote mcp servers seem to finally be catching on over local ones a bit. https://www.remote-mcp.com
