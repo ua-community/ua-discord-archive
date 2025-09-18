@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-18T19:13:45.053Z
+
+Didn't they train it through chat gpt in some way?
