@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-18T10:33:35.624Z
+
+Really like Nostr’s design
