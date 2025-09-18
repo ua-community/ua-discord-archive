@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-18T17:16:03.801Z
+
+I used to bridge when I had my matrix server up. Then element stopped hosting and I never migrated my data into a new one. I should find time to do that at some point. I miss being able to organize everything I'm tracking in one place.
