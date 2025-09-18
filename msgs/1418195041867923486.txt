@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-18T11:20:46.771Z
+
+Ive a strange hunch Vercel v0 is the birth of new Figma after watching this video essay
