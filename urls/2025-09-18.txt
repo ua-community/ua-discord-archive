@@ -1,0 +1,1 @@
+https://webassembly.org/news/2025-09-17-wasm-3.0/
