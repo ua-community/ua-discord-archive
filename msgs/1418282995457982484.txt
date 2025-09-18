@@ -1,0 +1,13 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-18T17:10:16.541Z
+
+I can talk about this for hours and weeks and months. So much so I don't know where to start but I know this could be the start to a great thread.
+
+The history of computer science shows this oscillation between centralized servers with thin clients to   primarily local computation and back again. We're far overdue for another flip, and this frame points directly towards the local first model of web dev. 
+
+In some sense, this group is trying to figure out what the next Desktop PC and iPhone moment could be. Turning the clouds into oceans, to extend that metaphor. 
+
+With every decentralization a new layer of centralization is built on top, and it would be fun to speculate what the new centralization needs and opportunities might be once social networks and cloud computing capabilities are increasingly possible in a distributed manner. When edge computing is fully personal and relational/social and the cloud is primarily us and all of today's clouds are the legacy model. What emerges then?
+
+This is the stuff that comes to mind first when thinking about how power laws show up in computing and innovation environments.
