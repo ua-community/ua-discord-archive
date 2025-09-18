@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-18T18:14:18.388Z
+
+ARM ftw: https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center
