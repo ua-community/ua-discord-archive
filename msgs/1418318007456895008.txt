@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-18T19:29:24.052Z
+
+But there have been real architectural improvements on training side from DeepSeek and combined with distillation approaches you get these results (the contributing factor varies among those two for different model releases)
