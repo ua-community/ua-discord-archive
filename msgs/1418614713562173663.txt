@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-19T15:08:24.300Z
+
+"The launcher, the runtime, and the development tooling will all be part of the same environment. Orca Apps will be more like SmallTalk images that you can inspect, tweak, and live program, rather than opaque WebAssembly blobs."
+
+https://orca-app.dev/posts/250910/changing_tack.html
