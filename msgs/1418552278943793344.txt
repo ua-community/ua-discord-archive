@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-19T11:00:18.727Z
+
+https://gemini.google/overview/gemini-in-chrome/
