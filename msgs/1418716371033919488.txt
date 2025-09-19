@@ -1,0 +1,10 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-19T21:52:21.330Z
+
+and an update on the role of tiles app, the app will act as a memoru custodian for the user, unlike many other memory SDKs out there that serve enterprises/devs/agents that take away user agency
+
+my thinking is roughly giving:
+
+user: choice + agency
+dev/agent/enterprises: choice
