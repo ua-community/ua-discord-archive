@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-19T21:55:04.723Z
+
+in a true decentralized/p2p design i think the line blurs a lot between both sides, and that's what the ultimate aim should be wrt "end of software" argument, but gotta start somewhere practical with a foundation that can enable that future
