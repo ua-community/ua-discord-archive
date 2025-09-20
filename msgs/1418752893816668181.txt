@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-20T00:17:29.040Z
+
+Kin apparently has a small local model and semantic index that stores memory locally and only sends a subset of them encrypted based on the prompt to the server hosting a Llama 70B model(server doesn’t stores any chat or memory)
