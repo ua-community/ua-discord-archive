@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-20T12:37:02.552Z
+
+They apparently have teased a perplexity like browser use feature in their recent teaser video on YouTube which makes me happy. I’m finding this feature quite useful in chores that previously I had to turn to public APIs of the web service before
