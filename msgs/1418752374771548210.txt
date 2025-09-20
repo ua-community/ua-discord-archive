@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-20T00:15:25.290Z
+
+Also Simon’s comment on the memory systems: https://simonwillison.net/2025/Sep/12/claude-memory/
