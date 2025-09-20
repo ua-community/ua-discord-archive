@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-20T15:28:51.691Z
+
+It’s more about grounding capabilities in pixels of recent image based SLMs
