@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-20T14:21:46.681Z
+
+reasoning over pixels in text seems a big deal to me, as they mix the power of SLMs reasoning capability (more depth vs width) with image models being inherently a domain of SLMs
