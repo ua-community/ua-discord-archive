@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-21T16:47:00.939Z
+
+While I prefer matrix/element, Def agree its not ready for most. Could be for us though. Shoot, when the time comes could set up an alternate front-end client at the user and agents domain or something, make it feel like joining a thing.
