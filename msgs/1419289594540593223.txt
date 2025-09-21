@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-21T11:50:08.464Z
+
+i wanted to take a vertical integration/ infra approach to this memory problem to unlock a step change rather than an incremental one
