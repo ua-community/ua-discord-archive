@@ -1,0 +1,10 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-21T11:40:02.410Z
+
+i realised something in the on device space
+
+ollama: has leverage from user side(as an aggregator), has a cross platform abstraction in modelfile, but depends on single runtime library llama.cpp
+lmstudio: has leverage from both user and dev side, doesnt has cross platform abstraction, but leverages multiple runtime for maximum performance
+
+tiles: leverage on user side (as a memory custodian), has a cross platform abstraction in modelfile, and plans to leverage multiple runtimes for maximum performance
