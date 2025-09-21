@@ -1,0 +1,15 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-21T09:03:36.837Z
+
+Ah okay will nerd out
+
+In mid 2010s I had a setup going on my Nexus 7 WiFi (Flo)
+
+MultiROM TWRP + Franco kernel with these ROMs all on multi boot, serving different use cases 😂:
+
+1. AOKP
+2. Paranoid Android
+3. Dirty Unicorns
+4. Resurrection Remix 
+5. Cyanogen Mod
