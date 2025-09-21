@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-21T14:28:06.474Z
+
+We were thinking to move off Discord at some point, just started with Discord as the iterative/accessible step to begin with
+
+All the data is indexed anonymously at https://github.com/ua-community/ua-discord-archive with https://github.com/autonome/phenomena bot
