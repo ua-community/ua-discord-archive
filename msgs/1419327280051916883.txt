@@ -1,0 +1,5 @@
+UserId: 784915786837131274
+Username: (user)
+Time: 2025-09-21T14:19:53.390Z
+
+I'm generally curious. Why is it that the FOSS and privacy/security oriented software uses proprietary platforms such as Discord and GitHub?
