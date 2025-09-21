@@ -1,0 +1,5 @@
+UserId: 784915786837131274
+Username: (user)
+Time: 2025-09-21T14:30:36.505Z
+
+Sorry I wasn't meaning you all specifically. It's just an observation that I have also been curious about. I personally like Codeberg and GitLab.
