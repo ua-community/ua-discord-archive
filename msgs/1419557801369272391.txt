@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-22T05:35:53.955Z
+
+i just went down a bit into the rabbit hole. the only thing that felt right was revolt, really impressed with how far they have come, night and day difference in performance to element. im happy to make a little test try to see what breaks or is not there yet, if anyone wants to join and try to break things: https://rvlt.gg/PzKxcVZw
