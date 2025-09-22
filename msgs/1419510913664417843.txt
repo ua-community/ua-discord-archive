@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-22T02:29:35.055Z
+
+fits in nicely with visual ui as well: https://tailscale.com/blog/visual-editor-beta
