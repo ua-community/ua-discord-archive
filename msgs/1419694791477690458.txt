@@ -1,0 +1,11 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-22T14:40:14.942Z
+
+dropping the idea to use third party on device models, and instead will use first party default models present on device
+
+strategy is to finetune lora adapters for memory that stores the user's profile on device, and act as a secure memory custodian by design
+
+incentives for agents to integrate with tiles SDK would be that they get subset of relevant memory data to make better intent suggestions on a verified profile, vice versa user's can verify agent's authenticity too
+
+no need to make a registry anymore
