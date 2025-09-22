@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-22T02:29:11.908Z
+
+looking to use modelfiles for all the infra and something based on hujson for policy file: https://github.com/tailscale/hujson
