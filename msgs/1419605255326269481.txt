@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-22T08:44:27.860Z
+
+but it has ids?
