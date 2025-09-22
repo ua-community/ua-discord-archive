@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-22T05:37:29.232Z
+
+is there a way to reuse our archive system to do a test mirror of this server to revolt to see how things feel and if revolts data model is capable and usable enough for something like that?
