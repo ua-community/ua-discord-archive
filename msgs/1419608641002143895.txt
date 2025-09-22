@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-22T08:57:55.068Z
+
+but we're not promising true anonymity b/c this is already a public server
