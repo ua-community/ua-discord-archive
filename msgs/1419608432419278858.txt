@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-22T08:57:05.338Z
+
+the file name of each message is the message id though
