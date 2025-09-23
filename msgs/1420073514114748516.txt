@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-23T15:45:09.455Z
+
+This makes me wonder what a Linux distribution built off of something like boot to gecko could look like today.
