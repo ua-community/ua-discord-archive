@@ -1,0 +1,11 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-23T15:22:38.791Z
+
+Omg. Way to bury the lede: "Looking to the future, Ghostty has ambitious plans in two main areas: libghostty and terminal application functionality.
+
+libghostty is the core, cross-platform library that powers Ghostty. It is available as a Zig and C API and works today on macOS and Linux. The goal is to allow a large and diverse ecosystem of terminal emulator applications to emerge ranging from dedicated applications, embedded terminals such as in editors, web-based terminals, new terminal multiplexers, and more.
+
+The idea with libghostty is that developers can focus on the hard work of building a great application and get fast, feature-rich, standards-compliant terminal emulation for free. In many ways, I describe Ghostty today as a "reference implementation" of a libghostty consumer."
+
+Way way down there in the post.
