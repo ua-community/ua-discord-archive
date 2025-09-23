@@ -1,0 +1,7 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-09-23T15:30:07.807Z
+
+Mitchel is an absolute beast, I followed ghostty development from the start, and he does an incredibly impressive job across leading the project, rallying a community, working with the Zig core people, creating the app & code, and is very friendly at that. He also casually dumps out very high-quality libraries on the side.
+I guess I shouldn't be surprised, he was one of the founders of hashicorp, and from my understanding basically created both terraform and later vault.
+Now he has basically unlimited time & resources. Still, I find his work very impressive beyond that.
