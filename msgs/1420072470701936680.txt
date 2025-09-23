@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-23T15:41:00.686Z
+
+Any idea what the performance of running remote apps in the browser like this would be compared to vnc'ing to the from machine?
+
+Also, can multiple machines draw into a single compositor at the same time? Huh. Weird I never thought to ask this before.. it's research time!
