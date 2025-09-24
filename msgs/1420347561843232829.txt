@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-24T09:54:07.525Z
+
+yeah just tested, http://foo.bar.localhost:8000 works. happy days
