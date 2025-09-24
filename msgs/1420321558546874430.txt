@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-24T08:10:47.856Z
+
+working on seeing if there's a public acknowledgement of the fix from apple anywhere (or at least get an internal ack)
