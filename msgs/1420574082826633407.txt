@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-25T00:54:14.336Z
+
+I think even an AI request like "do this thing" should actually be a search for a script you wrote before, that it confirms with you before executing it
