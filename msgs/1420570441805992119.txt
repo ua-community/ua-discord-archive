@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-25T00:39:46.249Z
+
+and it doesn't have to output language, just guesses at the file I'm looking for
