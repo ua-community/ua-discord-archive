@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-25T00:44:32.211Z
+
+or I could ask which of my contacts had lunch with me last year, and it knows my calendar that far back
