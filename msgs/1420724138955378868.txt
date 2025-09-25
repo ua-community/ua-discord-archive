@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-25T10:50:30.505Z
+
+One less confusing thing to deal with, which only gets worse if you got chrome profiles and channels in the mix
