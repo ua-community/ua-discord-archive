@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-25T11:01:16.070Z
+
+There is some single instance lock thing that happens where the first instance makes a socket and then others try to do the same but fail and then realize they are not the primary instance
