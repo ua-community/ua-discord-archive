@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-25T14:22:20.419Z
+
+this issue was specifically about desktop, as we were pushing on it since the IPFS subdomain gateway was first shipped a few years ago. would be interesting to know whether the Apple OSes diverge at that layer...
