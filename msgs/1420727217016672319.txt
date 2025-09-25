@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-25T11:02:44.372Z
+
+This is in chrome. Fixed by first making sure the primary browser instance is open but that’s a pita
