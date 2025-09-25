@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-25T10:59:50.903Z
+
+i wonder if that's just side-effect of underlying changes in Ungoogled Chromium
