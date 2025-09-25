@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-25T11:02:15.524Z
+
+There was some sort of bug where if the order was wrong you would get a hang before the IWA opened and then it would open a number equal to the number of confused clicks you made when it didn’t open as expected
