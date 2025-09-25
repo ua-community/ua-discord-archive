@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-25T10:49:52.040Z
+
+Usually you get a chrome instance as well as your IWA instance with its icon, but in helium it’s able to launch just the IWA without helium chrome instance coming along for party just to hang out
