@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-09-25T17:54:54.807Z
+
+Ollama app UI now
