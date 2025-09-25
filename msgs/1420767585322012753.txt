@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-25T13:43:08.926Z
+
+i thought the iOS process model meant you couldn't do something like run a local webserver and have it be actually available to other apps
