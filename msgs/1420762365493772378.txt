@@ -1,0 +1,11 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-09-25T13:22:24.422Z
+
+Helium build times [platform, hardware, cold, warm (redis sccache)] 
+----------------------------------------------------------------------
+linux, epyc 7k64 (48c 3.3ghz boost, 8x32gb 320 ddr4 rdimm), 45m , 25m
+linux, ryzen 9950x (16c 5.7?ghz boost, 2x32gb 6400 drr5), 55m, 12m
+macos, apple studio m4 14c, 120m, (not rested with sccache yet)
+
+Old epyc wins for cold build in 45mins, but new ryzen does better with warm builds 12mins.
