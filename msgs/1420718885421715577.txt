@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-25T10:29:37.965Z
+
+do you mean you're hiding it? or it has some content-window-only way of launching?
