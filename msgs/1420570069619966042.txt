@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-25T00:38:17.513Z
+
+I've been thinking and realized the most useful thing an AI could do for me is search my files to find the one I want, based on me describing the file
