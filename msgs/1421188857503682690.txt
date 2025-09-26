@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-26T17:37:08.041Z
+
+making a new push to try replacing cursor with vscode web + amp as daily driver. (user)
