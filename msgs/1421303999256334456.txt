@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-27T01:14:39.974Z
+
+The dissonance I feel clicking through to this same person's other classic work: "You Don’t Need a Component Library; You Need LLM as Your Component Generator"
