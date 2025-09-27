@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-27T10:03:29.778Z
+
+Took an old extension named "cmd" that i made in early 2010s, which was like a hyperminimal Ubiquity replacement that I mostly used for CLI-like execution of bookmarklets, and updated it to play w/ some ideas separating "groups" from tabs - results in a "workspace" kind of effect.
