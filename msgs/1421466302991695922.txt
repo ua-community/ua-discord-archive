@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-27T11:59:36.200Z
+
+i think about  a tab group as a folder inside of a space which is fully persistent at all times and independent of device, browser instance or window
