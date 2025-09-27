@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-27T10:13:30.016Z
+
+Outlining some of the reasoning behind how I'm building "groups" features in Peek.
