@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-27T13:18:04.015Z
+
+then the visual model of how a given page is displayed (eg can i see other pages? how do i know they're there? can i quickly move between them? what is the scope of that set? how do i change scopes/workspaces/etc?) is easier to explore without being handcuffed to tabbed-window model.
