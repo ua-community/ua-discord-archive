@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-09-27T03:02:39.340Z
+
+Interestingly their onboarding experience is its own repo: https://github.com/imputnet/helium-onboarding
+
+I wonder what they're up to.
