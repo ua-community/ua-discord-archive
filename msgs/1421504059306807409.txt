@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-27T14:29:38.007Z
+
+haha mostly just simplifying to the most basic components of a ZUI browsing experience with groups.
