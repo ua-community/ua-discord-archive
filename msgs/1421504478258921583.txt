@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-09-27T14:31:17.893Z
+
+groups -> group -> url -> group -> groups
