@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-28T07:00:27.487Z
+
+you might want to put it clear names instead of invites, otherwise message histroy is not readable after invites expire...
