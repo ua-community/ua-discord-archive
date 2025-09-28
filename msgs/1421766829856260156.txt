@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-28T07:53:47.388Z
+
+thanks again! did not want to wipe the machine for dev mode and ended up using the dev server from my mac via network. without the linux container the tiny chromebox is atually usable. will prepare a linux/chromeOS release with all the fixes and would love to hear your feedback.
