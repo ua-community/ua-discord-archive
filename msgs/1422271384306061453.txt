@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-29T17:18:42.543Z
+
+I think the issue is your background is being applied to the wrong elements and you have unnecessary nesting. https://jsfiddle.net/754h3pL6/
