@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-29T16:48:00.003Z
+
+Oh! As an unsolicited CSS protip, try `box-sizing: border-box` out. It makes calculating box widths easier IMO. https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
