@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-29T16:35:23.136Z
+
+Psudo classes are the funkiest feature IMO. I did some truly ungodly things with them back in the day. https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
