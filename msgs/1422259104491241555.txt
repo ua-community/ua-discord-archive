@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T16:29:54.807Z
+
+It's no doubt very powerful. It's also very unwieldy, and no matter how much I learn, I never feel like I really "learned CSS"
