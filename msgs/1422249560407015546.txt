@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T15:51:59.320Z
+
+What tools even let you upload both an image and a text prompt?
