@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T15:53:52.613Z
+
+Honestly the code isn't even important, it would be helpful to just get HTML+CSS back that resembles the image
