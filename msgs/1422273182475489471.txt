@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T17:25:51.260Z
+
+I just toggled all the css items in dev tools and it looks like a box shadow is responsible
