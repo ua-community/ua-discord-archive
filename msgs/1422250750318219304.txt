@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T15:56:43.017Z
+
+Implicit default behaviors causing silent failures that you can't even source in your code per se
