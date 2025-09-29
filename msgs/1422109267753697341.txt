@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-29T06:34:30.945Z
+
+just retried it and it keeps using nextjs even when instructed explicitly 3 times to not touch that garbage framework : D
