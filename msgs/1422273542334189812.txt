@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T17:27:17.057Z
+
+but when I deselect box shadow, now it looks right lol
