@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-29T16:29:03.491Z
+
+CSS is great IMO. I'd endorse learning it. It's a great way to cut down on JS functions and HTML tree depth
