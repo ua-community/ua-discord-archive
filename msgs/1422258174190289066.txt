@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T16:26:13.006Z
+
+Also, studying the css you generated for me, I never knew you could do .class + .class as a specifier
