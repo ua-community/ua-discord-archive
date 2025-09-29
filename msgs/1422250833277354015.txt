@@ -1,0 +1,49 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-29T15:57:02.796Z
+
+.prayer-card {
+  background: #fff;
+  border: 3px solid #111827;
+  border-radius: 22px;
+  padding: 18px 18px;
+  display: grid;
+  grid-template-columns: 64px 1fr auto;
+  column-gap: 16px;
+  align-items: center;
+  min-height: 112px;
+  box-shadow: 0 0 0 8px rgba(17, 24, 39, 0.05) inset;
+}
+
+.prayer-card .avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 9999px;
+  border: 3px solid #111827;
+  object-fit: cover;
+  background: #fff;
+  flex-shrink: 0;
+}
+
+.prayer-card .text {
+  font-size: 18px;
+  line-height: 1.45;
+  color: #1f2937;
+}
+
+.prayer-card .pledge-btn {
+  margin-left: 16px;
+  background: #1f7a69;
+  color: #fff;
+  border: 0;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+  cursor: pointer;
+  box-shadow: 0 1px 0 rgba(0,0,0,.08);
+}
+
+.prayer-card + .prayer-card {
+  margin-top: 16px;
+}
