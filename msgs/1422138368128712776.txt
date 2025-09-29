@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-29T08:30:09.015Z
+
+now officially supporting windows, linux, chromeos and mac. still pre alpha state but it should work similarly on the platforms and i will support debugging and fixing for these platforms. im planning to have the first alpha ein next few weeks
