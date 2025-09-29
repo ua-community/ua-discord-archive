@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T16:32:52.046Z
+
+I'm not a complete stranger to CSS. I've done borders, colors, and some layout stuff.
