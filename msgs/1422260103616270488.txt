@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-09-29T16:33:53.017Z
+
+When I was learning CSS I read through all the selector syntax as a start. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors It might be good to spend a day or two reading the MDN resources for it. I promise there's less to it than for example the python STD 😅
