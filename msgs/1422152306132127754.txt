@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-09-29T09:25:32.094Z
+
+A monad is just a monoid in the category of endofunctors, what's the problem?
