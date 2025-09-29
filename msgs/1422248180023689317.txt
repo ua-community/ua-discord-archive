@@ -1,0 +1,19 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T15:46:30.211Z
+
+I wish I could give an AI an image like this, and code like this, and get close enough CSS from it
+```ts
+function Prayer(props: {profilePic: string, text: string, pledgeCount: number}) {
+    return (
+        <div>
+            <img src={props.profilePic}/>
+            {props.text}
+            <div>
+                {props.pledgeCount} Pledges
+            </div>
+        </div>
+    );
+}
+
+export default Prayer;```
