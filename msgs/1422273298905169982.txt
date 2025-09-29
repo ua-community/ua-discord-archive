@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T17:26:19.019Z
+
+idk where gpt5 assumed I wanted a box shadow lol
