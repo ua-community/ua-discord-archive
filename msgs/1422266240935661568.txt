@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-09-29T16:58:16.268Z
+
+Trying to learn CSS buy studying all the available properties in the docs would be like trying to learn English from a dictionary
