@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-01T19:18:32.807Z
+
+Only in my web browser https://agregore.mauve.moe but it should be easy enough to add to any browser that can do custom protocol handlers
