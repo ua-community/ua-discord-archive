@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:46:31.615Z
+
+Actually an expression node would suffice, I just don't like a cloud of additions and multiplications when algebra is perfectly readable
