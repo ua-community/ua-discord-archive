@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T09:50:37.877Z
+
+(user)  mentioned https://miniapps.farcaster.xyz/docs/specification and https://www.openframes.xyz which were new to me. this might be super interesting to eplore. what would a sytem look like if the browser was more like a super app and websites more like mini apps? persistence, identity, distribution, hosting would all be part of the system and go away, Agents only do what the basics are to accomplish the task. mini apps work in conversation or standalone. unlike wechat, the platform  works on atrpoto or similar and is open. unlike wechat mini apps there is no hard cut but mini apps can gradually get more general permissions alll the way from a hermetic frame on one extreme to full web capability application on the other end
