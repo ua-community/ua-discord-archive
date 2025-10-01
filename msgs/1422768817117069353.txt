@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T02:15:19.767Z
+
+Spitballing some visual ideas here. The other day I needed some help making CSS for this.
