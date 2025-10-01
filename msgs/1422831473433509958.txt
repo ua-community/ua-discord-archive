@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-01T06:24:18.197Z
+
+My guess is it's supposed to link to https://communityrule.info/
