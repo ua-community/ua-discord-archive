@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-01T18:03:01.182Z
+
+Oh yeah, `<dialog>` is like my fave HTML element right now. I low key wish there was a way to trigger the showModal with zero JS at all. https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog
