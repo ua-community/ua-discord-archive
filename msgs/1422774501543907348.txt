@@ -1,0 +1,7 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T02:37:55.040Z
+
+https://medium.com/bloated-mvp/beaker-browser-mvp-review-0-use-cases-4-years-of-engineering-0-users-9cc3c0ef24f  
+
+this is a great writeup about beaker! many points ring close to home and some sting a bit, but to counter falling into beaker trap we have to make sure to build something that is also just an objectively better and faster browser in addition to betting on ai becoming so good that no one will question how users will create a better twitter or reddit in it. for us it does not matter if they modify twitter and use ai to free their data, create a new twitter completely or use AI to contribute what they were missing from bluesky to switch. as long as one of these is happening im happy.
