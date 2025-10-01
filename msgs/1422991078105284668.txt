@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-01T16:58:30.916Z
+
+and the properties in those HUD panels are not backed by real things, just placeholders to spur imagination
