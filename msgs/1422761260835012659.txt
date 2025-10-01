@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:45:18.209Z
+
+Although sometimes I want a little scripting node for some custom math
