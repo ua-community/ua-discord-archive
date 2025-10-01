@@ -1,0 +1,14 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-01T09:39:41.518Z
+
+we rapped about...
+
+- declarative HTML UIs w/ the Invoker API and popover/dialog
+- web HUDs and the challenge of spoofing
+- permissions prompt handling in IWAs
+- ChromeOS and Android merging and impact on IWA/CF/etc
+- abstracting "browser" into programmable rule systems, eg a declarative/constraints approach to the content tree
+- defining a web user agent system as an FSM
+- FSM + FRP
+- URL intent-routing, eg "load in default browser but also log to X if matches Y" or "always load yt links in profile X", eg a personalized nginx
