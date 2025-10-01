@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T10:16:43.656Z
+
+btw i worked on a more powerful version of isomorphic git in my previous project where you could lazy clone and edit repos in the browser.
