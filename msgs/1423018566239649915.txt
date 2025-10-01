@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T18:47:44.598Z
+
+yeah that was a big part of my project we enabled virtual filesystem with on demand blobs so it could lazy clone  a repo cutting the 100 mb to 4kb
