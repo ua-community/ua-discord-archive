@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-01T16:57:38.947Z
+
+mostly is just me learning how the popover/invoker stuff works in conjunction w/ css animations.
