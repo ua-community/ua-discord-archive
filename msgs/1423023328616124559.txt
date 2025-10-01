@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-01T19:06:40.037Z
+
+The solution I came up with was to use `https+raw://` for the scheme which strips out any cookies and gives permissive CORS headers
