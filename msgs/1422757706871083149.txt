@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:31:10.878Z
+
+What does an authoring environment actually require? The ability to modify its own files and render them immediately?
