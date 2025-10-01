@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T08:36:31.112Z
+
+but would be interested in interface concepts or examples where this would work best
