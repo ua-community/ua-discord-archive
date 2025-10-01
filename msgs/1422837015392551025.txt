@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-01T06:46:19.503Z
+
+I think it's also worth mentioning that collective governance (and the feudal state of the web) is more that ownership and credible exit. The second article I linked highlights some really good examples of how it's also a HCI problem
