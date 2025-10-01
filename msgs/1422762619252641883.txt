@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:50:42.081Z
+
+If I take a less ambitious approach, I feel like all I would really need for an authoring environment is the ability to basically fork a UI, modify components, and publish. The tricky part is that if a component is just wasm, that's not very friendly to direct modification.
