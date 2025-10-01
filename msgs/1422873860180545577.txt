@@ -1,0 +1,21 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T09:12:43.985Z
+
+Per the readme I recently wrote:
+> There are two ways to use this app.
+> 
+> To make a prayer:
+> 1. Click the button to make a prayer.
+> 2. Write in your prayer.
+> 3. Post your prayer so others may find it.
+> 4. Chat with responders to help them formalize their plans.
+> 5. Mark your satisfaction every time someone does their part.
+> 
+> To answer a prayer:
+> 1. Find a prayer someone has made in your feed.
+> 2. Make an offer to help toward the prayer.
+> 3. Chat with OP and the other offerers to formalize your offer as a pledge.
+> 4. Follow through on your pledge.
+> 5. Your pledge displays as a todo item.
+> 6. Do your part.
