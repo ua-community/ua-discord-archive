@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T06:39:59.149Z
+
+yeah saw that one, but it does not feel so satisfying, maybe its just fine tuning.seems yours stretches with speed and feels more like a high quality rubber band with weight at the end, did not see at a glance where that behaviour comes from looking at the code
