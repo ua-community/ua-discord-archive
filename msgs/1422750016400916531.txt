@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:00:37.327Z
+
+So, I'm making a social todo app with the express goal of encouraging people to work together on more things in person
