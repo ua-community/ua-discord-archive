@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T02:17:23.457Z
+
+Props on the left, and if I did anything with signals, they would go between the props and the wysiwig part on the right like a node editor
