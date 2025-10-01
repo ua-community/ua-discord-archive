@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T06:19:25.631Z
+
+i dont think dictators are as much of a problem when data is portable, systems are interoperable and the software is forkable. ai will make maintaining private one person or tiny group forks feasible where it was not and if communities disagree with whoever has control the will be able to fractalize without losing touch. atproto, tangible and nostr seem to go into a right direction on the technical side and on the social side i imagine an obscure mixture of pastagang and non bureacratic apache foundation if that makes any sense 😄
