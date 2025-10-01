@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-01T18:04:01.959Z
+
+Like, it would have been so easy to reuse the `formmethod="dialog"` method for opening it too.
