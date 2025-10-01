@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T09:52:17.731Z
+
+Ideally, this kind of tool ultimately makes money obsolete. Money was invented to solve debt management problems, and my goal is for this to do it better. After all, technically a debt is just what happens between saying you'll do a thing and doing it, which is exactly what this is meant to help with.
