@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:07:24.537Z
+
+We've been making plans through signup forms, emails, messaging, and calls. We don't have an app built for the purpose yet, for some reason. So I'm making that app.
