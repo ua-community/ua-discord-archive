@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-01T01:36:44.606Z
+
+I think for the present web, I'd like to see the browser enable more types of annotation, linking, and adversarial embedding on web pages.
