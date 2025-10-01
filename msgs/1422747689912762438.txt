@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T00:51:22.649Z
+
+I basically think "browser" is a holdover from when all it did was display fancy documents
