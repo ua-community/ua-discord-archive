@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-01T18:37:14.750Z
+
+I've been meaning to make a demo in Agregore for using isomorphic git to load repos using the HTTP transport. I have a feature for bypassing CORs, so you can load stuff from Github too 😸
