@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:03:30.456Z
+
+Social apps help you find other people to interact with. Todo apps help you stay accountable to your plans. If we bring them together, we should expect a social todo app to help you find other people to make plans with and stay accountable to those plans.
