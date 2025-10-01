@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-01T19:37:30.715Z
+
+i was using popover+autofocus to get a nice fully-declarative effect of spacebar to open/close, but it required a visible button on the page 😐
