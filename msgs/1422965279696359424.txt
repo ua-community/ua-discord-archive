@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-01T15:16:00.096Z
+
+prototyping a HUD interaction using popover, and as little JS as possible, mostly just HTML+CSS
