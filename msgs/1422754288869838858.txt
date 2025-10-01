@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-01T01:17:35.963Z
+
+the thing is that in discord (or in any type of social media) you're able to write because the platform gives you permission to. The browser itself is not the authoring environment.
