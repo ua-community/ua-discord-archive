@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-01T04:59:57.514Z
+
+I actually really hate discourse. lol It was more the framework for thinking about community design that I liked the blog post for.
