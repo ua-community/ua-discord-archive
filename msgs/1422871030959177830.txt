@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T09:01:29.446Z
+
+The todo list is mainly supposed to get people in the same room with enough structure already established to just do stuff
