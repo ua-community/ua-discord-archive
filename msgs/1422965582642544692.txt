@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-01T15:17:12.324Z
+
+doing this in Electron will be a little more interesting, probably a transparent overlay window that's a web page and basically has the same code.
