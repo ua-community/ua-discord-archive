@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:43:31.156Z
+
+This could maybe work, if I eventually concocted some kind of node editor for making a component. It's conceivable, since I'm baking in support for signals a la Solid and Svelte. I definitely can imagine visualizing signals as node connections.
