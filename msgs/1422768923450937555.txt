@@ -1,0 +1,24 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T02:15:45.119Z
+
+I got that help, and now my component, with css, looks like this
+```ts
+import "./Prayer.css";
+
+function Prayer(props: {profilePic: string, text: string, pledgeCount: number}) {
+    return (
+        <div class="prayer-card">
+            <img src={props.profilePic} class="avatar"/>
+            <p class="text">
+                {props.text}
+            </p>
+            <button class="pledge-btn">
+                {props.pledgeCount} Pledges
+            </button>
+        </div>
+    );
+}
+
+export default Prayer;
+```
