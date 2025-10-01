@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:53:01.582Z
+
+So you're initially just served the wasm, but if you want to edit stuff, you can pull that in at that point
