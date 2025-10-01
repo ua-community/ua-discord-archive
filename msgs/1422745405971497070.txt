@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T00:42:18.115Z
+
+I'm making a social todo app that is all about increasing agency
