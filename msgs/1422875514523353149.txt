@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T09:19:18.411Z
+
+In the baking example, you might pray for people to bake bread with you. Others might respond with offers to bring flour, yeast, and whatever else, and then you all decide together exact who's bringing what, where to go and when, and such. Those decisions translate to todo items, and after that, all that's left to do is show up with your part.
