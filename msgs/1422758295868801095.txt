@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-01T01:33:31.306Z
+
+I think for the early web it was about anyone being able to author web pages. no matter their technical literacy. This proably meant a WYSIWYG
