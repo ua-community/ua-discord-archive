@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T01:25:33.242Z
+
+My stack will be wasm based and do everything with components from the start. I haven't thought too much about what an authoring environment requires, but at face value I think that stack does not interfere, since in principle you could hot swap a component.
