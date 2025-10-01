@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-01T12:17:37.385Z
+
+It's actually the most interesting part. The coercion stops working if the people you're trying to coerce start to meaningfully have other options.
