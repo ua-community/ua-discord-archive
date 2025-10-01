@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-01T18:49:09.021Z
+
+thats so cool, the annoying inability of github to do cors was a major pain
