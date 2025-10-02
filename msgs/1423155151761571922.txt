@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-02T03:50:29.124Z
+
+Farcaster abandoned the frames concept and went full mini apps which is much less compelling (but understandable for their ecosystem)
