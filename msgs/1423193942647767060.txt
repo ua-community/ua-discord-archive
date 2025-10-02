@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-02T06:24:37.592Z
+
+Farcaster started with Frames and threw it all out in favour of mini apps
