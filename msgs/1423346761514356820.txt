@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T16:31:52.449Z
+
+Yeah that's fair. In my case I'm aiming for folks that are also creators rather than just consumers so I think they'd be more likely to make a choice. Also thinking of only allowing it from p2p websites loaded over hyper/ipfs.
