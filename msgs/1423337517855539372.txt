@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T15:55:08.589Z
+
+Like enumerating stuff on your local network? It's HTTPS-only. For other cases, there's no caching so your site doesn't know if other sites have tried to access the URL or not
