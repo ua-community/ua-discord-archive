@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T15:05:19.601Z
+
+Slick! I didn't even know popover was a thing. Seems you can get rid of JS and do it all declaratively. https://developer.mozilla.org/en-US/docs/Web/API/Popover_API/Using
