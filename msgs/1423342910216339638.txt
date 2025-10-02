@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T16:16:34.228Z
+
+The HTTPS cert would need to be valid, no? Can you get valid certs for IPs that aren't resolvable over the interneT?
