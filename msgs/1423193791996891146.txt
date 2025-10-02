@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-02T06:24:01.674Z
+
+Open frames uses vendored open graph tags (so it’s all just static fetches of http urls) - and are designed to live in embeds / feeds
