@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T17:41:50.972Z
+
+I get that web apps are more "untrusted" code. But most stuff devs run is effectively `curl | bash` and that doesn't seem to stop us.
