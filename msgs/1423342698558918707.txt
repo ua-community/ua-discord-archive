@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T16:15:43.765Z
+
+e.g. an alternative youtube frontend might want to bypass CORS, if a random blog is trying to do it, it's visibly sus.
