@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T15:54:08.242Z
+
+Yeah I totally get it. I've also been considering having a permissions dialog or a toggle on the page to enforce stuff like that.
