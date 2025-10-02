@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T04:04:12.064Z
+
+No permission. IMO if a server can access any https page a web app should be allowed to, too
