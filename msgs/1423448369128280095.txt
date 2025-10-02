@@ -1,0 +1,5 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-02T23:15:37.592Z
+
+I'm currently working on systems that help AI connect to the web. This includes headless browser automation, configurable "deep research" style elements, structured data extraction systems etc. I'd be really happy to talk shop w/ anyone else working in this space!
