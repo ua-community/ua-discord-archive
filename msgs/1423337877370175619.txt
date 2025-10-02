@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T15:56:34.304Z
+
+My main motivator was to take control away from servers as a start. Adding fine grained permission stuff for users is a WIP still. Adblock at least gets some of the tracking gunk out though
