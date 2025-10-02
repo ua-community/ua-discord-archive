@@ -1,0 +1,11 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-02T12:56:22.220Z
+
+Some <#1388112358047617104> stuff i would've shown is below. Instead of building the monolithic app, I've been breaking off little pieces and prototyping in isolation, which has been pretty productive. Most code is in Github (gotta migrate over to Tangled/Radicle).
+
+➡️ Singular has three different modes now: open URL, open URL in throwaway profile, download URL as standalone app. Also it takes command line options, for integration into OS-level flows. Thanks (user) for ideas which prodded some progress here. https://bsky.app/profile/burrito.space/post/3lykpn5oeb22z
+
+➡️ Experimenting with groups that live independently of tabs/windows, and give a "workspaces" or "stashes" kind of experience. It's designed to run in Peek and as a browser extension (that part isn't complete yet tho), and uses a little GCLI browser extension called `cmd` I wrote >10yrs ago but never did much with aside from executing bookmarklets. https://bsky.app/profile/burrito.space/post/3lzqtkc6vbk2u
+
+➡️ A key theme is that web content stands alone, and can be opened from many contexts, not trapped in "browser chrome", which presents new challenges around communicating various things about a page. I've long wanted "calculators" which are triggered by entity discovery in pages and visible in a HUD, so I combined the ideas into a demo of what that kind of experience might be like, and showing what kind of actions/info I plan to use this framework for. Thanks (user) and various others for rapping about spoofing and contextual communication a number of times. https://bsky.app/profile/burrito.space/post/3m25ffeejpc2j
