@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-02T05:12:23.343Z
+
+its funny i see it from the complete opposite direction. a user should even for a normal site have control over third party domains, i would even make it a permission to access third party hosts with correct cors headers, most of these are adware and trackers anyways. i imagine this similar to the paranoid mode of little snitch, where visiting a new site shows a list of things it does and tries to communicate with and you selectively allow until what you want to do works.
