@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-02T03:28:28.791Z
+
+you show a permission request for initial connection? how did you make the flow
