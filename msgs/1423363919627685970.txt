@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T17:40:03.262Z
+
+One thing that's on my mind is that native apps have no restrictions around this. And because of that the web is limited to always appeasing large central points of control over data. Can't make anything without first paying for a server and setting up a dev account with whatever corpo service.
