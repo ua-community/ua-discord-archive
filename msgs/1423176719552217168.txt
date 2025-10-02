@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-02T05:16:11.286Z
+
+how do you defend against local enumeration attacks?
