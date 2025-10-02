@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-02T16:14:05.013Z
+
+I was thinking along the lines of "Allow this site to access website contents bypassing cross site access restrictions" and if it's not a web scraper and doesn't tell you *why* it needs it you can permanently deny.
