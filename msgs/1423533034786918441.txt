@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-03T04:52:03.458Z
+
+the more i think about this, the more i think a solution is more giving users a convenient and simple way to have edge workers (with something like an app installation UX), so extend the computing model, rather than to change the model of the client web itself (of course "edge" includes local machines or local network if they wish).  but that mirrors also my old discussion with ipfs community (embracing gateways as the way things will be for the next 10 years vs having half hearted gateway support and being ashamed for it)
