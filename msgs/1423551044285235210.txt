@@ -1,0 +1,7 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-03T06:03:37.257Z
+
+We're actually just wrapping up our docs now. Let me check in the morning if they're ready to ship! I'll share them here if they're ready. 
+
+High level we support things like */extract* to get structured data, */answer* for answers from the web, and */automate* for more advanced action taking.
