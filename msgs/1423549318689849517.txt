@@ -1,0 +1,18 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-03T05:56:45.843Z
+
+*On what platforms & engines and how many are you running* 
+We're not exposing the browers directly. They are accessable via API to facilitate automated action taking on the web. We'll be supporting both Firefox and Chromium based browsers. 
+
+*Extraction from? any webapp? *
+We're building systems to access webpages in a variety of structured ways - such as the developer providing a specific .json schema of what they want and how it should be organized. Retrieving as Markdown etc. is supported as well. 
+
+*Configurable "deep research" style elements*
+More on this soon!
+
+*Is this work for mozilla?*
+Yes! I'm working on a team that's part of  Mozilla's New Products division. We're building technology to help developers connect their AI systems to the web more simply. 
+
+*mozilla search?? 👀*
+This project isn't search. Our research tools will help you get quick answers from the web in a format that's right for your system.
