@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-03T07:09:35.707Z
+
+Any thoughts on standardizing/conventionizing this? Or is it a differentiating feature for Firefox product? Will it be exposed as extension capabilities? Either way, probably lots of interested testers here who will bang on whether it unlocks user agency.
