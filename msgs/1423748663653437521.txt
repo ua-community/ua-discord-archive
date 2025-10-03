@@ -1,0 +1,7 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-03T19:08:53.386Z
+
+I actually don’t think it’s fair (user) but then I just have a different bar and expectation 
+
+The email replaced with a hosted email (that could forward to a google group) and the other two links to … git repos (but have to argue about what git host to use) … and then also that if you use git you’ll only get devs participating.
