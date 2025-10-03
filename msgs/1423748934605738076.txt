@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-03T19:09:57.986Z
+
+I don’t have good suggestions on alternates other than like a bespoke link to a Patchwork Automerge doc that’s not quite ready for general usage either.
