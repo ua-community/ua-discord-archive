@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-04T21:14:44.316Z
+
+It's been down for at least a year and a half. There might be a community server up, but the last one I knew about is down. Not too difficult to spin one up on digital ocean though.
