@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-06T00:31:26.727Z
+
+not 100% sure how to read expiry milestone, could you explain if this is good or bad? : D eg. will exp. features we need be removed instead of moving forward?
