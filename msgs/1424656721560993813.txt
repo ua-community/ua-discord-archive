@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-06T07:17:11.262Z
+
+haha i wrote a Firefox extension back in the day that launched local executables from the address bar
