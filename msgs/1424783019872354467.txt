@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-06T15:39:03.126Z
+
+Back from the holidays, Tiles Modelfile v1 parser is implemented, thanks to (user), we will be pushing more updates this October to build the momentum now that we’ve locked on the product: private AI memory custodian
