@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-06T14:47:43.703Z
+
+Yeah! IIRC the methods there only really allow for GET and redirecting to a URL. One of my gripes with the web extension route. 😅
