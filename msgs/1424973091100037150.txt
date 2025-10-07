@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:14:19.638Z
+
+The problem is any kind of i/o, really
