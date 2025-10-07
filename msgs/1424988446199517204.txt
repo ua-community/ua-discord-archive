@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T05:15:20.579Z
+
+I still think that trying to make, say, a UI like YouTube for example, would be a painful experience without a component framework. I couldn't do it without modularity.
