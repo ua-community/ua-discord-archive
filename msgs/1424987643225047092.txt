@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-07T05:12:09.135Z
+
+In terms of needing JS frameworks to make web apps I think there is a long ignorance architectures (as these articles discuss) about how the web works
