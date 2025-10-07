@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:05:51.742Z
+
+This book talks about it a bit
+https://atomicdesign.bradfrost.com/table-of-contents/
