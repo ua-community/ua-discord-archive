@@ -1,0 +1,5 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-07T20:53:03.479Z
+
+Hi (user)! We just published a first pass on our API documentation here: https://docs.tabstack.ai/. Forgive the WIP website, you're getting a sneak peek 🙂
