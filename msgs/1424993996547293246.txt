@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T05:37:23.885Z
+
+This is already a little bit weird building components out of DOM elements, but it gets weirder trying to make components into DOM elements. Hence the approach I'm exploring of components all the way down, so the lowest level primitives have the same ergonomics as high level components.
