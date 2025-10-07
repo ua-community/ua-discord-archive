@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:26:33.918Z
+
+The idea here is coupling elements to simple behaviors
