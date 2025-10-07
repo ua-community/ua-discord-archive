@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-07T03:57:43.683Z
+
+https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html
