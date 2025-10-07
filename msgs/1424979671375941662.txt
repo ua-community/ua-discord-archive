@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:40:28.498Z
+
+This is also making me think about SolidJS and signals, because SolidJS looks like React at a glance with a similar ui = f(state) idea, but under the hood signals use a global variable to work
