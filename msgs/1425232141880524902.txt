@@ -1,0 +1,5 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-07T21:23:42.157Z
+
+We've found that there's a big gap between being able to run browser automation locally, and being able to do it at production scale. We'll be open sourcing the core tech, but we do have a service for people that want to bring this quickly to production
