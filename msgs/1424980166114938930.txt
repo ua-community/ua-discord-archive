@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:42:26.453Z
+
+I think signals are the most elegant solution to UI; you write deterministic functional relationships into a mechanism that isn't *quite* pure functions under the hood
