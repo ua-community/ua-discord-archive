@@ -1,0 +1,5 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-07T21:39:46.332Z
+
+Yea - sadly Mozilla decided to sunset Hubs and the Hubs hosting service. We were able to open source the code, and keep the discord alive though! They're still up and running over here: https://hubsfoundation.org/
