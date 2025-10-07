@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T05:20:48.911Z
+
+I thought web components were cool until I saw the creators of SolidJS and Svelte write about the difficulties of using them, and I know Svelte at least understands it because you can optionally transpile Svelte components into web components.
