@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T05:08:30.716Z
+
+I remember that in middle school, dynamic web experiences always used flash, or java applets. You had to step outside of html/css/js to do it.
