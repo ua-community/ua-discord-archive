@@ -1,0 +1,7 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-07T20:56:43.548Z
+
+Hi (user) - we're definitely following along with the conversation as the web evolves and are committed to adhering to the best practices for the autonomous web. We'd be happy to chat more about standardization and conventionalization! We are also exploring OSing some of the most interesting layers of the stack, and should have more to say about that soon. 
+
+This is not directly integrating into Firefox at the moment, but we are exploring what this could look like as an extension 🙂
