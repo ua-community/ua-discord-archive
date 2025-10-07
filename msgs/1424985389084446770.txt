@@ -1,0 +1,7 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T05:03:11.706Z
+
+Which part?
+
+I say this because in my experience, when I'm making an old 2005 style webpage, html and css work great for me and are decently ergonomic, but when I try to make a more modern dynamic reactive experience, I very much need the modern tools to do it. We're definitely making different things now than we were making in 2005.
