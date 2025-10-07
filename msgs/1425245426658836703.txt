@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T22:16:29.495Z
+
+I think a web app like YouTube would rather progressively load component by component, if anything
