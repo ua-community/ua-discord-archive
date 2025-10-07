@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T22:07:51.105Z
+
+Take away YouTube's CSS and it's unusable. Take away its JS and it's dysfunctional as well.
