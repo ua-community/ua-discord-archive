@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T05:11:32.814Z
+
+Honestly, having not delved into SwiftUI at all myself, it must be utterly terrible to be worse than web tooling. Which maybe makes sense I guess, if Apple only gives you the tools to make stuff that fits their style guidelines and whatnot, such that it's only easy if you color within the lines.
