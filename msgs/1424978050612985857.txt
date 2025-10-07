@@ -1,0 +1,9 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-07T04:34:02.078Z
+
+> This pursuit gave us powerful abstractions. React taught us to think in components. Redux made state changes traceable. TypeScript brought compile-time safety to a dynamic language. But it also led us down a strange path. A one where we fought against the platform instead of embracing it. We rebuilt the browser’s native capabilities in JavaScript, added layers of indirection to “protect” ourselves from the DOM, and convinced ourselves that the web’s inherent messiness was a problem to solve rather than a feature to understand.
+
+This tracks with a similar framing I like about "vectors of intentions"!
+
+https://glazkov.com/2022/02/23/the-cost-of-opinion/
