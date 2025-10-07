@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-07T06:11:32.343Z
+
+technium argument: https://www.mechanize.work/blog/technological-determinism/
