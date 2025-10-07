@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T05:39:10.138Z
+
+This is what I was alluding to when I said this scales better. We know at this point that components scale, so I want primitives that already feel like components to start with.
