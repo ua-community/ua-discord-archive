@@ -1,0 +1,5 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-07T21:26:29.880Z
+
+There are a number of different experiments, products, and teams across Mozilla that are all exploring the future of the web and how it relates to AI. Mozilla AI is actually it's own entity and is unrelated to the work we're doing. They're also doing some great stuff though!
