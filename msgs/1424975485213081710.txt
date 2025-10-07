@@ -1,0 +1,19 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:23:50.439Z
+
+For example, here I have html + css as we're used to, and an alternative approach that I think would scale in large app code bases better
+```html
+<button onclick=f() style={bg-color: red, color: white}>
+    SUBSCRIBE
+</button>
+```
+```xml
+<event onclick=f()>
+    <box color=red>
+        <text color=white>
+            SUBSCRIBE
+        </text>
+    </box>
+</event>
+```
