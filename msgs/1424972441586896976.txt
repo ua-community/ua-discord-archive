@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:11:44.782Z
+
+That said, I like to have as much of it as possible. I like to push the side effects to the edge of my code, and do core business logic as functional as I can.
