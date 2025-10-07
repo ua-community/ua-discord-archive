@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:46:53.201Z
+
+Ultimately in SolidJS, the ui = f(state) appearance is just a mechanism to initialize dependency graphs, kind of like a constructor. After that initialization, the function you write the component with is never called again.
