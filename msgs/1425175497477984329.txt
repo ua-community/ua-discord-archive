@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-07T17:38:37.079Z
+
+There's still a bunch of work ahead to have parity with tldraw/excalidraw, but here is the what it could look like if the HTML had spatial canvas primitives! No JS framework/declarative templating/signals
