@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-07T07:50:05.405Z
+
+top-down rendering, isomorphic execution, requiring full control of the entire DOM, hydration, etc. come from a philosophy that are largely incompatible with how the web has been worked for decades
