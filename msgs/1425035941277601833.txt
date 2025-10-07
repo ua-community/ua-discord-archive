@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T08:24:04.288Z
+
+I like functional programming and I want a UI engine that mostly does the side effect stuff for you so you can write mostly pure functions for everything. That's my goal.
