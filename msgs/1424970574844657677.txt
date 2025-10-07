@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T04:04:19.716Z
+
+> To him, our modern frontend stack looked like we’d declared war on the platform itself.
+Yeah, because we did
