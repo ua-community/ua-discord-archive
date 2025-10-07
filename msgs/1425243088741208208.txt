@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-07T22:07:12.092Z
+
+One thing I've been thinking about is that apps don't care for progressive rendering
