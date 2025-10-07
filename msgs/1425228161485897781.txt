@@ -1,0 +1,5 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-07T21:07:53.157Z
+
+Ah - I see how this could be confusing. This example project was looking at how you can combine multiple elements to build a simple app with our browser automation layer. This is not our "Deep Research" style system that is being built. I can see how a research focused sample app for our automation layer could cause confusion! We'll look into adjusting the example here
