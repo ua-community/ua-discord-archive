@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-08T08:22:18.856Z
+
+I made a diagram with my thoughts on that, for the app I'm making
