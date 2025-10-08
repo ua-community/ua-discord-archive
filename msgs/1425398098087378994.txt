@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-08T08:23:09.200Z
+
+Far: everyone can see, but without detail
+Close: Few people can see, in great detail
