@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-08T23:09:59.504Z
+
+To me the browser is the closest piece of software infrastructure that is suitable to host open and malleable future. It's the modern day incarnation of smalltalk, and I'm bothered when people continue to idealize what smalltalk could have been without recognizing that we got many of the same qualities that scaled to be used by billions of people. Compare it to any other UI platform and it feels like a miracle that view source, dev tools, web extensions are a thing at all, in a software environment when laws like the DMCA make it illegal to modify closed-software you bought.
