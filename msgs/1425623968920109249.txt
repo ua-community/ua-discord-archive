@@ -1,0 +1,7 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-08T23:20:41.003Z
+
+One of the most important characteristics of HTML is it's [ free addressability](https://ponder.org.uk/papers/onward-2016.pdf). We only get this because of the computational constraints of HTML.
+
+> Free addressability embraces transparent, publicly addressable state through queries, selectors, names, or other mechanisms that make parts of a running system targetable from the outside without requiring permission or coordination from the original creators, seeking to "maximally advertise the structure of the application via a transparent addressing scheme"
