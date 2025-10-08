@@ -1,0 +1,27 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-10-08T12:39:48.348Z
+
+```html
+<data-provider service="atproto" did="did:plc:xyz">
+</data-provider>
+
+<data-renderer>
+  <ul><li>Rendered item</li></ul>
+</data-renderer>
+```
+```javascript
+const dataProvider = document.querySelector("data-provider")
+const dataRenderer = document.querySelector("data-renderer")
+
+// Now re-renders automatically when signal changes
+dataRenderer.inputSignal = dataProvider.dataSignal
+
+// Alternatively, glue things together manually in an easy way (still re-renders automatically)
+computed(() => {
+  const data = dataProvider.dataSignal()
+  dataRenderer.render(data)
+})
+```
+
+Sorry for the long text! 😬 Do you think I'm missing anything here?
