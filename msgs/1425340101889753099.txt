@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-08T04:32:41.829Z
+
+Is the answer no more FP? I don't think so, it's popular for a reason. Is the answer to impose FP like we've been doing? Well, we've been doing it and you can see the messy results. So, I'm gonna try making a platform designed for FP.
