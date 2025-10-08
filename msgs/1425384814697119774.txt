@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-08T07:30:22.193Z
+
+I don’t think architectural purity is useful. It’s probably dangerous in the way most monocultures are by introducing fragilities such as forgetting the reasons why doing things that way are valuable/align with goals that express values. The real question is how to use what approaches when, and what are the tradeoffs in enabling agency. This is why I’m thinking a lot these days about what if we sunset the web platform as we’ve known it? What would a successor platform look like and how would we do we decide how to build it? What are the principles we use to govern its creation? What are the patterns and antipatterns in constructing systems of technical agency? How do we recognize if we’ve done so successfully? How does has the open web met or failed to meet whatever those principles turn out to be throughout its history?
