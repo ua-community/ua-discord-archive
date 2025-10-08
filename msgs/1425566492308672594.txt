@@ -1,0 +1,9 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-08T19:32:17.511Z
+
+Yea - the project we're working on has two components: 
+
+1) An open source toolkit which includes an AI powered browser automation layer. We're finalizing this, and hope to be able to share it publicly around the end of the month. 
+
+2) A paid API that includes all of the underlying infrastructure (headless browsers etc.) to run this at scale without needing to manage your own. This API is in an early developer preview stage and is what we're able to share today while we work towards open sourcing the core code.
