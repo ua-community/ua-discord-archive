@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-08T00:11:01.174Z
+
+Oh yeah, I'm curious what the philosophy of the web is, in contrast with FP
