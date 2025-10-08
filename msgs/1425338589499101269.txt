@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-08T04:26:41.247Z
+
+One tension I think we have is backwards compatibility vs limiting initial assumptions
