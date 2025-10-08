@@ -1,0 +1,26 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-08T07:41:55.530Z
+
+https://arxiv.org/abs/2507.23585v1
+
+"ABSTRACT
+Today’s algorithm-driven interfaces, from recommendation feeds
+to GenAI tools, often prioritize engagement and efficiency at the
+expense of user agency. As systems take on more decision-making,
+users have less control over what they see and how meaning or re-
+lationships between content are constructed. This paper introduces
+"Hypertextual Friction," a conceptual design stance that repositions
+classical hypertext principles—friction, traceability, and structure—
+as actionable values for reclaiming agency in algorithmically medi-
+ated environments. Through a comparative analysis of real-world
+interfaces—Wikipedia vs. Instagram Explore, and Are.na vs. GenAI
+image tools—we examine how different systems structure user ex-
+perience, navigation, and authorship. We show that hypertext sys-
+tems emphasize provenance, associative thinking, and user-driven
+meaning-making, while algorithmic systems tend to obscure pro-
+cess and flatten participation. We contribute: (1) a comparative
+analysis of how interface structures shape agency in user-driven
+versus agent-driven systems, and (2) a conceptual stance that offers
+hypertextual values as design commitments for reclaiming agency
+in an increasingly algorithmic web"
