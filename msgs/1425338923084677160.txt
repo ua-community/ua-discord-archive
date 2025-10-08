@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-08T04:28:00.780Z
+
+Being backwards compatible with standards built with different assumptions than yours makes things weird
