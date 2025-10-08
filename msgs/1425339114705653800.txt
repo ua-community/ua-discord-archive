@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-08T04:28:46.466Z
+
+Primary case in point, imposing FP on a platform that wasn't designed for it
