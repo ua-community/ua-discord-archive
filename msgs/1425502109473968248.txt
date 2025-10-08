@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-08T15:16:27.447Z
+
+im confused, why is there a pricing page, is this not local and connecting to a browser?
