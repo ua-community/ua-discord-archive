@@ -1,0 +1,18 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-10-08T12:39:44.013Z
+
+Hey Chris! Curious to hear more about this as I try to figure this out. Do you have any links to articles related to this?
+
+I'm in this weird liminal space/state where I've moved on from regular web apps and tech like react, to a malleable software world 😅 I experimented with web applets and found some shortcomings, and more positively, overlap with web components.
+
+The similarities between web applets and web components are interesting, but kind of obvious given that they both build on the same web platform foundations.
+
+Anyhow, like holobrine, I too wonder how to build complex software on the web, whilst leaning into the web platform. I guess a big part missing here is good education/information on what exactly is all part of the web platform and what the philosophy is.
+
+I do like the web platform, but feel like server rendering is a big part of that; and that thinking is somewhat incompatible with local-first software & data. We use a lot of JS here to provide the data and therefor no server rendering. We can still benefit a ton from using custom elements / web components though.
+
+The solution I've come up with so far goes as follows:
+* Both logic and UI lives in web components that are configurable via attributes.
+* When complex data input or output is needed, these are provided via signals. Gives us automatic dependency tracking, memoization, etc.
+* I could also work with events instead of signals (though for data I prefer the latter)
