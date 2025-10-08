@@ -1,0 +1,9 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-08T22:52:52.599Z
+
+I have a ton of thoughts that are all jumbled together in my head, but I'll try my best to lay some of them out:
+
+As an aside, I agree with "use the platform", but I also tend to avoid using that phrase. The web platform had a messy history and a bunch things like browser compatibility are way better today than they were even a decade ago. The phrase implies browsers have everything you need to build something, and that has not been the case. Simultaneously, frameworks tend to make you underestimate how much of the existing platform you can meaningfully use. 
+
+I prefer saying something along the lines of "align with the platform". Use the extension points it gives use to show what things are lacking, so those can hopefully be feed back into the standards process. Many frameworks have veered so far from the platform there is no meaningful way to incorporate what they explore back in. For example when frameworks claim the "DOM is slow" what they mean is [layout thrashing](https://bsky.app/profile/infrequently.org/post/3looinn4slcat) is a footgun, but failed to provide solutions that could be incorporated into the DOM. This is much different than the fate of JQuery.
