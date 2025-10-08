@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-08T07:36:55.822Z
+
+Makes me wonder what a capabilities approach (as being defined by Kin Lane here) to describing web platform functionality in more human ways.
