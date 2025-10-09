@@ -1,0 +1,10 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T06:41:51.757Z
+
+I've been working on various examples, each of which show what each of these interfaces would look like as an matrial encoded in the DOM
+
+- [spatial canvas](https://github.com/folk-js/folkjs/blob/main/website/canvas/index.html)
+- [kanban board](https://github.com/folk-js/folkjs/blob/main/website/frello/main.ts)
+- [spreadsheet](https://github.com/folk-js/folkjs/blob/main/website/demos/morph/spreadsheet-graph-projection.html)
+- [chess board](https://github.com/folk-js/folkjs/blob/main/website/chess/main.ts)
