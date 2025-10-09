@@ -1,0 +1,8 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-09T17:34:36.923Z
+
+I observe that there are two different (though both virtuous IMO) emphases that have already been suggested:
+
+1. Focus on what I do with my computer (right to repair, no restrictions)
+2. Focus on the fruits of my computing (data legibility and/or ubiquity)
