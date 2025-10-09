@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T17:29:17.376Z
+
+The last sentence is revealing in the sense that many people's agency is dependent of the production of software by the few who can decipher the arcane symbols of the computer.
