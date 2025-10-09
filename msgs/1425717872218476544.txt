@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-09T05:33:49.294Z
+
+Found the public server! https://demo.hubsfoundation.org/
