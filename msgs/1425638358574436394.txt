@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T00:17:51.764Z
+
+It's not a coincidence that divintis (endless nested divs) and hashed class names (that change every deployment) are also an emergent trend of these frameworks. When you tree the DOM merely as an output you lose the addressabile nature of HTML.
