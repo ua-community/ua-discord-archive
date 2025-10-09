@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T06:28:37.204Z
+
+I think the first ever [talk](https://vimeo.com/33430613) about web components by Alex Russel gives lots of good context on what they were initially thinking about.
