@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-09T17:39:20.245Z
+
+LLMs give people false hope on this imo. I had a friend try to vibe code a UI component for me and after watching him struggle for a couple days, I wrote it mostly myself in about 15 minutes.
