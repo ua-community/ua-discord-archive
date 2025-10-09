@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-09T19:48:46.130Z
+
+And keyboard shortcuts are for making advanced things faster for power users
