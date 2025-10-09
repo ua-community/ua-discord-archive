@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T06:49:42.515Z
+
+I'd like to do some more technical writing about how these systems work
