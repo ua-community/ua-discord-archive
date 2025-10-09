@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T00:10:43.332Z
+
+My problem with JS frameworks and top-down rendering is they assume full dominion over the web page
