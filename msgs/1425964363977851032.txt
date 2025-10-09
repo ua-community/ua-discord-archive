@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-09T21:53:17.509Z
+
+Add to that how the easiest tools to use, are fighting the underlying web standards.
+https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html
