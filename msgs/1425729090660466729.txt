@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T06:18:23.979Z
+
+Anyway this preamble thought incomplete is important because it's not just about technical patterns/approaches it's equally, if not more, about culture
