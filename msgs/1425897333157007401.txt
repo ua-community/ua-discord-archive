@@ -1,0 +1,7 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T17:26:56.116Z
+
+One aspect is that agency is more than *owning* data. Owning data is meaningless if you don't have the ability to perform computation.
+
+For example, when you download your twitter archive, it's a website with JSON file of tweets/data. For most people, the dont have agency over their twitter archive because they can't do anything with it (unless developers create specific tools).
