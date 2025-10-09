@@ -1,0 +1,6 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T06:53:00.817Z
+
+> I do like the web platform, but feel like server rendering is a big part of that; and that thinking is somewhat incompatible with local-first software & data.
+I don't think these are in irreconcilable as you might think
