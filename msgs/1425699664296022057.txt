@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T04:21:28.187Z
+
+Ironically I see these thoughts gets embedded in to design systems... so much talk about the power of composing components, but the actual artifact output by such a system end up feeling rigid and immalleable.
