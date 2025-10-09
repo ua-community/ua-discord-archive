@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T04:18:41.150Z
+
+In my experience, the culture of UX/UI is rooted in the idea of control and the thought "I know what's best for every users"
