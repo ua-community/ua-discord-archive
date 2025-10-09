@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-09T17:23:17.884Z
+
+I feel like I end up focusing on "poweruser" agency more than the average user of software in general. A lot of my non tech friends don't care enough to think too deeply about what they want out of tech beyond "do the thing I need done in the moment and I don't want to think about it"
