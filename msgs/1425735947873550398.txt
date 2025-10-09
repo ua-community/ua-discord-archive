@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T06:45:38.866Z
+
+While I haven't used signals too much with custom elements, I could see some cases were they work well!
