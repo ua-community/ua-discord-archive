@@ -1,0 +1,11 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-09T17:56:52.201Z
+
+The coarse notion that LLMs raise the floor on software creation elides an important economic relationship to me.
+
+LLMs lower the entry price for software to be created on one's behalf by someone. But, the actor who pays and the actor who creates are different actors.
+
+This is meaningfully different from a contrived fantasy world where we could raise the floor by uploading programming knowledge into an actors brain.
+
+It's even different from a contrived world where computers are intrinsically much easier to program.
