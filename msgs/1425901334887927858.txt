@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-09T17:42:50.203Z
+
+My take is LLMs (when used to generate  black box UIs) will to fail to smooth the curve. The raise the floor of what someone with less literacy can produce, but you will inevitable hit the wall because it doesn't increase literacy.
