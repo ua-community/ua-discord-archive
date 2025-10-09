@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-09T17:25:32.100Z
+
+I'd say agency in that case is being able to shape a tool to your specific needs without arbitrary restrictions. E.g. browser extensions are the ultimate form of agency enhancements on the web because they let you change most things about a page with enough effort
