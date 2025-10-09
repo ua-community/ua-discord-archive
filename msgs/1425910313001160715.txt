@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-09T18:18:30.752Z
+
+It's the hardest part of app dev for me, translating the user flows I imagine into good UX
