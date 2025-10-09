@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-09T12:33:36.387Z
+
+“To reiterate, the most important part of automation in the discussion is often neglected. To automate someone you need to outcompete the pairing of a human with the tool too.”
+
+https://www.interconnects.ai/p/thoughts-on-the-curve
