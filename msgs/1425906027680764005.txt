@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-09T18:01:29.052Z
+
+There's also a difference between the ease of producing just any code, and maintaining it
