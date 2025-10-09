@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-09T17:17:58.160Z
+
+My notion of a user is the human who is in conversation with or through the computer
