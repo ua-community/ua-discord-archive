@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-09T19:46:27.590Z
+
+In the absence of any major working theory, I've developed my own heuristic of "make the essential everyday things easy and the less frequent advanced things possible"
