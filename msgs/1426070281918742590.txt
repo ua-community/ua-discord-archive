@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-10T04:54:10.314Z
+
+this reminds me of the arrogance of vim/emacs devs who assume everyone in the world is typing / user input constrained, when in reality typing less is more desirable in most cases where limits are perception and reviews, decisions etc.. i also dont use keyboard shortcuts in many situations because i just enjoy using a pointing device more  and it feels more flowy as long as i have something to think about queued up
