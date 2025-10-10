@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-10T15:55:41.272Z
+
+I wish Ollama model catalogue had a visualization like this, benchmarks are not everything but they at least provide a useful signal
