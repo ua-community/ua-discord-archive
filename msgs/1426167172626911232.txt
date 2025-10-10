@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-10T11:19:10.859Z
+
+Feels quite user agentic: https://www.anthropic.com/news/claude-code-plugins
