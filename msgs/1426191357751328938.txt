@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-10T12:55:17.042Z
+
+When I click links in the search result it opens up those web pages in sidebar so it saves me closing/switching to tabs while discovering websites
