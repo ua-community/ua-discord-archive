@@ -1,0 +1,18 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-10-10T20:00:49.235Z
+
+I want it to embrace the multiplayer aspect of the web platform as you said. Web applets was a great experiment for me because it limited me to build software in this very specific way.  Taking applets from (supposedly) various hosts and connecting them. It forces you to make it multiplayer by default basically. Sadly it didn't actually work cross origin due to state partitioning. I also didn't like it required this whole SDK/library to make it work.
+
+In any case, thanks to you I now see that I can pretty much get the same effect with web components. At least I think I can, still need to experiment. Which ties into the following ...
+
+> problem with JS frameworks and top-down rendering is they assume full dominion over the web page,
+
+The applets experiment, and now web components, way of thinking got me out of this ☝️It's so ingrained that it's hard to get out of that though, especially when I go back to web components. The applets thing at least forced me to get out of the top-down-rendering thinking. But we'll get there 😄
+
+To circle back to the multiplayer thing real quick, I think I want to put software logic in web components too. Easy to: share, manipulate via the DOM, swap out, etc.
+
+> I also don't think that it's a coincidence that these tools also affect the way we design things on the web
+> the culture of UX/UI is rooted in the idea of control and the thought "I know what's best for every users"
+
+Yeah, it's exactly this what I want to break through with my experiments. I don't want the software to decide what's best for the person using it. They should be able to decide for themselves, or at least be able to choose between various prebuilt options, working on/with the same data (ie. the person's data).
