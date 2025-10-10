@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-10T23:41:53.127Z
+
+and it should only offer to do things, and never just do them, like a superpowered Clippy
