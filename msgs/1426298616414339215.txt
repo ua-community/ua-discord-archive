@@ -1,0 +1,28 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-10-10T20:01:29.500Z
+
+> Another core tenant of the web is accessibility
+
+Mmm, interesting! Love to learn more about this. I do need to up my web accessibility game for sure.
+
+> this particular path is a little bit of a "lost art".
+
+Lets make it less lost! 🙌 I very much look forward to the day I can combine my experiments with the work y'all been doing at folkjs (and dialog db too (user))
+
+> rooted in the DOM as an information substrate. A good intro video here.
+> The DOM as a set of materials and instruments (that operate on other materials)
+
+Great talk yeah. I think this also applies to my experiments that I explained earlier. Correct me if I'm wrong. Each web component, with as much config & info pushed to the DOM, being a material or instrument. All operating on, or connecting to, each other. The ability to take tools from separate origins and mix them in with the others.
+
+> It's a different approach to building and reasoning about user interfaces
+
+💯
+
+> While I don't usually pair signals custom elements
+
+Yeah, I figure I could get everything to work with (custom) events instead, probably better but with more boilerplate. Signals might end up acting weird when removing/adding instances of web components. Experimenting to be done!
+
+> I'd like to do some more technical writing about how these systems work
+
+I'd like that too!
