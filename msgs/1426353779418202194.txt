@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-10T23:40:41.385Z
+
+I also would like an AI agent to infer from the work I'm already doing, rather than changing my workflow to give it a prompt
