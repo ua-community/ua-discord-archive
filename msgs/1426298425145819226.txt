@@ -1,0 +1,24 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-10-10T20:00:43.898Z
+
+Thanks so much, this is gold ✨️ Learning a lot here!
+
+> The web platform had a messy history ...
+> align with the platform ...
+
+Makes sense, I totally agree! And yeah, it's been quite the journey for sure 😄
+
+> when frameworks claim the "DOM is slow" what they mean is layout thrashing is a footgun
+
+Interesting! I have to confess, not sure if I ever heard about layout thrashing. I never understood where this "dom is slow" argument came from.
+
+> browser is the closest piece of software infrastructure that is suitable to host open and malleable future.
+
+Yeah agreed, so easy to go in, look at the pieces that make it work and modify things. It's amazing that we have this giant ecosystem, across so many types of devices, operating systems, people, countries, cultures, etc.
+
+> Free addressability embraces transparent, publicly addressable state through queries, selectors, names, or other mechanisms
+
+Ohhh, this is great, hearing it spelled out like this. It's exactly that what I try to pursue in my own experiments, "extend without permission". That, and shaping without permission; create your own software/experience. I have my data and I can shape it however I want.
+
+You asked what I'm trying to model. I'm trying to make this digital music listening experience that's tuned in (pun intended) to your personal preferences, building your own music player and collection browser; composition on the user level, not just for devs. But even if I can't realise that, it should at least be really easy for developers to make custom music players (like good old Winamp customisation taken to the extreme) and browsers.
