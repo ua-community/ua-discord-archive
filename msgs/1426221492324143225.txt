@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-10T14:55:01.684Z
+
+really interesting to see the presence of lm studio and the absence of ollama as the local llm provider at the gpt-oss talk at the recent openai dev day
