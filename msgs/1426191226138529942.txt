@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-10T12:54:45.663Z
+
+could you explain what aspects? looks pretty standard/basic to me
