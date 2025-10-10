@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-10T07:59:25.388Z
+
+nano's been pretty good for basic, general purpose local stuff. i've been turning non-technical ai-scared folks on to it.
