@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-10T03:34:29.502Z
+
+https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf
