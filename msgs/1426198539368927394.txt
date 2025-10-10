@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-10T13:23:49.273Z
+
+not really, its the same interface, as i said if i click a link in the chat then it opens that link in the same side window replacing existing page
