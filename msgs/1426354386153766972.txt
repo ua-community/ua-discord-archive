@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-10T23:43:06.042Z
+
+I should be able to configure how eager it is, in a sense, like how often it offers things
