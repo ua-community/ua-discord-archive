@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-10T23:38:21.270Z
+
+I feel like AI agents should only go as fast as I am able to assess their output. I can recognize a correct solution faster than I can deduce one, so that's a still a speed up on my work if the agent is right often enough.
