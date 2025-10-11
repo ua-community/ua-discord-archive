@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-11T23:22:20.285Z
+
+https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/ I thought this was going to be about AI but turns out to be about standards vs frameworks. 
+
+Nothing new for most people here I imagine but maybe good as a temperature check.
