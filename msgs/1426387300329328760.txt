@@ -1,0 +1,23 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-11T01:53:53.393Z
+
+Evaluation and AI context engines → Governance of cognition
+
+The context-engine work extends these principles into the epistemic layer.
+Automation must remain auditable.
+Evaluation precedes delegation: systems expose their reasoning, provenance, and scope of consent before acting.
+
+Connecting multiple AIs through MCP-style protocols becomes a rehearsal for mutual legibility—agents exchanging scope, provenance, and authority statements that humans can read and override.
+It is governance enacted at the level of cognition itself.
+A tool’s reasoning chain is treated as a civic artifact, subject to scrutiny and amendment.
+
+Agency scales upward when the infrastructures of thought remain open to inspection and correction.
+
+Structural patterns
+Pattern    Purpose
+Inversion    Redirect an extractive flow to produce insight and leverage.
+Reversibility    Preserve the ability to withdraw, undo, or fork at every layer.
+Cycle literacy    Expect re-centralization and design with feedback channels intact.
+Evaluation before execution    Make inquiry the first operation of any automated process.
+Relational sovereignty    Coordinate power through shared, bounded authority instead of isolated autonomy.
