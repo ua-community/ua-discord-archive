@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-11T06:09:33.482Z
+
+Funny enough, my chatgpt has been trained to overindex everything I say as political in some way. The more technical, the more I have to tell it to not apply political frameworks to architectural speculation. Lol 
+
+Google notebook gives me nothing. It literally refuses to answer my questions when I upload stuff to it. Even what I consider as dry tech is too political for Gemini's guardian filter agent.
