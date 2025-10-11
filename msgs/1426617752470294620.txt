@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-11T17:09:37.465Z
+
+we tried reproducing in helium but did not get captchas, so either tied to ip or some posture estimate that just makes it into bot territory  a bit more than i would like. i could not find obvious reasons and most bot checks score perfect for darc, but we need to have an eye on it
