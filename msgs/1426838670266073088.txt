@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-12T07:47:28.372Z
+
+yup. and you cannot install the cert just for the iwa, it will be valid for the whole profile
