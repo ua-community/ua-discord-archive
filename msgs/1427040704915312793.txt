@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-12T21:10:17.186Z
+
+If I had a system that could progressive enhance when the network became available, that might make it work for me
