@@ -1,0 +1,9 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-12T20:58:55.273Z
+
+I mean, no. Framework has incredible Linux support, and their hardware offering is very distinctive (not counting the recently released Desktop). I don't think there are any real alternatives out there, everything else comes with regretful trade-offs (in terms of my day to day experience of it).
+
+But, also yes. I won't belabor the contents of the article, other than to repeat that it's a gut punch.
+
+I don't know what to do. Maybe I will follow (user) 's example and run a cyberdeck.
