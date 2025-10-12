@@ -1,0 +1,7 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-12T21:09:31.870Z
+
+I've tried various setups for this in the past, but never landed on something that worked well for me. Especially when productivity is tied to network access.
+
+Do you do this? What is your setup?
