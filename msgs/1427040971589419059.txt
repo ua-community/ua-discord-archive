@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-12T21:11:20.766Z
+
+My workflow is already fully Nix'd out. Surely there is some clever way to do remote Nix build and cache..
