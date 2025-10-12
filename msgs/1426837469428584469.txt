@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-12T07:42:42.070Z
+
+but we are basically not doing something more hacky than any website terminating in cloudflare
