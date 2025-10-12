@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-12T08:12:23.215Z
+
+maybe we can add some retinal scans too : D jokes aside ,we are currently more discussing in the web of trust direction where the main app directory is extremely limited to apps that the core dev team actively uses, vouches for and vets. the rest would be more like social network discovery and web of trust + transparency
