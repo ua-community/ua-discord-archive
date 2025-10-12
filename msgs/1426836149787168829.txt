@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-12T07:37:27.443Z
+
+we probably can avoid the mitm with cdp though, i really hope the performance and stability impact will be minimal. but i already found some webiste bugs that only happen when dev protocol is attached : /
