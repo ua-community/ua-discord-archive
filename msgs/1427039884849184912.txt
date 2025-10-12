@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-12T21:07:01.667Z
+
+I have. In a perfect world I would be using something like the MNT products. But, in reality the performance trade-offs are hard to swallow.
