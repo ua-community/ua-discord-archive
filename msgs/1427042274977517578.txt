@@ -1,0 +1,5 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-12T21:16:31.518Z
+
+Yah, I need to look into remote builds again, I guess. I wasn't using Nix when I looked into it last time.
