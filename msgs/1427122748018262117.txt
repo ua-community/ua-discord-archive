@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-13T02:36:17.786Z
+
+I've been thinking lately about if pure functions could be easier for AIs to help with in AI-assisted development, for similar reasons as what make them easier to test. The AI's inputs could include the function signature, some test cases, and an English description of what it should do. The function signature and test cases would be invariants that the AI's output must strictly respect.
