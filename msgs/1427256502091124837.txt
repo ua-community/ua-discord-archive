@@ -1,0 +1,17 @@
+UserId: 389875342363459604
+Username: (user)
+Time: 2025-10-13T11:27:47.242Z
+
+Super interesting point, I've been following Bittensor with a lot of curiosity, there’s definitely philosophical overlap even if the surface layer differs.
+
+Privacy: In Index, intents are private, discovery happens via agent mediation inside confidential compute rather than public model outputs. Couldn't find native privacy in Bittensor, but saw some projects are exploring TEEs. Don't know in detail actually.
+
+Market design: In Index, each user relationship functions as a micro-market for discovery outcomes. That shifts validation from consensus accuracy to contextual and continuous interpretation, evaluating how well intents align rather than how outputs agree.  Here’s the core data structure for mutual intent claims: 
+
+`type Stake {
+  intents[];   // These two intents are mutual  
+  reasoning;   // The reasoning behind the match  
+  amount;      // The staked value expressing conviction  
+}`
+
+On the other hand, Bittensor is useful for generic inference tasks today, or maybe even as an agent runtime layer. We just haven’t prioritized that integration yet,  but if I’m missing something, please let me know, very curious to find a fit actually.
