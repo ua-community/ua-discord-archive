@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-13T14:34:26.169Z
+
+https://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-637d7d92514a
