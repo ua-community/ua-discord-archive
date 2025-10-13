@@ -1,0 +1,5 @@
+UserId: 389875342363459604
+Username: (user)
+Time: 2025-10-13T11:30:42.874Z
+
+By the way, Ethereum is not feasible either, yes, the docs are a bit inaccurate here. We have a goal of setting up a TEE network and getting its verifiability recorded on Ethereum. Inside, we might use libp2p for data availability and so on. A lot of solutions have come up and it looks like we'll pick one of them. Open to suggestions. : )
