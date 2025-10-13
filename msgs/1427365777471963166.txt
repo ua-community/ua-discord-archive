@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-13T18:42:00.523Z
+
+I suppose chat histories are the closest artifact/first layer of that externalized cognition, but it doesn't feel that way to us because that's the primary surface area for us to understand internal states of the models.
