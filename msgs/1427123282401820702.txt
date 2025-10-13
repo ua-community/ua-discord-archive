@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-13T02:38:25.193Z
+
+The sort of AI that would work with this couldn't just be a language model, although it could include one, because the function signature and test cases are fundamentally different kinds of input than the prompt.
