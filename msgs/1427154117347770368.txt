@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-13T04:40:56.817Z
+
+(user) welcome, thanks for joining! saw the note about moving from Drizzle to Ethereum. curious if you evaluated Bittensor? this seems similar vibe to a number of subnets there.
