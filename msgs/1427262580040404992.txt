@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-13T11:51:56.338Z
+
+However, kinda need two apps to be able to handle transient and non-transient loads. Unless there's a nice trick to have one app registered twice...
