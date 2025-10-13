@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-13T11:45:46.232Z
+
+Landed some fixes in Singular to properly support handling links from the OS. Only tested on macOS so far.
