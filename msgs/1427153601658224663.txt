@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-13T04:38:53.867Z
+
+this section has a succinct architectural overview: https://github.com/indexnetwork/index?tab=readme-ov-file#key-features
