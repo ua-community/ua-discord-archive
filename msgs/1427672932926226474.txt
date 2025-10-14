@@ -1,0 +1,10 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-14T15:02:32.090Z
+
+Organism/living are which:
+
+1. Have ability to compute / reproduce 
+2. Can generate randomness 
+
+Stealing from that YouTube talk, strongly suggest to watch it, it perfectly pans out intuitively and scientifically
