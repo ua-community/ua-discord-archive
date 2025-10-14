@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-14T04:57:16.993Z
+
+Probably something in Electron window types.
