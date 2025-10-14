@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-14T07:31:34.557Z
+
+just looked at n8n again.  what are your thoughts about the weird nocode revival. i especially cannot understand how even poeple who can code seem uncritical of a system that puts git/versioning on enterprise plan and clearly has the same lockin story of all the nocode platforms that came before.
