@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-14T04:57:02.634Z
+
+I need to figure out some focus stuff though. Focus doesn't go back to previously-focus app on stack, even though it's the visibly active app.
