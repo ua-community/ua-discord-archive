@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-14T04:55:52.120Z
+
+also i changed Singular to close the app when zero windows, to better align with the "transient/weightless web" task flow (no change on non-macOS platforms).
