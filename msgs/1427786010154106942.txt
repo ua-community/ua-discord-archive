@@ -1,0 +1,15 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-14T22:31:51.802Z
+
+https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/
+"Seamless integration with Web Apps
+
+With many modern apps built in the cloud, the experience between Progressive Web Apps and native apps is merging. In Zorin OS 18, these apps can now co-exist as first-class citizens.
+
+The newly built-in Web Apps tool lets you turn any website into a desktop app through an easily accessible interface. Your web apps will appear in the start menu and can be used just like native applications.
+
+The Web Apps tool can integrate with any popular web browser as a back-end and allows you to customise the experience within each web app.
+Web Apps tool running Adobe Photoshop and Microsoft Excel
+
+Using “Web Apps” means you can seamlessly run popular apps like Microsoft Office/365, Teams, Google Docs, and Adobe Photoshop, right from your desktop"
