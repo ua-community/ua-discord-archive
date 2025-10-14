@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-14T15:03:18.305Z
+
+“So the tentative conclusion is that pretty much any universe that has a source of randomness and can support computation will evolve life. But there was really a puzzle in these results, which is how on earth does it happen so fast?”
