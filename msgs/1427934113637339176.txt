@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-15T08:20:22.424Z
+
+Haven't updated Singular yet, but pushed changes to Peek so that peeks, slides and the command bar all return focus correctly now.
