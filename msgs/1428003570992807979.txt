@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-15T12:56:22.348Z
+
+full paper for memory tuned qwen 4b model: https://dria.co/research/mem-agent:-equipping-llm-agents-with-memory-using-rl
