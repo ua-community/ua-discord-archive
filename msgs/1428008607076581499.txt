@@ -1,0 +1,9 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-15T13:16:23.044Z
+
+They support Ollama, LM Studio and MLX as well!
+
+https://x.com/driaforall/status/1973112262601875866?s=46
+
+https://dria.co/inference-arena
