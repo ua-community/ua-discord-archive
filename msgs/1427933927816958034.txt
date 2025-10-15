@@ -1,0 +1,8 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-15T08:19:38.121Z
+
+figured it out:
+- modal=true will close window on esc/blur but keeps focus
+- type=panel will return focus to previous focused app in the stack
+- combining both results in windows that are transient and return focus correctly, so that your flow is not broken
