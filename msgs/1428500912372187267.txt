@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-16T21:52:37.773Z
+
+"Today, there's no way to audit a site’s client-side code as it changes, making it hard to trust sites that use cryptography. We preview a specification we coauthored that adds auditability to the web." Wait, is this why we don't have a browser based Signal client?
