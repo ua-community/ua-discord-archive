@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-16T13:46:18.603Z
+
+(user) need you to login to your cloudflare and accept the userandagents.com domain move request as you are the super admin here: https://dash.cloudflare.com/9c84d74dd10dc417c77f85c4c3f458ca/registrar/action-center
