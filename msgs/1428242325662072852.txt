@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-16T04:45:05.897Z
+
+How we normalized collapse: We wrote software and relied on it :P
