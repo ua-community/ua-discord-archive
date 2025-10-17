@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-17T10:13:51.136Z
+
+I spent years trying to get that f'n ecosystem to shape up. Leaving "experimental" flags on stuff for yeeeeeeaaaaarrrrs after everyone was using the feature in prod was one of many, uh, *challenging* patterns.
