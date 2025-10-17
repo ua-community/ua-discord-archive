@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-17T19:26:20.361Z
+
+The Collective Power book is a primer on governance in general and how to build governance systems, rather than focused on Sociocracy itself.
