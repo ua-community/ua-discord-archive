@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-17T01:58:55.850Z
+
+Verifiability as a defense against MITM attacks in distribution channels is orthogonal to end-user decisions made by web-of-trust. WAICT is basically hand-tooling into a manifest what IPFS pushed into network layer.
