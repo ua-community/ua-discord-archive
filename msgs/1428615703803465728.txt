@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-17T05:28:46.183Z
+
+Yeah there's some nice middle ground between everything content-addressed all of the time, and nothing at all. Is that a library you wrote?
