@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T09:17:18.740Z
+
+any insights for te installer here ? 😄 given the target audience this will probably lead to some mitigations making it harder for us or what are your thoughts?
