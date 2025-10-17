@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T09:26:10.524Z
+
+https://atreyu.dev/docs/atreyu/   it was never really finished to release though because netflix stoped falcor which it is based on, im still not sure ow to best continue, falcor is quite outdated and too big for me to take over maintanence and rewriting a new falcor for this usecase is a bit outside of what i can do with the focus on xe. my hope is agents will be good enoguh to take that part from me
