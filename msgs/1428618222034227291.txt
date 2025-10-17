@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-17T05:38:46.576Z
+
+IIRC they're missing web crypto api features *and* need to solve the tampering issue that WAICT addresses. I had Igalia take a look at Signal's needs when we were looking into other funders for that work.
