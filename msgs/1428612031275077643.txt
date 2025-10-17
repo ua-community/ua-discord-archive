@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T05:14:10.584Z
+
+i often use a serviceworker app cache  implementation with hashes that translate paths to hashes and then does content addressable retrieval and deduplicated caching. it has many nice properties besides integrity
