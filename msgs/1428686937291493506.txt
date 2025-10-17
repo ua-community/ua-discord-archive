@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T10:11:49.570Z
+
+ipfs is used mostly as content adressable store, p2p / full ipfs support was experimentaal but i stoped working on it when  the pubsub feature was seemingly frozen in progress.
