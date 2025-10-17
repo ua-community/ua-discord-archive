@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-17T02:34:41.928Z
+
+Which is why discussions about composability on the web and agency need to be accompanied with discussions about accessibility. So everyone can participate in governance democratically.
