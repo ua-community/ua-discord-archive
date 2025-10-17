@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-17T07:25:48.576Z
+
+Maybe it wouldn't even need to be AI, maybe it just has to be a parameterized setup with some of the parameters randomized under test?
