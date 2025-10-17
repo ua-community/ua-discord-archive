@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-17T22:47:34.828Z
+
+I remember discovering Kademlia and thinking it was so cool
