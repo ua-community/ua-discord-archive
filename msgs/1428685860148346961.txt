@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-17T10:07:32.759Z
+
+he doesnt talk about controlled frames but does mention csp allows for unsafe wasm to run
