@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-17T08:19:11.680Z
+
+Link to GitHub in article is wrong. It’s here https://github.com/praetorian-inc/ChromeAlone/tree/main/BLOWTORCH
