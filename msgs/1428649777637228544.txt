@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T07:44:10.018Z
+
+what is the current state of art if i want a summary for a vid like this? eg. i want to ask “is there a proposal for successor to signals proposed or does the title mean something else”
