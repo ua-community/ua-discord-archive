@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-17T02:28:32.090Z
+
+This is accidently a great talk on governance, until he mentions governance, at which point he puts governance down as the question mark (punch)line item before the profit line and ends the talk. 😆 
+
+I really love Cash's approach with applets as an organizational alignment design primitive. It's like the front-end version of microservices.
