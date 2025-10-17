@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T09:38:05.774Z
+
+the thing is no one at netflix understood falcor not even the creators. then everyone got graphql pilled and left to facebook
