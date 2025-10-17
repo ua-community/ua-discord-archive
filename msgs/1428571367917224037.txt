@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-17T02:32:35.684Z
+
+Ah, gotcha. Yeah. It's really about meta-governance. Because ideally the tools for prototyping enable deliberation for informed devision making that key stakeholders can engage with. If this was more of a civic tech situation, you could see how a good design system would include facilitation patterns for using the design system to build together with a public.
