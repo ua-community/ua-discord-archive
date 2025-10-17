@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-17T10:17:38.265Z
+
+Here's a slide I used a lot when giving talks, right before I explained how *you* had to keep any content pinned if you wanted it to stay alive on the network... just like on the HTTP web.
