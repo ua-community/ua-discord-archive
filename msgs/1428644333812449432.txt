@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-17T07:22:32.109Z
+
+What if we had AI generate tons of design variations given some constraints, distributed them across a large user survey, and analyzed the data to see which variations won out?
