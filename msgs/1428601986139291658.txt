@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-17T04:34:15.637Z
+
+I would love to be able to run signal inside darc
