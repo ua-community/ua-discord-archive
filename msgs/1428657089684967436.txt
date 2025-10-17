@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-17T08:13:13.346Z
+
+“BLOWTORCH – Isolated Web App for SOCKS proxying & WebSocket comms” seems the IWA part is headless using direct socket I guess to be a proxy they can run things though.
