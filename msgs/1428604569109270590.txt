@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-17T04:44:31.465Z
+
+The point about design systems shifting the question away from "what is the best solution?" to "what can we make with what we have?" applies to vibe coding too, except "what we have" is the training data
