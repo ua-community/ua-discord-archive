@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T04:59:57.053Z
+
+would make sense for a package registry like jsr too, npm will maybe follow 5 years later. im just worried this will lead to something like drm effectively prevent anyone to change anything in the apps they use. thats why iwa are nicer, you cannot just add iwa to a normal web app to lock it down, its limited to eg something like your signal on the web that you want takperproof and install as iwa
