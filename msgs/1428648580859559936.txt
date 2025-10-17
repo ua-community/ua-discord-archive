@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-17T07:39:24.684Z
+
+would have loved to make it a lib, but hard to plug into existing assumptions, it is part of my framework atreyu
