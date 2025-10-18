@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-18T06:33:00.588Z
+
+you can use it however you like, from full stateless to multi tier caches with persistence and asset preloading etc. thats why content adressability is so great because you can make a cached system behave exactly like a stateless except changes in latency
