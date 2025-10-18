@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-18T17:32:56.745Z
+
+https://open.substack.com/pub/finideas/p/a-tale-of-two-agent-builders
