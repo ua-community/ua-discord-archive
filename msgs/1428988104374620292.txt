@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-18T06:08:33.398Z
+
+no with workerd you can have the same service worker architecure clientside and serverside 😉
