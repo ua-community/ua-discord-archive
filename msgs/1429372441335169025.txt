@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-19T07:35:46.470Z
+
+really curious, what kind of os integration? you read and write mails there what would be integrated?
