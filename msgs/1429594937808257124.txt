@@ -1,0 +1,5 @@
+UserId: 181513459182206976
+Username: (user)
+Time: 2025-10-19T22:19:53.763Z
+
+ooh, I'm curious to know more about their crdt implementation
