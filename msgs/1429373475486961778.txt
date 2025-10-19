@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-19T07:39:53.031Z
+
+i mean, yeah mbox sync would actually be rad, kill a few birds w/ one stone, but you're right that it's rarely done that way
