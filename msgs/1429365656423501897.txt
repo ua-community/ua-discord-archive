@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-19T07:08:48.821Z
+
+wait why arent you using singular ? what is the delta why someone would want a native mail client?  the only reason i could think of is a full mbox local format support with guaranteed cross app compatible data copy of everything but this is usually not what these apps do
