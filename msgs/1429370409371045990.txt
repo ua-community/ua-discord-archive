@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-19T07:27:42.012Z
+
+There are a lot of little details involved in a nice OS integration that I haven't gotten to yet. And Singular is just a testbed to make it easier to focus on just a small piece of Peek's features. It won't ever get the polish needed for proper daily-use, since that would happen in Peek.
