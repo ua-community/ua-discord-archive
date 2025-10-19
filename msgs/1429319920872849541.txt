@@ -1,0 +1,5 @@
+UserId: 181513459182206976
+Username: (user)
+Time: 2025-10-19T04:07:04.616Z
+
+I'm interested in getting more into writing tools with agents. and especially local-first software
