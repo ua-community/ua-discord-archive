@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-19T07:39:28.444Z
+
+nah i just mean running as OS level "app" vs tab in a browser
