@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-20T06:14:21.553Z
+
+The core mechanism is that votes are time-stamped and your most recent vote wins
