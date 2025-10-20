@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-20T20:43:37.415Z
+
+Oh, this is relevant to overfitting
+https://youtu.be/z64a7USuGX0?si=2GSA189iNNSF9u8i
