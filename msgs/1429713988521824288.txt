@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-20T06:12:57.665Z
+
+The potential conflicts would arise if you wanted to change your vote while a poll was still open, which they wanted to support
