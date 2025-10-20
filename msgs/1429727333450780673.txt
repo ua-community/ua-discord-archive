@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-20T07:05:59.344Z
+
+current chain of thought: what key to unlock these powerful features is hard enough to get so mozilla is not afraid of avarage joes being powned but simple enough for us to feel we can accomplish user agency.   we think its installing a separate app, but its unlikely mozilla in current form will resonate to this, especially as similar arguments by chrome team were not working either
