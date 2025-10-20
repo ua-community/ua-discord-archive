@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-20T06:01:03.411Z
+
+crdts are fine but not in a database of all places. crdts are designed to deterministically lose data and a database that loses data is toxic. the way to design a distributed data layer is to add a clear conflict boundary and a conflict api and then use crdts on top of that as default resolution step but giving the app layer freedom to handle conflicts with data type specifc conflict resolvers where needed. i see the current local first db craze with crdts at the core of everything as an idiocracy to focus on developer experience and building the fun parts completely ignoring real world requirements and 15+ years of research and best practices.
