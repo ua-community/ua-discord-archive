@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-20T06:19:19.766Z
+
+For a DB, I could imagine something similar I suppose, but idk if "most recent" is always strictly what you want for a general purpose DB
