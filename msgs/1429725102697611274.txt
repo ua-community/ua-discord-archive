@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-20T06:57:07.491Z
+
+Dropping this link in here for future reference. Has Mozilla’s negative view on IWAs. Hopefully we can change this in the future. https://github.com/mozilla/standards-positions/issues/799
