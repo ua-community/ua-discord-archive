@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-20T06:11:09.643Z
+
+why would vote counting even create conflicts?
