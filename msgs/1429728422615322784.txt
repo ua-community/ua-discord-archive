@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-20T07:10:19.021Z
+
+Missing from the discussion is what controlled frame unlocks. I think because Google didn’t even see it themselves. For Google iwa is a grab bag of things they couldn’t find a way to do within the constraints of regular web apps. Things chrome platform apps did that were not possible on the web but they wanted to still have some way of supporting. It’s sorta the last option, the one they don’t actually want you to use.
