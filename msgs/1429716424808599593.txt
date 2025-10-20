@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-20T06:22:38.521Z
+
+I think I agree with you that DBs should not dictate resolution methods lol
