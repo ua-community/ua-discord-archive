@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-20T06:10:05.731Z
+
+I see. CRDTs always catch my eye because I wrote a CRDT solution back when I was volunteering for the dual power app for counting votes, and implemented a handful of counting strategies (e.g. consensus, consent, quorum, etc)
+https://github.com/npetrangelo/vox-populi
