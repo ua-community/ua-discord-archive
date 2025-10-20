@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-20T07:33:40.328Z
+
+Lastly the link to the TAGs review of IWAs. Interesting at the end they suggest it’s moving towards an OS like capabilities for web apps. https://github.com/w3ctag/design-reviews/issues/1067
