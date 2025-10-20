@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-20T06:17:17.193Z
+
+I suppose the data I was okay with losing was the time stamps of outdated votes
