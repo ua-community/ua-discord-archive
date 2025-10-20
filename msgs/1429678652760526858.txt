@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-20T03:52:32.963Z
+
+another db that relies on crdt for conflict resolution 🤢  also still relient on gossip protocol, not sure if the issues there have been resolved, its deprecated in ipfs, so they build their own directly with libp2p. would want to love it but it looks they just distracted themselves with also yet another rust rewrite instead of solving the real issues?
