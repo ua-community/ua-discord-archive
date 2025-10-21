@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-21T02:27:15.405Z
+
+If I was learning C++, I think I would actually consider using AI for that purpose as it is, so a tool optimizing that workflow would be cool
