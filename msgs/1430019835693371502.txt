@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-21T02:28:17.313Z
+
+I reckon the AI doesn't have to understand my whole project to explain errors in my code
