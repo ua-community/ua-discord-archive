@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-21T02:15:27.366Z
+
+This would definitely help for understanding errors in C++ lol
