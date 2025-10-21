@@ -1,0 +1,5 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-10-21T06:31:32.781Z
+
+it's less about hostile interop and more about not needing permission to extend
