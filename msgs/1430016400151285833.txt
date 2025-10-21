@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-21T02:14:38.216Z
+
+I just thought of an AI workflow I could actually see myself using: I write code, I compile code, and if the compiler errors, the error message and code sample are given to the AI so it can help me understand more about the error
