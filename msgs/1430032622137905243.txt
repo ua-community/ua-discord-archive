@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-21T03:19:05.839Z
+
+I am blogging many places but most of my primaries are on ATproto with bridging turned on
