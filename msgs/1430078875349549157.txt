@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-21T06:22:53.464Z
+
+Theres a Bridgy issue for that I filed. Fun fact! Ghost doesn’t use Article type, it publishes as Note with a link, because hardly anything in AP supports Article
