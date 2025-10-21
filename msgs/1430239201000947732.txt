@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-21T16:59:58.078Z
+
+but once same-origin rules (HTTP / SSL / DNS) apply, it's game over. status quo.
