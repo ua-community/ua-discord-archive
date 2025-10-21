@@ -1,0 +1,7 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-21T14:15:27.461Z
+
+we are facing packaging issue with current tiles build 😭, postponing our demo, but 100% going to demo the next demo, and it'll have a much better UX too
+
+the installation script on tiles website should be functional before end of this week so that people on Macs can try/ contribute to tiles CLI
