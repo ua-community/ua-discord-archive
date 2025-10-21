@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-21T06:36:51.211Z
+
+I think the word adversarial should not be swapped for permissionless
