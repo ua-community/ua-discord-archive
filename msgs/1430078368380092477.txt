@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-21T06:20:52.593Z
+
+Errr. I don’t think adversarially is the right word? She used the core protocol interfaces as intended?
