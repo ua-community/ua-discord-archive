@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-22T03:34:01.225Z
+
+we can have a thread or call and do a bit back and forth
