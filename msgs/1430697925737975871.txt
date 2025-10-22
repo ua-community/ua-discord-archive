@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-22T23:22:46.578Z
+
+I'm leary of systems that lack transparency as core building blocks. 
+
+Wait, it's more a mental segmentation. I keep seeing people losing critical thinking around what can and should be for-loops and dropdown menus instead of llm features. Trying not to fall down that trap. Accidentally externalized my internal segmentation here. Agency being collective, other humans can be seen as black boxes.. which is where communication and agreements come into play. So... we're back to governance at that point.
