@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-22T08:32:36.494Z
+
+(user) could not trigger the nice animation you noticed in atlas, seems it was just a demo animation?
