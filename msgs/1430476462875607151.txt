@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-22T08:42:45.717Z
+
+Might be not great as then your chat is on the left
