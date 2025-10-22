@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-22T23:13:32.610Z
+
+If we’re going to have distributed compute agents, let’s build them so they work for us, transparently and locally and privately
