@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-22T14:24:07.179Z
+
+Is there any readymade off the shelf solution if I want to use Arweave to host my files in a decentralised way for an app that I’m building: asking for a friend
