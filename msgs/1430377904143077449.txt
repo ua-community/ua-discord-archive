@@ -1,0 +1,9 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-22T02:11:07.484Z
+
+The interesting parts to me were little interaction design bits that no major browser is doing anything remotely like:
+
+- Contextually-anchored micro command entry ("cursor chat"). Context-anchored interactions are a wobbly UX since always, so it probably goes away at some point, but it's interesting that they went straight in that direction. Hard problem.
+
+- Execution of command on new tab does a transition to right sidebar. Not the animation, but the continuity of experience from browser primary UI to web content.
