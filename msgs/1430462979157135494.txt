@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-22T07:49:10.948Z
+
+don’t think i can edit the luma registration. i would just add xenon (we are publishing a page for the conference here: https://xe.dev)
