@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-22T23:10:28.633Z
+
+I try an not think about AI as a part of building agentic systems as much as threatening user agency OR adding sugar on top.
