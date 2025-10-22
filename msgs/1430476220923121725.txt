@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-22T08:41:48.031Z
+
+I like the idea of when ai generates things the chat goes to left and generated thing appears to the right
