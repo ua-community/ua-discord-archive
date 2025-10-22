@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-22T08:22:13.127Z
+
+atlas installs itself in the dock next to the default browser witch is total invasive, there is also an unhidable button to make default browser in the home tab, which show what they are trying to do
