@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-22T14:35:09.607Z
+
+(user) How's TABS open sourcing for self-hosting looking? Still on for end of month?
