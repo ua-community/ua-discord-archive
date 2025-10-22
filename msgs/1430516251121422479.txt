@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-22T11:20:51.974Z
+
+This is phenomenal, I think the right approach to solve the memory problem, it compresses memory in a parametric and targeted way and scales to big capacities
