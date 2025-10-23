@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T05:35:58.543Z
+
+The pds pattern is so critical. Atproto doesn't need to succeed if it changes ux and dx expectations and around data portability and ownership.
