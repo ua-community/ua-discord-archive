@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-23T07:42:43.970Z
+
+Also they expose extra object on window for the ai stuff
