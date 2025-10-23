@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:56:57.489Z
+
+I still think did:rns has more promise for decentralization than did:plc or did:web, but there are still some challanges
