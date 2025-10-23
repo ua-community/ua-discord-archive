@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T07:06:17.390Z
+
+and after that, if you want someone else to manage it, you really just need to take that server box from your neighbor and give it to that other person
