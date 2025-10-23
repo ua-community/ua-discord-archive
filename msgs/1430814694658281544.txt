@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T07:06:46.458Z
+
+Your did document and private key live in that box, and if you physically take the box, your neighbor doesn't have them anymore
