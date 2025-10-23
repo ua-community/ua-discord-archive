@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:46:34.159Z
+
+...but wait, the did document doesn't have to be stored in your PDS per se, it actually just has to point to it
