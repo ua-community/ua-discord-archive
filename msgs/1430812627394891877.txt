@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:58:33.584Z
+
+~~even more ideally, rns would become the default internet protocol anyway and the risks of using that for the average person are lower~~
