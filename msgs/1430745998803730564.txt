@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T02:33:48.090Z
+
+I was imagining even people's identities could be web componants. If you @ed someone, instead of standard cards rendering, whatever web component was served by that person's openid/url is what would render.
