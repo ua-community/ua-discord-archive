@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T09:24:39.360Z
+
+I wrote up a blog post on this did method
+https://kinbox.substack.com/p/how-to-fully-decentralize-at-proto
