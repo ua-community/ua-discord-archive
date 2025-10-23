@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:45:57.634Z
+
+but it kind of has to have it in order to answer with the did document to a request with your public key
