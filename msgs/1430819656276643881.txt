@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T07:26:29.400Z
+
+Another thing about did resolvers is they shouldn't get heavy traffic most of the time, because your PDS address will be cached a lot
