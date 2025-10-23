@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T02:52:34.087Z
+
+In principle though, code as memes is a lot safer when the code is just markup and styling and not scripting
