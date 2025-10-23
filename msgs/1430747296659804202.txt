@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-23T02:38:57.523Z
+
+"replace the text on this image with text that says X" is in fact a better interface than having to build an entire janky meme generator website plastered in ads
