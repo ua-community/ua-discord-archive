@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-23T10:02:59.993Z
+
+seems to be still electron though they announced moving to chromium fork a while ago?
