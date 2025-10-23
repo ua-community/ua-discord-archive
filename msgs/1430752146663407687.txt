@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T02:58:13.854Z
+
+or maybe styling and data, so you could configure text that way too
