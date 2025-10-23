@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T11:54:28.836Z
+
+So basically AT Proto's plan for PLC is to make it easier to have 3rd party mirrors such that if the main PLC directory goes down or turns bad, applications can coalesce around a different one
