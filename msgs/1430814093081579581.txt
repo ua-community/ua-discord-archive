@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T07:04:23.031Z
+
+This neighbor isn't running your PDS, to be clear, they are only hosting your did document and have a copy of your rns private key
