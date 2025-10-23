@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T02:37:53.265Z
+
+I think that with MySpace copy pasting, if you wanted to, you could modify the code. But if someone just gives you an AI generated image, you don't by default have the prompt to easily make it your own in the same way.
