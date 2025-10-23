@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-23T02:36:21.597Z
+
+We need to promote Svelte if we want it to win
