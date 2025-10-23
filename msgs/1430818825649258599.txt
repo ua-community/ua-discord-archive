@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T07:23:11.363Z
+
+and then in the future, all you need to do if you start trusting that neighbor less, is take the web server back from them and let someone else host it
