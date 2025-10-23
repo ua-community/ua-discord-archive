@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:44:22.877Z
+
+I suppose the best way around that would be if your old PDS host never keeps it to begin with, and it stays on your devices
