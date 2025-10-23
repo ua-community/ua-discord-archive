@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T02:56:04.507Z
+
+What if a component had the markup and scripting baked into wasm, but it also had a config file for the styling?
