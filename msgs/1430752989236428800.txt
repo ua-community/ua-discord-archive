@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T03:01:34.739Z
+
+If the users can build more of their own UX, the less I have to design for them as a dev
