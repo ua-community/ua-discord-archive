@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T02:24:53.061Z
+
+I want an internet with that much customizability, but with more handholding in some way to help people avoid complete jank
