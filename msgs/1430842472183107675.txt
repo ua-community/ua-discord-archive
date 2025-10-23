@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-23T08:57:09.136Z
+
+not even that. You can migrate your account off of a NAME.bsky.social to SOMEOTHER.pds.social ... but your handle is just kept for you (that's a bsky platform feature they do in their namespace). You can't move between did:web and did:plc at all
