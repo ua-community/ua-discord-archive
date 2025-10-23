@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T08:49:48.396Z
+
+At first, you couldn't even go from did:web back to did:plc, and the only reason you can now is did:plc holds your place. Only plc gets to do this, as a centralized database.
