@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T08:48:30.541Z
+
+but honestly, I feel like migrating between did resolution methods is a lot to ask anyway; you also can't migrate between did:web and did:rns because the namespaces are just different
