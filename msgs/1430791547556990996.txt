@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T05:34:47.759Z
+
+One thing I really appreciate about atproto is because of the pds, a better or successor protocol could emerge and be migrated to seamlessly, as long as there are dev resources for it.
