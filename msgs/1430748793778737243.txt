@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T02:44:54.464Z
+
+Or like, what if throw userscripts into a lexicon?
