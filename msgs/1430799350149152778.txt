@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T06:05:48.042Z
+
+What are the specific benefits ietf offers new and emerging protocols that they couldn't roll on their own? (Which would suck actually.. governance systems are haaaaaaarrrrd).
