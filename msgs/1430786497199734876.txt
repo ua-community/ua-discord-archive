@@ -1,0 +1,12 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T05:14:43.660Z
+
+Protocols as political positions. Usually a more theoretical discussion, today very very visceral. Atproto probably needs a new primary anchor app sooner than later that isn't a Twitter derivative. Not sure what that looks like but Bluesky is definitely a risk to the future potential of the protocol if they aren't able to navigate the political landscape with some finesse.
+
+Erin Kissane never misses btw:
+"...the administration’s antagonistic entry to the platform is best understood as a game of chicken: If Trump administration accounts unambiguously break Bluesky’s terms of service, as they seem almost certain to do, the company will have to delete the posts or suspend the accounts and face the administration’s retaliation, alter its terms of service to accommodate Trumpist trolling, or ignore the breaches. None of these options are good for the company, which will have to decide how much it wants to be the focus of an authoritarian power’s noisy tantrums, how much time and money it can afford to spend defending itself against a regime that openly conducts political prosecutions, and how far it can push a user base already uneasy after months of hotly contested moderation controversies.
+
+And for the AT Protocol ecosystem (affectionately, the atmosphere) as a whole, the stakes are high: The company is already moving governance of the protocol itself to the Internet Engineering Task Force (IETF) and has issued a patent non-aggression pledge in service of its initial stated aims; these measures may be protective for the atmosphere, but it’s not clear that the ecosystem is stable enough—or decentralized enough—to withstand the loss of Bluesky the company."
+
+https://www.techpolicy.press/trump-administrations-arrival-on-bluesky-highlights-growing-pains-for-open-networks/
