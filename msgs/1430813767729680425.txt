@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T07:03:05.461Z
+
+Honestly, if the only hangup for did:rns for most people is it's *slightly* too techie to manage, it's maybe still easily doable at neighborhood scale. Like, a neighbor trusted by the neighborhood sets them all up.
