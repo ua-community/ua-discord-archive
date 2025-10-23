@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T02:39:21.228Z
+
+The inspector to the llm ai gen that reads that metadata would need to enable re-gen as part of the inspector to close the loop.
