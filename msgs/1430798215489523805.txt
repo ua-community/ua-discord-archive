@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-23T06:01:17.518Z
+
+Also unclear: Will the IETF welcome Atproto. It uses some underlying plumbing from IPFS, which we spent years trying to get even just an OK to *talk* about it at IETF, and it was never possible during my half-decade tenure pushing on that stuff. Non-BskyPBC governance of Atproto happens either way, but IETF is the longgggg road. My bet is it happens outside first, in the form of the loose community decisioning that happens now. And that's Good Enough for a while.
