@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:50:51.420Z
+
+So your DID document could conceivably live exclusively on your devices, and we could engineer that to be easier for people to manage
