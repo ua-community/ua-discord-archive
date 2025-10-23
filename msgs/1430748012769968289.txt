@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-23T02:41:48.257Z
+
+so, how do we build User & Agents network effect
