@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T07:20:18.036Z
+
+optionally, ask techie neighbor to help configure it too
