@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-23T10:00:23.804Z
+
+anything particularly interesting about their appraoch? i think the main issue is still a sytem like that that does not try to be a whole language, scales down in runtime prod requirements and has a apache or mit license
