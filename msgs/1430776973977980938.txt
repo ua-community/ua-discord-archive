@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-23T04:36:53.147Z
+
+Not enough internet identity discussion is spent on the aesthetics of identity. Decentralized identifiers and auth, yes, but let's make it cute prtty plz. 💕
