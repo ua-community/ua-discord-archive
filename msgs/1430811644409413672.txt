@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:54:39.222Z
+
+Ideally, it would be a box you just plug in, access from your wifi, configure it with a web portal over LAN, and you're off to the races
