@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T08:45:06.135Z
+
+I think there might be one weakness to this, and it's that you can't really migrate onto did:rns from other did resolution methods, since the did in that instance must be half of a cryptographic key pair and you can't just generate the other half from the first for obvious reasons
