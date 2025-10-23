@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:33:14.840Z
+
+Reticulum identities/addresses are free to make, can point to any machine with the private key, and everything is encrypted since cryptography is the basis of the whole thing
