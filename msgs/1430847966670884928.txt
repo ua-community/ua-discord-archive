@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-23T09:18:59.124Z
+
+That said I think they are Apache licensed and helium is more restrictive
