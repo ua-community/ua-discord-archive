@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-23T06:30:24.276Z
+
+I also think the reticulum network stack could have a decent use case in DID resolution for AT Proto, that would help it decentralize more
