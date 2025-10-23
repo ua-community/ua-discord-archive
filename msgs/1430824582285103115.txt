@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-23T07:46:03.852Z
+
+Suspect it works but you don’t get any agent stuff from their side as all that’s extension layer I think
