@@ -1,0 +1,7 @@
+UserId: 561346906316603392
+Username: (user)
+Time: 2025-10-23T04:32:26.476Z
+
+Open sourcing the repo and sharing it publicly is getting pushed back in time a little. It's 1 part cleaning it up before shipping, and 1 part some bureaucratic legal stuff that's sitting in a queue. It's bundled up with some other legal stuff for the project and we're not exactly sure how long that will take. 
+
+If you have an immediate use for it though it might be possible to get you access. While we're not sharing it publicly yet, there has been talk about giving access to a small group of design partners to provide feedback. We haven't acted on that yet - but that might be a path we could take here if you're interested.
