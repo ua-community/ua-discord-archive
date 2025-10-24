@@ -1,0 +1,9 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-24T11:45:48.725Z
+
+Looks something like:
+- Granter/grantee agree on proposal definition
+- Granter puts $ into U&A OC
+- Grantee does the grant work
+- Grantee invoices the OC on negotiated schedule
