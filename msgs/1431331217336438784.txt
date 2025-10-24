@@ -1,0 +1,6 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-10-24T17:19:15.061Z
+
+I started a leaflet! I'll be posting more frequently and informally here than on my main blog, and it's also where I'll be sharing my tech reflections without setting context for non-technical peeps. So, stuff like here stuff.
+https://bsky.app/profile/captaincalliope.blue/post/3m3xeuniao22b
