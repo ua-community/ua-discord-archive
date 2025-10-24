@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-24T03:01:05.440Z
+
+it's getting popular b/c super lightweight / portable and all declarative, so attracting nocode people whereas Airflow you gotta write code. and it's all filesystem, no db.
