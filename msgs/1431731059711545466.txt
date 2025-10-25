@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-25T19:48:04.912Z
+
+thanks, this is really interesting, never heard of this ecosystem before.   i wonder why these are extensions to a client not web extensions, is it fair to assume its because discord client was made for gamers to have call overlays that work while playing a game and the ecosystem evolved around that or are there other reasons behind?   (user)    its a great case study of things people want to modify in an app (the other one being chrome extensions for gmail, github and youtube mods): https://vencord.dev/plugins
