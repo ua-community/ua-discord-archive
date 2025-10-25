@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-25T08:46:16.266Z
+
+git now has change ids independent of the commit of the hashes, you get a rewrite history per change id of the commits that were this change-id
