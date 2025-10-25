@@ -1,0 +1,5 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-10-25T09:04:33.479Z
+
+I pray this gets widespread adoption. JJ does this as well and I love it (besides other features). https://tangled.sh already supports this for a PR workflow. Hoping GitHub follows soon, this is a huge annoyance
