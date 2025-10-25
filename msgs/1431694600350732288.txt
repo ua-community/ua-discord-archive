@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-25T17:23:12.323Z
+
+Because it integrates into the native OS affordances that the web version doesn’t offer
