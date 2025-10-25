@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-25T23:02:53.102Z
+
+For me, personally, I prefer native apps on iOS and MacOS because they work the same way all my other apps do with respect to window switching, notifications etc etc
