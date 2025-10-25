@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-25T20:20:22.441Z
+
+because android does not have a backup solution that can backup everything and restore without losing half the crappy apps app data, i would love to switch back
