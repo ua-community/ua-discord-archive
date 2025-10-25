@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-25T23:00:58.841Z
+
+Native OS affordances
