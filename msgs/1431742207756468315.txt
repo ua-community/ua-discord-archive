@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-25T20:32:22.813Z
+
+we build little portable computeres that are modular and run a linux or chromeos. with xr glasses
