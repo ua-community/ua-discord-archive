@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-26T16:20:07.868Z
+
+oh and arc spaces being independent of any window had a similar feeling
