@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-26T00:06:59.704Z
+
+I recently am experimenting with a bunch of Add to Dock apps in Safari on MacOS - so this is me turning web only apps into my native environment.
