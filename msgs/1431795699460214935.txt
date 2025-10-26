@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-26T00:04:56.229Z
+
+Don’t think there’s a checklist one can easily point to or it will be different for different people. Starts with “is in the App Store”, goes on to notifications, share sheet targets, window management / app switching, copy / paste working, notifications — off the top of my head.
