@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-26T11:26:09.015Z
+
+Apple has imposed strict technical and legal restrictions that make it commercially non-viable for developers to port their engines. Key barriers include forcing developers to abandon their existing European user base for a new app, requiring engineers to be physically located in the EU for development, and a high burden of security and privacy requirements.
