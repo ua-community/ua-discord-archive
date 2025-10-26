@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-26T16:15:36.064Z
+
+Unproductive software is also not the answer :  D I often used the term "lucid software"  where the productivity is not a superficial rigid layer but falls out of the base persepective, concepts and affordances, some deeper beauty shining through and simplifying at the same time as opening new possibilites and freedom. examples that felt like that are pivotal tracker, the UI of webOS, interactive smartlog, google reader, google inbox, outlook + onenote + winFS combo in the unfinished vista beta2
