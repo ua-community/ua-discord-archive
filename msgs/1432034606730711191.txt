@@ -1,0 +1,9 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-26T15:54:16.161Z
+
+another great moment when i demo'd how boring Peek is, the other night:
+- i showed how i can listen to music the way i want to
+- a journalist totally misunderstood and asked where the AI i mentioned was
+- me: "uh, what, no i'm just loading a web page in an OS-level sidebar"
+- him: "oh."
