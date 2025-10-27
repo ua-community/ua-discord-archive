@@ -1,0 +1,5 @@
+UserId: 877593264113475594
+Username: (user)
+Time: 2025-10-27T06:03:40.396Z
+
+Did someone here play with multimodal embeddings yet? Briefly chatted with someone, and now it's nagging me 😅
