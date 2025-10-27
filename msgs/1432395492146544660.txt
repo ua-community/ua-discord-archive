@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-27T15:48:17.949Z
+
+is it time to build an app for your thoughts? something hyper specific just for this format? i feel i want to have a collection of bookmarks, search terms i dont know, keep track of comments, but also sometimes just at a like to something without adding a comment.
