@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-27T15:50:25.238Z
+
+also i would love to have an "aha" button next to a line, that just notifies something is really interesting and seeign a heatmap of users aha momentsz
