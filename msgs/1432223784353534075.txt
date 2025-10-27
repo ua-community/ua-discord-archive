@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-27T04:25:59.621Z
+
+Sounds like you have to go though certification and training with a third party to get the license which isn’t free (according to people in the GitHub issue) https://www.widevine.com/solutions/widevine-3pl
