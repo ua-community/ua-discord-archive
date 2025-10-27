@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-27T08:37:04.355Z
+
+tl;dr: I saw (user)  had advertised their availability, so we discussed doing a small contract to work on an extensibility model for Peek b/c I haven't gotten time to think more deeply about it and keep having to push real work on it back. I thought others might be interested, so I proposed doing it as a grant here instead, vs a private contract, which he kindly agreed to. A happenstance conversation resulted in match funding from (user) since Xenon could benefit as well, which lets us double the hours to 80hrs vs 40.
