@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-27T18:07:04.085Z
+
+ahh, so you have a card stack that is unpublished where things go before the google doc?
