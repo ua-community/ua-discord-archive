@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-27T23:10:24.410Z
+
+And the "sub collective" option here is to get agreement on using a collective "project", which is an OC feature, to have a dedicated bucket of revenue / expenses
