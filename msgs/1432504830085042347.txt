@@ -1,0 +1,9 @@
+UserId: 178642274199011328
+Username: (user)
+Time: 2025-10-27T23:02:46.145Z
+
+Something where coordination is something that can be driven by and among the participating parties, would be very interesting.
+
+It gets less interesting the more it requires intermediation and/or acceptance by a handful of privileged people.
+
+That said, I'm not sure how you can avoid such intermediation in practice. That's probably why you don't see many options to coordinate funding for work that feels simple and low-overhead.
