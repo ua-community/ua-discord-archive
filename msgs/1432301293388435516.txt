@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-27T09:33:59.215Z
+
+which reminds me of ink and switch model again with closed loop "research and publish the learnings" phases. My main problem trying this for xenon  is seeing how extreme the time investment even with llms support is to make a great to read and to the point article  on ink/&switch standard.  it eats about as much time as the whole research /execution time which we just don't have as in that time i  have to really get the details of usabilty and feel  as well as tons of edge cases right wich ink and switch usually skips instead. I will try publishing something way more rough somewhere, maybe on our xe.dev blog
