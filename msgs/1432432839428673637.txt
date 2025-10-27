@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-27T18:16:42.235Z
+
+I know Dietrich just wanted to keep things relatively clean and simple. So avoid having complex structures or decisions on what gets funded, etc.
