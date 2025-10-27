@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-10-27T04:09:56.045Z
+
+^ I guess we also have to contend with this issue however I wonder if we can just detect when it’s one of list of domains and for those sites pop it open in its own chrome window. Eg a list of for this domain use this browser and then have the nav router handle the window opening.
