@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-27T11:59:37.903Z
+
+found out arc had smart folders that explored this too, was just an early concept with issues but its a great start
