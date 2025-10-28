@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-28T01:53:51.109Z
+
+I was planning to use OC sub project, as (user)pointed to, as a cutout so individuals/groups can start w/ experiments in running negotiated grants w/o us all having to predetermine community-wide governance. A side-channel we can learn from, to inform it.
