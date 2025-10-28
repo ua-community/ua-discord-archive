@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-28T04:47:29.958Z
+
+Kinda the opposite of user agency. Very interesting to see the extreme end of cryptographic verifiability used in this way.
