@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-28T01:57:29.064Z
+
+From the OC administration standpoint, I'll reiterate that more admins would be great. We started this space specifically around the idea of group of *people* interested in software that increases user agency, as distinct from a *company* or a specific technology. More people participating in the definition of it is a healthy signal. So far, there's not been much to do (which is a bit of mixed signal!).
