@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-28T17:09:33.434Z
+
+Oh I didn't touch on pooled funding really. I don't think there's only one answer. Pools can have different rules, and generally are decided by the pool creator and any funders (sometimes one and the same), or at least validated by the latter (by definition - to fund they have to agree to the fund rules!). If two people pitch in for a single grant, is that a "pooled fund"? Maybe? Could there be larger pools with broader remits and more sophisticated governance here? Sure, why not.
