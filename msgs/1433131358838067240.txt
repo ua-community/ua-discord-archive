@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-29T16:32:22.240Z
+
+Exposes/tunnels your locally hosted servers/ports on your network securely with tailnet (private network) to other machines
