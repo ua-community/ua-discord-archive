@@ -1,0 +1,11 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-29T12:46:15.070Z
+
+great proposal.
+
+i couldnt make it to the meeting but would like to add looking at these aspects in the research and requirements phase:
+
+- looking at cloudflare managed component api developed to extend websites at the edge with limited impact, its rough but the best aligned system to darc architecture needs i could find.
+-  (?) brief summarizing of the relevant parts from capabilities, ios and android permission system. going too deep in permissions is too much but a rough idea about these requirements might help asking the right questions
+- short summary of successful plugin/ extension systems , i know there are plenty of super successful ecosystems out there , but i have no idea how they work or how much overlap with our needs they might have or not
