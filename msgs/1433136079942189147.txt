@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-29T16:51:07.839Z
+
+Quicksearch is a good example of micro-extensibility, supported across not just browsers but all kinds of things. https://www.reddit.com/r/raycastapp/comments/1oib6p4/share_your_best_raycast_quicklinks/
