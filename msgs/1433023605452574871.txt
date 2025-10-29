@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-29T09:24:11.831Z
+
+This is how IPFS is supposed to work, and how I got into it in the first place. The idea of "around as long as someone finds it useful" is seductive. You don't need content-addressing, but it helps in a lot of ways.
