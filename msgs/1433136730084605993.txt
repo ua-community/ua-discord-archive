@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-10-29T16:53:42.845Z
+
+i think this is just a more refined solution, a centralized way to manage all internal resources  + through a stable magicdns address
