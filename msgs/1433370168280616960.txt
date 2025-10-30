@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-30T08:21:18.848Z
+
+I have GrapheneOS on a Pixel 6s (or 6a? i can't remember the convention) and while I love some aspects, some stuff is broken, and overall it feels very slow and noisy.
