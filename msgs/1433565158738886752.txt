@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-30T21:16:08.196Z
+
+cursor 2 is interesting because the implementation is similar to an early version i evaluated and rejected for our multi agent setup (its basically what you get if you try to adjust the codex setup to cursor). they use git worktrees with apple seatbelt and a single vscode project only attached to the main worktree. this has a ton of limitations especially for anything that uses ports and any amount of networking as well as any more complex edits you would need to work with more than just viewing a hand full of files. now im really curious if they find solutions to these that i did not see, so far it seems they just ignored them
