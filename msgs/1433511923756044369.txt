@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-10-30T17:44:35.987Z
+
+Avoiding whatever it is that makes relying on the Android user space a mistake
