@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-31T20:39:05.909Z
+
+we nearly had this for static assets and cache distribution with ipfs and gateways. hard to imagine something even more ambitious and complex will get enough momentum with a common spec vs getting momentum first from a practical side?
