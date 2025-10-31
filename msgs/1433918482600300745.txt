@@ -1,0 +1,5 @@
+UserId: 800869747822297089
+Username: (user)
+Time: 2025-10-31T20:40:07.169Z
+
+I'm not planning on waiting for a spec, and I know there's another dozen of us in the group who feel the same. but without a coordinated effort, everyone is only building part of it in a sandbox
