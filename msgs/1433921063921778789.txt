@@ -1,0 +1,5 @@
+UserId: 800869747822297089
+Username: (user)
+Time: 2025-10-31T20:50:22.604Z
+
+the thing that will win (I hope) is  going to have the characteristics needed to be simple enough to implement and understand, and general enough so that it can meet current and future needs from many many stakeholders
