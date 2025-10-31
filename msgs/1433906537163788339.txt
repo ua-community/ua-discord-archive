@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-31T19:52:39.155Z
+
+How was the event overall and the discussion around SUA? was there good resonance? Any more ideas on what an implementation UX could look like?  Obviously from our perspective the missing link is native integration into the browser that makes things as easy as installing an extension, only that you get a server side part with it.
