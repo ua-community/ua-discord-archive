@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-31T12:17:01.212Z
+
+yeah its quite interesting. if thats what they did the timeline is also a bit more impressive for the release. some motivations for OWL are  the same as for xenon eg freeing browser devs from compiling chromium. having access to mojo would be quite cool if we ever have to really do our own releases, but the native UI and process architecture is exactly opposite of what we are betting on (native ui vs html,   main process app shell + chromium background process vs  main process = chromium + background worker process ). i wonder if some of the advantages hold up in reality. eg startup and performance of a separate process only pays out if they render without chrome in which case they have to build the main ui completely native or use  a second more minimal webview for these. interesting is they have their own compositor which finally explains (user)  s animation observation.  cc @luke
