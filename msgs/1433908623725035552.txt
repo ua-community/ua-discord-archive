@@ -1,0 +1,5 @@
+UserId: 800869747822297089
+Username: (user)
+Time: 2025-10-31T20:00:56.630Z
+
+But I don't believe it should be intrinsically tied to the browser. There shouldn't only be 3 companies that host Server User-Agents.
