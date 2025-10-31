@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-31T20:06:38.406Z
+
+i was also impressed by the clarity of how it was all laid out!  well we are working on a framework that allows everyone to build their own browser so we believe there will be way more than 3 companies hosting these things even if its tied to the browser: D
