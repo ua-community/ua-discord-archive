@@ -1,0 +1,5 @@
+UserId: 292814927096446976
+Username: (user)
+Time: 2025-10-31T17:56:00.653Z
+
+Yeah I think I found a local community in Ottawa to use Wifi HaLow infra with p2p software. DHT boostrap nodes on infra has been something I've wanted to have since like 2018 😅
