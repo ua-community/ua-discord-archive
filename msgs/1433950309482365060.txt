@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-10-31T22:46:35.289Z
+
+Looks like Peerspace may also be useful https://www.peerspace.com/s/?a=meetup&location=london--uk&bbox_of_interest=[51.8822255,-0.4149317,51.38494009999999,0.148271]
