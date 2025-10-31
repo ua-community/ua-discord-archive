@@ -1,0 +1,5 @@
+UserId: 800869747822297089
+Username: (user)
+Time: 2025-10-31T20:08:40.691Z
+
+that's great and I'm behind it. I just practically think that the way forward is to move on a new spec that can be work with the browser (or even a native app) in a more modular way by having its own clear role. your vision of a "build your own browser" would likely fit very well with that
