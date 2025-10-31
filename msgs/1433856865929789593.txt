@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-10-31T16:35:16.610Z
+
+And apparently even a bazillion dollars and poaching the original architects of Chrome itself can't get you out of Google's event horizon: "We considered making substantial changes here, but we wanted to keep our set of patches against Chromium targeted so we could quickly integrate new versions."
