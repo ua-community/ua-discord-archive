@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-10-31T18:18:35.219Z
+
+this looks like a windows problem, as there is no analog to apple seatbelt for windows i dont think this is on our active radar. on mac firefox and chrome ship with default seatbelt profiles that prevent some of these sandbox escapes to reach the target.
