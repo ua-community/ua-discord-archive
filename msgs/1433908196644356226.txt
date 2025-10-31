@@ -1,0 +1,7 @@
+UserId: 800869747822297089
+Username: (user)
+Time: 2025-10-31T19:59:14.806Z
+
+So I don't think that it makes sense to integrate directly into the client browser itself. It does make sense that a company like google would be one of many companies to offer SUA hosting and make it very easy from Chrome.
+
+The resonance was great. People are ready. Here's a quote from someone responding to the post in our working group signal chat, "Here the IIW / SSI / decentralized identity community has been talking about this idea for 20 years—using every term from PDS (personal data store), data locker, personal agent, personal cloud, pod, personal data vault, and smart vault—but in all that time (and across at least three teams I've worked on developing variation of this new animal), I've never seen it articulately as clearly."
