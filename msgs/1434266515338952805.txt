@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:43:04.640Z
+
+Identity migration is extremely rare, data migration is probably more common. With something like did:rns, you physically own your identity server so hopefully you never need to switch did methods ever again.
