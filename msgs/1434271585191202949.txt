@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T20:03:13.387Z
+
+Or they prompt you to install a PIS app
