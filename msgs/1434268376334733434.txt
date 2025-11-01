@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:50:28.336Z
+
+Even if reticulum itself wasn't the answer, I think the identity server still is
