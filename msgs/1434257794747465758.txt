@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:08:25.489Z
+
+Their idea for credible exit now is "there will be PLC mirrors and apps can convene around another one if the current favored one goes bad"
