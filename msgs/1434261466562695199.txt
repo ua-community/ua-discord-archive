@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:23:00.918Z
+
+The firehose doesn't retain anyone's data
