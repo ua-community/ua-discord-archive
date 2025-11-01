@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:12:39.498Z
+
+Ultimately, there's still hope as long as DID migration is possible, even if tedious
