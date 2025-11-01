@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:45:49.889Z
+
+Also when you physically own your identity server, you can modify your DID document directly
