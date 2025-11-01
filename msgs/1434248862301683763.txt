@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-01T18:32:55.828Z
+
+the only thing missing is prefilling the requested permissions from the otauth scopes and doing the oauth flow instead on clicking ok.
