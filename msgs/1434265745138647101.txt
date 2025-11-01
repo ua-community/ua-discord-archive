@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:40:01.010Z
+
+DID method migration would be tedious because every record with your old DID would need to be updated, but that's okay because it won't happen very often
