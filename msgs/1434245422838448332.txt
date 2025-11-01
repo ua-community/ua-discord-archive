@@ -1,0 +1,9 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-01T18:19:15.796Z
+
+“Note that the compilation and weight loading steps are both bottlenecks to your model startup time, but they can be done in parallel. ZML provides asynchronous primitives to make that easy.
+
+The compilation can be cached across runs, and if you're always using the same model architecture with the same shapes, it's possible to by-pass it entirely.”
+
+https://x.com/steeve/status/1984565717581398224?s=46
