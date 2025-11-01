@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-01T11:39:52.390Z
+
+Love how beautifully people at thinking machines write their training blog posts: https://thinkingmachines.ai/blog/on-policy-distillation/
