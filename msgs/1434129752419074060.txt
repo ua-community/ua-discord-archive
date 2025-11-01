@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-01T10:39:37.819Z
+
+just learned vivaldis chrome base that allows rendering html based ui is fully open source, would make another interesting target to add xenon support  https://vivaldi.com/source/
