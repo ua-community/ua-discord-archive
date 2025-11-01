@@ -1,0 +1,5 @@
+UserId: 387298206217928704
+Username: (user)
+Time: 2025-11-01T17:52:48.640Z
+
+Don’t hold you breath! The design for this is hard. This is the “default all permissions”, ahead of Scopes rolling out. GitHub supports a pre-Scopes spec that they are unlikely to change, and I don’t know of anything else in the wild that is widely adopted that is any better (Google has long options like this that people also all just say yes to, don’t think it’s Scopes either)
