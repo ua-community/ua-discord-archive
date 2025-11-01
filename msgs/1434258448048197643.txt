@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:11:01.248Z
+
+Yes
+> it's similar to blockchain soft fork, it's possible for one PLC to listen to another's ops (soon in a streaming way)
