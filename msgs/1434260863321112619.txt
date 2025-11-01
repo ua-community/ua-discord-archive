@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:20:37.094Z
+
+The firehose is also a compromise with centralization, but to a lesser degree because it can be a fully open source service that anyone can pool the resources to run
