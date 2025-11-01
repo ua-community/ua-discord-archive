@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T20:02:54.806Z
+
+Wouldn't it be cool if when you onboarded to something like Bluesky, it worked seamlessly, but then they ship you a PIS and your DID is transfered before you've has the chance to generate much data referencing your DID. Easy one time identity migration
