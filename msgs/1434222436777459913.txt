@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-01T16:47:55.492Z
+
+its a very hacked together build, the install script works now but have many things to polish, we expect it to do in a week or two max
