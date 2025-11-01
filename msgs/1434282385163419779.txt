@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T20:46:08.301Z
+
+Another thing only AT Proto could do, is put the update on the firehose so it's way more likely everyone sees it
