@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T20:36:55.337Z
+
+A few things that are different. If your contacts have your PDS cached, your PDS could tell them your new DID, so their PDSes can update all of their records. Additionally, your old PLC DID could stay live long enough for your contacts to update using it, after notifying them of the update. These would be back end things that don't bother the user.
