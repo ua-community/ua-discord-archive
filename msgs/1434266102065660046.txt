@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T19:41:26.108Z
+
+Yes, DID migration would be like that. But separating your identity from your data hosting is still powerful.
