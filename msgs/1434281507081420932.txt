@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-01T20:42:38.950Z
+
+I suppose ActivityPub sort of does the latter thing, but the former thing is only possible with separation of identity and data
