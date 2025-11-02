@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-02T16:41:52.188Z
+
+Hey, it's the Personal Identity Server idea I was talking about
+> With an SUA, your identity can live in infrastructure you control (or delegate control of, but with real agency). Your DIDs resolve to endpoints you manage.
