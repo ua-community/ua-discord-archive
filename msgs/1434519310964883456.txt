@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-02T12:27:35.814Z
+
+I assumed rust lol
