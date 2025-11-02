@@ -1,0 +1,15 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-02T11:50:49.645Z
+
+Our roadmap:
+
+Nov
+1. cli ui/ux onboarding
+2. basic llm efficiency
+3. did identity/single system auth
+
+Dec
+
+4. multi system auth
+5. syncing memories w iroh
