@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-02T16:26:48.204Z
+
+> Capping this off, RFC8890 explains — quite correctly — that you don’t want online services to be able to run arbitrary code with arbitrary access to your system. That makes intuitive sense, but there’s a loophole: it implicitly assumes that what you care about, and most notably your data, is on your system. What happens if essentially all the data that matters most to you is not on your system but on someone else’s? In that case — which is the common case today — the current browser-based user agent paradigm will not protect you from arbitrary access. Most of the time you’ll have no option other than to trust some company that, more often than not, you know isn’t trustworthy.
