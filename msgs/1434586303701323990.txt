@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-02T16:53:48.127Z
+
+Good post overall but I’m a little lost of why they focus on server as the unlock. The overall idea we need a sort of enhanced user agent is on point and yes server is good for parts for that but we need control of the client too. I guess overall the key is we need some user agent we actually control.
