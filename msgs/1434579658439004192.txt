@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-02T16:27:23.773Z
+
+Shit, this hits at one of the main things that separates web pages from web apps - user data!
