@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-02T13:03:28.381Z
+
+found https://www.cmux.dev . if you squint a bit, this looks like a specialised dev browser and the darc coding setup looks like an agent multiplexer. if anyone knows similar projects would be curious.  the problem  with cmux is that it looks mostly vibecoded, quite early and not modular. on the other hand  its a bit frustrating to invest time in the dev/agent side where i know probably 10 other teams are working on the exact same thing  (and unlike for the agentic browser work, probably also going to open source it) also things are still evolving so fast so  it keeps being a moving target.  similar areas are CDP wrapper, workspace handling + agent multilexing, docker orchestration/ sandboxing. On the other hand its hard to make the right abstractions and apis when leaving these completely to the future and also hard to show what this enables when they are left out too much.
