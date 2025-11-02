@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-02T17:37:32.032Z
+
+The key point is the user is missing an agent for things currently done by servers
