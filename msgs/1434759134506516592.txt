@@ -1,0 +1,12 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-03T04:20:34.202Z
+
+I'm a big fan of the Spritely Institute. 
+https://spritely.institute/
+
+Y'all might be intersted in their whitepapers:
+https://files.spritely.institute/papers/spritely-core.html
+https://files.spritely.institute/papers/scheme-primer.html
+https://files.spritely.institute/papers/petnames.html
+https://files.spritely.institute/papers/interfaces.html
