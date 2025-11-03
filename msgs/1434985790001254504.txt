@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-03T19:21:13.083Z
+
+This is frustrating because AT Proto is *so close* to having it all right, if not for this DID cop out
