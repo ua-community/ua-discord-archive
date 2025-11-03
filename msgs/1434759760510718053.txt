@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-03T04:23:03.453Z
+
+[Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
