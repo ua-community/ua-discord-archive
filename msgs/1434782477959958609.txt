@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-03T05:53:19.715Z
+
+Heh, a community scaling program a friend and I incubated at Mozilla over a decade ago. Instead of hiring a couple of devrels and burning them out (frequent scenario), I observed that loads of talented folks in community were doing devrel for the web and Firefox already at some % of their time. So the pitch to leadership was that we do cohorts of community speakers, provide some training and validation, and then fund the *travel expenses* of graduates, so they can level-up on a journey from local to regional to global speaker. Once it got up around 50 graduates I handed it off and they kept going to almost 200 I think. Eventually Moz closed it down and laid people, etc. But the community has a core group of us organizers and alumni who still hang. Lots got jobs as devrel at proper companies out of the program so I definitely think of it as a success - mutually-beneficial by design, and a springboard for a bunch of people into careers. https://blog.mozilla.org/community/2015/06/23/mozilla-tech-speakers-a-pilot-for-technical-evangelism/
