@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-03T02:49:24.435Z
+
+https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
