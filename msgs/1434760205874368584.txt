@@ -1,0 +1,6 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-03T04:24:49.636Z
+
+Here's where their work started six years ago. This is the actual link I wanted to share: [OcapPub: Towards networks of consent
+](https://codeberg.org/spritely/ocappub)
