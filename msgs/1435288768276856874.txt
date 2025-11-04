@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-04T15:25:08.733Z
+
+Interesting, I guess yes you could use direct socket then but you would need client lib including http/2
