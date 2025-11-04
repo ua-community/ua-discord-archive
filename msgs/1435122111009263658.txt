@@ -1,0 +1,9 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T04:22:54.544Z
+
+1. User A makes a post. It's in their repo with a CID not referencing anyone else.
+2. User B replies to user A. User B adds User A's DID to their address book, and their reply references an index into the address book.
+3. User A replies to user B's reply. User A adds User B's DID to their address book, and their reply references an index into the address book.
+4. User B churns
+5. User A wants to change DID. When they do, they update user B's address book to use their new DID, without user B's involvement. The CIDs are unaffected, and the thread remains intact.
