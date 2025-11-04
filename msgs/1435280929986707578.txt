@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T14:53:59.939Z
+
+Also it’ll sync model layers with Iroh, we’re going to use https://github.com/huggingface/xet-core
