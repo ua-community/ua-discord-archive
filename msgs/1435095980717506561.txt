@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T02:39:04.597Z
+
+The thread thing is a mess, and it makes me feel like threads should have their own CIDs that only need to be updated once.
