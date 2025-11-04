@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-04T03:14:14.455Z
+
+interesting, would be cool to do some comparison matrices between different transport options these days.
