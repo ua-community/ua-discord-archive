@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T10:19:40.339Z
+
+at the risk of not shipping fast, im betting on sub 1B  qwen models so that its practically compaitable with M1 and above chips, current prototype that we released uses dria's memgpt a qwen based 4B finetuned memory model
