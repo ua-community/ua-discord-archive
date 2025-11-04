@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-04T20:47:54.174Z
+
+Can forum channels be indexed the same way or similar as the chat channels?
