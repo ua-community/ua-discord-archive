@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-04T02:27:24.462Z
+
+hard agree w/ some of this. data infra still so chokepointy, as recent amazon/cloudflare outages show. liquid data services still underleveraged opportunity.
