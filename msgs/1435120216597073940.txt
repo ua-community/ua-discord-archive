@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T04:15:22.881Z
+
+Further, this address book could have special permissions, such that other users can update their own entry in your address book when they migrate with only their own authorization.
