@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T17:55:04.643Z
+
+I find it handy as a portable context for agents, in yet working on the fine tuning notebook, it’s just something every other agent were already implementing internally
