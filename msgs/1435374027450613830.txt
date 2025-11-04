@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T21:03:56.104Z
+
+https://magazine.sebastianraschka.com/p/beyond-standard-llms
