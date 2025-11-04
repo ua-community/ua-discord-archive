@@ -1,0 +1,7 @@
+UserId: 818302433196638208
+Username: (user)
+Time: 2025-11-04T21:22:52.946Z
+
+I really appreciated this point they wrote about
+
+>  I never really saw programming as "controlling" the devices I found myself tinkering with; it felt, to me, more like a relationship. If I could make friends with this digital construct, learn its languages and what it expected from me, I could be rewarded with almost limitless possibility to create
