@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T14:58:16.798Z
+
+Gonna use https://www.claude.com/blog/skills for agent memory, tiles would be a local memory model, a proxy between external agents and the user agent
