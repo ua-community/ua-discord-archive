@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T14:30:35.765Z
+
+With Tiles we have Obsidian markdown format supported memory folder and soon next month will have Iroh built in for memory sync across devices
