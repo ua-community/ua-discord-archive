@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-04T03:10:57.988Z
+
+it's not really content-addressing if there's only one location and it's in the address. IPFS refocusing on HTTP transport has resulted in some pokes at balancing these trade-offs, iirc calling "location hints". kinda like "i've seen it here or got it here so maybe it's here but fallback to {DHT, IPNI} if not".
