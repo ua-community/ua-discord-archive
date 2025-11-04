@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-04T18:45:48.706Z
+
+so any rpc that does not work well with web clients is a poor protocol by definition
