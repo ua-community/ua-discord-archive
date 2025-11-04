@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-04T15:25:37.797Z
+
+doesnt it also need some native encoding part that is not really possible to compile?
