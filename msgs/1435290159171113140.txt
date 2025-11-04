@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-04T15:30:40.348Z
+
+Maybe direct socket and grpc stack compiler in wasm might be way to go
