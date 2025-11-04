@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T04:18:09.693Z
+
+AT Proto doesn't work this way, but DID migration would be more possible if it did.
