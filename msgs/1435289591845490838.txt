@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-04T15:28:25.087Z
+
+All these great things the browser already has you have to find a way to do again in js layer
