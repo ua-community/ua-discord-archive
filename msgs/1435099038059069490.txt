@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T02:51:13.524Z
+
+This is a tradeoff that needs more study
