@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-04T03:11:59.329Z
+
+i haven't really looked at Veilid after the announcement. are people using it for stuff?
