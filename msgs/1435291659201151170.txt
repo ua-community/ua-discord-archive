@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-04T15:36:37.983Z
+
+cloudflare is facing similar isues as google with capnp and is moving a few things to capnweb, but not sure how the usecase  and interop split will turn out
