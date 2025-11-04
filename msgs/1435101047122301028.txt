@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T02:59:12.522Z
+
+User A's reply-reply references B's reply references A's OP. User A wants to change DID, but user B is not present to give consent to update their half of the thread. B's reply referencing A, fails to update A's DID. A loses track of B's reply.
