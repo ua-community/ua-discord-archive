@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T02:37:27.804Z
+
+My takeaway: Be careful with how much depends on DIDs, that will need to be updated in the event of DID migration.
