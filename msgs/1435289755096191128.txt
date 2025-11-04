@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-04T15:29:04.009Z
+
+Preparing the first darc release built fully inside itself without cursor or external dev setup.  mostly reliability, massive performance improvements for everyday things like navigation and tab handling, history improvements as well as a ton of edge cases, bug fixes and user test feedback.    so no real new features but should be a big step closer to every day usabilty
