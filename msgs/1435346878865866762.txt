@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T19:16:03.377Z
+
+I feel like if it's not in the docs, it's merely a guidance
