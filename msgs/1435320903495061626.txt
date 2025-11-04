@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T17:32:50.366Z
+
+Yeah, this is a good quick resource: https://intuitionlabs.ai/articles/claude-skills-vs-mcp
