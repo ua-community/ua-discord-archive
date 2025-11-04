@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-04T15:26:59.610Z
+
+I did use the server socket stuff in chrome os which is I think the same but server rather than client and that was a pita as you just got raw bytes so had to implement http etc all over again
