@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T02:54:28.603Z
+
+Content based addressing, that includes the location of the content in the address, indeed means moving the content must change the address. That doesn't seem ideal.
