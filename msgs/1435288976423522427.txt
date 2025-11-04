@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-04T15:25:58.359Z
+
+Other than some basic tests like trying to connect to dev server port from IWA I haven’t done much with direct socket
