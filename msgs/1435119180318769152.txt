@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-04T04:11:15.813Z
+
+Okay, I have an idea. In my PDS, I have an address book mapping DIDs to indexes used in my repository records. When the records are queried, the address book is used to swap the indexes for DIDs. But when someone wants to change their DID, I only have to update the entry in the address book, and not all of my records.
