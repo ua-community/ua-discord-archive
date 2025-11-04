@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T10:21:35.473Z
+
+Ill be working on the consumer facing tiles CLI and menu app interface, and our Modelfile based API for model customization, while (user) is gonna work majorly on Sync/ATproto side of things
