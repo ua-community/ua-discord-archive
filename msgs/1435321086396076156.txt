@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-04T17:33:33.973Z
+
+https://simonwillison.net/2025/Oct/16/claude-skills/
