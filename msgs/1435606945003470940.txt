@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T12:29:27.976Z
+
+yeah, exactly my thought, all the red things were nearly identical on my list.     for darc, tabs are organized by tab group and tab groups by space and all of these are independent of windows or webview instances of these. so you can open spaces and tabs in multiple windows etc.
