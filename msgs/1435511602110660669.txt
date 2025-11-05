@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:10:36.459Z
+
+Demo superwebapp apis in established web app uis?
