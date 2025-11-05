@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T20:09:39.388Z
+
+I think that's what it takes to make a widget you can drop in and it just works with the right security and everything
