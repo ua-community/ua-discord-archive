@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-05T08:04:34.529Z
+
+To run WhatsApp there as an on prem thing
