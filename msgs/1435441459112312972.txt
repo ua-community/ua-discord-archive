@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T01:31:53.065Z
+
+Discord api is like when twitter api was open... take-away-able.
