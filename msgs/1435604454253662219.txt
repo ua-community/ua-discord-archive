@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T12:19:34.135Z
+
+My understanding is that it acts as a wrapper for integrating docker files into capnproto at a deep level so sandstorm can act as the identity layer across app grains and also bridge data between the platform and other app grains via powerboxes.
