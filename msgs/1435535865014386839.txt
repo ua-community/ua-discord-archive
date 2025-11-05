@@ -1,0 +1,6 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T07:47:01.186Z
+
+https://en.wikipedia.org/wiki/Object-capability_model
+> He analogized the ocap model with giving a valet the key to a car, without giving the right to car ownership.
