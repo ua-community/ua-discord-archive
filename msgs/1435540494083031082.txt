@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T08:05:24.842Z
+
+yeah exactly, you could make tabs if you choose to in a "view" (Peek's "features", for lack of a better name), but you're not tied to it like in contemporary browsers.
