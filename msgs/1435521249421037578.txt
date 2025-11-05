@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:48:56.557Z
+
+Yeah. That's where the croquet project tried to step back in and reintro the smalltalk lineage through squeak like 20 years ago.
