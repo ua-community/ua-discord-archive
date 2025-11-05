@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T12:01:24.125Z
+
+I'd like to hear more. Also, I wonder if there's enough in workerd there to build an adapter for the sandstorm package format to like... make a sandstorm upgrade path. Reinvigorate it with updated tooling. I've been hoping to find someone familiar enough with it to answer that question.
