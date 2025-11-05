@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:45:04.384Z
+
+I think the main thing is usually systems end up with two layers and system and the app layer but the number of people who get to play in system layer is very limited
