@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:35:00.787Z
+
+Anyways, I hope I'm giving you demo ideas that don't involve building from scratch.
