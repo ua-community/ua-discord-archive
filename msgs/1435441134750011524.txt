@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T01:30:35.731Z
+
+they already are, stored in markdown files by day: https://github.com/ua-community/ua-discord-archive/tree/main/urls
