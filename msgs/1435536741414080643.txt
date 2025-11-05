@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-05T07:50:30.136Z
+
+I wonder what if discord had a slack like app platform built in, I think that’s where xenon/DARC is heading to
