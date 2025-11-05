@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T03:28:23.698Z
+
+The Anytype folks are great, hung out w/ them a bunch since the early days... but they just won't web. At least they finally open sourced it IIRC.
