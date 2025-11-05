@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:46:49.752Z
+
+I’m trying to write up this article to explain the missing layer and one of the things I found was lisp machines and alto / smalltalk
