@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T08:17:05.783Z
+
+I've just been calling them pages i guess? "Views" operate on pages, which can be live or suspended, and also where you can make the organizing tools that (user) mentioned. I've got ideas for "hooks" as well, a la the gif.
