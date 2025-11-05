@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T10:28:04.022Z
+
+I think that was just one idea then he pivots to idea our runtime and dev env should be one and the same
