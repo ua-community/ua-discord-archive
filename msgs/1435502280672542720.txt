@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T05:33:34.055Z
+
+ok so a real downside is specific to using forum channel for *links*: links in forum post titles are not clickable.
