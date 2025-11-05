@@ -1,0 +1,8 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T05:36:10.272Z
+
+so the UX is all kinda blech choices:
+- put the URL in the title, but anyone needs to copypaste it to load it somewhere
+- put the URL in the title and the comment (visual meh)
+- put a summary in the title and the URL in the comment (have to click through to get to the URL, ugh)
