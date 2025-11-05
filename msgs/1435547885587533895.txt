@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T08:34:47.114Z
+
+It probably makes ocaps the optimal way to implement liquid democracy
