@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T10:26:09.228Z
+
+i do not 100% understand the relationship of what he says to stack frames, could you explain
