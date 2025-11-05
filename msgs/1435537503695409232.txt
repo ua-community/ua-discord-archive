@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T07:53:31.878Z
+
+And the rule of only one mutable borrow at a time feels like agency delegation
