@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T14:19:12.612Z
+
+the old curse of missing killer app 😄 you alwayw say docker, but sandstorrm developed in  parallel and did not use docker
