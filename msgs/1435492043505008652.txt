@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T04:52:53.324Z
+
+Discord UI is a hot mess. are you saying that it is like a channel with sub channels? (like autothreading?)
