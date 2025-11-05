@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T11:58:35.684Z
+
+the spidermonkey one is quite fast. there are actually at least two ones based on spidermonkey, one internal to bloomberg. but they only do the wintercg parts. what im atlking about is the sandstorm dna parts that are only specific to workerd and not part of wintercg
