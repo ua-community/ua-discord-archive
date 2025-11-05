@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T08:19:07.878Z
+
+Starting w/ a baseline understanding of 1) other systems and 2) our community needs seemed good.
