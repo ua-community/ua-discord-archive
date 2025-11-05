@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T09:53:39.777Z
+
+there is a git sync that i use all the time, so its versioned and viewable on github, for most things its good enough
