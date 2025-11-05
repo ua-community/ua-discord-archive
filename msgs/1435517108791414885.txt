@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:32:29.354Z
+
+(user) Would websites be able to plug into apis introduced by the parent webapp? Kinda like the superwebapp is also an extension polyfilling webapis except custom to that enclosing app?
