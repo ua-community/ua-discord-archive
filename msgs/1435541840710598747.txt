@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T08:10:45.903Z
+
+I feel like what I really want, to solve my too many tabs problem, is two browser histories, one having every site I accessed and another having every site I starred or pinned along the way
