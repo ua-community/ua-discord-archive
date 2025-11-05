@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:39:43.106Z
+
+I mean the earlier discussion that Dietrich was having re what tool to use for collecting the extensibility notes
