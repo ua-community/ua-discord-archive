@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T20:08:55.107Z
+
+I've been thinking a lot about components with ocaps
