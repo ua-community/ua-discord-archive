@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:05:49.894Z
+
+Anyways, no one talks about matrix as a general social protocol, despite having some interesting primitives.
