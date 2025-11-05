@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:36:56.150Z
+
+Nextcloud could be interesting as an IWA that could also home a proto-Server User Agent.
