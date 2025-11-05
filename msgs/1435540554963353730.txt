@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T08:05:39.357Z
+
+disconnecting tabs in the interaction model is the key part.
