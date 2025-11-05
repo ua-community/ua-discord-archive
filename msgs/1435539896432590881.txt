@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T08:03:02.351Z
+
+Curious on (user) view on this.. going over the red things i think how tabs work fixes a bunch of the issues my disconnecting the list datastructure from the window instance
