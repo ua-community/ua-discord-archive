@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T14:09:57.259Z
+
+wouldnt you say the goal of extension workstream is to make an abstraction and then have possibly shared modules between darc and peek? also we are still sometimes thinking about xenon being iwa independent and having compat layer to electron and also firefox, so in that world peek could run on xenon one day
