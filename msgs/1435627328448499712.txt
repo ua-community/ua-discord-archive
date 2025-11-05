@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T13:50:27.768Z
+
+this is how the darc sidebar will eventually work. im still getting the details right so comments like this are super helpful.    the current idea is a slight evolution of zen/arc way to think.   the sidebar is an infinite list of tabs, if you open a tab it pops on top and you can just forget about things that are pushed lower and become irrelevant. if you find something relevant you can bump it to the top or move a tab more to the top or  if its super relevant you move it above the new tab fold, where things are more permanent and don't get pushed away by any new tab anymore, you work in the middle, using the tabs from above that are important or tabs from below that are timely.  this is the fundamental workflow logic of google inbox, arc and also pivotal tracker. once it clicks this changes most productivity software ui thinking
