@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T12:07:27.488Z
+
+oh no it does not go that far. just the dna and lots of architecture is there, but you would have to build all the real implementations from scratch
