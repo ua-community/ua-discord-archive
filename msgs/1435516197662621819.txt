@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:28:52.124Z
+
+The social layer there would be  activitypub based with social discovery tied to each wordpress blog's custom sql server and some realtime presence. Collaborative block editing of any web page in the tabs.
