@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T07:17:22.618Z
+
+I'll share more later. It's server sided tech with ocaps and deploying packaged webapps in containers phone os style.
