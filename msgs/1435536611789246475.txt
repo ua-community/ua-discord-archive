@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T07:49:59.231Z
+
+you post a link to the forum channel by creating new post. someone looking at the list of posts cannot click the link posted in the links forum without first clicking through *into* the post.
