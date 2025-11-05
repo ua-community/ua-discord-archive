@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T14:48:47.633Z
+
+the thing im not sure about is what factor security played, eg. was it possible to reason about what a piece of code can exactly do? were there concepts for combining the power with the security of capabilities?
