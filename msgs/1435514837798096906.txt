@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:23:27.907Z
+
+I wonder how the new Wordpress backend UI is going to work. If it still has a sidebar, it could be a browser and the interactivity api could be extended to all web pages. Essentially extending all web pages you go to with the WordPress block editor. And so if you browse the web and have an automated way to find wordpress backings, you can view that web page with the WordPress edits. Superwebapp mediated composability in the style (user) is into.
