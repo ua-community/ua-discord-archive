@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T04:56:14.194Z
+
+i found out the hard way that Obsidian's "export as PDF" doesn't compress any images.
