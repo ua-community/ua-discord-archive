@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T07:29:24.725Z
+
+clip (made on web version), the fact i could share timestamp on native app on ios is actually illustrative of the problem you have when the system and app layer isnt mutable. no way to fix it. https://www.youtube.com/clip/UgkxqBMBeR9tnE-xXG6RWdWm4xYFrZvVVtjX
