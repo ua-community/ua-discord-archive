@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T08:18:11.325Z
+
+But "views", "hooks" etc are all why I kicked this channel off and the research project. How those features are built, packaged, interact w/ each other, shared, modified, etc is all up in the air.
