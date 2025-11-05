@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T12:21:08.266Z
+
+Legacy apps as in what we think of when we think about self hosting were just one thing that could be ported into sandstorm. The true promise of the platform was never truly demonstrated which could be classified as native sandstorm apps.
