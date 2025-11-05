@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:03:43.984Z
+
+Super user agents or super web apps whatever you call them is what we need.
