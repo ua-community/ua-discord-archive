@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T13:55:54.972Z
+
+well the big difference is that bookmarks are a separate thing and you get another tab you need to manage when opening a bookmark. a pinned tab always stays itself no matter if its open or not
