@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T03:26:38.472Z
+
+sorry to be That Guy, but I'd really like to use something that doesn't require downloading and installing a special app to view/edit. Anything that can be accessed via URL... Notion, Google, Hackmd, Github, MS Word... even Palantir probably has something web-based.
