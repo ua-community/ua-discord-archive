@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:37:50.837Z
+
+I would lean into editors/apps that work on files or resources exposed the parent super app. Getting back on topic I think discussion started with wish for some markdown editor
