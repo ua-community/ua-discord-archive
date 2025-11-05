@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T12:26:59.905Z
+
+100 % agree, but dont see fully how this is connected to tabs as a concept, you just mean a specifc way we implement them in browsers today?
