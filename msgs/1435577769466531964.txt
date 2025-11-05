@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T10:33:31.986Z
+
+Yeah I would go wider than saying you just need dev env but the reference to symbolics lisp machine suggests full mutability
