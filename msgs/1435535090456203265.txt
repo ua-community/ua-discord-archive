@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T07:43:56.517Z
+
+I think that was part of the vision. This was very bootstrappy. porting legacy webapps was a means to an ends.
