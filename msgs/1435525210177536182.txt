@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T07:04:40.875Z
+
+Could a Linux shell be stripped down and hooks for system controls be stuck into the browser? So settings can be a web app in the browser? I've been wondering this..
