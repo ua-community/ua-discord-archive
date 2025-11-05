@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T07:44:47.447Z
+
+Still wrapping my head around object capabilities in general
