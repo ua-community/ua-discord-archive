@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:52:17.444Z
+
+Contrast this with the talk by Scott I shared in which he shares his exp being lead at Android working on UX
