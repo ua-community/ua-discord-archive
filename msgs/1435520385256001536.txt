@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:45:30.524Z
+
+And worse that we have two system layers above the app layer and the app layer isn’t fully formed
