@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T12:11:47.620Z
+
+I think sandstorm apps would be one of my ideal protocol extensions for a Server User Agent. Let people install legacy style web apps on personal or collective/group user agents and have the capability-based apis attached to identities. Would also create fascinating relationships between identities. If an app like n8n or WordPress is hosted within my personal pds but others can log into it and use it.. there's a there there. Like my server user agent acting as a fiduciary for their personal data in my sandstorm app deployment.
