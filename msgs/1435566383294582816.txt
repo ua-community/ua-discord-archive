@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T09:48:17.311Z
+
+releasing currently just means reviewing everything since last release together, regression tests, bug fixes and merging to main.
