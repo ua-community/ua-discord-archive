@@ -1,0 +1,7 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T10:28:34.911Z
+
+Maybe cursor can be that (eg adding browser)
+
+But better to add dev env to open browser than adding browser to closed dev env
