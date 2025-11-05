@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T07:49:43.056Z
+
+In Rust it's all compile time checked, but the mental model is when you make a reference, the kind of access it has is defined with it for its lifetime
