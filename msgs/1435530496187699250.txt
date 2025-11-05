@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T07:25:41.158Z
+
+And how's THIS going?  And what kind of stuff is being envisioned with this approach? Like, Cloudflare Workers type stuff but generalized and platform agnostic?
