@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:09:59.875Z
+
+Hey. Wait a minute. Are there any open source apps with tab-like interfaces that could be hacked on to add tabs as a content type? Like... I don't know.. mattermost?
