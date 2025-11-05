@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-05T08:02:07.655Z
+
+Probably something related to their SwiftUI implementation of container and API bindings
