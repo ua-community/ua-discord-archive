@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T07:47:41.902Z
+
+Am I crazy, or are Rust's immutable and mutable borrows kinda like capabilities?
