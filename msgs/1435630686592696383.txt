@@ -1,0 +1,10 @@
+UserId: 80557523223973888
+Username: (user)
+Time: 2025-11-05T14:03:48.412Z
+
+Keeping the notes here for now:
+https://github.com/icidasset/ua-extensions
+Can also do Tangled or Codeberg.
+Anything non big-tech is fine.
+
+Tried Notesnook/HackMD which are fine, but then I would have to put everything in a single note, or maintain links between notes.
