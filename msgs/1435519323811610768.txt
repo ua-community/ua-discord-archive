@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:41:17.456Z
+
+Am I on the right track though thinking about how to apply what you're building?
