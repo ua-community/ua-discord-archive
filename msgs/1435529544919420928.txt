@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-05T07:21:54.358Z
+
+They build WASI and the dev has been super frustrating by the team due to them not taking any feedback from external community
