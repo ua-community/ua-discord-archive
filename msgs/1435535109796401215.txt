@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T07:44:01.128Z
+
+Alright, gears are turning in my head reading about sandstorm and capnproto. I *was* planning to use WASI for the cross platform UI engine I'm building, but components with capabilities could be better, maybe. Much to ponder.
