@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T07:03:26.578Z
+
+A new window manager is useless when your world is in tabs
