@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T10:31:38.754Z
+
+ahh no i see he means runtime introspection of stack frames from the code
