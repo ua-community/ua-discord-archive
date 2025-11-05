@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T07:07:12.331Z
+
+Then deliver that as a virtual machine so the browser is a hypervisor that boots into the browser. Lol I don't know what I'm doing.
