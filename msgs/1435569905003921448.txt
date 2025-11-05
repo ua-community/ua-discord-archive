@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T10:02:16.952Z
+
+just saying : D main issue is still no threads and im not the one to wrestle with the data model to support that
