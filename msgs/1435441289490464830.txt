@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T01:31:12.624Z
+
+source in bot: https://github.com/autonome/phenomena/blob/main/index.js#L73
