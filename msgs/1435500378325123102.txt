@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T05:26:00.500Z
+
+hmm now if we flip from text channel to forum channel, do i need to update the bot or are posts just posts just posts
