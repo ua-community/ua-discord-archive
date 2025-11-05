@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T12:03:12.248Z
+
+Right now sandstorm is a capnproto database integrated tightly with a meteor app many versions old as the shell and powerbox for the packaged docker apps and extensions into/from them.
