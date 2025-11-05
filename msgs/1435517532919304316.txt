@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:34:10.474Z
+
+Like, if miro is a superwebapp, it can introduce an app dev framework that is itself for web pages to extend themselves as miro apps only if they find themselves inside a miro superapp?
