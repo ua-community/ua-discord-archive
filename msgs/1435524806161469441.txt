@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T07:03:04.550Z
+
+They are dead ends because apps live in browser tabs
