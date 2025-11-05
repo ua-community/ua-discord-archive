@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T07:14:20.336Z
+
+In chrome it’s the same base class under all of them
