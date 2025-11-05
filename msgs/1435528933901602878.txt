@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T07:19:28.680Z
+
+Kenton has said that if he created sandstorm today he'd use wasm instead of docker-based containers, and then capnweb instead of capnproto. There's a there there.
