@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T14:38:27.418Z
+
+added some comments. it would be so great if obsidian web was a thing, but shoudl be possible to make a vscode release with extensions and theme to be a bit better suited to this (maybe 75%).
