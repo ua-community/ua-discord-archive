@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T10:12:31.100Z
+
+probably not everyone knows this but the whole reason i started working on darc (still called photon back then) was that i had a startup that was beeper before beeper and facebook shut down the xmpp api, so i wanted to build a browser that just runs facebook, whatsapp etc. webapps but can extract your data with plugins into a central extendable messaging ui
