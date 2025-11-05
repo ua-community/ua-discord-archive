@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-05T07:20:13.417Z
+
+I was deep into WebAssembly last year, good standard but there’s a separate server sided work going on that’s not helping the case
