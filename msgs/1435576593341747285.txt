@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T10:28:51.576Z
+
+I’m not sure I’m smart enough to get the stack frame part
