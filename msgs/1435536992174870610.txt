@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-05T07:51:29.922Z
+
+To accomplish a goal, just design it as a bot and let bots handle everything over texts
