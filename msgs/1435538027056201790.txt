@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T07:55:36.657Z
+
+I like these things about Rust, very cool to see these principles in a broader context
