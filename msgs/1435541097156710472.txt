@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T08:07:48.626Z
+
+What do you call the thing you display in peek, assume its not a tab.. but its also not a window according to your diagram
