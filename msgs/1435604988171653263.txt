@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T12:21:41.431Z
+
+that was the biggest probelm with panorama apart from performance, resizing windows and diff screensizes destroys everythign and 2d org feels great for a brainstorm session eg canvas but its cognitive overload is bad when the ocntext shifts in a different direction
