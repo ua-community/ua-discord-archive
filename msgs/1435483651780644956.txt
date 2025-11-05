@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T04:19:32.581Z
+
+The great thing about of Obsidian is actually that it works with markdown files
