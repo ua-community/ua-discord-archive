@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T12:32:00.372Z
+
+you still dont enable the scrollable tabs flag and min width for tabs options in about:flags?
