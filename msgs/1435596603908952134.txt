@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T11:48:22.467Z
+
+pretty sure vercel got out of this and is doing their own more crappy thing now.
