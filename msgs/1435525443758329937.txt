@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T07:05:36.565Z
+
+I think we have more change uniting Unix like shells and web than desktop / native ui
