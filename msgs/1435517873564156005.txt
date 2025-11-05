@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-05T06:35:31.690Z
+
+The top level IWA is kinda its own context and isn’t allowed to load another IWA inside itself so currently not really . Would would need to load the app into the IWA shell
