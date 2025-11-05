@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T13:37:19.385Z
+
+also i have a plan to evolve the arc feature where the discord tab is a smart forlder that expands to just immedtiately has all the links as tabs
