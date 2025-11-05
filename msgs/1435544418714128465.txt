@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-05T08:21:00.547Z
+
+In spirit. Similar pattern. But no plans to do IWA in implementation at this point.
