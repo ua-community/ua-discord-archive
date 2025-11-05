@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-05T07:55:19.498Z
+
+I can see the promise now, it’s a good enough solution
