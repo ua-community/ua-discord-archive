@@ -1,0 +1,7 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:02:53.102Z
+
+You know, if we just made a lightweight social layer in browsers around browser tabs and tab groups, we could take out like 90% of enterprise everything apps. The sidebars are just tabs in tabs. Which, if we superapp things a la <#1378770757731094608>, all these tools could just become browsers chrome themselves.
+
+Yes, I know I just contradicted myself. But the hilarious thing is every single app like this wanting to become your browser shell and organize each other's tabs within itself.
