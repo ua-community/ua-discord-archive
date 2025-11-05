@@ -1,0 +1,5 @@
+UserId: 438753969594957824
+Username: (user)
+Time: 2025-11-05T04:19:54.579Z
+
+So you don't *need* it to view and edit files
