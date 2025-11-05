@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T11:56:49.540Z
+
+like all the stuff that you dont see on cloudflare workers is there. in the code
