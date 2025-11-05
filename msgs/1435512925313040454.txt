@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:15:51.935Z
+
+All the stupid llm apps have tab sidebars. One of them could be turned into browser chrome.
