@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-05T14:47:34.875Z
+
+the way i see it is that the vision of lisp and smalltalk of runtime mutation were beaten by open source + version control + build system hacks/hmr.  would it be cool and way more efficient to have the runtime capabilities for prototyping and debugging? sure, but if the system is closed source your modifications would break on the next update and if the system is open source, you can just edit the code and have the runtime being updated from there.
