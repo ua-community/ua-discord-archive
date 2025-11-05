@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T06:13:39.503Z
+
+Nextcloud could be extended to have a have a browsier navigation ux and to integrate its social layer into external web tabs.
