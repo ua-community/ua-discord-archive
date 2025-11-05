@@ -1,0 +1,5 @@
+UserId: 371006236310765588
+Username: (user)
+Time: 2025-11-05T11:57:11.023Z
+
+There was also a wasm based spidermonkey alternative built too I think, but I don't think it's as mature.
