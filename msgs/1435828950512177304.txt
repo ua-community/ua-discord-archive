@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-06T03:11:38.214Z
+
+But yeah, replicating MDN's reference for the Web Extensions API is not useful time spent. So finding a balance there is important.
