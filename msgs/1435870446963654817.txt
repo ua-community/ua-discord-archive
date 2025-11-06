@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-06T05:56:31.739Z
+
+Can ship a  https://portableapps.com/ like build for tiles CLI. Portable apps used to extract the whole executable in a post install like image.
