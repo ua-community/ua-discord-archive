@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-06T03:05:12.166Z
+
+speaking of research does a rough ontology make sense? eg just collecting all the things we talk about? eg it does not help much to look at permissions in general, there are runtime and installtime permission, context scopes, declared and implicit behaviour based ones etc. for extensions locations we have sidebars, menus, context menus etc. on the other hand we cannot list every capability of web extension, so has to be just complete enough that we know we talk about the same things and the concepts are on the right abstraction
