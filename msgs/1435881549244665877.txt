@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-06T06:40:38.729Z
+
+ok in dms and mentions it now has a helpful message
