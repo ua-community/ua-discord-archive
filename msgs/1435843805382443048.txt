@@ -1,0 +1,5 @@
+UserId: 109348175021625344
+Username: (user)
+Time: 2025-11-06T04:10:39.891Z
+
+I just messaged "help", expecting it to tell me what i could do
