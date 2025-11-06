@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-06T07:03:00.967Z
+
+Rn we’ve to work on onboarding in CLI and fixing the inference engine
