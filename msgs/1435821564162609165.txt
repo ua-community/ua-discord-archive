@@ -1,0 +1,5 @@
+UserId: 1164231497797079153
+Username: (user)
+Time: 2025-11-06T02:42:17.171Z
+
+WebView, BrowserView, Page, WebPage, WebApp could all be candidates
