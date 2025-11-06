@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-06T06:33:23.410Z
+
+the <id:customize> link doesn't work in DMs but works fine for mentions.
