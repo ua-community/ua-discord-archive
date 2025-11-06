@@ -1,0 +1,11 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-06T07:01:52.524Z
+
+(user) 
+
+Memory is stored as Obsidian markdown so you can see your memory and skills stored by tiles contained memory model as graphs in Obsidian UI
+
+Will make local integrations for Apple Notes (through a local mcp) and iCloud
+
+Tiles will soon use portable python environments so that you can boot your workspace completely through a flash drive or any other portable remote location
