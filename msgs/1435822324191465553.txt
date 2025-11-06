@@ -1,0 +1,5 @@
+UserId: 836577118485479424
+Username: (user)
+Time: 2025-11-06T02:45:18.376Z
+
+we called it webview so far and did not feel wrong in any context except in super technical one when we need to diff between native webview and cframes
