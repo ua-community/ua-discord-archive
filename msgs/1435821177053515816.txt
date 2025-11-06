@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-06T02:40:44.877Z
+
+maybe down the road. in the proposal, i put "high level requirements". i stopped there *specifically* to not solutionize implementation layer. prescription closes doors too early.
