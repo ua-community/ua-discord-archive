@@ -1,0 +1,5 @@
+UserId: 474999473706106891
+Username: (user)
+Time: 2025-11-06T08:08:09.446Z
+
+Found out QuickShare supports web links as well so I can share arbitrary data uploaded to their cloud anonymously
