@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-06T02:51:39.586Z
+
+called it research specifically for this reason also. interoperable extensibility is a possibility, sure. but not explicit goal. we might find in the research that we have very different and incompatible needs. and that's ok!
