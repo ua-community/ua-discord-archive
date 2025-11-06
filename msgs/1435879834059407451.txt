@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-06T06:33:49.797Z
+
+it's just the string `<id:customize>`, which is kinda odd but whatever
