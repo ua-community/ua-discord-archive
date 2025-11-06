@@ -1,0 +1,5 @@
+UserId: 364757227833131011
+Username: (user)
+Time: 2025-11-06T03:10:48.022Z
+
+A key piece is understanding where xe/darc and peek's needs are outside existing browser extensibility. A rough high level ontology could help answer that, as a baseline for the difference.
