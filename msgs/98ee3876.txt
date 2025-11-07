@@ -1,0 +1,1 @@
+there is no explanation why cids would need to be updated, you can model everything by index id without changing the record! if that was true you would need to update the primary key in in a db everytime you change an indexs primary key, how is this different
