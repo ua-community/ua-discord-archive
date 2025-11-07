@@ -1,0 +1,1 @@
+The CID is a hash of the content and if the content directly includes a DID, changing that DID changes the content and therefore requires recalculating the CID too
