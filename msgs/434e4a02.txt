@@ -1,0 +1,7 @@
+https://github.com/icidasset/ua-extensions/blob/main/systems/browser.md#use-cases--numbers
+Made some small notes on browser stats today + how people use extensions
+Couple interesting quotes from other research articles
+
+@silent (user) Thanks again for the PR, had some questions. Will merge afterwards 👍 
+
+I'll get into other systems next week and take a look at Peek + Darc + XE so I can start to get a sense of what questions to ask in the interviews we'll do at some point.
