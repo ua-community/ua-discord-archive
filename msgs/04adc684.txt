@@ -1,0 +1,1 @@
+thats what i mean, afik there is no root cert as part of the server that makes it special its like with self signed certs rather than ssl  chain. otherwise it would be really bad. or am i overlooking smthn
