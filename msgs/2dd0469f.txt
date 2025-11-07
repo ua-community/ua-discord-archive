@@ -1,0 +1,1 @@
+root of trust means you have to trust the main servers dns to access it, not that all things are signed by something that has to be signed by something the server controls thats a big difference in how hard it will be to make it federated
