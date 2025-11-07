@@ -1,0 +1,1 @@
+Maybe a forked PDS with the changes I want can still use the atproto lexicon to work with the relay
