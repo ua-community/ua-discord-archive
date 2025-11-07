@@ -1,0 +1,1 @@
+AT Proto apps could handle DIDs straightforwardly and not even know a migration happened
