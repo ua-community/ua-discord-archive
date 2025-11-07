@@ -1,0 +1,3 @@
+Without this mapping, if someone changed their DID, all your references to them break.
+
+I suppose what you are suggesting, though, is that your old DID could point to your current one via alsoKnownAs
