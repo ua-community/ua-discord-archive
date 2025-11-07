@@ -1,0 +1,1 @@
+still wish I could just have a personal identity server like I thought of last week or so, such that my DID is resolved by my own hardware
