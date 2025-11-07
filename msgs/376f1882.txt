@@ -1,0 +1,1 @@
+I do kinda feel like atproto should drop the DID language at this point, since they are retconning anyway. PDSes yes, DIDs no. It would also be less confusing to users to introduce one less new concept that isn't even really there.
