@@ -1,0 +1,1 @@
+ok but then why would the cids change the records always contain the did they were created under, if you publish a alternate did for you under the old did the pds can build the index mapping of them
