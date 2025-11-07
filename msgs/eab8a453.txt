@@ -1,0 +1,1 @@
+and in that way, you could migrate simply by making an identity in a different DID method and modifying your old DID document to have the alsoKnownAs
