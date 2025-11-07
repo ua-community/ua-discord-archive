@@ -1,0 +1,1 @@
+I suppose there are other places to introduce an abstraction over DIDs to assist in migrations. I just feel like the PDS would be the most natural place for it if it were possible, because then the abstraction would just work behind the scenes for all AT Proto apps and they wouldn't even have to know about it, necessarily.
