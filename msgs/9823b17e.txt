@@ -1,0 +1,1 @@
+thats why the cert chain vs server operational root of trust question is so important. if my interpretation was false you could not double submit the mutations to official server and to verifier and thus never get more guarantees than the fallback baseline
