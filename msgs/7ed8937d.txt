@@ -1,0 +1,1 @@
+The thing I actually care about most, is that my DID document is *always* modifiable by me, because that is what lets me move to another PDS host.
