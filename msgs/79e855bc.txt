@@ -1,0 +1,1 @@
+yeah but thats ok you can make a verifier server without trusting a “certificate” from the main plc server. imho thats a fine intermediate did.
