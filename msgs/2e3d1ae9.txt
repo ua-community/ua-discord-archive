@@ -1,0 +1,1 @@
+I wonder if it's still possible to take advantage of AT Proto's relay with a forked PDS and such
