@@ -1,0 +1,2 @@
+This is their guide for a simple atproto project
+https://atproto.com/guides/applications
