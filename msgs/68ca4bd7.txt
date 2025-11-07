@@ -1,0 +1,1 @@
+All records initially referencing an old DID, easily shifting to reference another, and from the outside the record is queried with the same CID like nothing happened
