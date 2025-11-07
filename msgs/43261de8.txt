@@ -1,0 +1,1 @@
+The mapping isn't just for your own DID, it's for other people's DIDs referenced in your PDS
