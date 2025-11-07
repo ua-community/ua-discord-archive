@@ -1,0 +1,1 @@
+now that i think about it, if i have my key and not the plc server cant i publish my mutations on my pds so trust in the plc server is only needed for initial discovery or when a pds is lost?
