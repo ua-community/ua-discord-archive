@@ -1,0 +1,1 @@
+I suppose there is one DID aspect they still have, namely the fact that it separates your identity from your data hosting by way of a document saying where your PDS is. However if PLC ever turned malicious, the worst thing they could do is actually to lock users in and disable the modification of DID documents, effectively recentralizing the entire thing.
