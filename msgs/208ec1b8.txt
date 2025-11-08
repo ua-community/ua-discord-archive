@@ -1,0 +1,9 @@
+Let me try to generalize the layers.
+1. ISA
+2. Programming language
+3. Operating system
+4. Networks
+5. Network stack
+6. Client agent
+7. Server agent
+8. User facing applications
