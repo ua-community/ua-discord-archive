@@ -1,0 +1,3 @@
+Presumably some version of DID plus a wallet. 
+
+If Bluesky wasn't stuck on their DID method, we'd be having discussions on how atproto could bootstrap people-centric and privacy preserving civic interfaces with government services.
