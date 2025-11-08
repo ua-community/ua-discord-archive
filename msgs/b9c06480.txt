@@ -1,0 +1,1 @@
+1-3 cover a single machine, 4-5 construct an internet, 6-7 handle protocols behind the scenes, and 8 is what the user actually uses
