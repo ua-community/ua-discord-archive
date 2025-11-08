@@ -1,0 +1,1 @@
+Trying to implement a dynamic qr app that opens up in camera as a sharing app on iPhone and uses on device models for vision starting with QRs
