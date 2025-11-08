@@ -1,0 +1,1 @@
+Bluesky tried to separate identity and data, but screwed up by writing identity directly into the data
