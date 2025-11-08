@@ -1,0 +1,10 @@
+Here are the layers, as I see them:
+0. RISC-V, open source ISA
+1. Rust, memory safe performant systems programming language
+2. RedoxOS, microkernel with capability based security model
+3. Plurality of physical network layers, with meshes and back hauls
+4. Reticulum, cryptography based network stack
+--- This is where it gets fuzzier because the ideal tech doesn't full exist yet ---
+5. AT Proto but with more identity sovereignty instead of just PLC
+6. UI engine with components, signals, and object capabilities
+7. Sociocratic software tools
