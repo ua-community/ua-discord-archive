@@ -1,0 +1,9 @@
+In contrast, the dominant stack today is:
+1. x86 or ARM
+2. C, C++
+3. Proprietary OSes for users, Linux for servers
+4. The OSI layers
+5. ISPs
+6. Browsers
+7. Cloud service providers
+8. Social media platforms
