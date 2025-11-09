@@ -1,0 +1,1 @@
+> the root of the issue is that ATProto is strongly designed around immutable DIDs. assuming that constraint, it's a pretty well designed system. mutability is provided for at other levels, eg switching PDSes, handles, etc. but if you disagree with that base assumption of immutable DIDs, then yes, the protocol as currently designed may not be for you
