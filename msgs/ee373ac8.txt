@@ -1,0 +1,1 @@
+I think also, the grandfather repo could have a policy like "if no one queries this record within the next year, drop it"
