@@ -1,0 +1,1 @@
+The new PDS system could retain a grandfather repository of the old records, checked if the new style repository turns a blank. If in the future a critical mass of people adopt the new PDS system, the grandfather repo can be dropped, because it's only there for those who haven't yet migrated.
