@@ -1,0 +1,1 @@
+Assuming they use verified credentials in their identity scheme.
