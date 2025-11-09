@@ -1,0 +1,1 @@
+i am thinking if its a good idea to use the extension api exclusively also for every internal feature and try breaking up dark completely into extensions. there is probably some prior knowledge about this from firefox dev veterans
