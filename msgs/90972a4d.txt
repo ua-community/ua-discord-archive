@@ -1,0 +1,1 @@
+Okay wait holdup, Bluesky could fix this. Fork the PDS with this abstraction I thought of, and assist everyone in migrating. As each user migrates to the new system, their old records would update to use the abstraction, and the migration would be the consent needed to make the change.
