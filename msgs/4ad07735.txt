@@ -1,0 +1,1 @@
+we can have extensions with advanced permissions that still have something like v2 features
