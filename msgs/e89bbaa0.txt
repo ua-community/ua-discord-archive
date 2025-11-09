@@ -1,0 +1,1 @@
+> In that case, I do not understand how PLC was ever considered a placeholder, because it doesn't make sense to have a placeholder for immutable DIDs
