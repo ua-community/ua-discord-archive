@@ -1,0 +1,1 @@
+Ooh ooh, another idea. Every time the grandfather repo is queried, it returns an additional blurb saying "the new version of that record is over here with this CID btw" so my PDS can move records from the grandfather repo incrementally
