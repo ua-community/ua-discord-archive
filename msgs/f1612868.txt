@@ -1,0 +1,1 @@
+(user) just learned electron has extension support, do you know any details how they made that work? js reimplemtation?
