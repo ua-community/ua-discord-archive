@@ -1,0 +1,2 @@
+I'm exploring AT Proto more and I was mistaken about AT URIs a little. I thought they contained CIDs, but they actually contain record keys.
+https://atproto.com/specs/record-key
