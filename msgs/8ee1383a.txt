@@ -1,0 +1,1 @@
+It should be possible to essentially migrate to the new style PDS building a new Merkle tree from scratch with the ID mapping in place
