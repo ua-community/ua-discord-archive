@@ -1,0 +1,1 @@
+I could see a world where about half of PDSes and labelers have adopted the ID mapping system and we have a compatible relay as well, and then a few people change their DIDs in a way the new system can handle, and everyone in the old system starts sweating when the links start breaking on their end
