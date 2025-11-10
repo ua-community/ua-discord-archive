@@ -1,0 +1,1 @@
+I'm gonna try and find someone for this. This issue is worth abandoning atproto for a fork or something.
