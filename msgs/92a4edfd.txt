@@ -1,0 +1,1 @@
+i mean its still open how much api surface is possible without the security and performance issues a lot of extensions have / had. maybe the proxy/permission/ delegation architecture i have in mind is enough to make it work. i just dont know but assume if it was that easy someone would have done it for other browsers
