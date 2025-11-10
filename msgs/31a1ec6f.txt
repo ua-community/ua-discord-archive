@@ -1,0 +1,1 @@
+hard lesson learned making software used by hundreds of millions of people: for the right feature, no amount of pain is too much.
