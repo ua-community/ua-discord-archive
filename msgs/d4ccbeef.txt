@@ -1,0 +1,1 @@
+If the AppView cache keeps records with AT URIs directly and they break in a DID migration, no biggie, just fetch the record with the AT URI again
