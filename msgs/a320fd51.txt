@@ -1,0 +1,1 @@
+I mean, in that case, you could have multiple DIDs in different methods all pointing at each other, but only one of them primary in AT Proto
