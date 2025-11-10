@@ -1,0 +1,3 @@
+planning to bring tiles to linux devices with tinygrad inference backend
+
+https://github.com/tinygrad/tinygrad
