@@ -1,0 +1,1 @@
+Another idea: double sign the migration event by both new and old DID methods
