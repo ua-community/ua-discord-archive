@@ -1,0 +1,1 @@
+https://github.com/autonome/phenomena is already set up to detect and harvest all links from all channels. It's a very small amount of code. You could probably add a hook in the link harvesting bit that checks for this channel, and then posts to the forum (and vice versa too, maybe?)
