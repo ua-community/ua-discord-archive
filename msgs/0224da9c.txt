@@ -1,0 +1,1 @@
+Also I'm wondering if a partial work around is possible within atproto, through rel=me style verifications. Only issue is getting the populace to sign into an app view that enables the cross verifications.
