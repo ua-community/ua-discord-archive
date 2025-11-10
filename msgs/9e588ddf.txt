@@ -1,0 +1,1 @@
+Ideally, a secure DID update event could be verified to definitely originate from you, without strictly relying on your old DID still cooperating
