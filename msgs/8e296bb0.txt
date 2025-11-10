@@ -1,0 +1,1 @@
+Come to think of it, the event would firstly come from your client, which authenticates you with OAuth, so maybe something from that would work?
