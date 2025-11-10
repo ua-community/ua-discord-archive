@@ -1,0 +1,2 @@
+The most common kind being the TID
+https://atproto.com/specs/tid
