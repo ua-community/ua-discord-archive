@@ -1,0 +1,1 @@
+Maybe it wouldn't work that way for did:web, but idk much about did:web
