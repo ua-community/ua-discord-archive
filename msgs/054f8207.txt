@@ -1,0 +1,1 @@
+just want first party/natively integrated/better designed runtimes on indiivudal platforms with Modelfile as the abstraction
