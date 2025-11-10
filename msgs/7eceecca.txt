@@ -1,0 +1,4 @@
+and then
+> I think I could get people to use it. The DID migration part, however, won't really work until enough people use it, at least insofar as being part of AT Proto's ecosystem.
+> Or more precisely, it would, but everyone who didn't migrate PDSes to it would be hosed by a DID migration, so it would be better to wait for critical mass. 
+> That said, I designed it to shift records over to the new system incrementally as more people make the migration. So, that part would be measurable even without DID migrations occurring.
