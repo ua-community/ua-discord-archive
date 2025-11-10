@@ -1,0 +1,2 @@
+Someone came in with this take
+> You have to have some immutable identity somewhere, otherwise it's not an identity (instead it's a group of aliases, which themselves can alias in the did:web case)
