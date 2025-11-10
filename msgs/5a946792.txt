@@ -1,0 +1,3 @@
+Sam Maddock did the bulk of the work, cf his repo here and the Electron core patches:
+- https://github.com/samuelmaddock/electron-browser-shell
+- https://bsky.app/profile/burrito.space/post/3lgzlil3oh22q
