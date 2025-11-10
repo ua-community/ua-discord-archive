@@ -1,0 +1,1 @@
+The CIDs are actually just a merkle tree detail, which I missed, and they are expected to change all the time when records update anyway.
