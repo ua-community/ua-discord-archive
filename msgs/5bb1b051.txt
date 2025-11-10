@@ -1,0 +1,1 @@
+Naively, your old DID could simply redirect to your new one
