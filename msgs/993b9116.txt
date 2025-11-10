@@ -1,0 +1,1 @@
+I mean, I'm not opening up shell commands to dangerous code from websites. But I'm more interested in learning from capability maximalization because I've lived in capability prison for too long.
