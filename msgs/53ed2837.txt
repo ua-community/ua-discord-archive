@@ -1,0 +1,1 @@
+PDS migration is well defined: Your DID document points to a different PDS
