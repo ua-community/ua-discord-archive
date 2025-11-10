@@ -1,0 +1,1 @@
+The web extension api and lifecycle is maybe fine to emulate, or even use directly. (user)'s done this in Agregore so probably has thoughts on whether it's been easy/hard, and meets their extensibility needs or not.
