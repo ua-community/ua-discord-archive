@@ -1,0 +1,1 @@
+I feel like zero trust is a bit extreme, I would go for revokable trust, and my problem is I cannot revoke trust from PLC
