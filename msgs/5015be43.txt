@@ -1,0 +1,1 @@
+but in theory, labelers don't need Bluesky's blessing either, and there's no technical barrier to making another relay with the modifications we want
