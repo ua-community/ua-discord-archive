@@ -1,0 +1,1 @@
+I think the DID updates don't even need your old DID method to cooperate, come to think of it. Your old DID method has to sign them, but after that, it could disappear and everyone else would still be able to cryptographically verify that the update did come from it.
