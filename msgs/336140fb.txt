@@ -1,0 +1,1 @@
+we already have implemnted a subset of Modelfile syntax here: https://github.com/tilesprivacy/tilekit
