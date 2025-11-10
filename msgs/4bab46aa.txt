@@ -1,0 +1,1 @@
+If the event wasn't secure, I could just claim your DID migrated so now everyone's ID map points to a DID I control, which I could then point to a PDS I control, and wreak havoc on you
