@@ -1,0 +1,1 @@
+i dont understand, sorry for my long phoneline. my motivation is not to make less work for me but to make it harder for x percent of users to have a bad experiemce. also to make them possibly create extension x with an agent that uses the secure and performant apis instead of legacy extension y that uses the slow and inseucre api
