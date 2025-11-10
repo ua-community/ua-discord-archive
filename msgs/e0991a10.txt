@@ -1,0 +1,1 @@
+so maybe DID migration can assume a constant PDS, and require authentication from that
