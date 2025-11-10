@@ -1,0 +1,1 @@
+For full ecosystem adoption, labelers would also need an internal mapping system, and the relay would also benefit from it because the relay holds on to records that could reference other users for a little while
