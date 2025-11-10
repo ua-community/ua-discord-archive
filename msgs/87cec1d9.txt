@@ -1,0 +1,5 @@
+Non-browser and maybe Peek specific is fine too:
+- window manager views (bad name, but what Peek "features" are now)
+- commands (eg Quicksilver, Raycast, Ubiquity style)
+- transformers
+- pipelines/chains
