@@ -1,0 +1,1 @@
+If the ecosystem around Bluesky started doing this, then Bluesky would be forced to either also adopt the id mapping system, or get left behind
