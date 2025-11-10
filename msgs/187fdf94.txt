@@ -1,0 +1,2 @@
+huh, this isn't fully finalized
+https://atproto.com/specs/oauth#client-id-metadata-document
