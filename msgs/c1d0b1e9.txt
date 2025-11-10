@@ -1,0 +1,1 @@
+What would be really cool, is if late adopters could switch to the new system, and once there, get their old connections back with DID updates from a DID update archive
