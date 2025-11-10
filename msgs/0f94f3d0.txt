@@ -1,0 +1,1 @@
+Now I'm thinking Bluesky could easily update their PDS implementation behind the scenes to add this mapping, and if they wanted to be careful about user consent, ask the user with a popup if they want to use it for DID migration purposes. If the user says yes, they then reconstruct the Merkle tree from scratch and populate the ID map.
