@@ -1,0 +1,1 @@
+but I think AppViews are basically just aggregators caching records from the PDSes, so it's not terribly important
