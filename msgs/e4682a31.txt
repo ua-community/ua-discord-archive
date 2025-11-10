@@ -1,0 +1,4 @@
+i mean:
+- the long tail of extensibility needs is extreme
+- some % of people using your software will *inevitably* blame you, not themselves
+- so design *for* those two things
