@@ -1,0 +1,1 @@
+Something that the extensibility discussion twigs very nicely is "running my code vs others code". We're talking about a lot of different flavors here, if you look at the extensibility vectors I listed up the stream a bit. Each has a different level of risk.
