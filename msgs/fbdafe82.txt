@@ -1,0 +1,1 @@
+PDS migration requires changing your DID document, which requires authentication specific to the DID method
