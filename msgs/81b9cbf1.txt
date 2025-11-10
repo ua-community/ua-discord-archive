@@ -1,0 +1,1 @@
+DID migration is only semi-defined: Every reference to your old DID is replaced with a reference to your new one
