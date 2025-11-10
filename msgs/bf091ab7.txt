@@ -1,0 +1,1 @@
+Firefox went this direction for a time! IIRC still does a few this way but generally move things to Rust/C++ for performance. The right question is about whether this pattern makes sense for your specific extensibility goals, and try to ask it without bringing The Browser Web Extension API baggage along for the ride.
