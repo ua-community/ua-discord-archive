@@ -1,0 +1,1 @@
+I think ideally, there would always be some sort of signing associated with your DID, so your DID update event could be signed and therefore originate from you; I just am not sure all DID methods will have that
