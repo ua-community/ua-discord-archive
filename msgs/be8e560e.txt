@@ -1,0 +1,1 @@
+Identity should be small and close, data should be large and can be delegated
