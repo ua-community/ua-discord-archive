@@ -1,0 +1,1 @@
+not that OAuth is particularly bad, but shouldn't further development of authentication tech be allowed>
