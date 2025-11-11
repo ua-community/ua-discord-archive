@@ -1,0 +1,1 @@
+One assumes in a few years there will be a glut of GPUs in data centers
