@@ -1,0 +1,1 @@
+Also even though I like batching changes into commits, I kinda want them pushed first and batched second sometimes
