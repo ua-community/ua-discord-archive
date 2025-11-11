@@ -1,0 +1,1 @@
+I wonder if AT Proto PDSes could support merges, since they use Merkel trees like git
