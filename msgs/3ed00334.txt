@@ -1,0 +1,1 @@
+a proper auth standard should handle as many auth methods as you can throw at it
