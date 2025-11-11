@@ -1,0 +1,1 @@
+As time passes, I really feel like the personal identity server should be foundational to digital identity. It could do any DID method where the ID is a network address, essentially. So did:onion and did:rns would both work, for instance.
