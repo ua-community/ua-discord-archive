@@ -1,0 +1,1 @@
+(side note, I just realized the reticulum network stack has net neutrality inherently because addresses aren't tied to devices or locations)
