@@ -1,0 +1,1 @@
+And with that in place, the source of truth for your current DID is your PDS just as much as the source of truth for your PDS is your DID.
