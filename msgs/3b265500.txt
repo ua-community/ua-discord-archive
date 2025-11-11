@@ -1,0 +1,1 @@
+To be a DID method, it has to be network accessible from the outside
