@@ -1,0 +1,1 @@
+Even did:web with DNS pointing to your personal identity server would work
