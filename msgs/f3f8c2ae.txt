@@ -1,0 +1,1 @@
+But Mac can emulate CUDA ig, there have been some recent news/reports regarding CUDA support on MLX
