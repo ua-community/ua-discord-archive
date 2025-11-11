@@ -1,0 +1,1 @@
+We should be able to adapt some git concepts shouldn't we.
