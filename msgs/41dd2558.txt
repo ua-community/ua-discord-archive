@@ -1,0 +1,1 @@
+interestingly the qr based ticket that irctc has just plain text in its data for travel reservations, it opens this text in the browser search bar, i think thats what tiles share sheetui/ux is gonna be, a snacpaht like user agent with privacy adn on device guaranttes for usage/how memory is shard between diff agents you interact with
