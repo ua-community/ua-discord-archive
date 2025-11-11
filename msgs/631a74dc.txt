@@ -1,0 +1,1 @@
+Git requires a common origin to merge, though
