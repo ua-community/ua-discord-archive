@@ -1,0 +1,1 @@
+https://github.com/mozilla/id-specs/blob/prod/browserid/index.md
