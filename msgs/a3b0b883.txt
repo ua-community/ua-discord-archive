@@ -1,0 +1,1 @@
+Current thoughts: Like most address books, every PDS identity map should have a self entry that resolves to your active DID. This way, DID resolves to PDS and PDS resolves to identity; bidirectional resolution.
