@@ -1,0 +1,1 @@
+My biggest problem with github is it wrapped a protocol well suited for distributed collaboration with ACL governance
