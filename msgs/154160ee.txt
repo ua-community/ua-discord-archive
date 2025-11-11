@@ -1,0 +1,1 @@
+And then, hopefully, a DID migration can be done with a change to that piece of data in your PDS which gets published with every other data change
