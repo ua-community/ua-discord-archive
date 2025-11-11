@@ -1,0 +1,1 @@
+When I started trying to figure out all this stuff, identity was the clear starting point. Firefox was SO CLOSE to having an in-browser identity solution 15ish years ago.
