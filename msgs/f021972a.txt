@@ -1,0 +1,1 @@
+its ok but limited and a layer on top of cdp on chrome so hard to make an argument for it unless cross browser automation is needed
