@@ -1,0 +1,1 @@
+I like extensions! A bunch of Agregore's core functionality is via extensions actually. (renderer, history tracker). I'm not sure how to make it easier for users to author new extensions yet but that's on my TODO. I think adding greasemonkey style scripts would also be fun.
