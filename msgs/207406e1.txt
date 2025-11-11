@@ -1,0 +1,1 @@
+I've always wanted a git workflow where I can just open a repo into an IDE, do stuff, hit save, and have it automatically save into a cloned repo without forking or cloning as an explicit preliminary step
