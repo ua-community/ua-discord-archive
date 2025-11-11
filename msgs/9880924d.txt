@@ -1,0 +1,1 @@
+Whether self-hosted, self-certifying, or remote with a custodian or whatever. One place for management.
