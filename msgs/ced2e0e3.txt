@@ -1,0 +1,1 @@
+Like, contentScripts is a superset of what userScripts can do.
