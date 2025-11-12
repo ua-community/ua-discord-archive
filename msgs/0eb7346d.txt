@@ -1,0 +1,1 @@
+Yeah I think it could be implemented over top of content scripts and executing js in a world
