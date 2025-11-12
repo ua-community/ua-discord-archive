@@ -1,0 +1,1 @@
+I looked at the new Web Extension UserScripts API (supported in Firefox and Chrome) b/c content scripts are a core feature of Peek. Not much surface area to emulate in Electron, whether using Sam's extension framework or not, which is nice.
