@@ -1,0 +1,4 @@
+not yet, looks decent:
+- looks like you can generate scripts on the fly, and get return data from execution, which is core bit
+- doesn't look like you can get continuous data (eg multiple returns) from single execution, so that model is not flexible, but probably fine
+- you can inject custom apis, but then you're narrowing the field of runnable userscripts if you depend on that (authors have to target *your* runtime), so that's something to avoid
