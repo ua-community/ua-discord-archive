@@ -1,0 +1,1 @@
+User scripts are just content scripts with some comments about which domains to run them on, right?
