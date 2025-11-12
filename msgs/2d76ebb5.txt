@@ -1,0 +1,1 @@
+Shouldn't be too hard to add to https://github.com/AgregoreWeb/electron-extended-WebExtensions Or even add user scripts as an extension
