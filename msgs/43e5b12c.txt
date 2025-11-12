@@ -1,0 +1,1 @@
+yes, would have to implement a shim for the userscript api, and then add that to this.
