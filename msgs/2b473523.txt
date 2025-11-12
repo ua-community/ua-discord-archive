@@ -1,0 +1,1 @@
+Designed as a native API to be used by user script manager extensions. Came out of the W3C WebExtensions CG.
