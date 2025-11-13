@@ -1,0 +1,1 @@
+Ah, yes, it's designed to be the interoperable browser-vendor-reviewed-and-agreed-upon underlying API that the various flavors of userScript managers build on.
