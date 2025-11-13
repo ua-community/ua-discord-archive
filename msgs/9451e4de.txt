@@ -1,0 +1,1 @@
+The only thing it doesn't seem to specify is finding the server with the DID document with just the DID
