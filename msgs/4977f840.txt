@@ -1,0 +1,9 @@
+Wishlist of status quo extensibility vectors for Peek at this point:
+
+- browser extensions (limited, mostly get a couple popular ones working)
+- opensearch
+- quicksearch
+- userscripts
+- language packs
+- some kind of theming
+- bookmarklets
