@@ -1,0 +1,3 @@
+>I'm moving from did:web:foo.com to did:rns:address
+>did:rns:address is that still you?
+>yeah, here's a thing I signed so you can confirm
