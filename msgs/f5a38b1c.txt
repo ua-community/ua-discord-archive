@@ -1,0 +1,6 @@
+Non-browser-status-quo extensibility vectors for Peek:
+
+- window manager views (bad name, but what Peek "features" are now)
+- commands (eg Quicksilver, Raycast, Ubiquity style)
+- transformers
+- pipelines/chains
