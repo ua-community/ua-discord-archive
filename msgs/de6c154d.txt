@@ -1,0 +1,1 @@
+e.g. migrating from did:web to did:onion or did:rns
