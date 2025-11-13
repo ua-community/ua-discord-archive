@@ -1,0 +1,1 @@
+It occurred to me that DID migration that takes the form of putting a personal identity server on another network protocol is fairly easy, because all it has to do is confirm that it's the same server
