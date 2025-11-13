@@ -1,0 +1,1 @@
+I wish JS Realms would land already. They've been teasing me with possibilities for so long. https://github.com/tc39/proposal-shadowrealm
