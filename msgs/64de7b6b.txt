@@ -1,0 +1,1 @@
+Hrm, or rather: contentScripts have default access to Web Extension APIs, and userScripts can be executed in worlds customized to their particular userScript manager flavour.
