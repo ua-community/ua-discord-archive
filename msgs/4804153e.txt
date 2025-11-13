@@ -1,0 +1,1 @@
+i've always appreciated their approach of "i wanted to do use-case X, so i created a new programming language *and* and IDE, so anyways..."
