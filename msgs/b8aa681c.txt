@@ -1,0 +1,1 @@
+been using Jan w/ their model built on Qwen3-4B-thinking and it's decent. i don't have it plugged into anything, just using through their front-end for misc well-bookended tasks here and there.
