@@ -1,0 +1,1 @@
+I think mini apps aren’t quite the right pattern. There are situations where you need a full app.
