@@ -1,0 +1,1 @@
+And mostly you need action buttons and agentic delegation of permissions.
