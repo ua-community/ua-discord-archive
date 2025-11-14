@@ -1,0 +1,1 @@
+As it stores memory and skills folders on your device as you use the LLM
