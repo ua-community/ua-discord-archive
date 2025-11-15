@@ -1,0 +1,1 @@
+And I was noodling on how to "publish" lexicons into an HTML surface to a non-HTTP strata, for person-to-person experiences, and that kinda sounds like "embed" too?
