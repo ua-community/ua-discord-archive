@@ -1,0 +1,1 @@
+For the collaboration layer of Peek, I've been assuming lexicons as the "we're playing legos together" ingredients of a "web workbench".
