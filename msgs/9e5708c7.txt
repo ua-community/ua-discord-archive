@@ -1,0 +1,1 @@
+Yep. Work hasn’t started in earnest. Likely first work will be Leaflet + a couple. Also working on a bsky front end community experimentation fork so this can be experimented with at scale.
