@@ -1,0 +1,1 @@
+its the best way to deploy something wuickly on a server that does not have cloudflare
