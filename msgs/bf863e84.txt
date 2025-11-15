@@ -1,0 +1,3 @@
+(user) I was wondering if we can make tiles as a discovery module integrating Tailscale/tsnet in Tiles itself for it to work with Exo
+
+https://github.com/exo-explore/exo
