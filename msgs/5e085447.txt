@@ -1,0 +1,1 @@
+Or "we are jamming" could look like a channel w/ lexicons passing to and for, and we each have our own resolvers/presenters for them.
