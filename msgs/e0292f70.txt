@@ -1,0 +1,1 @@
+I wonder if I can make an OpenWebUI integrated tiles browser application using xenon framework
