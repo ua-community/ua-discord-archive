@@ -1,0 +1,5 @@
+The person who made Glide is my new best friend. Interesting that it's Firefox-based.
+
+> At that point, I realised there was an opportunity to make a browser that's truly customisable at its core, with no restrictions on what you can accomplish. From customising the browser UI itself, to calling out to other tools—anything should be possible.
+
+https://blog.craigie.dev/introducing-glide/
