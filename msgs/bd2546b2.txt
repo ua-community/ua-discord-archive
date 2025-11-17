@@ -1,0 +1,1 @@
+I already noted how the spacing between the LEDs isn’t same width vs height. 8x32
