@@ -1,0 +1,1 @@
+Maybe 8x24 matrix with regular spacing gets you to same shape as their 8x32 one. 4 leds for each core, 2 per thread. Yup that works it’s basically 9x9 of 8x8 where you have nice regular spacing with the middle column as spacing. Add margin around the edge and you get 40cm cube. Do it one cube deep not two and you get 84x84x40 (whd) total size.
