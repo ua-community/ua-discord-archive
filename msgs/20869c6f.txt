@@ -1,0 +1,1 @@
+cdp being treated as first class interaction protocol also in the devtools ui itself is great. can get rid of some terminal tools to work with cdp now https://developer.chrome.com/blog/cdp-command-editor
