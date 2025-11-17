@@ -1,0 +1,1 @@
+ms teams wrapper trending on hn with 4k stars. https://github.com/IsmaelMartinez/teams-for-linux/tree/main/app worth going over in our list of things ppl want to change and improve on webapps
