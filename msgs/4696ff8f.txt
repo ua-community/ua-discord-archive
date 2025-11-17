@@ -1,0 +1,3 @@
+from hn. not sure i 100% understand  the rss and xslt argument. can someone explain what part of rss support really is needed in the browser? its not that any browser had usable rss readers or previews they were horrific and no one used them. anything else can be done in an extension as far as im aware of.
+
+rest of the article is pretty spot on. is the author in our discord? we should invite them
