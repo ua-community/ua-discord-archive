@@ -1,0 +1,1 @@
+my hypothesis is that the bulk of daily use-cases can be met this way.
