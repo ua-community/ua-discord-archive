@@ -1,0 +1,1 @@
+IPFS (for all its problems), operates on a "full copy on read" model. I like that aspect, since it provides the distribution (which the HTTP web is amazing at) *and* the agency, since I get to decide when I'm done w/ something, vs the publisher deciding. Trade-offs there too 🤷🏽‍♂️
