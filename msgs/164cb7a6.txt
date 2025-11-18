@@ -1,0 +1,1 @@
+i've been poking at getting "good enough" entity extraction, tabular data, etc from pages using only local micro-models and off-the-shelf non-ML tools to power the "metadata plugin panels" (for lack of good name) in Peek. https://bsky.app/profile/burrito.space/post/3m25ffeejpc2j
