@@ -1,0 +1,1 @@
+An easy example I use often is that a standards-compliant browser will obey a cache header that makes a page that is fully capable of working locally for me forever... stop working, without my consent.
