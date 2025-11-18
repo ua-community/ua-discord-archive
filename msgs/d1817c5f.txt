@@ -1,0 +1,1 @@
+good example! Curious if service workers can override this behavior?
