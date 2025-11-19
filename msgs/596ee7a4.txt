@@ -1,0 +1,1 @@
+we chatted w/ Jeffrey re some IPFS + Web Bundles experiments, interesting times. https://github.com/ipfs/in-web-browsers/issues/121
