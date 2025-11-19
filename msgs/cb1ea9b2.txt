@@ -1,0 +1,3 @@
+[ownership](https://www.inkandswitch.com/essay/local-first/#7-you-retain-ultimate-ownership-and-control) and [offline support](https://www.inkandswitch.com/essay/local-first/#3-the-network-is-optional) are different principles in local-first. ownership implies you can modify something offline, but just because you can modify it offline doesn't mean you own it. 
+
+At the last point in this slide points out, one litmus test for ownership is if the app you're using goes out of business/stops working can you still do meaningful things with your data? Are they able to revoke access to your data without your consent?
