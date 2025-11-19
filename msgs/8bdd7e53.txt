@@ -1,0 +1,1 @@
+I plan to separate that last toggle into 2 distinct ones (and put them in a settings submenu especially for the share sheet)
