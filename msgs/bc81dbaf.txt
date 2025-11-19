@@ -1,0 +1,1 @@
+Something I thought about while ago is how the Honey scam shouldn't have been possible if client user agents were properly secure
