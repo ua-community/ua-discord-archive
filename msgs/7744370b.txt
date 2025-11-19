@@ -1,0 +1,1 @@
+Most obviously, an extension should not be able to replace a link you clicked on with another
