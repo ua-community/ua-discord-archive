@@ -1,0 +1,1 @@
+people conflate sync engines with local-first, but sync engines don't care about the principles that meaningfully challenge power dynamics of the tech industry
