@@ -1,0 +1,1 @@
+Not sure I follow how sync engines solve link rot? and from what I've seen are explicitly designed against the long now and data ownership?
