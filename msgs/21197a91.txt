@@ -1,0 +1,1 @@
+my guess is over time people think local-first just means a caching layer
