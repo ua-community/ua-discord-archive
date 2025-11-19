@@ -1,0 +1,1 @@
+the irony being local-first was originally about challenging the lock-in and dependence in of the cloud
