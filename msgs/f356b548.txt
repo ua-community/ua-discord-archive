@@ -1,0 +1,1 @@
+only public data (besides things hosted on app views like Bluesky's, where they hold mutes)
