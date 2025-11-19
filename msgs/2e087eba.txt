@@ -1,0 +1,1 @@
+It should at least be obvious if an extension is doing that
