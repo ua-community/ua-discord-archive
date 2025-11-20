@@ -1,0 +1,1 @@
+we have a first community view taking shape. a reimagining of tee based browsing with svelteflow. llms make this concept worth revisiting as we can now assign meaning to graph edges and filter showed nodes for contrxt
