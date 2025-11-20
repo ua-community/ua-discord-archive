@@ -1,0 +1,1 @@
+Well, it doesn't *have* to be consumer oriented. I'm really just trying to understand the range of things it could do, e.g. 1: a better greasemonkey (twiddle with a web page) 2: browser tools (better history or tabs experience) or 3) meta-browser that helps "combine" web pages into a type of meta app.
