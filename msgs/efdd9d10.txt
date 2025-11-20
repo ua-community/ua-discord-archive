@@ -1,0 +1,1 @@
+the section selection is blurred out so i did not add any details in those interactions and flows, we will add that when the installer is usable
