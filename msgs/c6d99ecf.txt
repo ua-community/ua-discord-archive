@@ -1,0 +1,1 @@
+Hello, I met Jan and Luke at Sync Conf last week and they invited me to kick the tires (well dietrich did too!). At the moment I'm trying to come up with 2-3 example concepts to explain the range of things xe-darc is capable of. More of an educational exercise. I'm currently kicking around the repo trying to get my head wrapped around it. Happy to chat about this with other
