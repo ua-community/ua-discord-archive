@@ -1,0 +1,8 @@
+Looking great! 👏 
+
+One minor issue I encountered:
+Clicking on the "Install on Linux" button didn't show (or scroll to) the relevant "Linux installation" section.
+
+It did go to the correct subpage, but it was scrolled towards the bottom; so I think just the scrolling position needs to be adjusted.
+
+Browser: Zen (Firefox) Linux (Bluefin GTS)
