@@ -1,0 +1,1 @@
+Actually open source release with full model training flow: https://allenai.org/blog/olmo3
