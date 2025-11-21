@@ -1,0 +1,1 @@
+Yeah there’s a system update, I think it also depends on the WiFi and Bluetooth (modem) chip on the device
