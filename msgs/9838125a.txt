@@ -1,0 +1,1 @@
+Igalia posted about the graphics layer work and other stuff they've done for Valve related to the new hardware. https://www.igalia.com/2025/11/helpingvalve.html
