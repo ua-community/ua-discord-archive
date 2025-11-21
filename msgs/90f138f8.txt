@@ -1,0 +1,1 @@
+im excited for my coming m5 pro shipment, as a result of having tensor / npu cores in gpu, time to first token is 4 times M4
