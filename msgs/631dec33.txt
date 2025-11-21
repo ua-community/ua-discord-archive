@@ -1,0 +1,6 @@
+server-side:
+- [Navidrome](https://www.navidrome.org/)
+- [Jellyfin](https://jellyfin.org/) (shared by someone else)
+client-side:
+- [Metrolist](https://github.com/mostafaalagamy/Metrolist?tab=readme-ov-file) (YT Music client)
+- [Symfonium](https://symfonium.app/)
