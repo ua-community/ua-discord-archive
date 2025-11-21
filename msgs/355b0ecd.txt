@@ -1,0 +1,5 @@
+working on tiles floating UI on Mac, it'll basically wrap the current Tiles CLI
+
+(user) you'll feel right at home with this UI + Obsidian setup, exactly the thing you desired. For every inference it'll save memory (both user and agents, with skills.md) in markdown files that Obsidian can present as graph view
+
+we've just released CLI for now and will still take a week to make things nicer and faster on that front
