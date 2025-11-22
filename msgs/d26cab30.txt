@@ -1,0 +1,1 @@
+another thing to think about is sub extensions. eg an extension that provides general tooling for data extraction from accounts that wants to allow installation of individual plugins to support facebook, linkedin etc.
