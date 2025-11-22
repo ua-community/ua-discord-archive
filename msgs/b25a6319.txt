@@ -1,0 +1,1 @@
+in theory should work headless as long as chrome supports it the tooling should work the same, you can add the headless flags to chrome and use the debug port in the iwa studio
