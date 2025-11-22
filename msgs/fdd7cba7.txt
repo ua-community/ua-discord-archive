@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=EO14wPQw89c how could we tackle algorythmic agency for existing feeds?  my only idea at the moment is extract feed data into own db owned by user, then apply their algorythm to reserve the fedd  or meta feed how they like.
