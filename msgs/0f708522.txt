@@ -1,0 +1,1 @@
+discord now hides even the currently active interface if the computer is offline 🤢
