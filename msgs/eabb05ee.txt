@@ -1,0 +1,1 @@
+if you dont like mouse navigation, you will have a hard time with the current Ui as it only really optimized for multitouch trackpad currently, mouse, touch and keyboard will be added as soon as i find time or someone would add that.
