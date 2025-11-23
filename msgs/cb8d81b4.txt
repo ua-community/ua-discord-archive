@@ -1,0 +1,1 @@
+That is an excellent framing! It does imply that xenon/darc needs to have these tools 'pre-baked' into the shell. This is fine, it's just a big step that will take a little prototyping to get it right.
