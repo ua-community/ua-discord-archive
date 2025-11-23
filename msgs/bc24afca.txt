@@ -1,0 +1,1 @@
+Idea for a meta protocol standard: self identified protocols, so some server user agent can easily tell what protocol is intended
