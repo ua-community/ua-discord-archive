@@ -1,0 +1,1 @@
+I'm currently playing with custom elements and "transformers".  The idea is that you put logic in custom elements, connect them, and optionally put any amount of transformers between them. In other words, every component (custom element) has input + output, and you can specify what component it is connect to.
