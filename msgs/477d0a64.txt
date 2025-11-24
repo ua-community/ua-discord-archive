@@ -1,0 +1,1 @@
+owning data is rarely useful in itself. the context of usage matters. it's not bad to only have the data, but it's often only part of the picture.
