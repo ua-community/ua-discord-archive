@@ -1,0 +1,1 @@
+Actually, I'd love to get a tailscale native browser. Log in with a did. (Bluesky atm for proof of concept.)
