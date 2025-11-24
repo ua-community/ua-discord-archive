@@ -1,0 +1,1 @@
+Just because only devs can set up servers today doesn't mean it applies to tomorrow. I'm not assuming the protocol or the ecosystem around it is static.
