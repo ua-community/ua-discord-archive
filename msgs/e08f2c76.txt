@@ -1,0 +1,1 @@
+Beaker's approach to this was interestingly boundary'd, iirc it was "can write to any files in the webapp's folder".
