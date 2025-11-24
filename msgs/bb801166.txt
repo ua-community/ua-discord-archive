@@ -1,0 +1,9 @@
+Mozilla 2026-2028 Summary Portfolio Strategy (PDF)
+
+This was buried at the bottom of that post from a few days ago. Long read, but gives you a good sense of *how they're thinking* about the AI transition in the near term, and what they think it means for browsers and the web. A couple of key takeaways from my read of it:
+
+- Mozilla is 100% in on AI as the future of the web/browsers, explicitly saying traditional browsers will be displaced
+- The mission comes 2nd, *after* hitting revenue targets - this is reinforced repeatedly
+- Aiming for revenue diversification via investments and their spinoff companies making money w/ AI
+
+https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/11/Mozilla-Summary-Portfolio-Strategy.pdf
