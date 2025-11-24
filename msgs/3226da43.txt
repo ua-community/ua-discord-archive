@@ -1,0 +1,1 @@
+That's an interesting point. People can build their web software in such a way to support extensibility/malleability. Make it easy for extensions to change or add things.
