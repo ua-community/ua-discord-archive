@@ -1,0 +1,1 @@
+Could web workers be exposed to ones personal tailscale network as services? Could open browsers advertise resources for acting like edge workers like cloudflare workers across the network? Could a generalized persistence layer be built up within a bunch of workers on different machines synced within a tailacale network?
