@@ -1,0 +1,1 @@
+An entire atproto stack without a central authority should be possible in an intranet scenario.  Should  be possible for two people to atproto at each other airgapped. Like, at sea.
