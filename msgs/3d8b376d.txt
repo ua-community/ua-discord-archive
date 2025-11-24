@@ -1,0 +1,1 @@
+The "unit of extensibility" is then just userscripts, so not sub-anything, but easily shareable. Esp if they output to something abstract like the set of examples I gave above, vs writing directly to the store.
