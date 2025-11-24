@@ -1,0 +1,1 @@
+but hey, if we're here making up synthetic origins, we could make one that's a bare web component combined w/ a messaging api (or narrower abstraction a la intents/applets/etc).
