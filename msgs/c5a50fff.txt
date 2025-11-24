@@ -1,0 +1,1 @@
+Clients that connect to services don't have to be other browsers. Any machine and native app with network access in your tailscale network can access the services the browser advertises.
