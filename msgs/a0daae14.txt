@@ -1,0 +1,1 @@
+These don't have to be background pages, eg they'd be "foreground" when the user is chaining things together interactively, for example. Background pages is just a key use-case, eg how the "data harvesting" example (user) mentioned would work in Peek.
