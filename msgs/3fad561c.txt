@@ -1,0 +1,3 @@
+I agree with everything you're saying about dids. Where fully decentralized pieces don't exist yet, I try and make choices that have a decentralizable trajectory, or that demonstrate a relevant UX. 
+
+As for atproto, if we're just using it for things we have alternatives for, sure. But I can see value in parts of atproto for solo use. Teal.fm for example. I'd use that if no one else did.
