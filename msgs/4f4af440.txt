@@ -1,0 +1,1 @@
+Atproto could have tons of applications within an enterprise! The novelty of being able to rapid prototype apps without having to do dev ops or build authentication and integrations and such. Could cut tons of costs. Could also be used to experiment with  governance and collaboration tools that break orgs out of hierarchal structures.
