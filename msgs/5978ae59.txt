@@ -1,0 +1,1 @@
+nice, we are certainly thinking in similar shapes. i've been assuming page/site (eg a synthetic/opaque origin of some kind) as the boundary, not web component, since the latter needs some window scope to exist in, in order to interact with things.
