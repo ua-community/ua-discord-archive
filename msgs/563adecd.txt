@@ -1,0 +1,1 @@
+So, vpn browser extensions are interesting to me. I'm curious, if there was a tailscale VPN browser extension, would the browser basically register as a machine in the network? And if so, would it be able to advertise and detect advertised services on the network?
