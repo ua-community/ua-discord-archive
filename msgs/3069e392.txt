@@ -1,0 +1,1 @@
+In Peek the way I'm thinking about it is separating things out into background jobs + personal data store/lake. Background pages with concrete input/outputs + labeling in a datastore.
