@@ -1,0 +1,1 @@
+Tailscale is really showing the value of intranets. Might be a primitive to lean into. Closed webs, internal dns and petname systems.
