@@ -1,0 +1,1 @@
+or something similar... eg webxdc apps or openframes without a web origin (though i guess it could be fine too, just don't want to *require* a web origin).
