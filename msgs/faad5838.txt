@@ -1,0 +1,1 @@
+Running an entire atproto ecosystem within a closed corporate VPN environment for example. Could be a thing.
