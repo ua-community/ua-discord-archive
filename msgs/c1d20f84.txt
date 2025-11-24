@@ -1,0 +1,1 @@
+Sub-extensions are hairy and tightly-coupled. I've been thinking about this particular use-case in a different way - more like the intercommunication of {app/extension/webpage/whatever} and a datastore. Eg pipelines and chaining that you can achieve via an approach shaped vaguely like web-intents/web-activities/web-applets/wishes, but more programmatic than user-interactive.
