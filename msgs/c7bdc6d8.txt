@@ -1,0 +1,1 @@
+So theoretically, an extension could come in and say, hook this component up to this other thing instead.
