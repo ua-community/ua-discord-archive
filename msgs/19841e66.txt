@@ -1,0 +1,1 @@
+Connect all your browsers together via old school networking. Expose services such as virtual servers running in web workers to each other.
