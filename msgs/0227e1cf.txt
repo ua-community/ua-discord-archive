@@ -1,0 +1,1 @@
+Still need to read your notes in detail, but just having an API per origin that gives access to local files alone would be super valuable. Where the user can actually access those files from their desktop that is.
