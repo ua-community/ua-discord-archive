@@ -1,0 +1,1 @@
+Her sentiment analyzer uses local models too, which makes it neat!
