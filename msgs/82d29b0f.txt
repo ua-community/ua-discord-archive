@@ -1,0 +1,1 @@
+i mean, you should also have the demo in your readme in your CI as a regression test, so maybe a responsive-but-not-great team lol.
