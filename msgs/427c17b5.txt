@@ -1,0 +1,1 @@
+will be interesting to see cpu profile of doing this in real time while browsing
