@@ -1,0 +1,1 @@
+Aka an inscrutable JSON dump of FB data with nowhere to put it isn’t very useful even if you “own” it
