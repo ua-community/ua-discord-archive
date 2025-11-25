@@ -1,0 +1,1 @@
+good design tips to steal for generative interfaces: https://developers.openai.com/blog/what-makes-a-great-chatgpt-app
