@@ -1,0 +1,1 @@
+eg: load a page -> strip w/ reader mode js -> pump content through model -> store address + entities
