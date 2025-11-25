@@ -1,0 +1,1 @@
+Liv Erickson (formally of Mozilla Hub & other interesting things) has been doing some interesting work in this space, including building a number of tools to help analyze and understand personal data dumps from places like FB and Twitter.
