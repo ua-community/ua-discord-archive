@@ -1,0 +1,1 @@
+So looking at TransformersJS to run the model in Electron, see what happens.
