@@ -1,0 +1,5 @@
+That said I think the original manifesto was very hand wavy about what data ownership means. 
+
+> In cloud apps, the ways in which you can access and modify your data are limited by the APIs, user interfaces, and terms of service of the service provider. With local-first software, all of the bytes that comprise your data are stored on your own device, so you have the freedom to process this data in arbitrary ways.
+
+I hope we can dive into deeper discussions around what this means. There seems to be prerequisties to actually "owning data".
