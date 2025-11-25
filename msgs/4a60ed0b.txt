@@ -1,0 +1,1 @@
+The model seems to work ok and fairly performant on commidity laptop hardware. The challenge w/ stuff like this is awful integration/distribution b/c of the collision of worlds: AI is all Python, and web/desktop is all Javascript.
