@@ -1,0 +1,7 @@
+> import { pipeline } from '@huggingface/transformers';
+> 
+> const classifier = await pipeline('token-classification', 'Xenova/bert-base-NER');
+> 
+> const output = await classifier('my name is Dietrich, i am in Amsterdam. i drive big Mercedes trucks, delivering corn to Norway');
+> 
+> console.log(output);
