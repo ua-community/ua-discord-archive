@@ -1,0 +1,3 @@
+Decided to support MCP in Tiles with https://github.com/steipete/mcporter
+
+Only thing that was stopping me till now was context window overhead of MCP tool description but this implementation solves that by runtime code execution and calling tool endpoints that way, we already have a python code execution in Tiles CLI, more here: https://x.com/pietrozullo/status/1991537221900394857?s=46
