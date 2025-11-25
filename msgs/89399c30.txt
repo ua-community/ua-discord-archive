@@ -1,0 +1,10 @@
+i feel a bit stupid but i cannot follow what tiles/ peergos and the concepts mentioned have to do with sub-extensions. 😬  the basic requirements i see for sub-extensions:
+- extension declares it is subextension
+- uis for lists of extension can use this t nest subextensions or hide subextensions in general search etc.
+- subextensions can be disabled if parent extension is removed or disabled (prompt if subextensions should be removed as well etc)
+- subextensions are activated after parent extension
+- subextensions can provide some module and capabilities to parent extension and can use some modules provided by parent
+- parent can pass some capabilities and resources to subextensions or use a module / feature from subextension
+- trust is separate for the developers of subextension
+- parent extension has access to some lifecycle features of subextension eg see versions updates etc.
+- subextensinos do not get own permissions but can only access resources passed in from parent extensions in a capability like model
