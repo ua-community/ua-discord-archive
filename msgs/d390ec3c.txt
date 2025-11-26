@@ -1,0 +1,1 @@
+i don't actually have it wired up but i did at least download compile and kick the tires. no systemd service for the daemon running yet though. 🙃  never a raycast user, but the raycast love made me very interested when vicinae crossed my radar.
