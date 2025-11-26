@@ -1,0 +1,1 @@
+whenever you make a new channel, my default existing users won't see it
