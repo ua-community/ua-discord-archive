@@ -1,0 +1,1 @@
+Lots of ways! Maybe they're just web pages, w/ some metadata saying what they emit. Maybe they're bundled bits of web files, like browser extensions etc. We can make our own stores/indexes/etc. Social sharing, eg I want to do Atproto indexes in Peek - basically the social-proof "store" approach.
