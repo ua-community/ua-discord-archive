@@ -1,0 +1,1 @@
+I feel like some blend of AI and indexed DB would be ideal search. Perhaps with AI only outputting DB indexes.
