@@ -1,0 +1,1 @@
+every data thats computed is usually not very useful outside of an app context, but in theory sure. or you have a concrete usecase?
