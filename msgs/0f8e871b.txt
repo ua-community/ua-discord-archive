@@ -1,0 +1,1 @@
+Need history, feeds and metadata storage in order to both 1) put the entities somewhere, and 2) relate them back to the originating address.
