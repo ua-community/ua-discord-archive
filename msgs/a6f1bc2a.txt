@@ -1,0 +1,1 @@
+Given the same data set, LLMs will return an approximation and an indexed DB will return actual data
