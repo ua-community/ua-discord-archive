@@ -1,0 +1,1 @@
+https://github.com/vicinaehq/vicinae strives to be api compatible, seems pretty ok
