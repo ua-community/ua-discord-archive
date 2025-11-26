@@ -1,0 +1,1 @@
+Tested bundling a microformats detector. Fine for publishers that emit them, but most don't.
