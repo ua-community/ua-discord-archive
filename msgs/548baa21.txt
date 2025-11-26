@@ -1,0 +1,1 @@
+Tested a couple of NER models, GLiNER2 and Bert-base-NER. Both are designed to be small, and usable on commodity desktop hardware. The latter is much smaller, but less accurate. Trade-offs.
