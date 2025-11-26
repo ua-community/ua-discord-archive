@@ -1,0 +1,1 @@
+A key piece is the ability to detect and log entities in realtime for any page opened.
