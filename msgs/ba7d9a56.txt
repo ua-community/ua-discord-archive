@@ -1,0 +1,1 @@
+yeah original list in proposal for <#1431239919531196486> research was browser extensions, vs code, raycast and obsidian as a base layer of "vibrant extension ecosystem" that cut across web, devtools, km and eup (gcli is about as close as we get to popular eup).
