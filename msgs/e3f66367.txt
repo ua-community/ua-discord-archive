@@ -1,0 +1,1 @@
+In a visual context, what if you had a big lossy jpeg of something and also a lossless segment of the original data.
