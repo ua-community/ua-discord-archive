@@ -1,0 +1,1 @@
+If I understand right, this basically means the agent writes scripts that a human could check before executing them...that's really good
