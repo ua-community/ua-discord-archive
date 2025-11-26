@@ -1,0 +1,1 @@
+this is neat. a long time ago i was an incredibly passionate user of SocialVPN, which was like TailScale/HeadScale, but peering was with whatever XMPP friends an account had. you could either make xmpp accounts for machines or just use your own.
