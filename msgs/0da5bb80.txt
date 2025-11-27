@@ -1,0 +1,2 @@
+Not sure I get your use case, but you triggered me to look into NERs, then open world NERs and finally [OWNER](https://ieeexplore.ieee.org/document/10930473)
+might be interesting
