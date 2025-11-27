@@ -1,0 +1,1 @@
+thanks! i've looked at a few general purpose models but they're much larger than more narrowly scoped models (so far).
