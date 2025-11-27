@@ -1,0 +1,1 @@
+universal NER would be magical, but i'll settle for the basics like person, place, dates, etc if it comes in nano size.
