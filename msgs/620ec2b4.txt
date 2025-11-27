@@ -1,0 +1,1 @@
+https://duckdb.org/2025/11/19/encryption-in-duckdb
