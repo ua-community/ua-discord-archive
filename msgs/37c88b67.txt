@@ -1,0 +1,5 @@
+TIL I can use ControlD DNS resolver with Tailscale, the resolver config can automatically identify traffic coming from diff devices though
+
+with this setup I can easily turn dns level blocking on/off, and at the same time have Tailscale/kill switch always on when needed
+
+I love these handy networking tools that increase our user agency 🙂
