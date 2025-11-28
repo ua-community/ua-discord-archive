@@ -1,0 +1,1 @@
+cooking a new Modelfile implementation based on [MIR](https://huggingface.co/darkshapes/MIR_/blob/main/README.md) with (user)  for Tilekit SDK based on MIR: https://www.tilekit.dev/proposal
