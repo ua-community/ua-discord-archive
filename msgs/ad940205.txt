@@ -1,0 +1,1 @@
+OpenCode has been pretty amazing in a lot of ways. But it has a manual /export that writes up a markdown of your session or whatnot, and that's the primary way to capture the session enduringly. Explicit. Feels a bit mediocre. There's such a rich world of the experience of using OpenCode, multiple agents and sessions. But mostly lost. Rendered down to export.
