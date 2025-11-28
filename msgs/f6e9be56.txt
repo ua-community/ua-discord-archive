@@ -1,0 +1,1 @@
+Need to dig in more but I'm very receptive to the premise. Have your agents write jsonl to a git log with tasks. Store it in git. Local sqlite cache.
