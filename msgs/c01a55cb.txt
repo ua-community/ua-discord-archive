@@ -1,0 +1,1 @@
+But elevating all this agent work from some history buffer somewhere obscure to something checked into git sounds divine to me.
