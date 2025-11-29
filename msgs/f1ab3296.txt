@@ -1,0 +1,1 @@
+Strategy for agents dealing with private data to prevent prompt injection: https://timkellogg.me/blog/2025/11/03/colors
