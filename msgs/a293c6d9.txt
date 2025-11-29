@@ -1,0 +1,1 @@
+(user) (user)  not really, it seems to be connected to hardware accelerated compositing and os hybernation. my guess is some graphics buffers are flushed and then fail to swap in. its rare enough not to be a big issue but let me know if you also encounter this
