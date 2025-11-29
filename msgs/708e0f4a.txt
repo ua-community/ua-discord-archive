@@ -1,0 +1,1 @@
+If we can detect the state we would have supervisor process kill any messed up processes so they actually restart fully
