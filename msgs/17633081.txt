@@ -1,0 +1,1 @@
+MCP has a place I guess, which is secure access to private sources, and with code execution approach where the LLM treats mcp tool fields as functions and assemble one on the fly it’s technically efficient now too. But yeah things are moving too fast, we’ve Skills and MCP as complementary systems now
