@@ -1,0 +1,1 @@
+does that do snapshotting? i thought it only records actions
