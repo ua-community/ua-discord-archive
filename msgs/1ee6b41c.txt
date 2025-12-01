@@ -1,0 +1,1 @@
+cant reproduce, this should not be the case. it did get stuck very rarely but it was not connected to the web content.  can you always reproduce?
