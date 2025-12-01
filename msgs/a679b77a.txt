@@ -1,0 +1,1 @@
+my first take is just going to be streaming them into a HUD panel, for observation.
