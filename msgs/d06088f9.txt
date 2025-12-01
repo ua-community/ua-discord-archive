@@ -1,0 +1,1 @@
+the matrix protocol is so ugly too , its hard to imagine it attracts the right client architectures
