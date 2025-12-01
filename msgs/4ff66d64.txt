@@ -1,0 +1,1 @@
+Also depends on whether you have a dedicated server and how powerful it is. Matrix.org is always overloaded
