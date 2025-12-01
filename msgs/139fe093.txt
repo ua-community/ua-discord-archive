@@ -1,0 +1,1 @@
+Webrecorder does "high fidelity" replays. It saves the HTTP requests to an archive file and replays them exactly as they happened by intercepting requests with serviceworkers in replayweb.page. It can handle dynamic javascript based stuff instead of static HTML snapshots.
