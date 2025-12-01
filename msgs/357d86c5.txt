@@ -1,0 +1,1 @@
+nlp-js seems to have better built-in NER than Wink, but has its own annoying things, like not detecting entities that bump up against period at end of sentence.
