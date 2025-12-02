@@ -1,0 +1,1 @@
+https://github.com/RAIT-09/obsidian-agent-client
