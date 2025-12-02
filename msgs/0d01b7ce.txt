@@ -1,0 +1,1 @@
+eg. would he great if you just start prompting and hacking on the code and see if it produces something useful you can use yourself, get learnings and then we stick heads together for a more prod implementation
