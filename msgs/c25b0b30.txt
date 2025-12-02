@@ -1,0 +1,1 @@
+Ocaps + CRDTs https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html
