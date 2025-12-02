@@ -1,0 +1,2 @@
+Not sure, but it feels like a nothing burger to me.
+Ie Similar relation as Chrome/V8, Firefox/SpiderMonkey but with more freedom. What does that even mean.
