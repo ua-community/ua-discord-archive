@@ -1,0 +1,5 @@
+Got the model to fine tune first in house memory model with, it’s European!
+
+https://mistral.ai/news/mistral-3
+
+it’s been long since they released an Apache licensed open weight model
