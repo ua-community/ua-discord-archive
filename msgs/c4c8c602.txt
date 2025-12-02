@@ -1,0 +1,1 @@
+there was a space in frontier of edge models/SLMs, with just qwen as the only viable options, this release from mistral seems to be on part, 3B also supports vision
