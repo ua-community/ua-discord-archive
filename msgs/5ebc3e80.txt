@@ -1,0 +1,1 @@
+I wish they abandon python in production deployed systems in favour of JS/TS
