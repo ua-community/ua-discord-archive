@@ -1,0 +1,1 @@
+makes no sense bun has no sandboxing or permission model to speak of.
