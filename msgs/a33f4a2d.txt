@@ -1,0 +1,1 @@
+sounds like a great direction! the reason i did not start with this is because i first need to use a vim like keyboard focussed browser for a bit and understand how vscode does keybindings. i assume there needs to be key chord support from the start or it will be annoying to ad that later.
