@@ -1,0 +1,2 @@
+That's my thought as well.
+And I guess steering the most performant JS runtime is good given a lot of mcp/AI tooling runs on JS.
