@@ -1,0 +1,3 @@
+Also for reference, https://lunatic.solutions/ is the precursor to flawless - both seem dead at this point, but both great projects imo.
+Ever since lunatics I have dreamt of building an e2e integrated WASM engine for realizing this exact thing.
+Given even wasmer / wasmtime and CF workers rust don't appear to be so popular, that seems like it will never happen :/
