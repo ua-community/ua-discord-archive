@@ -1,0 +1,1 @@
+vscode open source now includes the copilot chat sidebar, but not the actual copilot backend. seems to be first move to give open access to some of their internal apis that copilot builds on
