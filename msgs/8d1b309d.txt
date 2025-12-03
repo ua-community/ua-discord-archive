@@ -1,0 +1,1 @@
+This could be interesting alt to using xterm for plain terminal outside of vscode https://github.com/coder/ghostty-web
