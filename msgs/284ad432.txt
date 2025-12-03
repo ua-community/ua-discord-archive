@@ -1,0 +1,1 @@
+yeah because it has no sandbox or securty model yet is apparently going to be the basis of claude cli and an electron alternative, both usecases that would very much absolutely need a sandbox and security model
