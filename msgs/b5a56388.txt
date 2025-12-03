@@ -1,0 +1,1 @@
+Thanks Dietrich, great stuff. Wondering how to put this in the notes. I think I'll add a few paragraphs to the "observations" document to compare similar apps in the same system (eg. zed <-> vscode, kunkun <-> raycast)
