@@ -1,0 +1,1 @@
+~10mins in he discusses extension system threat models and security approaches... discussing things like lack of sandboxing and other problems. Talks about Kunkun's sandboxing, capabilities and permission a bit at the end, but not in much depth. Need to read more.
