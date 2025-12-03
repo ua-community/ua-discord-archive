@@ -1,0 +1,1 @@
+It is funny. Some people keep saying software engineering is going to die (even claude's own AI engineers tweeted this), but big orgs are still constantly hiring cracked projects, with recently being Anthropic acquiring Bun JS. If it were truly dead, they would have vibe coded their own JS runtime xD
