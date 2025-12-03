@@ -1,0 +1,1 @@
+Covers some good use-cases for "why offline+local", and talks about some neat features like wrapping websites (could be better, but nice anyway), and local RAG.
