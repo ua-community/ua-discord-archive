@@ -1,0 +1,1 @@
+Not *yet* anyways. With the whole bun team on board it seems reasonably easy to rip out all OS calls except network for their hosted platform.
