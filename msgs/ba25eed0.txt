@@ -1,0 +1,1 @@
+i talked to one pf the devs and it sounded they have no abstractions in place to make this work,  you dont just add a security model to a monolithic runtime optimized for performance and nothing else
