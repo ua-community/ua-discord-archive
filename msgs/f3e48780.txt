@@ -1,0 +1,1 @@
+but these notebooks are either totally proprietary, or some unholy stew of "run these three different things on your OS and we jam em together in infinitely breakable ways"
