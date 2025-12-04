@@ -1,0 +1,1 @@
+there is a new helium bug crashing on iwa launch, seems same behaviour that is blocking edge. the problem is that same macos and helium version works on my machine. same profile setup from scratch. any ideas what i should check? anyone else had helium crash?
