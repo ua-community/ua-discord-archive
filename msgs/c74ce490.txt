@@ -1,0 +1,1 @@
+You mean vram or the system memory. I think the answer is yes for data center / server use.
