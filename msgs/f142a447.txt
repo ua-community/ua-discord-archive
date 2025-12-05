@@ -1,0 +1,1 @@
+CPU only because I don't have a GPU yet XD (atleast for a few months), but to make it Linux compatible, the CPU models as a test there should work just fine
