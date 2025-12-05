@@ -1,0 +1,1 @@
+Hm, looks like Mozilla's TabStack made it official a couple days ago, but I can't see any links to source code or self-hosting. https://tabstack.ai/
