@@ -1,0 +1,1 @@
+had a chat with (user) today who wants to integrate https://github.com/mozilla-ai/llamafile backend for running models on linux/cpu machines
