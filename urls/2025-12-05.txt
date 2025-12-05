@@ -1,0 +1,1 @@
+https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B
