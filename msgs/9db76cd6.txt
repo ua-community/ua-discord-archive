@@ -1,0 +1,1 @@
+I spent last week playing around with Copilot adding a "clipboard pane" (as a stepping stone to something more intelligent) and made quite a bit of progress but mostly wrangling Copilot, I was still running it in the cloud (and likely producing code that was _not_ very pretty) It was "my first waffle" and meant to be thrown away.
