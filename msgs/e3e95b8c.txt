@@ -1,0 +1,1 @@
+they seem to have added support for importing notion databases to Obisidan in a proper way: https://x.com/obsdmd/status/1992337699517387116
