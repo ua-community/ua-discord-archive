@@ -1,0 +1,5 @@
+More poking at Kunkun, here's an extension install pane, some interesting bits are:
+
+- Posted to a public signing service
+- Mirror repo available
+- Permissions list (pretty fine-grained)
