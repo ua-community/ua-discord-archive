@@ -1,0 +1,1 @@
+i was thinking about a few general cases tho, like storing 10k URLs w/ metadata. or storing 5k text documents. or couple gb of image data.
