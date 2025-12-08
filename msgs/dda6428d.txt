@@ -1,0 +1,1 @@
+hmm maybe a fuzzer type approach to testing configuration differences, just enumerate em all and test
