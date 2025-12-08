@@ -1,0 +1,1 @@
+Levelgraph died on 10k rows of metadata in a single batch. Translated to 500k triples 😅 Breaking up into batches got from DNF to ~15s tho.
