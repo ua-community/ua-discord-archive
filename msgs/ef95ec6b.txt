@@ -1,0 +1,1 @@
+Totally unsciencified, just one run on a dirty machine. Should probably do 10 cycles of "reboot, wait a minute, run" and throw away highs and lows.
