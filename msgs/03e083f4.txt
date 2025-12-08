@@ -1,0 +1,1 @@
+yeah that's one of the challenges, so many configurations, batching patterns, indexing, etc.
