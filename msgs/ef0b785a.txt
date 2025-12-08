@@ -1,0 +1,1 @@
+Feels like these are all really slow. I'd expect < 100ms across all interactions should be reasonably doable, especially on a high-end device.
