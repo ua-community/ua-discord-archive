@@ -1,0 +1,1 @@
+sqlite is already there. i haven't started on in-browser tests yet, but pouchdb is a good shout, thanks!
