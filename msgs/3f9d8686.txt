@@ -1,0 +1,1 @@
+Had the robot whip something up. No optimizations, just jamming data into the simplest "the robots decided" schemas (I guess that's some kind of "big hammer" test of its own). Tinybase was surprisingly the best overall across the varying operations and data types.
