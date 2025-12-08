@@ -1,0 +1,1 @@
+i would be interested to support for sqlite and pouchdb ones. i need that info also to decide when the right time is to rewrite pouchdb in sqlite
