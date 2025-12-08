@@ -1,0 +1,1 @@
+we had a suite of very nice tests for Places in Firefox. but it wasn't until we add the "dirty profile" tests did we find all the problems the users were complaining about.
