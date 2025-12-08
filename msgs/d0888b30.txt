@@ -1,0 +1,1 @@
+Same approach, I’ve almost completely shifted to Obsidian now, I’m glad that Tiles supports Obsidian markdown from Day 1 and there’s a strong drive to do everything I could do with this setup and have same level of convenience and productivity as ChatGPT + Notion connector / Notion AI
