@@ -1,0 +1,1 @@
+(user) here uses Logseq and it has a different markdown format, the memory model I’m fine tuning presently will also support Logseq markdown syntax so that one can visualise their memory as interactive graphs
