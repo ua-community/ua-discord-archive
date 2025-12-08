@@ -1,0 +1,1 @@
+kinda want to come up w/ a test suite. jam a 1gb of data into them, of different shapes/sizes, measure r/w speeds, on-disk size, sync time and throughput, etc.
