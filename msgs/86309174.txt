@@ -1,0 +1,1 @@
+sqlite has gigantic differences which persistence engine, pragmas and trasaction batching is setup. would love to compare values with my settings
