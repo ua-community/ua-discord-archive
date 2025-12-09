@@ -1,0 +1,1 @@
+for public alpha release we are planning to integrate openwebui for demos (cli is meant for sdk users)
