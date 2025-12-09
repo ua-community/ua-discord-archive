@@ -1,0 +1,1 @@
+(user) wanted to have a chatgpt like sidebar but with tiles, can we collaborate on that front, i think currently darc has ollama support..
