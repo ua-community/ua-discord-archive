@@ -1,0 +1,1 @@
+some in-browser tests. not entirely clean, just getting a handle on what works and doesn't. playing w/ workload ceiling, which is different in browser than node.
