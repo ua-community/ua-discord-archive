@@ -1,0 +1,1 @@
+web-nn on android using https://github.com/google-ai-edge/LiteRT/ , seems to ahve some good steam. it has some level of webgpu support but in progress?
