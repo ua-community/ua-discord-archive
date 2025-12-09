@@ -1,0 +1,3 @@
+Anecdotal as heck, but by far the most impressive developer I chatted with at KubeCon was a guy who was super into Amp code. Very big fan.
+
+Used it some this week & was quite fun. I love how you can handoff the current session to more sessions. And all your sessions are urls, so you can also refer to your previous sessions anytime you want. I spent significant time in opencode trying to write a summary of what has happened so far into markdown files, a manual handoff flow, and amp does an incredible job with prompting you what you want to handoff, then having an LLM write a bunch more into the handoff doc, then letting you edit again. Incredibly nice loop for getting from one session to the next.
