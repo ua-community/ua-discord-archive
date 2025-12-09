@@ -1,0 +1,1 @@
+https://sqlite.org/wasm/doc/trunk/persistence.md for reference
