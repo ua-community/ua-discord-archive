@@ -1,0 +1,1 @@
+i thought canonical workloads sans optimizations might show where trade-offs are made.
