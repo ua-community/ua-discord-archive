@@ -1,0 +1,2 @@
+I played with sqlite/WASM on OPFS when trying out electric, and that was really fast (subjectively).
+I expect OPFS can deliver significant improvements still, compared to what we have now
