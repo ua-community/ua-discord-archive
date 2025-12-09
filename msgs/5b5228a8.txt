@@ -1,0 +1,3 @@
+https://openai.com/index/agentic-ai-foundation/
+
+"—a simple, open format for providing agents with project-specific instructions and context—to the foundation to ensure long-term support and adoption across the community."
