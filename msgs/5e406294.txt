@@ -1,0 +1,1 @@
+lol i was just grousing about needing a better freedesktop.org (FDo) notification daemon. mako is... ok.
