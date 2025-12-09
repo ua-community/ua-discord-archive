@@ -1,0 +1,9 @@
+Pretty interesting project, but feels like they are not quite honest about what it can and cannot do... I was about to try it out when I read in their js runtime project:
+> Some Javascript features are not supported yet:
+> - Promises and micro-tasks
+> - Some Javascript types, including Arrays
+> - Function overloading
+> - Types static methods
+> - Non-optional nullable types
+
+I'm pretty sure this breaks practically all non-static websites
