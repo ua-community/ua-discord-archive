@@ -1,0 +1,1 @@
+'In addition to AGENTS.md⁠(opens in a new window), the AAIF co-founders will each be contributing a project to the foundation: Anthropic’s Model Context Protocol (MCP)⁠(opens in a new window) and Block’s goose⁠(opens in a new window)."
