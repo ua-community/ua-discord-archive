@@ -1,0 +1,1 @@
+W3C TAG draft note on Web User Agents. Kind of a grab bag at this point, feels like. https://www.w3.org/news/2025/group-note-draft-web-user-agents/
