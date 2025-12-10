@@ -1,0 +1,2 @@
+- Notes on status from this wk: https://github.com/w3ctag/meetings/blob/gh-pages/2025/telcons/12-01-minutes.md#user-agents20-meta-make-progress-on-this-document---jyasskin-csarven
+- Repo (the issues): https://github.com/w3ctag/user-agents
