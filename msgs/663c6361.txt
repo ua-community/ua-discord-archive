@@ -1,0 +1,1 @@
+Peek: An experimental user agent that deconstructs the browser so you can work more directly with the web. More window manager than application, Peek lets you open web pages in ways that align with how you work, instead of trapping them in an endless row of tabs. https://github.com/autonome/peek
