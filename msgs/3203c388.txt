@@ -1,0 +1,1 @@
+another problem is that the permission boundaries have to weakened for an agent to even be able to decide by itself (which the quote sounds like)
