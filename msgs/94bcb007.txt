@@ -1,0 +1,2 @@
+I'd think maybe make the active "branch" green and leaf nodes of other branches blue? Also like, does it show the whole branch or only the leaf?
+If it's only a leaf I think dashed line instead would be better below it
