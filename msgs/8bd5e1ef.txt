@@ -1,0 +1,1 @@
+xenon - A framework to build secure and powerful applications with browser-like capabilities based on web standards and backed by the Chrome-based browser you already have.
