@@ -1,0 +1,1 @@
+i could imagine software becoming more of a stream of forks where maintainers pick the ideas they like vs contibutors pushing prs they want merged
