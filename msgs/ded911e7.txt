@@ -1,0 +1,1 @@
+it means they are leaf nodes in the navigation history. eg if you navigate back to goolge search results and click a different result. the result from before would just be hidden from the history meny in chrome. but i show it with a blue backgroudn to show this was end of this navigation stream
