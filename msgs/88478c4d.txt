@@ -1,0 +1,1 @@
+filed a feature request in OpenWebUI server for this, it'd be amazing to have MCP Apps in Tiles through this, OpenWebUI is gonna be the first UI layer after the CLI: https://discord.com/channels/1170866489302188073/1448329554098655324
