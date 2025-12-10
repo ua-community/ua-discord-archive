@@ -1,0 +1,2 @@
+I like it, I'd think it's the tab history bottom up so current page is example.com/blog and previous was example.com/docs/advanced/etc
+I found the little plus a little confusing for a second, it kind of seems like one can interact with it.
