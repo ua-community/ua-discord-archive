@@ -1,0 +1,1 @@
+darc - a maximalist agentic browser built on xenon that focuses on user control, modularity and reasonabilty
