@@ -1,0 +1,3 @@
+I’ve not worked on the ui yet, it’s just the model, portable py environment and the Modelfile based inference stack
+
+As I said before for online models I’m looking at Mozilla’s any llm and have chats/memory encrypted that way on backup, I dummy want to work on UI instead integrate with existing UI surfaces, floating UI is one more desirable surface to me on desktops
