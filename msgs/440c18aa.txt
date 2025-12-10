@@ -1,0 +1,1 @@
+its one of the unsolved problems for agentic browsing, ai evaluation is pretty much assumed to never be able to work and amplify attack vectors, either you cannot give the evaluator enough info to decide or you risk hijacking the evaluator, the common ground is not better than simple rule based system afaik.
