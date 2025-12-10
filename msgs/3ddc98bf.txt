@@ -1,0 +1,1 @@
+(user)  is also working on full page views for data like this where its shown as actual graphs. im just finding a short form that fits in a menu
