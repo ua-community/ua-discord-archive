@@ -1,0 +1,1 @@
+By speed I meant code specific optimisations not a strict language to language comparison of programming
