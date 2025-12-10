@@ -1,0 +1,3 @@
+In tst I somewhat frequently want to raise a tab to the "top". Like I notice another interesting topic I want to keep visible, so instead of open in new tab (which would be nested) I copy the link and make a fresh tab.
+But then I lose context.
+Especially with tabs that have messengers, news, etc. I don't want those to be grouped together.
