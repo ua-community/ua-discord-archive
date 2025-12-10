@@ -1,0 +1,1 @@
+looking for feedback: how would you interpret this tab history menu without knowing anything. and does it look confusing? the goal is add useful information for super powerusers that know how to read this and the details just being ignored by avarage users.
