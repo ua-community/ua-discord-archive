@@ -1,0 +1,1 @@
+how would you display they are connected? you mean just as an info in the history menu? also i currently only plan one level of automatic nesting with tab groups. you rely much on the arbitrary tree nesting of tst?
