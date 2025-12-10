@@ -1,0 +1,1 @@
+Also where is the Rust? It seems to have been mostly JS already. https://github.com/prisma/prisma/tree/6.0.0
