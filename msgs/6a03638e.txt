@@ -1,0 +1,1 @@
+I have to use a root module to hide the fact that I ever had a custom ROM, otherwise many banking apps won't work. But they seem to be catching on to that as well occasionally
