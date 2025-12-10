@@ -1,0 +1,2 @@
+Didn't notice that at first, but I guess no line = url pasted etc and line = navigation?
+Or maybe not connected means it's hierarchical (like open in new tab / middle mouse) but that would be a new feature in history in general so
