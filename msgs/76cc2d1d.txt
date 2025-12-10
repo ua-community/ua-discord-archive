@@ -1,0 +1,1 @@
+yeah exactly. the timing might acutally not be correct but the logic here would be i navigated two times, then went back navigated to a different page, then did that again and then went back in history to go back to the middle result
