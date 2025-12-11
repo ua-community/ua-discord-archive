@@ -1,0 +1,3 @@
+I’ll check if OpenWebUI plays well as a sidebar, TIL Brave’s AI assistant Leo also has memory support: https://support.brave.app/hc/en-us/articles/38441287509261-How-do-I-use-Leo-customization-and-memory-features
+
+Really want DARC with Tiles offline memory module setup
