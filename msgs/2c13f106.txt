@@ -1,0 +1,17 @@
+What do you call this pattern?
+
+Inter-application communication between (loosely coupled) components?
+RPC? Commands?
+
+https://elements.diffuse.sh basically has components (where logic = components, ui = components) with actions that have return values. If it's a logical component, it is then proxied to its worker (RPC style).
+
+I suppose you could wrap individual web components (custom elements) into different containers:
+- One pattern I apply in Diffuse here is something called "constituents", where basically you put every UI component into a separate view/context (eg. a tab) and then let everything communicate with each other over broadcast channels. Allows you to use several components from various themes/skins (eg. artwork display & audio controls from one theme + a playlist creator or music collection browser from another theme). This seems like a great fit for Peek.
+- Another wrapping pattern is web applets, which then enables other use cases.
+
+What previous tech do we put on the list here?
+- Web intents
+- Web applets
+- postMessage, main thread <-> worker
+- Command bars / app launcher (Raycast)
+- ...
