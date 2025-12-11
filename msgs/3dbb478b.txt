@@ -1,0 +1,3 @@
+**Goal of the project:** Build a bunch of custom elements (web components) with various purposes (logic, UI, compositional, etc), allowing people to create audio players & browsers of all kinds of different shapes.
+
+Everything can be modified; audio input, user data output, how audio is played, how metadata and artwork is gathered, how you search through your collection, do I use a single tab in which I do everyhing, or do I use a context spread over multiple tabs, etc.
