@@ -1,0 +1,1 @@
+by syncing you use ollama's config for that model,  if you turn it off you can manually override ollama's setting through brave's ui as attached in screenshot here
