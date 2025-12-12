@@ -1,0 +1,5 @@
+https://exple.tive.org/blarg/2025/12/11/composure/
+"On yet another foray into the list of opinions I have that I’m sure are making me progressively more unemployable by the day, I asked some people on the internet: who is doing interesting work on software composability these days and where do I find them?"
+
+"I think the biggest utility and main beneficiary of the last decade of grafting SAAS-vendor security and deployment models into human-scale computing has been to prevent humans from even having the words we need, much less the tools, to describe a possible better computation future. I’m sure they’re great for warehouse-computer hyper-rentiers and the full stack vassal class they’ve cultivated, but at the human scale I believe all of these policy-tools are just symptoms of a profound failure of trust and imagination, in design and intention an explicit denial of human agency."
+Mike Hoye is another of my favorite Mozilla alums.
