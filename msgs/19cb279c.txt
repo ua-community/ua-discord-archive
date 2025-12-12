@@ -1,0 +1,1 @@
+Has a CRDT based update protocol: https://arxiv.org/abs/2507.14263
