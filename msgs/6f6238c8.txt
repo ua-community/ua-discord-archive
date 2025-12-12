@@ -1,0 +1,1 @@
+https://bsky.app/profile/servo.org/post/3m7rznovqkc2l Servo got custom handler support in. More distributed protocol browsers pls 👏
