@@ -1,0 +1,1 @@
+runs sailfish os, a linux based os with compat layer from most android apps: https://commerce.jolla.com/products/jolla-phone-preorder
