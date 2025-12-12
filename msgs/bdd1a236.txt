@@ -1,0 +1,1 @@
+I meant like https://agregore.mauve.moe/ Using ipfs:// & torrents to load websites. I assumed that’s what Servo meant by custom protocol handlers.
