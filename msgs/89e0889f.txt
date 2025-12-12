@@ -1,0 +1,1 @@
+What are "distributed protocols"? I was interpreting the servo support to be for Apps to implement browser -> app flows?
