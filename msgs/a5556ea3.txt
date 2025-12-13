@@ -1,0 +1,1 @@
+anything with a use… api is kind of broken by react-ism. being another vercel project is the final nail. will be full of conflict of interests like nextjs
