@@ -1,0 +1,3 @@
+What, how is that possible. Isn't the right just a visualization of the tool call?
+Maybe the agent thought it was already at 0.35, passed that to some edit tool, and the edit tool failed, but the UI doesn't show that?
+Or did it actually do a change, just not what was shown?
