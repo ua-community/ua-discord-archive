@@ -1,0 +1,1 @@
+it told me it changed to 0.25 but in the git diff i see it changed to 0.4 . there was absolutely no indication of this in the agent sidebar. 🤯  cc (user)
