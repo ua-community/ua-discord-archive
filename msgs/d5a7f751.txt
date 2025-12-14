@@ -1,0 +1,1 @@
+I wish they had a way to let agents tap into that memory in with a  capability/permission model and had decentralized identity, that’s the gap in trying to solve with tiles
