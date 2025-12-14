@@ -1,0 +1,1 @@
+its in a secure enclave sure, and yeah its better than soc2 certifications still its not portable, neither the identity nor the memories
