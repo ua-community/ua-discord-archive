@@ -1,0 +1,5 @@
+No, I built it in the server VM and took screenshots and used that with my test suite to a) make sure it built b) displayed correctly and c) could hand a few basic add/remove tasks. It was a first attempt at agentic coding with coPilot and I plan to throw everything away and just start over (it was a good learning experience!)
+
+What I'd like to do is actually interactively play with the software, not just use the VM w/screenshots. What is the simpleest way to build an interactive binary? For example, should I build it locally or can I build the core in the VM and connect to it in my local browser?
+
+I'm not asking for anything new! I just want to know how you build and interact with it.
