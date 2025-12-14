@@ -1,0 +1,1 @@
+they claim using a secure enclave, i assume by encalve they mean TEE, not sure, didnt care enough to dig as govt authorities if they want can go physically tinker and get my data: https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/
