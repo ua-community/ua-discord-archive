@@ -1,0 +1,1 @@
+It was first iteration of what Tiles was, since then it’s been shut down, working on an offline ai assistant + memory product now with https://www.tiles.run/
