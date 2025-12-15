@@ -1,0 +1,1 @@
+not 100% sure if chrome restricts to localhost but in theory, you should be able to install the app from a remote vm too, as long as it is reachable via https://  there might be a hard coded url somewhere but that would be simple to fix.  if you have a link i can try it out and if it works give you instructions.
