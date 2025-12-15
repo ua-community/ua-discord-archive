@@ -1,0 +1,1 @@
+Yeah I liked the idea of executing blocks with AI and @ agents that are composable web assembly modules
