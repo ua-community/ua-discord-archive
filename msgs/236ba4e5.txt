@@ -1,0 +1,1 @@
+I don't know if there is any really good in-context agent response UI. I think it's mostly tool calls getting rendered that make most UIs function. But for complex agents I feel it's quite overwhelming/more debug information then giving an overview of what the agent did.
