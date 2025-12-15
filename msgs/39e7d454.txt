@@ -1,0 +1,1 @@
+if you write cards in darc it shows you all the cards it has. i like samll card paradigma for this as it feels more interactive and like a "thing" compared to inline
