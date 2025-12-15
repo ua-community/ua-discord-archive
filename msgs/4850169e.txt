@@ -1,0 +1,3 @@
+Currently wireframing some stuff, and I'm wondering whether there's good examples of inline resources being returned by chats.
+Ie "I've created <file link> for you" and that link showing up with rich context.
+Quite similar to the way the user provides context "objects" to the agent, the agent could return these? Not sure I've seen a good ui for that so far
