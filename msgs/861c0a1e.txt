@@ -1,0 +1,2 @@
+I hate react ;)
+Also playing with a hybrid client/server architecture here, similar to workers but w/ full transition support to webworkers/local-first
