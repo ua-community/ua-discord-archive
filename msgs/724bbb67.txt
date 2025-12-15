@@ -1,0 +1,1 @@
+But having a hard time making a smooth markdown editor that has a smooth transition between editing & viewing
