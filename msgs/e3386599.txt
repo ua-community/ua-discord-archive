@@ -1,0 +1,1 @@
+its now possible to pull the tab sidebar open and close it similar to arc and it feels quite satisfying with tweaked rubber band effects.
