@@ -1,0 +1,1 @@
+Aswin did a deep analysis of all the text editors out there and went with that option for our usecase
