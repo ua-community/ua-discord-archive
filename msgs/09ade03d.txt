@@ -1,0 +1,1 @@
+you give it json schema for the card and its a tool call
