@@ -1,0 +1,1 @@
+its just an experiement, will add it to the next release to see how it feels.  thats the problem so far new tabs open at the bottom, but the sidebar will not have tabs but tab groups when those are done and tab groups have to open at the top. but at the top its awkward to just have an empty space. so i added the pull down to create a space thing.
