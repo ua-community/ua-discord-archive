@@ -1,0 +1,1 @@
+cursor also does parsing for paths and then replaces a path format with the lined and augmented badges afaik
