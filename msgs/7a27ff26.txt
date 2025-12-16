@@ -1,0 +1,1 @@
+or you can autogenerate them from the actual tool calls that happen if there is no smarts needed. eg you can add a feature to have aggregate cards that just combine all the edits to one file into one summary at the end
