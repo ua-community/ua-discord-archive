@@ -1,0 +1,1 @@
+That's a whole different space than either 1) not having to do with web at all or 2) extensibility that interacts w/ web pages without requiring any change from its authors.
