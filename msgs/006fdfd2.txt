@@ -1,0 +1,1 @@
+That said the DOM is still missing affordances and approaches that turn it into a general information substrate. As far as I've experimented, custom HTML elements and attributes play a big role in letting us moddle material and instruments on the web. I also have ideas for how to compose instruments together.
