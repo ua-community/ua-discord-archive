@@ -1,0 +1,1 @@
+They are the connector/communication methods, but are mostly not the things communicating.
