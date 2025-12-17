@@ -1,0 +1,1 @@
+Why would one want this? Like I get one-shotting and storing that, but this seems like it re-creates the background code on-demand over and over. Both expensive and unreliable?
