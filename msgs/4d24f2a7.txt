@@ -1,0 +1,1 @@
+`postMessage` is relevant specifically because it's the sole way to communicate *cross origin* in a web client.
