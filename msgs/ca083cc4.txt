@@ -1,0 +1,5 @@
+More interesting is the framing that the DOM is a freely addressable surface that represents a GUI. CSS and selectors, adding behavior via JS, web extensions, all depend on the free addressability of the DOM that make it permissionlessly extensible and openly authorable. 
+
+This was lost with the advent of "modern" web dev as React corporatized how we create web artifacts where the DOM is merely an opaque output of infinitely nested divs and hashed CSS classes. Combine that with the fact that React hydration also breaks when web extension modify the DOM before hydration occurs. It's an approach that actively prevents free addressability. 
+
+To (user) 's point what's interesting about web applets and co is that they make things in across origins addressable, but not freely addressable. It requires permission from the origin to expose such state and only limited state is exposed. UI's that previously had no programmatic I/O now have some and it provides an interesting theory of change that lets us repurpose existing web artifacts in a more malleable way (with as little work as possible), but I don't think something like web applets are really the end goal.
