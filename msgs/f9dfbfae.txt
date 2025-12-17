@@ -1,0 +1,10 @@
+Free addressability enables material to be [openly authorable](https://doi.org/10.1145/3276954.3276963) and permissionlessly extensible, which are really important characteristics for malleable software.  I think this is what (user)  is alluding to in this comment.
+
+
+> Another lens maybe useful to think about this through: Much of the above assumes something a web page publisher can author to. You can't use anything in the list of stuff we're talking about, without changing how you write web pages.
+> That's a whole different space than either 1) not having to do with web at all or 2) extensibility that interacts w/ web pages without requiring any change from its authors. - (user) 
+
+
+The problem is that when we transitioned how we interact with computers from UNIX to the GUIs people usually say we got easier to user computers and lost composability, but I would refute that, I think we lost materiality and instrumentality of software (even if UIs in the 90s had skeuomorphic designs that felt like material).
+
+It easy to [blame](https://www.youtube.com/watch?v=b7aUJyJbJMw) Steve Jobs for setting us along this path. But it can't be understated the economic incentives of siloed GUI applications combined with stringent IP/copyright laws. The other problem is that OSes and browsers have ossified in any meaningful way to provide us such a computing substrate.
