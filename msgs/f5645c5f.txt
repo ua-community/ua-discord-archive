@@ -1,0 +1,1 @@
+The glue/comms/ipc things are different ways of thinking about *what the web is* vs working with the web *as it is*. Seems an important distinction.
