@@ -1,0 +1,1 @@
+OLE and OpenDoc were sort of what I was alluding to when I mentioned blaming how Steve Jobs was so blinded by the GUI developed by Xerox Parc that he forgot about OOP (smalltalk) and networking!
