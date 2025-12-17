@@ -1,0 +1,16 @@
+> 1) the connector/communication methods
+> 2) trigger/emit data or interactions, or can receive, etc.
+> 3) Tiles has "wishes" as its glue,
+It's all of this yeah. The foundation for the pattern I had in mind is that there exists this sandbox (ie. closed surface) that has internal state (data) and has an API (trigger interactions + result).
+
+I dropped Raycast and other command bars in this bucket too, because it's basically this too (though the environment is much more restricted). Applets would be in this bucket too for me, but I see your distinction between the communication/connector method and the surfaces.
+
+There's something here regarding how to construct... software.. I guess we could call it? How does one shape a lego brick to enable proper assembly of the envisioned output; yet at the same time, allow for (optimal) alternative constructions (assemblies the lego brick creator did not think about, or could not imagine).
+
+> But it blurs...
+Exactly <a:nod:1288856343733866629> 
+
+> thinking about what the web is vs working with the web as it is
+That's a great distinction yeah ✨ 
+
+I guess that's what I'm trying to challenge with my project. How does one optimally shape the web so that orchestrators (viewers, browsers, agents, users) can rearrange it to their needs, or provide an intermediate layer to do so (eg. browser extensions).
