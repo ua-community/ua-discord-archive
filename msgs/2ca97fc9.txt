@@ -1,0 +1,1 @@
+WebXDC and Web Applets maybe similar in coupling glue+surface?
