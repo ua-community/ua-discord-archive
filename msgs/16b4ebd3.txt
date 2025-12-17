@@ -1,0 +1,1 @@
+Web Tiles, OpenFrames, WebXDC, Peergos apps seem to be more oriented towards the communicating things - the web surface itself, which trigger/emit data or interactions, or can receive, etc.
