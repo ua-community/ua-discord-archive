@@ -1,0 +1,1 @@
+this is also why controlled-frames are exciting! They allow the user agent  to freely address across origins without needing elevated permission  and gated distribution of of web extensions!
