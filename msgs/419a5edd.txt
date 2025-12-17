@@ -1,0 +1,2 @@
+Also, for your case GDPR does not apply anyways. See last paragraph: https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/application-regulation/who-does-data-protection-law-apply_en
+So it would probably be better not to block, so US customers visiting the EU can still access it
