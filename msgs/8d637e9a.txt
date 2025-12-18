@@ -1,0 +1,11 @@
+Thanks for tying it back into the materials & instruments conversation (user) ! I wish this concept would be a permanent resident in my brain, but unfortunately it isn't, **yet**.
+
+You're right that it does fit the pattern I was thinking of pretty well! The only difference perhaps is that I took all the protocols a modern browser understands, and took that as one encompassing substrate. For example, DOM (static) + HTTP Servers (dynamic)
+
+I'm not sure how to properly frame commands/actions/wishes/intents here. Taking a custom element as an example, do we call the custom element an instrument/tool? And do we say the instrument has actions/functions/commands? (like you would say IRL, a tool has one or more functions)
+
+> I'm constantly in awe of the web's potential to realize such a vision.
+Yes! I hope we can make this a reality soon. It can definitely be done better, but it's a great starting point. And now with the wonderful people of this channel making better browsers (among other things), we're so heading in the right direction.
+
+> web applets and co is that they make things in across origins addressable, but not freely addressable.
+I do wonder a lot about security + privacy and its relation to free address-ability.
