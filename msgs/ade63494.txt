@@ -1,0 +1,2 @@
+Quick poll. Do you guys actually like blocks as an abstraction vor (vertically) separating content/data? 
+Seems like it's mostly just technical?
