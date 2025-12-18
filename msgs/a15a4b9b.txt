@@ -1,0 +1,1 @@
+(user)  seems at least for chrome os, window shapes might come. the only electron thing i thought would never be doable that you needed for peek
