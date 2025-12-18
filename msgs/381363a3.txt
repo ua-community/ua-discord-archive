@@ -1,0 +1,3 @@
+`do-process-tracks` is an **orchestrator**; which sort of resembles an action that is often performed (abstracted logic)
+
+`dc-input` is a whole other thing, it is a **configurator**; which takes in the same actions as its DOM children.
