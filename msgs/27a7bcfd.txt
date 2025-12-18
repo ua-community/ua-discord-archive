@@ -1,0 +1,7 @@
+> That said the DOM is still missing affordances and approaches that turn it into a general-purpose information substrate. As far as I've experimented, custom HTML elements and attributes play a big role in letting us model materials and instruments on the web.
+I do feel signals are a big game changer here, that in combination with functions & attributes on custom elements <a:giphychefskiss:988597710594658354>
+
+I'm not entirely convinced of my "here's how you connect various instruments" logic though, but maybe that's just a type(script) problem <a:jake_shrug:1060243120568156160>  I'm using DOM selectors + attributes to connect elements.
+
+> I think DOM elements need a way to self-document the actions that can be performed on them
+Yeah, that'd be great!
