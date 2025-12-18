@@ -1,0 +1,2 @@
+I think you underestimate it. At this point many projects, and presumably companies, have moved to verifying everything for every commit.
+So cross platform builds, integration testing, etc. 100 minutes for a PR isn't unreasonable, and that'd be 20 cents, quite a lot imo
