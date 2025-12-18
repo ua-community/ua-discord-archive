@@ -1,0 +1,1 @@
+i wonder if having vim mode perma-on means i don't get blocks in Obsidian.
