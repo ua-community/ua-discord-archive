@@ -1,0 +1,8 @@
+The reason I say it feels odd is this:
+https://tangled.org/tokono.ma/diffuse/blob/46f233cf7e6aca56ac08d187ad6760b22abc9776/src/components/orchestrator/process-tracks/element.js#L55
+
+And here's the definition of that `query` function:
+https://tangled.org/tokono.ma/diffuse/blob/46f233cf7e6aca56ac08d187ad6760b22abc9776/src/common/element.js#L491
+
+There has to be a better way to do this.
+It's golang's `if (err != nil)` thing all over again otherwise 😄 (if I were not throwing an error)
