@@ -1,0 +1,1 @@
+i mean one purpose of xenon is to provide a tauri runtime and bridged ipc to iwa to have the best of both worlds eventually
