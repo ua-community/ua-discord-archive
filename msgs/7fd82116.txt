@@ -1,0 +1,1 @@
+like, i guess i could use Xenon and add Tauri glue for doing that via IPC to the IWA... but seems overly complicated for not much benefit.
