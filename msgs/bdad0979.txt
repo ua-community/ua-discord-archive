@@ -1,0 +1,1 @@
+I am trying to reduce the code to construct Diffuse elements as a little as possible, but it's things like this and the fact that there's nothing in place for worker communication that make it difficult.
