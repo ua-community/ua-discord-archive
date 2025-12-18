@@ -1,0 +1,14 @@
+(user) to expand on my "connecting instruments" problem as described in <#1431239919531196486> 
+Here's some examples:
+```html
+<do-process-tracks
+  input-selector="#input"
+  metadata-processor-selector="dp-metadata"
+  output-selector="#output"
+></do-process-tracks>
+
+<dc-input id="input">
+  <di-opensubsonic></di-opensubsonic>
+  <di-s3></di-s3>
+</dc-input>
+```
