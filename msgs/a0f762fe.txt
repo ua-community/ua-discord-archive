@@ -1,0 +1,1 @@
+i'm so tired of fighting the platform. Peek's approach is just to inject The Fucking API I Actually Want into a web window scope. that way i can use Electron or Tauri or whatever.
