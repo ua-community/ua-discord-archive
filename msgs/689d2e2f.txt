@@ -1,0 +1,1 @@
+(almost everything is done in web worker, unless it specifically cannot be done in that environment)
