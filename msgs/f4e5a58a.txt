@@ -1,0 +1,1 @@
+next version of raycast will be mixture of launcher, zapier and agent ui. will be interesting to see how these converge and what role browser vs launcher base dna will play
