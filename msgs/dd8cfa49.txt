@@ -1,0 +1,1 @@
+smalltalk's theory of change was that it's a closed VM, which at the time maked sense, but these days isn't compelling to me
