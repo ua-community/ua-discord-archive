@@ -1,0 +1,1 @@
+css and block editors are strong layouts, there is no concept if going in and out of free space
