@@ -1,0 +1,1 @@
+spatial canvases usually separate instruments from material, that's why the toolbar is a seperate overlay!
