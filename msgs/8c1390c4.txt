@@ -1,0 +1,1 @@
+interesting. if i see correctly cursor does not run an electron webview for the cursor browser but a hidden chrome with cdp and somehow connecting the cursor tab to it
