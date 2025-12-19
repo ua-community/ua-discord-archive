@@ -1,0 +1,1 @@
+And it occurs to me that the way they've set up their ui with clicking on content widget embed thingys can be generalized and turned into like a platform. Which, cool. But then I was like, clicking one of the link box widgets could open up an iframe of that page next to it.
