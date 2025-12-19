@@ -1,0 +1,1 @@
+excalidraw is canvas based, as said, that limits what you can do with it but its great at what it does. for dom i have to track positions and then move the lements overlayed on the canvas etc. it works but would be nice to have something not canvas based
