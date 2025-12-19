@@ -1,0 +1,1 @@
+so you could annotation any element with `folk-shape` attribute able it becomes a shape in a 2D canvas
