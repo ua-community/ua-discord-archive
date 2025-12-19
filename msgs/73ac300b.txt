@@ -1,0 +1,3 @@
+Right, so to sum up, a custom element would be a material and an instrument, if, it acts on other material. But we do have to write the custom element in such a way that it fulfills these information substrate rules (eg. no closed shadow dom/root, ui/logic split, etc).
+
+Probably not a bad idea to figure out these rules and write them down (note to self).
