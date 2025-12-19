@@ -1,0 +1,1 @@
+so you think it would be already happening in reading the pointer events? interestiing. happy to help you hunt down source of this when you work on optimiizing this!
