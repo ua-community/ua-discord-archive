@@ -1,0 +1,1 @@
+in general tldraw is pretty heavily optimized, I wouldnt expect any frames to be dropping
