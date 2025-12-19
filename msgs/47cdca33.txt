@@ -1,0 +1,1 @@
+it's quite different than how you would do things in the react component model and even typical web component design
