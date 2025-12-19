@@ -1,0 +1,2 @@
+> One issue with mmmpage is that the html it makes is pretty gibberish. Something like wwwobbleweb is a bit better, it's nice that you can see and edit the code, anyway. The latter especially falls short on smoothness of the interface, which is where tldraw excels. Seems like there are two parts: generating something that is visually and technically legible, and the tool to make it being intuitive.
+Trying to find this balance with the html-first canvas primitives I work on
