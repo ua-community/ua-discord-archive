@@ -1,0 +1,11 @@
+our requirements:
+
+- different object types, including ones that support arbitrary dom
+- basic canvas features there so we dont have to build everything
+- serializable in decent json including metadata
+- live updating ui  from mutating some state
+- smooth interactions and performant
+- open source without watermark or open washing licenses
+- limited/ minimal deps
+- ideally different connectino types between objects with abilty to add text to the connection 
+- selection and sub grouping tools
