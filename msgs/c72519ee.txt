@@ -1,0 +1,1 @@
+Extensions are generally *not* anchored to an origin, and that's a good thing. Web pages are take-away-able.
