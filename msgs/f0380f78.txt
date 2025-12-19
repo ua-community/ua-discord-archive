@@ -1,0 +1,1 @@
+OpenWebUI has both social feeds and Notes alongside the transitional chatbot interface, I really like that project
