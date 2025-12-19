@@ -1,0 +1,1 @@
+i wonder if the position updates are debounced or similar
