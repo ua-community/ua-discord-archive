@@ -1,0 +1,1 @@
+Like this spreadsheet uses shadowDOM to render column and headers, but slots in cells so they can be addressed from the the outside
