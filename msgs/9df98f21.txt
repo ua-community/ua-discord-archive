@@ -1,0 +1,1 @@
+funny you say this, playbit and leaflet were a reason darcs tabs scroll horizontally already and are in a card layout, even though that is not super obvious. so yes 100%. this is already what we are thinking about
