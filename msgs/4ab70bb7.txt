@@ -1,0 +1,3 @@
+I wish I had more fleshed out definitions, but right now I think about like this:
+
+The DOM (as an interface) is a material. Any material that can act on another material is some form of instrument. Take hitting a nail (material) with a rock (material) vs a hammer (material). It's the action exerted that make something an instrument.
