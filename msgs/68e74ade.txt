@@ -1,0 +1,1 @@
+Instead of tabs, documents with links and widgets that fold out to the right like this. So the documentation and the page navigation and the annotation are composable.
