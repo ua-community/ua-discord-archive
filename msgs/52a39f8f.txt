@@ -1,0 +1,1 @@
+now that i think of it, many of the folk js demos would make sense as a browser ui experiment.
