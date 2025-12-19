@@ -1,0 +1,14 @@
+e.g. 
+
+```html
+<folk-spreadsheet>
+  <folk-cell column="A" row="1" expression="1"></folk-cell>
+  <folk-cell column="B" row="1"></folk-cell>
+  <folk-cell column="C" row="1"></folk-cell>
+  <folk-cell column="D" row="1"></folk-cell>
+  <folk-cell column="E" row="1"></folk-cell>
+  <folk-cell column="F" row="1"></folk-cell>
+  <folk-cell column="G" row="1"></folk-cell>
+  ...
+</folk-spreadsheet>
+```
