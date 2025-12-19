@@ -1,0 +1,2 @@
+> I do wonder a lot about security + privacy and its relation to free addressability.
+ya security is an open problem, especially without shadowRealms
