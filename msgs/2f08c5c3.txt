@@ -1,0 +1,1 @@
+this would also require a spatial canvas that can easily embed widgets/blocks. Not that something like tldraw can't do that, but there boilerplate to embed new widgets in
