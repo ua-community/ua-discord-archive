@@ -1,0 +1,1 @@
+interesting!  though it has similar lagging feeling when moving canvas even with just one rectangle to tldraw.   any idea what might cause this?   besides the watermark this was what always turned me away from it
