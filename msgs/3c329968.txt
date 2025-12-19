@@ -1,0 +1,3 @@
+In folkjs think of it more of how can I extend the existing primitives to add such functionality. One way to approach it is by extending the arrow element (which is just a class) to perform some computation between the source and the target.
+
+The demo shows a model called *event propagators * which provides equivalent functionality, but its a different computational model than reactflow (node and wires)
