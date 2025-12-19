@@ -1,0 +1,1 @@
+I mean it's literally just taking pointer events and updating a single style attribute for a absolutely positioned element
