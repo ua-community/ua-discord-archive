@@ -1,0 +1,1 @@
+0.2.0 rc has support for ```tiles run``` that starts the tiles server and auto selects the model, and streaming text support, with fixes for model downloading: https://github.com/tilesprivacy/tilekit/releases/tag/0.2.0, for the final 0.2.0 we'll add the virtual python solution (https://venvstacks.lmstudio.ai/overview/)
