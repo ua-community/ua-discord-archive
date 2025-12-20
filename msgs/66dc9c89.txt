@@ -1,0 +1,5 @@
+give an example and walk me through what happens from the mir uri to final resolving a request/
+
+i have a coding agent and add an mir uri to a model that is diffusion multi modal model that should be resolved when online to a secret google endpoint and when not online to a similar model running on a server in my home, but that is not yet  running. 
+
+what is the mir uri and what exactly happens from the point i configure it
