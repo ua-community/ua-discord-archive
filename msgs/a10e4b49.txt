@@ -1,0 +1,1 @@
+that does not explain how it does find anything. "a BERT model will always be a bert model no matter what, so we use that knowledge to reduce the set of possibilities"
