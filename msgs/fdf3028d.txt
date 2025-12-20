@@ -1,0 +1,1 @@
+the server is running, but the model is just installed not instantiated. eg like the docker image is there but container not
