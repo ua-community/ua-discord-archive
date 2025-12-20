@@ -1,0 +1,1 @@
+I’m thinking is using a minimal encrypted metadata based  system with Iroh that’ll act as discovery modules
