@@ -1,0 +1,1 @@
+you can't just advocate privacy and not have the core parts of your project open sourced
