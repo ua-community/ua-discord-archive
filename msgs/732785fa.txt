@@ -1,0 +1,1 @@
+Like feels like managers trying to rate developers by LoC or commit count or something
