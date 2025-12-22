@@ -1,0 +1,4 @@
+> Ellora (Enhancing LLMs with LoRA) is a collection of standardized, high-quality LoRA recipes for enhancing Large Language Model capabilities. Instead of building new frameworks, we focus on creating reproducible training methodologies that work with existing infrastructure.
+
+> The core insight was that instead of updating all model weights, LoRA injects trainable low-rank matrices into each Transformer layer, dramatically reducing the parameter count without sacrificing capability.
+https://huggingface.co/blog/codelion/ellora-lora-recipes
