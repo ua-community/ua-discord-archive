@@ -1,0 +1,1 @@
+i would expect also to be optimizable with svelte flow, 100 of nodes should be no issue. lets create a fresh project just to recreate this bottleneck, try understanding the source and then decide further actions
