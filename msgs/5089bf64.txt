@@ -1,0 +1,1 @@
+No, we actually get the ISP ban where DNS/IP is banned... I don't think CF works with German ISPs yet
