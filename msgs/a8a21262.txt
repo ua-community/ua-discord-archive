@@ -1,0 +1,1 @@
+i have a node project like this in react that can handle thousands of nodes with no issue, i would imagine svelte would be similar
