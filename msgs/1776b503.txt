@@ -1,0 +1,1 @@
+isnt adb deprecated? sounds even more hacky than cdp which is already bad. also i think i stopped thinking about adb when they removed critical features that made it possible to clone a phones filesystem
