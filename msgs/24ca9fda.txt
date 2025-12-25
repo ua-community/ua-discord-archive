@@ -1,0 +1,4 @@
+Using ADB is a time honored tradition too. Scrcpy just rocks so hard, has so many input outputs it can send to or from Android devices. Via great ADB magic. 
+
+I did some very light streaming of a silly mobile game (Blizzard's Warcraft Rumble), using OBS on my desktop to stream, copying the game video & audio over scrcpy, AND used the phones selfie camera as a streaming camera at the same time. Scrcpy + your phone is probably the best webcam 99.99% of people have.
+https://github.com/Genymobile/scrcpy
