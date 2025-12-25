@@ -1,0 +1,3 @@
+Looks like they moved onto rust so...
+But I have to say this very basic but extremely versatile foundation I really like.
+I think it's confusing (?) that it doesn't support deduplication / deep references, but I guess nothing is stopping me from adding that 🤔
