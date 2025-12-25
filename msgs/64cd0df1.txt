@@ -1,0 +1,15 @@
+Stumbling over all this a second time, so now you get to also stumble over it (or I will forget again)
+
+https://bsky.app/profile/worm-blossom.org
+https://worm-blossom.org/#y2025w51a4
+(The landing page is a goldmine, but these two stand out)
+https://worm-blossom.org/#y2025w49
+
+https://crates.io/crates/meadowcap
+https://crates.io/crates/willow25
+
+https://willowprotocol.org/specs/willow25/
+^ willow 25 is a specific set of choices for several other things.
+The other things are linked at the top, and compose beautifully.
+
+Thinking to use this over doing what I'm doing
