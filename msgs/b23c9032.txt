@@ -1,0 +1,1 @@
+earthstar has evolved to be a bunch of projects loosely linked together. I wouldn't use the dat ecosystem channel as a source of truth. https://discord.gg/jpQ9x7kDQ
