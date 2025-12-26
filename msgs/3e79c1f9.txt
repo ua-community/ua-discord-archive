@@ -1,0 +1,5 @@
+Chatting a bit to the willow guys, and found this to be incredibly interesting https://aljoscha-meyer.de/posts/mutability_and_rot/index.html
+
+My first instinct was "but archival" but really what would be needed is archiving the name and the content together - content addressing makes archiving the content easy, but that's not helpful without storing the "original" name.
+Maybe mutability is ultimately better, and proper archival/reference tools would be more helpful then relying on content addressing to do it (maybe poorly)
+(^ this is very stream of consciousness at this point, but maybe it resonates)
