@@ -1,0 +1,1 @@
+What about private data though :/ I like the PDS idea, but I think the idea in willow, not sharing data with people that shouldn't see it at all, is much better then the "everything is public always", and even still better than IPFS "just encrypt it".
