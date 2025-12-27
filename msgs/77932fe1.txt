@@ -1,0 +1,1 @@
+do you have programmatic access to the the hardware readouts from sofware ?
