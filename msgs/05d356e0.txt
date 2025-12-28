@@ -1,0 +1,1 @@
+Regarding the NER explorations from earlier, I didn't find what I needed so am looking at rolling my own micromodel. First test will be using the Web Data Commons as training data - structured data extracts from Common Crawl: https://webdatacommons.org/structureddata/
