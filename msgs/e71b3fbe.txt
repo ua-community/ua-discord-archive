@@ -1,0 +1,5 @@
+I also made an iOS app for quickly moving addresses (and soon more) into self-owned datastore, and off device. It's basic, but along the same design philosophy of Peek desktop, has a focus on instantaneity + assurance. In this case, that means three things:
+
+- save anything (rn just addresses tho)
+- quickly classify it
+- get it somewhere "safe"
