@@ -1,0 +1,1 @@
+(user)  any ideas on termux > native chroe on android  to get darc running on android / dex?
