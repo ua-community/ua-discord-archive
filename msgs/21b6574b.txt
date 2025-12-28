@@ -1,0 +1,1 @@
+yeah but that is only the official samsung liinux release. termux still should work
