@@ -1,0 +1,1 @@
+The classification is solely HITL until i get the micromodel for NER-hinting working, and even then it'll be assistive (vs automated).
