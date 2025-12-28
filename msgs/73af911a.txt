@@ -1,0 +1,3 @@
+According to Android Authority, Android Canary 2507 now supports native GUI Linux apps.
+
+After installing the July 2025 Canary build, a new icon appears in the Linux Terminal app that opens a display activity. Inside it, running weston launches a full Wayland-based Linux desktop session. It even has GPU acceleration and audio support 🤯
