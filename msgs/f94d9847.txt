@@ -1,0 +1,1 @@
+I've been dogfooding peeks and slides since summer, but i need to be able to replace a much larger chunk of daily activity that i'd typically do in a browser. There's a list of things I want to do in a browser, but will never be able to. But I can't get there until I have basic daily usage for viewing (and re-viewing) pages working.
