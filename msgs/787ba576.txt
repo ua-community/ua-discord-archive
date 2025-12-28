@@ -1,0 +1,6 @@
+Oops, haven't been updating here... pre-holidays, i worked on various things in Peek:
+- added Tinybase (Sqlite-backed) as a datastore
+- storing addresses, visits, blobs, documents, tags
+- ripped out the placeholder settings ui and replaced with new placeholder settings ui
+- fixed profile mix-ups
+- page view history autocompletes in command bar
