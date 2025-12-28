@@ -1,0 +1,1 @@
+damn now i have option a) get pixel and use native terminal + wayland + chrome or get s25 and use termux + dex
