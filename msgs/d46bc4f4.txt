@@ -1,0 +1,1 @@
+This means that modeling a given task or research project (DNA analysis, trip planning, the perfect biryani, whatever) is no longer about which browser window, set of dis/connected tabs or remembering to make a tab group, or even history "trails" (fallible!). Instead, you have relational entity clusters in time.
