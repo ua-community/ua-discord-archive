@@ -1,0 +1,1 @@
+The first is a button-driven approach to rapid selection across broad set of categories. This builds on learnings in the Firefox awesomebar around revisitation. Eg when tagging, the assertion is that most of the time you'll be adding tags you've added before.
