@@ -1,0 +1,1 @@
+detection that's not 100% human-initiated is the crux problem. will certainly take some testing and tuning. if you can't get to reasonably good entity-hinting, the UX friction is Too Damn High and the premise breaks.
