@@ -1,0 +1,1 @@
+why is gpu accel an issue? and why isnt it about browsers? isnt what they propose in essence a cloud compartmentalization system?
