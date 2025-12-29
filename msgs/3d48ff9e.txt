@@ -1,0 +1,1 @@
+gpu acceleration and sound would be next to fix.  but maybe i just get a new pixel and try wayland  first
