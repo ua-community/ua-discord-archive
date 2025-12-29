@@ -1,0 +1,1 @@
+keyboard works but the opening has to be done from the x11 app. there are other x11 servers that work differently. but for my initial usecase this is fine as im going to connect a twiddler and viture glasses, so the phone part should just work like normal andoid
