@@ -1,0 +1,1 @@
+(user) Have you considered using nintendo switch joycons and writing some software to convert their data to whatever inputs you desire?
