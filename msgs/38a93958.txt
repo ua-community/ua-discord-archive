@@ -1,0 +1,1 @@
+yeah but native android one is getting hardware accel without instruction translation  soon or might already have it. ( forgot the name of the tech)
