@@ -1,0 +1,9 @@
+So this is extremely close to what I *was* thinking about until a few days ago.
+But I think what the willow guys are doing is more human. I certainly don't want to (mis)represent their thinking, but from my understanding.
+This "paths are tags and file are stored as addresses" (similar to IPFS) is deeply technical, and has nothing to do with the agency (or wants/needs/rights) of users.
+
+Another angle (that is important to me) is archiving: with "paths are tags" we can (semi-)automatically create tags that archive my <cpntent> exactly as it was. Yes, and that will let it go out of date. We want to preserve the *intent* the user had when linking that, the intent is obviously not a 404, and bitrot is bad. But the intent when I link to "todays-weather-report.org" is probably not that I want whatever day it currently is to be archived forever (but it could be).
+
+And a third thing: Users don't care. Users already just copy files if they want to also have it in another folder. The only reason technical people don't is because they know they are wasting space.
+Symlinks are cool because they explicitly *do* inherit the mutability of the mutable path that was linked to, not despite that.
+"paths are tags" is just a fancy way for saying "we deduplicate your data by <x>", it's a cool thing, but nothing we should consider as some kind of agency/privacy/whatever tool. And we certainly shouldn't build our applications in exactly such a way that they happen to conform to that <x> (looking at IPFS merkle tree shenanigans).
