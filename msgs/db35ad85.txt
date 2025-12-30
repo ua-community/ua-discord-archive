@@ -1,0 +1,4 @@
+- FOSDEM (Jan/Feb)
+- Protocols for Publishers (Feb)
+- Atmosphere (Mar)
+- Dweb Camp EU (July, TBD)
