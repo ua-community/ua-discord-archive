@@ -1,0 +1,1 @@
+a big pile of regex likely could handle most of the common cases.
