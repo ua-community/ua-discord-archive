@@ -1,0 +1,1 @@
+the other way is to set a password and then throw the password away
