@@ -1,0 +1,1 @@
+my scope is far far narrower. a base level of NER such as "70% confident ___ is an entity of the target classes" might not even require "AI".
