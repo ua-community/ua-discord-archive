@@ -1,0 +1,3 @@
+For moving around: I really want to hook up the android assistant to some custom app and do Gemini 3 Pro live voice stuffs.
+Not sure I understand the value of having keys.
+Would be neat with good XR glasses of course.
