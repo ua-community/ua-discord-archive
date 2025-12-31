@@ -1,0 +1,2 @@
+I have some basic things I do with interception-tools on Linux. It's fine. I wonder what some of the newer input mapping tools do. Just saw InputPlumber.
+https://www.phoronix.com/news/InputPlumber-0.70
