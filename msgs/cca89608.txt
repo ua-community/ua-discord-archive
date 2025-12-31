@@ -1,0 +1,1 @@
+It feels like Wayland, PipeWire and maybe this input plumber all have this stream processing purpose, Wayland and pipewire have not so different protocols... It'd be so neat imo if we could shoehorn everything into say PipeWire, make it the #malleable configuration layer. Obviously a ah ahem pipe dream.
