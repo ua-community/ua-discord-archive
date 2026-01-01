@@ -1,0 +1,1 @@
+termux for legacy. native android linux on supporting processors
