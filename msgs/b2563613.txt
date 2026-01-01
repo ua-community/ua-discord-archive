@@ -1,0 +1,7 @@
+we just started making releases that can be downloaded from github 
+https://github.com/Agent54/xe-darc/releases/tag/latest
+
+
+
+but I assume you mean how to install not just download:
+https://github.com/Agent54/xe-darc/blob/int/INSTALL.md
