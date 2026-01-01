@@ -1,0 +1,1 @@
+hardware acceleration is supported on adreno 6xx and some 7xx gpus. as well as whatever pixel 10 has. all the chips in between are pending mesa updates hopefully coming in 2026
