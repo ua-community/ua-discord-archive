@@ -1,0 +1,2 @@
+https://github.com/Agent54/xe-darc/releases/tag/latest
+https://github.com/Agent54/xe-darc/blob/int/INSTALL.md
