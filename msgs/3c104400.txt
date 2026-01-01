@@ -1,0 +1,1 @@
+(user) you can install the compiled version from the github release by enabling just the about:chrome flags in chrome and then adding the update manifest json  in about://web-app-internals , skipping the repo checkout and certificate stuff, but this is currently still quite limited
