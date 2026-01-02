@@ -1,0 +1,3 @@
+My hope for this year is that I can instruct an open-source local llm to use Diffuse elements to generate a media browser or player that behaves and looks exactly as instructed. Generating software based on needs.
+
+eg. generate an overview of all my albums grouped by year and genre, with cover images from musicbrainz, and have that connected to an existing player interface in another tab/window
