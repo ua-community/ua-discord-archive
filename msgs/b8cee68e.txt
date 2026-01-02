@@ -1,0 +1,3 @@
+I would like to collaborate/partner with you on that front, With Tiles we are just super focused on models and related infra, presently we plan to use Open WebUI, but I would love to have an “Artifacts” feature where diffuse can be used as an experimental frontend / ChatGPT Apps like experience 
+
+The first feature related to music sounds dope as you already love and know them, I think challenge is to figure out the API / UX for the renderer incrementally
