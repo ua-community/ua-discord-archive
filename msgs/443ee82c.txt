@@ -1,0 +1,1 @@
+I think having a open source classifier is a great idea but I'm not going to suggest you 'scrape" the Hive AI API. That will just get you in trouble
