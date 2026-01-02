@@ -1,0 +1,2 @@
+This looks extremely promising. Especially if they train models specifically for this.
+I imagine this might be very good at interacting with complex environments, ie computer use.
