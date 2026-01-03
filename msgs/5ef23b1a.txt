@@ -1,0 +1,1 @@
+my work in this direction is limited to the canvas view you saw in the other thread as well as tab history graph visualization. there is a simple menu view that gives rough idea about what happened in a tab and a fullscreen detail view that is showing the history graph. both are in the latest int branch in a mockup state
