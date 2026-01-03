@@ -1,0 +1,1 @@
+its early research phase. lots of prototyping and experiments. the main work is focussing to get the main browser features right and the right abstractions so this is easy to build properly in 6 months or so
