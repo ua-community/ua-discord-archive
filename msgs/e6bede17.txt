@@ -1,0 +1,14 @@
+> Run, fine-tune models locally with Modelfile
+> 
+> Usage: tiles <COMMAND>
+> 
+> Commands:
+>   run     Runs the given Modelfile (runs the default model if none passed)
+>   health  Checks the status of dependencies
+>   server  start or stop the daemon server
+>   help    Print this message or the help of the given subcommand(s)
+> 
+> Options:
+>   -h, --help     Print help
+>   -V, --version  Print version
+🧐
