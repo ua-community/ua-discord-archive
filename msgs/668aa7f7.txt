@@ -1,0 +1,10 @@
+> e6d64@A3816 server % just serve
+> uv run --project server python  -m server.main
+> INFO:     Started server process [85745]
+> INFO:     Waiting for application startup.
+> INFO:     Application startup complete.
+> ERROR:    [Errno 48] error while attempting to bind on address ('127.0.0.1', 6969): [errno 48] address already in use
+> INFO:     Waiting for application shutdown.
+> INFO:     Application shutdown complete.
+> error: Recipe `serve` failed on line 15 with exit code 1
+> e6d64@A3816 server %
