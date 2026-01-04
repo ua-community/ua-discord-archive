@@ -1,0 +1,1 @@
+TIL about RAID 0 striping: https://www.youtube.com/watch?v=nW-G-UR2yDw
