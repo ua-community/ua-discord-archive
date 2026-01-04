@@ -1,0 +1,1 @@
+i guess these were the instructions i was meant to follow https://github.com/tilesprivacy/tiles/blob/main/HACKING.md
