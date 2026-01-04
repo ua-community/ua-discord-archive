@@ -1,0 +1,4 @@
+to, (user) mostly im wondering the scale you have in mind for this as from personal experience i have a very hard time with one particular aspect of nodegraph programming
+(i make <https://github.com/darkshapes/singularity>) which is that creating tests is extremely difficult
+
+it also seems like youre talking about categorizing the data filtering through nodes which i think is interesting but just appears to be type/operation node casting in some way. my question being there as to how you intended to solve/apply the solution to the problem you suggest (unless it is demonstrated in the shape-bound node device you have here)
