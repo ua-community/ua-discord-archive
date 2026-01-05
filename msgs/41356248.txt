@@ -1,0 +1,2 @@
+Zodiac is a system that builds applications by automatically connecting artificial neural networks without needing to write code.
+MIR is a URI naming schema and framework used by Zodiac for hyperlinking machine intelligence models and settings.
