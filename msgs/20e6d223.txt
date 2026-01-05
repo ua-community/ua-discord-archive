@@ -1,0 +1,1 @@
+i want to train a better memory model on that hardware so badly, current tiles model is a overthinker and thus very slow, and current bottleneck in progress, and cant use server side GPUs as I cant afford them at current stage of sponsorship, really excited to get access once it opens up 🙂
