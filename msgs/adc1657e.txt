@@ -1,0 +1,5 @@
+Your words were:
+> the problem with obsidian graphs, and a lot of vanilla graph/network thinking generally, is that one is not only interested in the relations between nodes, but the information shared, and transformed via the relations ...  the network information is very superficial until you know more details about the relationships. 
+
+Then you share an image where:
+>  you can see  the computation flow, the types, whereby the shapes and colors of things are suggestive of their meaning somehow
