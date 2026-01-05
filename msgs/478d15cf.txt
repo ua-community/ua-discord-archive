@@ -1,0 +1,1 @@
+(user) is just finishing a refactor of the codebase and fixing all the onboarding issues including option to select at what location your memory gets stored, it'll be done merged to main ina. day or two, sorry for this experience
