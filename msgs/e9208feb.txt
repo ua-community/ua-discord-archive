@@ -1,0 +1,1 @@
+for real, that will do, we are training sub 4B param models to begin with anyway (as memory module usecase), then want to train the moe 20b gpt-oss model for standalone + memory module usecases
