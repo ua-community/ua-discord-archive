@@ -1,0 +1,1 @@
+8x3090 192gb vram. Should be good for fine tuning and quantization of existing models. I’ve not attempted training from scratch, suspect would be slow but welcome to try.
