@@ -1,0 +1,4 @@
+> e6d64@A3816 ~ % tiles server stop
+> Server is not running
+> e6d64@A3816 ~ % tiles server start
+> server is already up
