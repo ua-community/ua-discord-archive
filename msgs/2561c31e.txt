@@ -1,0 +1,1 @@
+Something similar we've looked at is something along the lines of Blender's grouping system, or nested graphs as an 'infinite scroll' interface, zooming or narrowing into a cluster of nodes that simplify into a single point in space on the UI
