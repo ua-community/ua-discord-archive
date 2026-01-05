@@ -1,0 +1,16 @@
+## Zodiac
+What is Zodiac?
+- Zodiac is a tool to easily self-assemble chains of offline AI models.
+
+Why chain offline AI models?
+- To create your own private applications. *Example: In three clicks, you chain 5 models, allowing you to speak to the computer to generate text which outputs an image that is described out loud.*
+
+What does Zodiac need to work?
+- The heart of Zodiac is a specialized node graph that runs work via paths between MIR-registered locations.
+
+How is this different from ‘Agentic’ AI?
+- Agentic AI begins with text instruction and ends with whatever kind of output is being asked for. Setup demands technical knowledge, and to customize further requires programming. It can automatically or by request reach outside of your input and often has a form of memory. Its means are open-ended, or rule-out. Almost exclusively online.
+- Zodiac begins with any medium and end with any medium. It generates its own pipelines to avoid technical prerequisites, and never requires any programming. It is isolated from outside, only operates on input directly provided, and does not remember. Its means are limited, or rule-in. Almost exclusively offline. 
+
+End Goal:
+- Folk agency over application creation and design.
