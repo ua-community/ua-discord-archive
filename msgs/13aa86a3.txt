@@ -1,0 +1,1 @@
+ah, i had to `cargo run server stop` lmaoooooo
