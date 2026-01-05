@@ -1,0 +1,1 @@
+from my perspective, moderation sould be transparent, and issues should be resolved through the community and directly between parties involved
