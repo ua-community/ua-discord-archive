@@ -1,0 +1,27 @@
+Hello! Info about this project:
+
+## MIR
+What is a machine intelligence resource (MIR)?
+- Machine intelligence resources are artificial intelligence model weights, their parameter configurations, their code repositories, and the code commands that assemble those pieces.
+
+What is a MIR universal resource information (URI) schema?
+- The MIR URI schema is a structure to hyperlink machine intelligence resources.
+
+What does MIR need to work?
+- A nested structure that is readable by both humans and machines is required to store data under hyperlinks in MIR. There must then be a means to search and retrieve links and their data.
+
+What is the difference between MIR and the Model Context Protocol (MCP)?
+- Model Context Protocol directs folks running AI models to networked servers to perform tasks.
+- MIR directs folks to offline or online resources with or without servers to make AI models run at all.
+
+What does MIR look like?
+- MIR looks like a web URL in reverse that branches into instances of data or other MIR URIs. The URI itself looks like this:
+
+## mir : // model . vit . clip-l : stable-diffusion-xl
+
+`mir :  // model .    lora      .    hyper    :   flux1-dev`
+` ↑         ↑          ↑               ↑              ↑`
+[URI] : //[Domain].[Architecture].[Series]:[Compatibility]
+
+End Goal:
+- As a URI standard, it means room for MIR resolvers and *MIR browsers*. Can be used totally offline, its ultra simple and extensible, and can be implemented in countless ways.
