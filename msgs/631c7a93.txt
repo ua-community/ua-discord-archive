@@ -1,0 +1,1 @@
+doesnt that make for potentially extremely destructive behavior in other servers?
