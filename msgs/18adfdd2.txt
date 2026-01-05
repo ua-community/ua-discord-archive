@@ -1,0 +1,1 @@
+What’s the one line description for each of zodiac and MIR and how it relates? Want to list it on https://github.com/ua-community/.github/blob/main/profile/README.md
