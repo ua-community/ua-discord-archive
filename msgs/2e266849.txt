@@ -1,0 +1,1 @@
+seems like fully fine tuning a 4B model is very feasible: https://chatgpt.com/share/695b5b95-724c-800d-b7a2-0d436cbf99b4
