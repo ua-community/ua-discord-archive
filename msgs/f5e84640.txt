@@ -1,0 +1,2 @@
+Zodiac is a no-code, self-arranging system that chains ANNs (artificial neural networks) into applications.
+MIR is a URI schema and ontological standard for hyperlinking and inter-operating machine intelligence models.
