@@ -1,0 +1,1 @@
+what do you want to use it for?  im always frustrated by newline crazyness. i just want to use newlines as i whish, the way i do line breaks has meaning to me and i dont want to have to add doble new lines or any new lines at all to force the parsing to work
