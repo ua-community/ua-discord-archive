@@ -1,0 +1,2 @@
+Is there actually no reasonably usable text format that is extremely stupid? I have been trying to implement some basic text highlighting and stuff, but nothing existing seems to be even remotely reasonable.
+I liked djot, but then they make exceptions to the rule for features like this... Who needs this
