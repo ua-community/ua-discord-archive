@@ -1,0 +1,1 @@
+Thinking again on how I capture my streams. I almost spun up a beads / neorg sync layer to get a well known task tool (neovim's well loved neorg, an emacs org mode like thing). But mostly I use logseq on the go and making a three way sync sounded even less smart.
