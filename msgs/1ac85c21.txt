@@ -1,0 +1,3 @@
+It’s a community project, not affiliated with Unsloth AI or Apple
+
+https://github.com/ARahim3/unsloth-mlx/
