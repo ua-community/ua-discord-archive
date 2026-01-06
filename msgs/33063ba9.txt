@@ -1,0 +1,3 @@
+Taking notes, somewhat pretty rendering, lots of links. Looking for something that is really close to text, so editing/viewing text looks almost the same visually (with editing some trivia like \* is obviously visible / font size may change)
+
+I want to use it as the basis for the extendable document format I'm working on (w/ live components similar to applets for more advanced features like maths)
