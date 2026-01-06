@@ -1,0 +1,1 @@
+(user) everything should work fine rn, for v 0.4.0 the python deps will be portable and with time the whole binary will be self contained and portable 🙂
