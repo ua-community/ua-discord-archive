@@ -1,0 +1,1 @@
+latest android beta finally gives limited hardware acceleration on my old pixel 7a running wayland with multitouch, sound and webgl suport. can play fullscreen hd videos (4k is to stuttery though)
