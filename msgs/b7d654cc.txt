@@ -1,0 +1,14 @@
+We've got a 0.3.0 release, courtesy of (user) 
+
+What changed: 
+
+### Tiles CLI
+- fix: tiles binary server startup issue, if binary executed from directory other than the project directory .
+- fix: Model not getting unloaded after exiting REPL.
+
+### Dev
+
+* fix:  py version to 3.13 for development 
+* Basic Linux compatibility
+    - Dev version works in Linux, enabling local model inference experiments there.
+* Basic refactoring wrto multiple runtime support
