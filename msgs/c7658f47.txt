@@ -1,0 +1,1 @@
+Todo: My custom elements work and that of folk.js fits this pattern as well. Along with the materials + instruments thinking. Doesn't entirely fit the postMessage idea, unless.. you use web workers for everything.
