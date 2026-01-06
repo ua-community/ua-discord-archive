@@ -1,0 +1,3 @@
+I wish Harmony was making it a little more out of the great firewall in more than productized form. It's an interesting OS. Team did significant good work to make a fast mobile os, some good research papers!
+
+Also ever fascinated by ubiquitous & pervasive computing, & Harmony seems very committed to cross device connections, both to home automation type things, random gadgets, but also other computers. Maybe the first consumer OS with some level of distributed-ness. Alas it's pitifully documented, especially in English.
