@@ -1,0 +1,1 @@
+can we compose "apps" together by using the DOM as a shared interface but without sharing the same `window`, like web extensions work? Web extensions showed how the DOM can be a multi-threaded authorial surface, but such a mechanism remains exclusive the extensions
