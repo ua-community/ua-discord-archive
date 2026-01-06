@@ -1,0 +1,2 @@
+To show off what things are, webcomponent toolkit has a whole schema / manifest it can build. Right now a dee eloper affordance but making that live on the page seems straightforward, to push mael-lying it up.
+https://wc-toolkit.com/
