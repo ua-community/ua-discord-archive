@@ -1,0 +1,1 @@
+composition via `postMessage` remains a stopgap imo as it's restrictive and give too much permission to the app being embeded.
