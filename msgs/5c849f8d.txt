@@ -1,0 +1,5 @@
+Initial notes on some of the discussion around this pattern:
+https://github.com/ua-community/ua-extensions/blob/main/patterns/sandbox-communication.md
+
+Curious to what people think about this specifically:
+> Perhaps a question we can ask ourselves here, what if every protocol in this list opts for `postMessage` directly and the difference lies in the data format + message target instead? In this manner we're not changing the way how we write web pages, but instead what is communicated. Is that realistic?
