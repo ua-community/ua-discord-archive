@@ -1,0 +1,1 @@
+aaand drag and drop bug was found and looks like someone has started fixing today
