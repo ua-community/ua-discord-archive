@@ -1,0 +1,2 @@
+Used the same os as Precursor (a neat sovereign computing messenger thing), Xous (a rust microkernel).
+https://github.com/betrusted-io/xous-core/
