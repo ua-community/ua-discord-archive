@@ -1,0 +1,2 @@
+Oh neat,  RISC-V board. That has 4x IO co-processors like the rp2040/rp2350. By hacking legend Bunnie Huang.
+https://www.hackster.io/news/andrew-bunnie-huang-prepares-the-dabao-a-dev-board-for-baochip-s-mostly-open-x1-risc-v-mcu-1b7cad7fa2ea.amp
