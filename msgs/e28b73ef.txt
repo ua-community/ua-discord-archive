@@ -1,0 +1,1 @@
+(Also, but I think this is a given based on the above anyways, I need to be able to implement it efficiently, so I can just text -> HTML it on keypress without lag)
