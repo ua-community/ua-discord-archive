@@ -1,0 +1,8 @@
+I like the postMessage w/ WebWorkers world :)
+Maybe one thought based on what I'm playing with right now: What if extensions don't really get to have their internal state (and by extension, access to the DOM directly), but instead do the ELM thing of
+
+Init: () -> S
+View: S -> V<M>
+Update S, M -> S
+
+imo this lends itself quite well to the postmessage world (each thing has to be either serializable or transferrable) and is still "secure" via the origin.
