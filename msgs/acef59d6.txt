@@ -1,0 +1,1 @@
+So when I say 'failings' what I mean is those things in particular, failure of traditional graph systems to solve those problems in particular
