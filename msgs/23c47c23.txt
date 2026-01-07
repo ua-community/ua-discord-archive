@@ -1,0 +1,7 @@
+I feel like all of these have different preconceptions, or maybe it's just me.
+
+Plugin = A small foundation, lots of plugins to extend functionality (most of the time there's a decent amount of base plugins)
+
+Add-on, or extension = Large, solid product which can be modified slightly.
+
+Mod = Huge product that can be modified, often only IF allowed. Cannot diverge too far from the original product. Games can provide builders to enable more use-cases.
