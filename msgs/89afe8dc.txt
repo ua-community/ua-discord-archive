@@ -1,0 +1,1 @@
+Spec wise for nodes it’s fairly close  to what cloudflare were doing with their gen X servers. https://blog.cloudflare.com/cloudflares-gen-x-servers-for-an-accelerated-future/
