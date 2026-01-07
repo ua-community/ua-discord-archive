@@ -1,0 +1,1 @@
+Main differences is I’ve not gone rack configuration preferring open frame, bigger fans.
