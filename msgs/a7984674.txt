@@ -1,0 +1,4 @@
+I don't think this is at odds with what I said at all. It's conceivable that the rendered view is just access to the DOM.
+I doubt that this is possible while maintaining the security model of the current web, but opting out of that is possible of course.
+
+Imo message passing is the fundamental abstraction, just barely above raw memory access. Still allows *some* abstraction, filtering, composition, but stays incredibly flexible.
