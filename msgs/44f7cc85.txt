@@ -1,0 +1,1 @@
+Choose epyc rome gen as it has lots of cores, 8 channel memory, and many pcie lanes while these days being affordable.
