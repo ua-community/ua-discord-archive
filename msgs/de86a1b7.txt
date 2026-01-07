@@ -1,0 +1,1 @@
+In terms of ram for 700x series epyc best is ddr4 3200mhz ecc rdimms. I found it was relatively cheap when I first started buying it domestically and then prices went up a lot. Now 3-4x what it used to be 🙁
