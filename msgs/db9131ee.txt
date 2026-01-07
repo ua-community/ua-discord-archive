@@ -1,0 +1,8 @@
+https://nerdist.com/article/lego-smart-play-is-new-lego-evolution-bringing-light-sound-immersion/
+
+2 x 4 brick
+Accelerometers, light sensing, and a sound sensor.
+Speaker.
+Bluetooth block to block communication
+Magnetic positioning so blocks know each other's location & orientation!
+Wireless recharging
