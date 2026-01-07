@@ -1,0 +1,7 @@
+I can't speak for Kai, but I wasn't looking at postMessage in relation to composition, rather just as a way to do work of the main thread.
+
+Maybe I have the wrong picture in my mind so I'm curious if you could elaborate on how you see postMessage as a way to do composition and where the permissioning comes in?
+
+I would assume the permissions are controllable.
+
+Sidenote: Shared DOM is a nice way of looking at this problem (with or without the same `window`). I guess this is pretty much the opposite of Web Tiles, and that's one way of looking at composition by postMessage (or similar communication systems)
