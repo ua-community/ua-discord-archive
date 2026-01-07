@@ -1,0 +1,11 @@
+That's actually close to what I'm doing with https://elements.diffuse.sh
+
+Though I opted for the https://github.com/kunkunsh/kkrpc RPC protocol instead. Which I guess is very similar? I only found out about capn'web afterwards.
+
+In my case, each "DOM-like object" is a custom element (aka. web component) that has an API (aka. actions) which triggers a proxy that calls the RPC, connecting it to the associated web worker.
+
+The web worker and the custom element have the same API, so you could talk to the web worker directly if you want. But what I do instead is create a `MessageChannel` via the custom element. So basically, the custom element facilitates a bridge between web workers of different components.
+
+This should technically also work cross origin but I have yet to test it. You basically load the custom element from the other origin along with its associated web worker, build the messagechannel bridge, and then communicate with it using the RPC protocol.
+
+So I suppose it's not exactly what you had in mind, but close? Curious to hear more about what you had in mind (user)
