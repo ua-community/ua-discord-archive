@@ -1,0 +1,1 @@
+this is forsaken but part of me thinks we just need to use capn'web or what not and use it to expose DOM like objects, with DOM apis, to whomever is on the other side of our pipes. assuming we have cross-origin or what not boundaries we need to cross. sounds very cursed but i dunno what to do.
