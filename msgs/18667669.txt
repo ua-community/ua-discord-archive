@@ -1,0 +1,1 @@
+https://cursor.com/blog/dynamic-context-discovery
