@@ -1,0 +1,1 @@
+mod means specifically a small css or js snippet that does not have a big project structure or mutlitple files for  me
