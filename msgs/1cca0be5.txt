@@ -1,0 +1,1 @@
+what if we did everything in XML *and* DOM *and* never spec'd it *and* threw scripting in *and* added overlays and template-builders, which are both more complex than web components and shadow DOM could ever be.
