@@ -1,0 +1,1 @@
+Preparing for first public alpha launch next week, made the website crispier and everything is tiles.run/<route> now that’ll result in better SEO and branding 🙂
