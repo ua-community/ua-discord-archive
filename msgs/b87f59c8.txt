@@ -1,0 +1,1 @@
+I suspect also that the Web Extensions CG @ W3C want some user feedback too, given the nature of the feature. Any signals of interest, use-cases to share, etc would be great too - file an issue on that repo: https://github.com/w3c/webextensions
