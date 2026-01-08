@@ -1,0 +1,1 @@
+freely addressable surfaces is what (user) calls "DOM munging"
