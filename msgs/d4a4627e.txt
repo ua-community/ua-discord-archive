@@ -1,0 +1,1 @@
+This clipboard could be something hidden and you thing bring up this more browsable window that a) shows your clipboard entries and b) gives some type of map of the links it found.
