@@ -1,0 +1,1 @@
+which for composing cross-origin things almost has to be postMessage (event passing)
