@@ -1,0 +1,1 @@
+myabe "vs" is wrong thinking here. since the DOM itself is object oriented it can have things like web applets that themselves compose origins through message passing
