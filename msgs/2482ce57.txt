@@ -1,0 +1,3 @@
+> Shared DOM is a nice way of looking at this problem (with or without the same window). I guess this is pretty much the opposite of Web Tiles, and that's one way of looking at composition by postMessage (or similar communication systems)
+
+Composition by object-oriented message passing (postMessage) vs [openly authorial](https://doi.org/10.1145/3276954.3276963), freely addressable surfaces (DOM)
