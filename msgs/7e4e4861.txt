@@ -1,0 +1,1 @@
+Maybe not what Fabrice meant, but I interpreted "task" here as "goal", not a suggestion for the language. What is the person trying accomplish? That's why I talk about tasks a lot wrt design of Peek.
