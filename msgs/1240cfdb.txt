@@ -1,0 +1,1 @@
+really happy to have (user) as the third core contributor. we will be working on the core ml parts of tiles, training a better memory model, and integrating DSRs, the rust port of DSPy, for better ai responses. thanks to (user)  for building DSRs 🙂
