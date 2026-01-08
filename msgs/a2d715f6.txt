@@ -1,0 +1,1 @@
+I figured it was about the sufraces exposed for web things to be composed together (and by necessity communicate with each other)
