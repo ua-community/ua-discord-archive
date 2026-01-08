@@ -1,0 +1,1 @@
+I think putting an ad layer with llms.txt is potentially a good ideal
