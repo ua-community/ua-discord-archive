@@ -1,0 +1,1 @@
+Off out for drinks with old work, will come back later to continue networking setup. Only have half day tomorrow so need to ensure all BMC and remote management stuff is working correctly in order to do the rest remotely.
