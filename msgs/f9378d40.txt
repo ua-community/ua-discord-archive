@@ -1,0 +1,3 @@
+Yeah that writeup on Github tries to be a bit abstract. You’re right that composition is one interpretation.
+
+My goal was to find commonalities between the mentioned protocols and standards.
