@@ -1,0 +1,8 @@
+https://github.com/tailwindlabs/tailwindcss.com/pull/2388
+
+another drama material thread
+
+tailwind folks refused to add LLM friendly rules to their documentation so some people were disappointed.
+And the reason being, they want folks to visit their docs website instead of LLMs because they need to advertise their paid service. They had to lay off 75% of their people 
+
+It seems the docs are the only way people find out about their paid features. Idk if that's even optimal in the current age. But yeah not taking sides
