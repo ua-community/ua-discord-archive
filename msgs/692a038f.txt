@@ -1,0 +1,1 @@
+I like where they mention the RDF and URI (this is an integral part of our MIR project) but i dont really get the appeal of ??? a spec to write specs for llms to flesh out as code? maybe im too biased towards my own handwritten codee
