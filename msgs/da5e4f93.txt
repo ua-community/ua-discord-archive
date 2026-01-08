@@ -1,0 +1,7 @@
+One more step forward in the (extremely slow and long-running) effort to improve custom protocol handler support in browsers:
+
+You can now flip a flag in Chromium to enable registration of custom protocol handlers from a browser extension manifest.
+
+https://chromium-review.googlesource.com/c/chromium/src/+/7156864
+
+Currently in nightly. If anyone is interested in trying it out, Igalia did the implementation and would love feedback and testing. Thanks IPFS Foundation ( (user) / (user) ? (user) (user) ) which has funded + shepherded this work for years.
