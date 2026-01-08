@@ -1,0 +1,1 @@
+DOM munging is a form of interop where multiple parties are simultaneously instumenting the DOM (UI as a material)
