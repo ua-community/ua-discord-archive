@@ -1,0 +1,1 @@
+You get that from exfiltration-proof-ness implemented in the web platform, without requiring content-addressibility.
