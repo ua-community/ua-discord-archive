@@ -1,0 +1,1 @@
+They communicate over a broadcast channel.
