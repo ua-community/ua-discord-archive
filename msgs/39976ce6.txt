@@ -1,0 +1,3 @@
+> i  made the android launcher in kotlin that i always wanted but no one wanted except me (working like webOS where the home screen is the list of app cards, not the list off app icons)
+
+yesss how'd it come out? i've been romanticizing this for so long.
