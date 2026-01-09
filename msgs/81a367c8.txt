@@ -1,0 +1,3 @@
+dev log: our little umbrella group darkshapes has 6 repos now, and i write in all of them. right now im soloing it and taking a very experiment-driven approach, so lots of refactoring and rewriting. usually im pretty excited, but sometimes it feels like a crushing amount of work. when motivation falters, i start to think... how do i know what is the right solution? how do i accomplish all the plans i have in mind?
+
+but most crucially i wonder -  how have yall been doing this for so long? Im an artist and only started taking code this seriously in 2024.  to think of people doing this across languages and decades is kind of mind-blowing
