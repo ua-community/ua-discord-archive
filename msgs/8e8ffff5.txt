@@ -1,0 +1,7 @@
+Amp's /handoff is frelling frag-tastically good.
+
+Instead of a /compact, you kind of proactively are encouraged to /handoff to a new agent. You give it a little prompt:
+/handoff "do the whizbang feature"
+
+And it runs an agent to take your short prompt & turn it into a nice contextual long prompt for the new agent. It's amazing at this.
+https://ampcode.com/manual#handoff
