@@ -1,0 +1,1 @@
+I'm happy to do the legwork. If you give me a list of things to do (e.g. install docker...) I'm happy to set things up so I can run the image in any way that is easy for you
