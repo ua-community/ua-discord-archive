@@ -1,0 +1,1 @@
+Then cf tunnels for inbound traffic and tailscale for private network to network stuff
