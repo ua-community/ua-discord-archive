@@ -1,0 +1,14 @@
+We've got 0.3.1 release for Tiles, courtesy of (user), and (user) 
+
+## What's Changed
+
+* Added `--relay-count` or `-r` flag to `tiles run` command by (user) 
+    - Useful if model get stuck while chatting.
+* CLI now shows progress status while downloading models by (user)
+* Add slash commands and placeholder hint to REPL by (user) 
+* Added ability to set custom memory location by (user)
+    - Use `tiles memory set-path <PATH>` anytime to change the memory location
+    - Will ask for the custom location on `tiles run` first time.
+* Minor refactors by (user)
+
+Download at: https://www.tiles.run/download
