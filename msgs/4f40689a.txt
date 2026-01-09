@@ -1,0 +1,2 @@
+I probably already shared this but not here? Wish I could get FluxPose. Magnetic position detection system, where one big node serves as a base station & the very small trackers are super small & light.
+https://www.fluxpose.com/
