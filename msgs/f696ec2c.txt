@@ -1,0 +1,1 @@
+we have a vm layer on most platforms anyways either in macos with lima or in android with linux vm.  if you want more security you  can always swap out the os, our main requirement is a docker proto compatible socket
