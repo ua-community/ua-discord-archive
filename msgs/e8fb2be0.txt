@@ -1,0 +1,1 @@
+(user)  so by qube os i just mean the architecutre to compartmentalize and containerize desktop apps
