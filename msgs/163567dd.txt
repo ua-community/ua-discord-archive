@@ -1,0 +1,1 @@
+to do what i want and super smooth, i need to root or make a fork of grapheneOS and rebuild which is ridiculous but i managed to make a version that is a bit glitchy with accessibility apis but works. i ended up just vibing the complete kotlin, not using bridge
