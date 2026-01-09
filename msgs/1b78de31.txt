@@ -1,0 +1,1 @@
+i like Bridge's idea of a small set of exposed APIs which could be some sort of convention, vs DIYing everything.
