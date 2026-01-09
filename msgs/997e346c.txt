@@ -1,0 +1,2 @@
+Player = Super + Alt + 1
+Playlist = Super + Alt + 2
