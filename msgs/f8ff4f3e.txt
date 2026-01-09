@@ -1,0 +1,1 @@
+This could end up totally dooming us all and making things much worse, totally chaotic, but I hope hope hope AMD's OpenSIL, open bios to replace AGESA, ends up making hardware like this long term supportable. Versus "it runs what it comes with, no support, good luck"
