@@ -1,0 +1,1 @@
+i've been kicking out ~2 projects a day, its absurd. i wrote an awful neovim lua plugin a couple years back, doing very little but what i needed, and GLM-4.7 has thrown together some super great plugins with ease. passed it some "how to write good neovim plugin" articles & it improved it 2x. sick.
