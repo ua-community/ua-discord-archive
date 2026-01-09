@@ -1,0 +1,1 @@
+The idea we discussed in the past was apps running in fullscreen in Linux sandbox (could be local) then the Wayland renderer running within the browser so they can be mixed with web apps
