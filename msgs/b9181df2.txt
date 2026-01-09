@@ -1,0 +1,1 @@
+We trust our browsers and engines today to abide by the rules in 10,000 ways (for good or ill).
