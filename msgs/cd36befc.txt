@@ -1,0 +1,1 @@
+Actually crazy, thanks for getting me onto this - just implemented a change in an absolutely awful solution, that I have been dreading to do myself, and it did it first try, I just had to paste in some API docs as a follow up. Cost $1.86 and like 20 minutes.
