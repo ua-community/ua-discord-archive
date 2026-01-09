@@ -1,0 +1,1 @@
+I think they have it running some cloned supermicro bios. It’s actually quite decent, easier to deal with than the gigabyte epyc board for sure. Open bios would be awesome
