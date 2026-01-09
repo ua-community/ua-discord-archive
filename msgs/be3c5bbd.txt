@@ -1,0 +1,1 @@
+IMO a big problem is still that docker w/ GPU is a bit iffy, and dedicating a GPU to every user is also questionable. I think most apps will be terrible with no GPU at all.
