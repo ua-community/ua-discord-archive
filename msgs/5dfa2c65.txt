@@ -1,0 +1,1 @@
+true, i was just thinking about vibe-coding an engine today.
