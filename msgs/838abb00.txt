@@ -1,0 +1,1 @@
+i struggle to get wireguard going correctly on macos so i just use a browser vpn, otherwise id use the native app (not like it matters since its electron) tbh the best discord experience rn for me is discordo
