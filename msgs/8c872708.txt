@@ -1,0 +1,1 @@
+I'd also note there is an OpenCode desktop UI, that i haven't used, that has a significantly different UI layer. The web & TUI share the same UI layer basically.
