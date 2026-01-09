@@ -1,0 +1,1 @@
+im confused on how to remake this stack... its wayland-based linux desktop + [selkies](https://selkies-project.github.io/selkies)  + some env variable?
