@@ -1,0 +1,1 @@
+I still just don't want a system taht i cant hack on. OpenCode extensions are super easy to write. The codebase is remarkably easy to hack on, I've found.
