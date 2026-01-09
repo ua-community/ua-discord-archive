@@ -1,0 +1,1 @@
+What is an app? Local html file, some domain / origin accessed via url, a git repo, compiled native binary, docker image, increasingly a prompt that expands into something new.
