@@ -1,0 +1,7 @@
+That's a nice way of putting it ✨ 
+
+Not sure why I said it's the opposite.
+I suppose it depends on how you look at "app composing".
+
+Context:
+> can we compose "apps" together by using the DOM as a shared interface but without sharing the same window
