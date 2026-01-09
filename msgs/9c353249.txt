@@ -1,0 +1,1 @@
+Tiles and FAS are not mutually-exclusive. Tiles give things like FAS more power because we can have higher confidence about what they're doing (or not), and more control over the experience.
