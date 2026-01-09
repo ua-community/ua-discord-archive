@@ -1,0 +1,1 @@
+(user) you've got agency! we've added ability to set custom memory location :), 0.4.0 will have portable python dependencies too so we won't be touching any of your system things at all 🙂
