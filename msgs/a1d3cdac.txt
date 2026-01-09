@@ -1,0 +1,1 @@
+ye, an extension, because when i use wireguard native it alters my wifi config in a kinda irreversible way
