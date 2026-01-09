@@ -1,0 +1,1 @@
+I’m thinking I’ll make a bunch of cloudflare warp outgoing gateways and then servers can exit over those
