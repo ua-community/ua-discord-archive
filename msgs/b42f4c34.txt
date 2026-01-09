@@ -1,0 +1,1 @@
+Ohh I see. Guess I need to reread the Web Tiles spec to fully understand this. Seems like an important security aspect relevant to how to approach composition.
