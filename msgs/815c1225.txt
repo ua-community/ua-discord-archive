@@ -1,0 +1,1 @@
+previously Barrier, InputLeap, and closed-source Synergy, it doesn't share image, for that I often used NX from Nomachine, because it was the fastest
