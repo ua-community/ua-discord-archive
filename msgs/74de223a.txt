@@ -1,0 +1,1 @@
+One issue on Linux, the global keyboard shortcuts don't work in every app.
