@@ -1,0 +1,1 @@
+Not quite where I wanted to be but I have few nodes remotely accessible via BMC. For multi GPU rig just connected 1 out for the 8 for now. Will be back in 5 days to finish things.
