@@ -1,0 +1,1 @@
+The fact that Atproto is transport agnostic (ultimately just identity-signed content), means things like Roomy are more interesting than others. Member identities can belong to those members, and the instance could belong to... yeah ok haven't solved multi-tenant governance yet but we can punt for now.
