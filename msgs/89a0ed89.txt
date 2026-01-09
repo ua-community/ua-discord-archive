@@ -1,0 +1,1 @@
+going to look more. i care a bit about 'dom like object' and how much dom like api surface is exposed, if there is a tree. but this sounds super super cool however it is!!!!
