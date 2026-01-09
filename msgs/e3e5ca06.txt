@@ -1,0 +1,1 @@
+I'm slowly writing one, but not to have just another browser implementation; I want a cross platform web-capable App framework free from the flaws of HTML, CSS, and Javascript, with the component paradigm baked in from the start because it's clearly the correct way of structuring UIs.
