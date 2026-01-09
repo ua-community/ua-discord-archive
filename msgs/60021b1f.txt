@@ -1,0 +1,3 @@
+> Shared DOM [...] pretty much the opposite of Web Tiles
+
+Tiles is more a security model than a surface. The surface is still HTML stack, and even trad HTTP published. Shared-DOM in Tiles-mode would look like putting the I/O (patches/operations/whatever-you're-DOM-munging-with) outside the traditional web transport path (extension, new web API, non-browser context). The difference with Tiles-mode is that you can be confident that the *publisher* of the tile cannot see/exfiltrate anything happening in the HTML surface.
