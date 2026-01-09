@@ -1,0 +1,1 @@
+exactly my idea! maybe a simple compositor integration / null desktop env needed
