@@ -1,0 +1,1 @@
+Peek is working (mostly) nicely on Linux here, works great with Diffuse 🙌  Very cool!
