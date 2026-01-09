@@ -1,0 +1,1 @@
+and its especially funny because the neural bands fake many gestures with gyros and accelerometers so they require moving the whole arm and cannot detect details of fingers. google made micro radar sensors that can even detect rubbing the fingers a bit but that seems to have not made it to production
