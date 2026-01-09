@@ -1,0 +1,6 @@
+ok so let me see if im getting it here, a paraphrase
+
+Web app > phone app - no store required, all can access, no lock in
+Self hosted > remote host - yours to own, your data, able to be configured... kind of private? (i mean, its still online), but can be shared
+
+protocol/framework sort-of agency
