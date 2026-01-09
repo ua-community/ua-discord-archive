@@ -1,0 +1,5 @@
+i mean its not JUST a reomote desktop protocol. this is as close to a native rendering pipeline as we can currently get to render linux apps in a browser and its more interesting for local setups right now. im thinking about running apps in containers and using webtop to then use the apps uis as regular tabs.
+
+this gets 100fps on HD video and clear text rendering without tear.
+
+if also remote latency is maneagable, this can also be a base image to allow eg. (user)  to play with darc without any setup. the possibilities are endless
