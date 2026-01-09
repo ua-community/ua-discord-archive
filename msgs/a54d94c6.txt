@@ -1,0 +1,4 @@
+composition through message passing, yes.
+
+and in the YOUL (year of our lord, sorry just being dramatic) we have Invoker / Commands. so we can enscribe some of our wiring intent into the page itself too. versus all wiring just being implicit.
+https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API
