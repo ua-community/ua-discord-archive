@@ -1,0 +1,1 @@
+does it mean erasing hardware lock in like arm/x86 in addition to platform lock-in or do you see it as mostly about the software side and there are other issues wrt hardware?
