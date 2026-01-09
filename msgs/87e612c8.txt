@@ -1,0 +1,3 @@
+> you can be confident that the publisher of the tile cannot see/exfiltrate anything happening in the HTML surface.
+That's a guarantee of the content addressing property right?
+As opposed to the mutable DNS equivalent.
