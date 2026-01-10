@@ -1,0 +1,1 @@
+i am still think that the only real way to break vendor-controlled web deadlock is to commodify engines.
