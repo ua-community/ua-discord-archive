@@ -1,0 +1,1 @@
+lol think i had brainfart. wanted to write how its implemented, like what they use under hood
