@@ -1,0 +1,1 @@
+identity and memory both being portable is the generic foundation on top of which one can build many things, to start off with i think tiles will just be a chat app (both assistant and group chats like chatgpt), and then notes/file sharing integration (both public and private) with personalization baked in
