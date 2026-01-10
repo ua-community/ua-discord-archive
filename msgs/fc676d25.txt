@@ -1,0 +1,1 @@
+The insanity of what (user) showed me tonight will take time to sink in. Truly it’s browser inception and it’s really happening. Darc can now run itself within itself, edit itself using ai running inside vscode inside itself,  and run itself and most other apps inside a native app inside itself.
