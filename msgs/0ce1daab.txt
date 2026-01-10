@@ -1,0 +1,1 @@
+not using it really, used to when it was maintained. liked the idea of having all my identity linked cryptographically and have my general productivity suite of apps there, I want to take Tiles to a similar direction, but would probably partner/integrate with a browser for the interface. Just building the foundations of user owned memory and identity with the CLI for now
