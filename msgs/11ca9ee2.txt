@@ -1,0 +1,1 @@
+i was wondering if there's some Verifiable Credentials integration/implementation possible. seems like generally same area.
