@@ -1,0 +1,1 @@
+They use a CRDT called OrbitDB: https://github.com/TryQuiet/quiet/wiki/Quiet-FAQ
