@@ -1,0 +1,1 @@
+combined calculation of data added dynamically to ui
