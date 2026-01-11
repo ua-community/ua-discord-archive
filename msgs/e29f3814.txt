@@ -1,0 +1,1 @@
+in order for this thing to get all this data it has to look at every couch, fetch every couch detail request and then filter that request
