@@ -1,0 +1,5 @@
+the changes last week and in-progress are:
+- plowed ahead with an extension system
+- migrated entire system to 1:n front-end:back-end, with Tauri most of the way there
+- end-to-end smoke tests
+- a lot of misc polish and features
