@@ -1,0 +1,1 @@
+the way I have approached this solution in the past with Zodiac is to make the single application do multiple things directly using generative or language model, picking not just the type of data to be processed but the actual modality of the input
