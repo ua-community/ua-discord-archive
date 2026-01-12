@@ -1,0 +1,1 @@
+not necessarily the backend-agnosticity itself (though it'll be interesting to compare tauri/webkit vs electron/chrome from a perf pov), but that transition forced me to hash out a bunch of core architecture stuff so the whole system will likely be more settled and reliable.
