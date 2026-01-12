@@ -1,0 +1,1 @@
+https://blog.rust-lang.org/inside-rust/2026/01/12/what-is-maintenance-anyway/
