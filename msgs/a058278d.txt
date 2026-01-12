@@ -1,0 +1,1 @@
+in this way I think they have done quite well compared to the current paradigm of static design langauge, even though I agree that many of their implementations are underwhelming
