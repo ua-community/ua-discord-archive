@@ -1,0 +1,1 @@
+2c: Playwright + rust tests would cover a lot though (outside of tauri API functionality), all the platforms are either chromium or webkit
