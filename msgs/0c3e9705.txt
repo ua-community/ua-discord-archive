@@ -1,0 +1,1 @@
+I still haven't found a good way to do full stack Tauri testing though, because https://github.com/tauri-apps/tauri/issues/7068
