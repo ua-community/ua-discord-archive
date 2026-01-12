@@ -1,0 +1,1 @@
+Sounds good! Overhaul works nicely, got an AppImage for Linux now 🙏  Extension system looks great for a first iteration. Command bar works on Linux now too (got invisible text previously).
