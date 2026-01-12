@@ -1,0 +1,3 @@
+i just started using pdocs. its okay. I am kind of struggling to articulate all the things I want to share about zodiac/mir and other darkshapes project. I'm considering making documentation videos to increase the knowledge density, maybe annotated with timestamps or something. 
+
+I would like to find some good *and light* observability tools or techniques to apply the principles for small projects
