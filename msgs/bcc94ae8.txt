@@ -1,0 +1,4 @@
+Couple questions for you (user) :
+- How difficult would it be for me to make peeks remember the window position and size? I can make a PR for that if you want.
+- Is there a context menu for the tray icon?
+- Can we get an option to make the peek not disappear when it loses focus? (I can add this too if you think it's a good idea)
