@@ -1,0 +1,1 @@
+IMO IPFS block exchange isn't great for append only logs. I think hypercore's bitfield stuff is the most sophisticated of the new gen wire protocols tbh
