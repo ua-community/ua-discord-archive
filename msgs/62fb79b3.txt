@@ -1,0 +1,1 @@
+yeah even semi-ordered block transfer going to be disaster perf wise, compared to something optimized for a known ordering
