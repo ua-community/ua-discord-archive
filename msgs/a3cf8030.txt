@@ -1,0 +1,1 @@
+Has someone here actually played with IWA / UDP Multicast yet? I wonder whether it'd be possible to do gossip network over UDP w/ multicast discovery somehow (for local WiFi)
