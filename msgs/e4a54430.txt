@@ -1,0 +1,1 @@
+Would love to find the actual patch or hack to get that working as I’ve got a bunch of 3090s we could use and with virtualization
