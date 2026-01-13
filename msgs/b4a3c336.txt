@@ -1,0 +1,1 @@
+we used to have js-ipfs running on the old Chrome TCP/UDP APIs - at one point full DHT support and pubsub w/ Gossip
