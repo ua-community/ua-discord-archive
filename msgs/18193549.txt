@@ -1,0 +1,1 @@
+Has anyone got experience doing this… there are hacks to get things working with rtx 10xx and rtx20xx  series GPUs but not for ampere as above. https://github.com/DualCoder/vgpu_unlock
