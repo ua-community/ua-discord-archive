@@ -1,0 +1,1 @@
+but a design goal is that the Peek environment is almost entirely in web-content-space, so that it's highly portable.
