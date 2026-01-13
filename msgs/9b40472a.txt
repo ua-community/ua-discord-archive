@@ -1,0 +1,3 @@
+There looked like some good news with a Chinese post describing reverse engineering to get it working on 3080 and 4080 GPUs. A video was posted and bunch of English articles claiming it was now possible but no actual code. 
+
+https://blog.kkk.rs/archives/38
