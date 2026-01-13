@@ -1,0 +1,1 @@
+The hack basically makes the card report to drivers as rtx6000 I think
