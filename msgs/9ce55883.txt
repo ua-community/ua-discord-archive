@@ -1,0 +1,1 @@
+- first take at chaining. i'm expecting this will be a major effort. it's very rough right now, both functionally and visually. but getting *something* there will be super helpful to experiment and see what works and doesn't, and move it forward.
