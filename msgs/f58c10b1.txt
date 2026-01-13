@@ -1,0 +1,1 @@
+Chains are directionally one-way rn, but eventually need bidirectionality for undo/replay.
