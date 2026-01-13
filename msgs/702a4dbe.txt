@@ -1,0 +1,1 @@
+these seem to be dynamic buttons based on website context, seems to be the most basic incremental approach to browser based generative uI
