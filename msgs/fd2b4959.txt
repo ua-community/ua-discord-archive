@@ -1,0 +1,6 @@
+The basic demo flow is:
+- open a page
+- pull potentially list-y things from the page (mocked rn, b/c no content scripts yet)
+- pick a list-y item from the list
+- convert the list to CSV
+- save file (once we get feed system, could save right back to datastore...)
