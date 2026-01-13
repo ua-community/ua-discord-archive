@@ -1,0 +1,1 @@
+- cmd bar moved from background content app to a built-in extension. is a heavy lifter, we'll see how it goes. is still quite far from where it needs to be, but ok for basic things.
