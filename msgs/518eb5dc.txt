@@ -1,0 +1,1 @@
+generate a nice static docs site from a repo
