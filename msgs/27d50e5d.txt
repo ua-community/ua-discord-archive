@@ -1,0 +1,1 @@
+Everything is mime type based. eg a command can say "i emit this set of mime types" and "i accept this set of mime types".
