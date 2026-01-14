@@ -1,0 +1,1 @@
+Still a lot to figure out, but the architecture separates things out now in a way that'll allow faster iteration.
