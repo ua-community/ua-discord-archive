@@ -1,0 +1,1 @@
+wait you built extension support and tauri?  or is that  the extension support of electron?
