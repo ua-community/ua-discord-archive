@@ -1,0 +1,3 @@
+Taking a prepackaging approach with Tiles so that the local LLM usage feels as seamless as ChatGPT, took inspiration from Amp's model strategy for this. Though technically there's nothing stopping you from using any off the shelf model from HF
+
+https://ampcode.com/models
