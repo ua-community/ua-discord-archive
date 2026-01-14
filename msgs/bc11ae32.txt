@@ -1,0 +1,6 @@
+Landed a few of the key big pieces over the last couple weeks:
+
+- **Back-end portability:** Back-end fully abstracted away, can configure Electron or Tauri (the latter is a little rough visually still, but mostly works), still to do are native mobile and browser extension back-ends
+- **Extensions:** Core features mostly moved to built-in extensions, can add custom extensions via local dir, an example is in the repo, and the API is... not totally settled, but good enough that the core features can be built and functional on top of it
+- **Themes:** Same as extensions - local dir w/ a PWA manifest, but just for CSS styling at this point, ships w/ two themes, both system light/dark mode aware
+- **Chaining: ** First stab at this... not pretty, but does the basic thing - commands can accept/emit sets of mime types to allow loosely-coupled sequences, and there are a few crude "renderers" to show previews.
