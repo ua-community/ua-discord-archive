@@ -1,0 +1,7 @@
+I was curious if any major (say, over 50m MAU) browser has good responses in the context of "current page", or even stays in the browser vs taking you away to a web page or something else? Mostly is just "Summarize this page", which is quite far from smart interactivity.
+
+- ❌ Chrome "AI mode" takes you out of the browser to a landing page, completely disconnected from the browser context, a very jumbled and disconcerting UX at this point
+- ❌ Firefox AI sidebar is partially integrated in the browser - but it opens up remote page has neither native UX nor real context. Asking it to "summarize this page" gets you "ok please provide the page". They do have a new "Summarize this page" button at the bottom of the sidebar in Nightly.
+- ❌ Safari iOS/desktop first makes you open reader mode, then choose summarize... and that's all. But that's just according to the support pages - I couldn't actually get the summarize button to appear.
+- ✅ Brave's Leo AI sidebar specifically uses current page as context, showing the OG embed visually connected to a chat input that says "Ask a question about the content of this page" (probably via cloud+search, not examining the locally-rendered page in your tab? haven't tested)
+- ⚠️ Opera Neon looks like it does real stuff, but calling it a major browser is probably a stretch. Opera as a whole maybe, but you'd have to include Opera Mini and Opera TV to hit real numbers. Also, can't try because you have to subscribe for $20/mo 😐
