@@ -1,0 +1,1 @@
+Peek extensions (or features, mods, widgets, apps, whatever), not WebExtensions.
