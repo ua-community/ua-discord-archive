@@ -1,0 +1,1 @@
+sorry i jammed Open Graph and oEmbed together in a weird way. could be either, but i just mean that they're showing a little site "card" in the chat stream in the sidebar, and the inputfield is connected to it.
