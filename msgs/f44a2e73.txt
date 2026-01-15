@@ -1,0 +1,1 @@
+we are integrating their MIR as an extension to our Modelfile implementation for chaining models: https://www.tiles.run/book/mir
