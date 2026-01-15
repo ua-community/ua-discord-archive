@@ -1,0 +1,1 @@
+i wonder if we've an android rom with darc that boots into a browser/web sandbox exclusively
