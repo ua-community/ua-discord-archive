@@ -1,0 +1,1 @@
+yes should work in helium and other chromium based browsers
