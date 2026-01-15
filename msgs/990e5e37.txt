@@ -1,0 +1,1 @@
+and technically it should work with electron too (maybe with some hacking)
