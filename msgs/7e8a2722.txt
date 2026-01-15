@@ -1,0 +1,1 @@
+Graphene OS exclusively supports Pixels
