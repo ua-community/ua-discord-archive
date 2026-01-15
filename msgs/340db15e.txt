@@ -1,0 +1,9 @@
+Not a language sadly 😄 It's basically a bunch of web components (aka. custom DOM/HTML elements) that contain the logic and UI to build a music player or music browser of all shapes and sizes. In addition to that, it's also an aggregator for audio (add audio from various sources) and it also lets you pick where and how to store the produced app data (eg. playlists).
+
+Still building the foundation for all of this, but a few pieces are somewhat working already. I do hope to generate a fully functioning UI using LLMs this year. So like you could say "generate an interface that looks like the one from iTunes back in the day" and then you'd have a working webview with all your existing data in place.
+
+https://elements.diffuse.sh/ describes the idea in a bit more detail.
+
+Example running Peek:
+https://discord.com/channels/1309454711392305192/1388112358047617104/1459226943760236688
+Mobile Apple music player interface + Windows 98 music browser
