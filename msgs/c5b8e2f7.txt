@@ -1,0 +1,1 @@
+i'm wrestling w/ design of profiles in peek for the isolation of data at the application layer. browser profiles are too heavy, and you do want *access* but not overflow by default.
