@@ -1,0 +1,1 @@
+It’s the defacto standard now, responses api wasn’t supported by any other model than gpt-oss themselves
