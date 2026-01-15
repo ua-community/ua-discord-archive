@@ -1,0 +1,1 @@
+I think we need to scrape off the work on Responses API and instead integrate this one 😭
