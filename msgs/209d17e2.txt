@@ -1,0 +1,1 @@
+structured inputs is the way (so you can build your own unstructure on top)
