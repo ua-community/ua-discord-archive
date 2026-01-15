@@ -1,0 +1,1 @@
+(user) has tried ZLMs models extensively and isnt a fan, ive not personally used them, but i think most models excel at frontend tasks irrespectively, his work mostly is around crdts/systems work
