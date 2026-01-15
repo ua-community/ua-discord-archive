@@ -1,0 +1,1 @@
+It pains me that the effort to integrate Responses API would go in vain but we’ve to see if we can make gpt-oss work with this otherwise we can postpone this work
