@@ -1,0 +1,1 @@
+I have not really had great success with getting it to actually write the code IN the file completely, it tends to ellipsis over old code for some reason, and i havent had the patience to fix it. but thats like right now the only thing keeping me from a full Cursor Pro offline experience
