@@ -1,0 +1,1 @@
+hyper-*component*-ization. component-centricness of modern development seems a somewhat similar pattern, and handles all kinds of edge cases. hmm adding in typescript explosion in popularity and you're even closer to schema+card+data.
