@@ -1,0 +1,1 @@
+Tauri still needs some love visually, not really usable as a daily driver until I get there. I think some CSS not being applied and I need to figure out transparent windows, etc.
