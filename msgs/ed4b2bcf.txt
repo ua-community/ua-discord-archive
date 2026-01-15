@@ -1,0 +1,1 @@
+The only open models I’ve seen people getting decent one shot or long running agent loop results have been glm4.7 and minimax 2.1.
