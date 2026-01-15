@@ -1,0 +1,1 @@
+That whole black bar at the top with the window controls is part of the "super app" right? Svelte app was it?
