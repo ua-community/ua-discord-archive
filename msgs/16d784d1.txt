@@ -1,0 +1,1 @@
+but sharing is same - can't share whole screen nor an app (vs a window)
