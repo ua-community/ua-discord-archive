@@ -1,0 +1,9 @@
+How are people generating entire apps? Is this only possible with Claude to get a decent result, or are there a bunch of agentic llm setups out there?
+
+I only use open llms so I’ve been experimenting with Zed (the code editor) + LM Studio + Olmo (AllenAI) & Hermes/NousCoder (Nous Research).
+
+I guess I need to get better at writing prompts because it seems to be rather difficult to get it to do something properly. Or maybe I need to write a `SPEC.md` (is there a standard for that?). Or these models are just not cutting it.
+
+Lastly, can you make your setup create the app in a specific visual style? If so, how?
+
+I just saw https://github.com/vercel-labs/json-render which seems to be an interesting way to generate UIs.
