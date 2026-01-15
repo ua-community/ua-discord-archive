@@ -1,0 +1,5 @@
+The recs I got that seem worth following up:
+
+- More than a few recs for Astro's Starlight: https://starlight.astro.build/
+- https://www.mkdocs.org/ (not just for Rust)
+- https://deepwiki.com/
