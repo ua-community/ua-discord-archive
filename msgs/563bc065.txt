@@ -1,0 +1,1 @@
+feels like The Advent of React and Hyper-Componentization proves that untrue.
