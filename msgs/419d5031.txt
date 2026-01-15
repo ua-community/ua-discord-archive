@@ -1,0 +1,1 @@
+Some refactors for performance / memory use yesterday. Electron working, feels very snappy. Still working on bringing Tauri back-end up to speed so the tests pass.
