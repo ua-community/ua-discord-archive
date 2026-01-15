@@ -1,0 +1,1 @@
+its the same reason the linux subsystem only works on pixels
