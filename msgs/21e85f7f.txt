@@ -1,0 +1,1 @@
+everything is coming back. this was a whole little movement 10 years ago. onde and jsonary come to mind. idea was to build ui with json schema, this is what gave brith to  json schema based form editors that survived but people were building whole facebook clones based on self describing data and schemas
