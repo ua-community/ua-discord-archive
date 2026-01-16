@@ -1,0 +1,1 @@
+Yeah and some dashboard showing usage etc. got this already to monitor and it’s accessible via some app so I’m sure data can be liberated. Funny thing is i dropped it on the floor and the battery partially came out so the eink display list showed its last value. I was really surprised nothing changed while I was away. Interesting failure mode
