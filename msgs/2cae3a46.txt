@@ -1,0 +1,1 @@
+honestly, i used to write js components by hand and i will probably go back to it because I feel like i write them by hand with how much I have to modify the frameworks I adopt and their three billion dependencies that struggle to be maintained
