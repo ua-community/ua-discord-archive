@@ -1,0 +1,1 @@
+you gotta start the share on default space, choosing whole screen, then move to the target space. you can't see Discord anymore. but i think if you then move Discord to the target space, you can see it *and* what you're sharing.
