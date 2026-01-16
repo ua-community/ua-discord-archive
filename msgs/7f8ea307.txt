@@ -1,0 +1,1 @@
+fs worker sweet spot seems to be math.nax(math.min(2,  numCores - 4), 8)
