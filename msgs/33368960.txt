@@ -1,0 +1,1 @@
+yeah unalterable component is the failstate. need to balance having some predictable/determinstic point in the system w/ where the extensibility points are. eg i keep coming back to schema+card+data pattern *because* i want Peek's theme/style system to be "make it your own, make it feel like home".
