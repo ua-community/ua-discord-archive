@@ -1,0 +1,16 @@
+In a taxi so might as well brain dump a little here. How things are shaping up. 
+
+Internet connection. 
+
+3x 2000/1000 fiber via ISP A 
+1x 1000/1000 fiber via ISP B (backup / management traffic)
+
+These all connect using 2.5gbe ports to https://mikrotik.com/product/crs310_8g_2s_in
+
+Which then has two 10gbe SFP+ links to one going tplink 10gbe switch. Just one bit should probably have two. Things like Mac mini, mini pc etc also connect into here. 
+
+Then two epyc nodes that act as gateways for the rest of the compute nodes that are on the 40gbe nics. These can have dhcp caching and other things like ensuring traffic goes out via vpns rather than direct to internet. 
+
+Most likely one will be active at any time and the other can be used for testing new configs and failover or extra compute if not in gateway duty. 
+
+To be continued…
