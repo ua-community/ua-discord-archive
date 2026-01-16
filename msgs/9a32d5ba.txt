@@ -1,0 +1,3 @@
+Got it, so we should start a project for “Coding agent subscriptions” under OC and then let interested people bill their $20/100 plans according to the individuals use-case through it? How do we select folks who get that/prevent abuse?
+
+I think we can let people self select and list their plan requirement on OC, and then admins on OC would approve that expense collectively  (let’s bring more admins as we do this)
