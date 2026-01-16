@@ -1,0 +1,1 @@
+if you choose fullscreen, it shares *a display*. if you choose an app, it is exclusive permission to record *only that app*
