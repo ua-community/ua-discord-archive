@@ -1,0 +1,1 @@
+Yeah me too but I think online coding models make sense atm, oss models ain’t that good yet for coding usecase, maybe soon with new models and bigger collective hardware pool
