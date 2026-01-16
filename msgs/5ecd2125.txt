@@ -1,0 +1,1 @@
+Even in an online context, I would like it better if listings automatically closed after n people apply (maybe 10 or something) and committed to interviewing all n of them, such that everyone who was able to apply is guaranteed an interview
