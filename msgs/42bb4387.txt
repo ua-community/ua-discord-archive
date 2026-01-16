@@ -1,0 +1,1 @@
+seems like should be per-server settings, so a discord bug
