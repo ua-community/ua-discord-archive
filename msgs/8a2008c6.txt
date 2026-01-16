@@ -1,0 +1,1 @@
+Need to think more about this, but starting with a small example: I recently switched from https://astro.build to https://lume.land, and I don't know if it's just the docs or the whole thing, but Lume felt so much easier to learn. Half of the time I couldn't figure out how to make Astro do what I wanted. In any case, Lume's docs feel very straight to the point, which I like.
