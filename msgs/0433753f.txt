@@ -1,0 +1,5 @@
+Preliminary takeaways from the demos yesterday:
+
+1) the biggest differentiating factor between darkshapes Zodiac/MIR and the other projects here is that we are deeply invested in multimodality. I believe this has a lot to do with the simplicity of operating LLMs vs operating other models, which coincidentally is be the primary problem we address with Zodiac/MIR systems. A way to build pipelines and call models with absolutely no knowledge about how they work required
+
+2) there are a lot of really fantastic projects that look so good, and work so fast, which is something that Python doesn't do so well. So the best approach for Zodiac/MIR is going to be to split them up into smaller chunks  of components that can each be installed as dependencies, so that a whole app solution remains, but parts of the system can be accessed explicitly and redundant components - like UI or optimizers that may already exist in a project -  can be slimmed down
