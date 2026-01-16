@@ -1,0 +1,1 @@
+hit the screen share button: macos will demand permission. give it permission. it will demand you restart the app. restart the app. connect and join the voice session again.then hit the share button. then hit the accept permission, authenticate if required. then it will prompt HOW to share your screen
