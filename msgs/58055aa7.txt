@@ -1,0 +1,1 @@
+One part i have not figured out is that if i join the hangout and it's just me and i hit share, i see a UI that is different than what i see when i joined the hangout during our events, and choose share.
