@@ -1,0 +1,1 @@
+That's the CEO of Tailscale building code / an adapter for ATProto OAuth <--> Tailscale special OIDC so you can use an ATProto account to let people login to a specific tailnet
