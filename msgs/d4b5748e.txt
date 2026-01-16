@@ -1,0 +1,1 @@
+They have open sourced pretty much every piece and it’s based on Wireguard. And yeah look more at his blog for his takes on this.
