@@ -1,0 +1,1 @@
+if i have per-server profile configuration, and join that server's hangout, it should display the per-server profile configuration.
