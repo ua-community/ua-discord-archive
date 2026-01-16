@@ -1,0 +1,1 @@
+Also you must NOT use Discord from browser. It just will not work. you have to use the native app
