@@ -1,0 +1,1 @@
+The mobile/server system was tag-driven, focused on saving URLs for later use. The desktop system was tag-driven, focused on tagging URLs as a way of defining groups. But they hadn't synced yet. Now it'll all work together (once I finish this migration).
