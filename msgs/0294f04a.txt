@@ -1,0 +1,1 @@
+But I imagine where/when conditions allow, you could use machine learning to magic-ify sorting, suggested tags, or even auto-categorization.
