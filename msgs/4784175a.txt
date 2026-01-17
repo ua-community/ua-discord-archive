@@ -1,0 +1,1 @@
+On desktop, there's a lot of work I still need to do around modes. Eg in the Groups mode, when are you "in a group" vs not? Generally when an extension implements a whole interface paradigm, designing how that behaves in the context of the larger system.
