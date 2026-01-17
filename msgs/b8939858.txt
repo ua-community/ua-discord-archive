@@ -1,0 +1,1 @@
+An aspect of the design that provides flexibility and portability is tags-as-buttons - something I've been experimenting with for a while for things like filtering search and quantified-self patterns/interfaces. They can express as "groups" on desktop, and as touch-friendly button interfaces on mobile.
