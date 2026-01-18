@@ -1,0 +1,1 @@
+one cant lock the bootloader back when youre on a ROM, well you can but then youve to compile the ROM from source with your hardware keys
