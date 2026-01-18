@@ -1,0 +1,1 @@
+but doesnt helps with the banking app sitatuon as it breaks the Android's Verified Boot (AVB) chain anyway
