@@ -1,0 +1,23 @@
+Looks a bit OTT but there is some logic to the composition / layout. 
+
+GPU systems on top row. 
+
+On the left two systems currently with 1x and 2x 3090 GPUs able to be expanded should needs arise via SilmSAS pcie risers. These should be good for testing things out and getting familiar with the systems. 
+
+On the right main 8x GPU machine with 512gb ram. Primary node for running larger local models or doing small scale training.
+
+Middle row: 
+
+Build nodes, one fast zen5 9950x with 96gb ram (linker node), 2x 48c epyc with 128gb each for distributed parallel builds.
+
+Networking: Management switch, 2.5gbe switch, 10gbe switch, 40gbe sx3018 switch.
+
+Bottom row: 
+
+UPS (for networking, proxmox cluster, main gateway node)
+
+3 node proxmox cluster (spec basically same as gen x cloudflare.. 48c, 256gb ram, 3tb nvme). This will be used for hosting services.
+
+Last node: basically a spare incase there are issues with one of proxmox cluster nodes. Same spec, can be used for builds / other things.
+
+Networking in the middle to keep cable runs as short as possible. Power split between UPS for essential and 2 circuits for more power hungry GPU nodes.
