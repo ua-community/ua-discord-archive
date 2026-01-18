@@ -1,0 +1,1 @@
+even if you enable the native play store api layer compat mode for apps? i heard its not obvious that you need to set that manually in some sustem setting
