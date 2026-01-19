@@ -1,0 +1,1 @@
+yeah figure there's probably a nice way to set up {repo} -> {channel} mapping
