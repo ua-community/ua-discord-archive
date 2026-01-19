@@ -1,0 +1,1 @@
+I have a cron job that backs up my Firefox sessionstore.js file to a cloud-synced dir. Every day. For yeeeeaaars. I trust nothing.
