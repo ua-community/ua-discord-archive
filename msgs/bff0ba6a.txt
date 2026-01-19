@@ -1,0 +1,1 @@
+Been thinking of leaning more on SQLite WASM stuff in browsers. For authoring and sync. e.g. periodically push your DB to p2p and load others DBs from a p2p URL when doing a search.
