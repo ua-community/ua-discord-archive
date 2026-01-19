@@ -1,0 +1,1 @@
+And that's coming from the guy who implemented that feature in Firefox itself.
