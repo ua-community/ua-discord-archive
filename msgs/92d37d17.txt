@@ -1,0 +1,1 @@
+I fought and lost the battle to ship a feature in Firefox in 2007 that just backed your bookmarks.html export to a remote server, because they wanted a "sync" feature instead. It took them years.
