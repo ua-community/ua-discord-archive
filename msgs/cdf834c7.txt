@@ -1,0 +1,1 @@
+Is your code published for this somewhere I may read? 😮 I've had to get more skilled with sqlite as part of my work at awana digital since we use it as our main db via drizzle-orm. Hopefully the builds for the wasm deploy are easy enough. Ideallly I'd want to use it via plain ESM with zero dependencies
