@@ -1,0 +1,1 @@
+Like from others or from your local index? I plan to tie it to browser history with n hops from the pages you visit (same domain by default)
