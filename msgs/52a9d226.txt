@@ -1,0 +1,1 @@
+will be in the blog post but one thing i need that eg a big html file could not give is readable git diffs and being able to merge two backups eg. when you find out something was deleted after you already continued using your current data store
