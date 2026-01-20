@@ -1,0 +1,1 @@
+it looks like they used ollama, so i wonder if the numbers are different with mlx
