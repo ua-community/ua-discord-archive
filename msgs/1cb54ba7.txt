@@ -1,0 +1,1 @@
+mobile browser with on device ai: https://www.pumabrowser.com/, safari has too a similar implementation but only access to Apple's own models
