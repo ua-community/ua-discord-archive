@@ -1,0 +1,1 @@
+If we can get proxmox + GPU working could also split into multiple machines that have 2 or 4 GPU each.
