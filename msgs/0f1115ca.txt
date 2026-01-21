@@ -1,0 +1,8 @@
+Website for the 4.0 alpha has gotten a bit better as well:
+https://elements.diffuse.sh/4.0.0-alpha/
+
+- "Take control" section is live.
+- Demo works great with the constituents.
+- Added a bunch of "element todos" that hopefully give a good idea of the direction.
+
+Still so much to do, but the bare minimum is now there (if you don't count support for audio streams).
