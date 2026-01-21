@@ -1,0 +1,1 @@
+Actually think it will run on 2x 3090
