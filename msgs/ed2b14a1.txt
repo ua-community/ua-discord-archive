@@ -1,0 +1,1 @@
+this is an AI image detector I'm working on for an artist website, they want to block AI art. An interesting challenge that just so happened to be already solved, now wrapped in a lil py sheet
