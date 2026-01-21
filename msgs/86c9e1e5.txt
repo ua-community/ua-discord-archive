@@ -1,0 +1,4 @@
+Next on the list:
+- Publish on JSR
+- Constituents loader for gradual malleability
+- Theme loader
