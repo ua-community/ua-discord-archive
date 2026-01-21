@@ -1,0 +1,1 @@
+fix confirmend. ATTENTION: this means minimal chrome version supported from the next beta on will be: v.146 i will add all the blocked features now that i encounter, meaning older versions of chrome will crash from then on
