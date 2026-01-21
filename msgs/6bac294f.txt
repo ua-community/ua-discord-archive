@@ -1,0 +1,1 @@
+There's a continuum here from "search index" <--> "recommendation graph" ... these days a single recommendation is going to be more useful to me
