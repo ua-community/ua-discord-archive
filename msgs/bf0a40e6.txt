@@ -1,0 +1,5 @@
+- unified data model
+- bidirectional sync mobile / server / desktop
+- backup/restore and automatic snapshotting on desktop
+- many many ux/polish/bugfixes on mobile and desktop
+- click-and-hold to drag any window in desktop
