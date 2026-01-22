@@ -1,0 +1,1 @@
+I assume for devices with BMC as they are servers it should be possible to manage by IPMI (Intelligent Platform Management Interface) over the network. Makes sense to use that to build an inventory as first step.
