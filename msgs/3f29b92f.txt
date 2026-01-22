@@ -1,0 +1,1 @@
+but as far as local llm, their gripe is on ollama hogging memory, which I think is valid
