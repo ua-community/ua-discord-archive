@@ -1,0 +1,1 @@
+Also usable from NPM if you configure it
