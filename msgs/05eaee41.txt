@@ -1,0 +1,1 @@
+Currently management network doesnt have internet access, the 326 hands out dhcp addresses which you can see here. This will be the mac mini, jetkvm devices, and also the epyc board BMC ports. Need to create a mapping between mac addresses and which node is which.
