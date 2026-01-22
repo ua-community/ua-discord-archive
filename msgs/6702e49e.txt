@@ -1,0 +1,1 @@
+Mostly using this because (a) I'm using Deno and (b) it autogenerates docs.
