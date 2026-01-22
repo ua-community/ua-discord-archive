@@ -1,0 +1,1 @@
+im mostly focussing on the input devices working much similar to how the video shows the display part. eg gluing a touch pointer to a switch controller etc.
