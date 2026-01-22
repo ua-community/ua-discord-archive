@@ -1,0 +1,1 @@
+interesting "NexOS includes an Android + Linux (Debian) desktop OS with hardware acceleration."
