@@ -1,0 +1,1 @@
+I've been meaning to give this a shot for voice based local inference. Kinda wild how small they're getting. https://github.com/Liquid4All/liquid-audio/
