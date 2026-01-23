@@ -1,0 +1,1 @@
+Does it lose performance if you only use it in English?
