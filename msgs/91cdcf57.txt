@@ -1,0 +1,1 @@
+Cursor is at a different stage of development in vscode and so sometimes things get wonky
