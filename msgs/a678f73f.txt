@@ -1,0 +1,1 @@
+(user) kilo is a whole cursor replacement? <https://kilo.ai/docs/providers/ollama>
