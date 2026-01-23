@@ -1,0 +1,2 @@
+Somewhat up to date state of my neovim world (and some other drop ins too),
+https://github.com/rektide/compfuzor/blob/main/files/astrovim/community.lua
