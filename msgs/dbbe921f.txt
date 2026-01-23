@@ -1,0 +1,1 @@
+not sure, I stopped using cursor and went to vscodium after I got autocomplete going
