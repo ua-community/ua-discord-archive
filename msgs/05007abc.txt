@@ -1,0 +1,1 @@
+opus is freaking expensive, impossible to provide on flat rate without per use billing and anthropic is probably losing money. subscriptions are just bad because it will lead to drm level api restrictions because otherwise people would pool accounts to mac usage per dollar. its just toxic to have flatrate for frontier models
