@@ -1,0 +1,1 @@
+they made a new binary file format without publishing the spec and you have to use an old java web app that breaks every 2 clicks to make a config file that you can download and then copy onto the device : D i wonder what i got myself into, but also does not seem like any alternative exists for one handed mobile and blind text entry
