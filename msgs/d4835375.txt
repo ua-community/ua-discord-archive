@@ -1,0 +1,1 @@
+how?maybe it assumes local latency?here every click takes 2 seconds and it fails to load 2  times every start
