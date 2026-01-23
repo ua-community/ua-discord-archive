@@ -1,0 +1,2 @@
+Two things: I really really really enjoyed astrovim. Good baseline semi featureful well built nvim++. And then second it has "community packs", just endless well configured well built things that are super super super easy to drop in.
+https://github.com/AstroNvim/astrocommunity
