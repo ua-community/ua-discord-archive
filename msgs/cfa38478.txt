@@ -1,0 +1,2 @@
+One thing that has been really really really cool, I set up mcp-neovim-server. So now when I have vim troubles I just ask my agent to please help me debug it. And usually it is quite capable of figuring out what's up, what needs to be done!!
+https://github.com/bigcodegen/mcp-neovim-server
