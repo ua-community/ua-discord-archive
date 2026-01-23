@@ -1,0 +1,7 @@
+🎉   Its now possible to combine "launch handler api" + "custom protocol handler" + "window management api" + any generic  key mapper software like karabiner or better touch tool to map darc as a launcher to the caps lock key or similar. as long as there is another browser window used somewhere this is pretty instant as we can skip loading tabs and other data and reuse shared worker and the browser engine.
+
+the default behaviour will be:
+
+short press caps lock: open a new launcher window
+long press caps lock: open new launcher and start voice mode
+long press while talking: walki talki mode where window only visible while pressing, ideal to augment working / researching on top of another app
