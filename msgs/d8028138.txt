@@ -1,0 +1,1 @@
+I mostly just want to avoid needing to fiddle with configuration or finding parts. I have a rack of small computers in my closet that acts as my home datacenter at the moment :P
