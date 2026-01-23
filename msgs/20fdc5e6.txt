@@ -1,0 +1,1 @@
+i made a keymap in direct mode and rebuild the chording with karabiner open source, now i can change any key in 1 second vs 5 +minutes
