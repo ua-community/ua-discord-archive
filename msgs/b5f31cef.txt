@@ -1,0 +1,1 @@
+For now just hi folks. Avid OpenCode + glm-4.7 + many MCP tool user checking in. Not spending a ton of time in neovim to be honest but gonna get some assistant stuff going there soon, I think.
