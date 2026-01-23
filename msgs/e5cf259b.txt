@@ -1,0 +1,1 @@
+meta-L command to send code and then show me what it can do, usually it one-shots the attempt
