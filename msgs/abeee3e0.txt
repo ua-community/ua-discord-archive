@@ -1,0 +1,5 @@
+Hmm what should the first “output” (userdata storage) component be… I’m thinking:
+- Some dumb storage that just stores your (encrypted) bytes where you can authenticate with a passkey (does this even exist?)
+- Storacha (closest thing I know to the above)
+- Automerge repo client
+- Something something Iroh?
