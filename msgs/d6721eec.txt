@@ -1,0 +1,1 @@
+how many params can we run now? i could setup something with cerebras that worsk and then can be migrated to folknet
