@@ -1,0 +1,1 @@
+i've been thinking in similar direction for personal pds w/ atproto part as "public shard". did you push that prototype anywhere?
