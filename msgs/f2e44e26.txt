@@ -1,0 +1,1 @@
+no still in the midst of it. but i dont think it makes sense to use too much atproto exact concepts for internal layer and see the public atproto more as external sync target. thats what i wanted to discuss with (user)   actually   once all the concepts in place i see very little use of having atrpoto concepts, but maybe im missing something
