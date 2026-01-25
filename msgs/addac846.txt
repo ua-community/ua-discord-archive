@@ -1,0 +1,1 @@
+this is a great setup to tune everything and then migrate to slow self host hardware where things can cook overnight
