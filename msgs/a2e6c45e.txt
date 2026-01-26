@@ -1,0 +1,3 @@
+Glad that Peek is doing this as well! In Diffuse there's also a high-level abstraction, and in the UI you can pick your preferred storage back-end.
+
+I think this makes sense for Peek. I'd like to see Peek providing an API to connect to this storage back-end, so your web software can connect to that instead of reimplementing storage configurations in every web app. Peek could be the "dumb storage" for bytes.
