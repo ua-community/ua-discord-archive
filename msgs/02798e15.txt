@@ -1,0 +1,1 @@
+if someone has a mac and the chrome beta and can reproduce this would be great if you upvote. its not directly a blocker for darc but the problem is that i can no longer see if i degrade performance with what i do because chrome is already degreaded in performance and scrolling smoothness is a key indicator for me. https://issues.chromium.org/issues/478027595
