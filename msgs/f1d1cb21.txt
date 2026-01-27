@@ -1,0 +1,1 @@
+I think the issue is just that I'm not adding as many custom styles to my site. Simon's site seems to work better
