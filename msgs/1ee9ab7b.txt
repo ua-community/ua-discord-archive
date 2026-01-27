@@ -1,0 +1,1 @@
+https://huggingface.co/deepseek-ai/DeepSeek-OCR-2
