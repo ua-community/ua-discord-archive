@@ -1,0 +1,1 @@
+bingo happens in 26.2 but not in 26.1 !
