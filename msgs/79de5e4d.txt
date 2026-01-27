@@ -1,0 +1,1 @@
+> The total cost for data generation and training is approximately $2,000 (40 GPU-days). O.O
