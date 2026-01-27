@@ -1,0 +1,1 @@
+For x11 at least, I think it's just calling the usual draw APIs https://github.com/embedding-shapes/one-agent-one-browser/blob/0.1.0/src/platform/x11/mod.rs#L487
