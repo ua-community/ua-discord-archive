@@ -1,0 +1,1 @@
+I've been wanting to make an HTML renderer that parses just enough to build the acessibility tree and leaves styling entirely to the user agent
