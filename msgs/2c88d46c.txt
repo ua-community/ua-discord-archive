@@ -1,0 +1,1 @@
+20k sLoC web browser engine built in 3 days https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/
