@@ -1,0 +1,1 @@
+I did some initial tinkering a few years ago for a TUI where I converted HTML to simplified markdown before rendering. https://github.com/RangerMauve/dlynx/blob/master/convertToMD.js
