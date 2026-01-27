@@ -1,0 +1,1 @@
+am i interpreting this code right or does this render in png files?
