@@ -1,0 +1,1 @@
+Important takeaway: Write better docs for humans, agents benefit too.
