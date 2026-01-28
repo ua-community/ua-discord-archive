@@ -1,0 +1,1 @@
+i have a sustpicion this lead to scroll degradation as the perf issues appeared same time the scroll effect was added
