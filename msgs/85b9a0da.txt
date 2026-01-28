@@ -1,0 +1,1 @@
+one bad thing i discovered was their mlx-engine implementation isnt bundled as a library, so its oss yet if i cant use it in tiles as a inference backend 🙁
