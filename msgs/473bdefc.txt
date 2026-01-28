@@ -1,0 +1,1 @@
+Finally managed to get satisfactory access to my signal data using mautrix signal bridge! Its a big step forward for messenger interop.
