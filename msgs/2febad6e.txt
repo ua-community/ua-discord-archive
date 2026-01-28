@@ -1,0 +1,1 @@
+my understanding is theres a cli interface to the app thats open, thats it
