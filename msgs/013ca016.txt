@@ -1,0 +1,1 @@
+chrome scrolling bug is found. can be avoided with --disable-features=CADisplayLinkInBrowser  will be fixed in next release without the flag. this might lead to crashes in some edgecases
