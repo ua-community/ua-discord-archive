@@ -1,0 +1,6 @@
+"You should now see a new window with a black top bar and three dots in the top-right corner.
+Open the app menu by clicking this icon and select App settings.
+
+Enable all permissions on the first screen. Then go to More settings and enable all permissions you want to use in Darc, but make sure at least Window management is selected.
+
+A Reload button should appear in the header of the Darc window. Click that, or close and reopen the window."
