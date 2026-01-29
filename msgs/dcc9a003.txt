@@ -1,0 +1,1 @@
+this week i used agentic markov chains in my work on chaining at the data layer and also chaining at the UX layer
