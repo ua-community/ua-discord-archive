@@ -1,0 +1,1 @@
+also make sure to enable the new scrollbar in about:flags
