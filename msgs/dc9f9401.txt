@@ -1,0 +1,1 @@
+and the point of CRDTs is each user can modify theirs locally immediately, with guaranteed consistency after aggregating from everyone else
