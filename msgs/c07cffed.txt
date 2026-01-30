@@ -1,0 +1,11 @@
+Related https://bsky.app/profile/tokono.ma/post/3mdnubvera22m
+
+I'm hoping that I can make it not server-first. But not totally clear how to approach that.
+
+Strategy so far: every build of Diffuse becomes an artifact represented by a CID. You can load any artifact via any deployment of this combination of static site + redirect rules standard.
+
+So far this is deployed on Netlify and IPFS. Both should allow for a "pick whatever version of the software you want" flow.
+
+I suppose I should test this in Agregore or something by loading it with the ⁨`ipfs://`⁩ protocol ...
+
+Can we do better?
