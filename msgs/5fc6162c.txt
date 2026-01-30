@@ -1,0 +1,1 @@
+depends on the constraints, for local first with web apps you can also use a web bundle with xenon 😄 will give nice local only cryptographic origin you control. or what i also do is have a local domain system and local daemons to serve an app at user definable names eg. mytodos.local
