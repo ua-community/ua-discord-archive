@@ -1,0 +1,1 @@
+that's the thing though, local-first, in an ideal sense, has the ability to turn cloud software (authoritative servers and passive clients) into mutual peers, with the same realtime guarantees and cross-device ubiquity as cloud software. It opens up one potential avenue  for flipping how power is exercised in networked computing.
