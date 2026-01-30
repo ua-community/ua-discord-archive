@@ -1,0 +1,1 @@
+In algebraic terms, the essential quality of CRDTs is commutativity; I can pull updates from everyone in any order and still get the same answer
