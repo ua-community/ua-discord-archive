@@ -1,0 +1,10 @@
+> I feel like philosophically at least, local first is about governance rather than performance per se
+
+Ie this, I would agree with the statement. But other people might not.
+
+If I only draw a rough line around everyone that uses the term local first the main things are
+- better UX / performance
+- data on device
+- something something syncing
+
+I think the people using it as a term for an agency / Governance idea are just one part that see the possibilities in that direction & care about them. Others may just care about building a great product.
