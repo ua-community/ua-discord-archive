@@ -1,0 +1,1 @@
+crdts are only there for people who prefer devx sinplicity over not losing data, but apart from that i agree. but better. not conflate crdt and local first
