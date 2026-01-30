@@ -1,0 +1,8 @@
+I think local first is a pot of people from different views, that happen to like local data. I think that's a good thing, many people identified an overlapping interest, even though the motivation is different.
+Of course that leads to tension when implementation comes around, but things are happening.
+Linear proofed that local data can be the superior UX choice. Linear isn't 100% of what I'd like local first to be, but it's an entry point.
+
+Similarly, react / GQL / Facebook stuff is a great way to get into local first. It's basically just a thing that enables easy caching, but it's one facade of local first.
+And then maybe the user agency part resonates, or maybe the privacy part resonates, or the DX part, etc.
+
+Us saying linear isn't local first is probably correct, but also just projecting the set of values we like onto this community/movement. And probably not even the same values from reader to reader in this chat 😅
