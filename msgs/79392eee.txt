@@ -1,0 +1,1 @@
+this is the point in the conversation where i point to the W3C DID v1.0 supporting document DID Method Rubric v1.0, where after deciding that it's impossible to define "decentralization", the WG authored a rubric to use when determining what "decentralization" *might* mean in the context of a given use-case. https://w3c.github.io/did-rubric/
