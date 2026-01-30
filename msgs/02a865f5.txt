@@ -1,0 +1,1 @@
+Sync engines (most of which) don't meet the criteria of local-first, but benefit from being synonymous with the movement, are confusing folks on what local-first means
