@@ -1,0 +1,1 @@
+eg. if i have to run a local kubernetes cluster and deal with oauth and encryption keys it does not feel like user agency even its a loval running software i control and have some agency over on paper
