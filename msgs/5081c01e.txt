@@ -1,0 +1,1 @@
+boiling down atproto to user-owned keys + signed-data is mucho agency. add on too much deployment/infra cruft and you lose that agency. you *can* retain it with care, but that's not the default today.
