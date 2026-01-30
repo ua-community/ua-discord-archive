@@ -1,0 +1,1 @@
+the agency in atproto is all about not *having* to delegate *any* of that away. you *can* when you want to, but you don't have to. the Unhosted decoupling, in some ways.
