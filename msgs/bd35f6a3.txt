@@ -1,0 +1,1 @@
+it's like The Mozilla Differential - people fill an appropriately-shaped thing with what they actually want, even if the original thing isn't and never will be that.
