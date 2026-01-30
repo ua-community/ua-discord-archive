@@ -1,0 +1,3 @@
+I assume the local first dev room is hosted by I&S because they created the event on Smoke Signals: https://smokesignal.events/did:plc:hamnrbjmhrgouhtkaof5e2ar/3m5ccjmborb2e
+
+Doesn’t actually say it on the https://openlocalfirst.org/ website so I could be wrong.
