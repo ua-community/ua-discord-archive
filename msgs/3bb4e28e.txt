@@ -1,0 +1,1 @@
+http prisoners migrating their applications to local first architectures makes a better user experience for their domain-name-imprisoned users.
