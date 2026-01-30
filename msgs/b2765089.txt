@@ -1,0 +1,1 @@
+Yeah but as it’s implemented it just means data on device but user isn’t really empowered with how to access that data. It’s lacking a system layer and way for users to use it outside of the we get our apps from domains way the world works today
