@@ -1,0 +1,2 @@
+Wondering whether there is anyone who has experimented with an assistant style agent. Thinking of trying that w/ something like letta.
+You know, I have ideas, chat to someone, see something cool online, I'd love to just brain dump somewhere, get a semi-structured output from that, maybe dispatch to closed loop code agent to make things happen, etc.
