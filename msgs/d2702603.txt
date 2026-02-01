@@ -1,0 +1,4 @@
+Yeah it's very specific right now.
+Works on two platforms:
+- IPFS
+- Webservers with _redirects file support
