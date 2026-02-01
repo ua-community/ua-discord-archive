@@ -1,0 +1,1 @@
+great to have a file like this in the repo that actively discourages slop contributions from both humans and agents: https://github.com/tilesprivacy/tiles/blob/main/AGENTS.md
