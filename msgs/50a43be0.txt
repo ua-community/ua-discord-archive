@@ -1,0 +1,1 @@
+its just a bit weird as there is no dasl implementation so you change your mental model but just use either helia or atmos or whatever the atproto packages are called : D
