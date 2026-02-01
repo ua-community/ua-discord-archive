@@ -1,0 +1,1 @@
+Oh awesome, tell me more later! Yeah for sure. The _redirects file seems pretty standard so I'm hoping it'll stay, it's been here for a while now, works on both IPFS & the web.
