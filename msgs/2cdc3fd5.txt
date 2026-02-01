@@ -1,0 +1,1 @@
+compat seems hard unless you have narrow-waist style of wire protocol, maybe (assuming your ecosystem has diverse clients etc)
