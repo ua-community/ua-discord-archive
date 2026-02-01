@@ -1,0 +1,3 @@
+TIL about Kindness mode in a Tor VPN app that lets you use your device as a bridge, high user agency!
+
+https://github.com/guardianproject/orbot-android
