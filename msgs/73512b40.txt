@@ -1,0 +1,1 @@
+i did something like that for a long time. as long as the api dont change and data does not need migration its pretty great
