@@ -1,0 +1,1 @@
+Do you feel you have more experience in the work they're making decisions on? Slow development seems ideal for avoiding fragmentation, no? Else you can very quickly build a bunch of footguns or have little adoption of new protocols.
