@@ -1,0 +1,1 @@
+On one side X11 does all the rendering, on the other side Wayland makes the compositor do all the rendering, and Waxed in the middle does some stuff for you but not too much
