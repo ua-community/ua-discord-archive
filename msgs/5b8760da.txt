@@ -1,0 +1,3 @@
+Looked into it just now, I like this main feature of Wayland
+> The key architectural difference lies in the communication model. X11 applications send drawing commands to the X server, which then renders everything. Wayland applications render directly to their own buffers using modern graphics APIs like OpenGL or Vulkan, then pass those buffers to the compositor for final display. This eliminates several layers of indirection and allows for better hardware acceleration.
+https://dev.to/rosgluk/wayland-vs-x11-2026-comparison-5cok
