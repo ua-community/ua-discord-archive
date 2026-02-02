@@ -1,0 +1,1 @@
+this is text - in images, i think. there are also specific diffusion text models
