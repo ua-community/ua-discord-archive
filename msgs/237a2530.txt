@@ -1,0 +1,1 @@
+IMO the coolest thing wayland enables is to go beyond the 2D desktop. e.g. compositors like stardust. https://stardustxr.org/
