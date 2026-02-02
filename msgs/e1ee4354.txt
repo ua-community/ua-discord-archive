@@ -1,0 +1,2 @@
+Judging from this, Waxed maybe has that in common
+> You need a plugin that receives a framebuffer from Waxed to fill and hands it back to be drawn on screen.
