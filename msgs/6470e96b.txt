@@ -1,0 +1,1 @@
+I appreciate having the flexibility of direct access to frame buffers without the responsibility to manage vsync and such
