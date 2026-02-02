@@ -1,0 +1,1 @@
+The only hard part is time management. As it is, I'm trying to balance looking for work, developing my UI engine (which sits on top of winit and wgpu), and just recently an general AT Proto CLI, which for some reason no one has made yet
