@@ -1,0 +1,1 @@
+ok so out of curosity what makes x11 paradigms so much better than wayland?
