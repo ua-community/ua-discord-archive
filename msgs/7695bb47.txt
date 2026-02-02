@@ -1,0 +1,1 @@
+By the looks of it, if I ever dipped my toes into compositor development, I personally would probably prefer Waxed over Wayland, because I don't wanna deal with vsync lol
