@@ -1,0 +1,1 @@
+IIRC a lot of the folks building wayland are doing it the way they are due to being burnt out from maintaining x11's codebase
