@@ -1,0 +1,1 @@
+If dynamic loading of Rust code is ever gonna work, it would probably require some JIT monomorphization and caching to handle the generics
