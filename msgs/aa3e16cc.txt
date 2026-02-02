@@ -1,0 +1,1 @@
+you mean local workerd ? we had something like that running . you can reuse many of the modules from wrangler, that are officially for local dev but they are pretty good as starting point,
