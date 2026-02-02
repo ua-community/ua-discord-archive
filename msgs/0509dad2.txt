@@ -1,0 +1,1 @@
+So they have to purely because x11 is no longer being maintained and wayland is? It sounds like what they really want is to just keep x11 maintained and to have a compatability layer bundled to run wayland apps under it. It's a shame that that one x11 fork is mostly full of racists and the usual anti-woke crowd.
