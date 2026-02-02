@@ -1,0 +1,1 @@
+popup windows are to claude code what steps are to darleks. trying to get kvm working via bmc but its failing as claude code can only access tabs 🤦‍♂️
