@@ -1,0 +1,2 @@
+Raw window handle is kinda funny, it's essentially just a big Rust enum of different windowing systems 
+https://docs.rs/raw-window-handle/0.6.2/i686-pc-windows-msvc/raw_window_handle/enum.RawWindowHandle.html
