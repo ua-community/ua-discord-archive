@@ -1,0 +1,1 @@
+Also worth stating that C doesn't have "a stable ABI" either, because ABIs belong to the OS more than any given programming language
