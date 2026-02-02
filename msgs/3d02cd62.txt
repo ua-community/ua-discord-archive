@@ -1,0 +1,1 @@
+In a sense, Rust sort of simply cannot have an ABI because of how generics and monomorphization work
