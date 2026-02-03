@@ -1,0 +1,1 @@
+good news is once bios tui menu navigation is nailed, most os tui installers should also work
