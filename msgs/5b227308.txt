@@ -1,0 +1,1 @@
+I guess if it cant manage it, next best thing is for the operator to print out instructions for the human to perform the steps it wants done. That feels like cheating though
