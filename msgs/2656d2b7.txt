@@ -1,0 +1,1 @@
+I like the idea of something cloudflare like but where the compute / hosting part is more local coops
