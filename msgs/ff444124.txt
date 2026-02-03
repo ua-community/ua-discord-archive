@@ -1,0 +1,1 @@
+The oxide computer people make the case you cant really solve it unless you can control every bit of code that runs from hardware on up. There are so many layers and mini computers in a server with their own firmware etc
