@@ -1,0 +1,1 @@
+i kinda want a cli tool that connects to tui and then uses llm to parse what it sees and provides claude code with a terminal interface to it.. so claude code > tui2term > llm parsing what it sees and actions that can be taken > term outout > claude code takes action
