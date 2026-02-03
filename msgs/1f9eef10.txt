@@ -1,0 +1,1 @@
+it seems like a lot people are addressing the slop detection issue since it is essentially the new spam filter
