@@ -1,0 +1,14 @@
+⁨```We're in BIOS! 🎉
+
+  Aptio Setup Utility showing:
+  - Board: HUANANZHI H12D-8D
+  - CPU: AMD EPYC 7K62 48-Core Processor
+  - Memory: 256 GB
+  - BIOS: Version 2.0 (Build 06/13/2025)
+
+  Tabs available: Main, Advanced, Chipset, Security, Boot, Save & Exit, AMD CBS, AMD PBS Option, Event Logs
+
+  The workflow works:
+  1. fn ipmi power 236 reset - reboot via IPMI
+  2. Send DEL keys via KVM browser tab
+  3. BIOS access achieved!```⁩
