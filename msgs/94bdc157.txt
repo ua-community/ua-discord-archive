@@ -1,0 +1,1 @@
+has anyone seen a good way to give claude code access to navigate other tui apps other than writing your own clients
