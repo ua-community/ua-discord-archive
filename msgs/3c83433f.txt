@@ -1,0 +1,1 @@
+Though we been running stuff in vms for years trusting aws etc
