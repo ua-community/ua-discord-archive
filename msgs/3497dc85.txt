@@ -1,0 +1,1 @@
+Managed to add mod to bmc that adds button that opens the kvm in a tab so now claude chrome is happy
