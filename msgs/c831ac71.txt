@@ -1,0 +1,1 @@
+This is for the bare metal automation, mostly we will be doing similar but in the virtualization layer with proxmox or similar. But i wanted to do the full ground up automation.
