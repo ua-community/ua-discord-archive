@@ -1,0 +1,1 @@
+For demo session this week I’ll give a quick rundown of a standard node and demo the folknet operator detecting it and running though the provisioning etc. we can let it run in the background, don’t have to watch whole thing
