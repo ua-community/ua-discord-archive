@@ -1,0 +1,1 @@
+obviously many os have a non interactive install or term install option too but tui is common
