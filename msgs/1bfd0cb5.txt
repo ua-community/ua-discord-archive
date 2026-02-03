@@ -1,0 +1,1 @@
+Currently all storage is nvme but we could add some spinning disks if need a ton more
