@@ -1,0 +1,1 @@
+P2PDS: single-user instances which host signed Atproto records for an allowlist of other PDSes.
