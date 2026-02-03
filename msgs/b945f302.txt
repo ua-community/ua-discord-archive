@@ -1,0 +1,1 @@
+just read you can integrate the trusted compute with ssl termination and the overhead is not as big as i thought. maybe this could even work good enough.
