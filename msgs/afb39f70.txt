@@ -1,0 +1,1 @@
+tui navigation still not fully there, if anyone knows of an ai playwright for tuis skill let me know
