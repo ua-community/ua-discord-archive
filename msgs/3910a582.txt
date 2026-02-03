@@ -1,0 +1,15 @@
+⁨```# 1. Mount local ISO file
+  fn vmedia mount 238 ~/isos/debian-12-netinst.iso
+
+  # 2. Set boot device to CD-ROM
+  fn ipmi boot 238 cdrom
+
+  # 3. Power cycle
+  fn ipmi power 238 cycle
+
+  # 4. Monitor installation
+  fn kvm screenshot 238
+
+  # 5. After install completes
+  fn vmedia unmount 238
+```⁩
