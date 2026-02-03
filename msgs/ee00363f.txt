@@ -1,0 +1,1 @@
+It’s a protocol on top of various smaller actual hosts or coops
