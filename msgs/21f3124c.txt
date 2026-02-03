@@ -1,0 +1,1 @@
+So standard APIs  like cf but you choose where your stuff lives and runs
