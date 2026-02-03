@@ -1,0 +1,1 @@
+it's the only approach that can work. self-hosting is hell. depending 100% on *a* server is fail (hi Mastodon). depending on paid single company is a ticking clock, always.
