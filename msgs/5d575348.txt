@@ -1,0 +1,5 @@
+yeah but not "local", more like open source and open service clone:
+
+- powertrio capability combo: workerd + DO + R2 (edge logic + data storage + asset publish)
+- running as service pool
+- on the cluster (to start, want distributed)
