@@ -1,0 +1,1 @@
+Some of the enterprise CPUs have these trusted vm extensions that I think are supposed to help with some of this. But yeah tricky problem
