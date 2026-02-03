@@ -1,0 +1,1 @@
+There will be proxmox cluster where we can run services so you can run this on that as container and have it run multiple instances on different nodes in the cluster
