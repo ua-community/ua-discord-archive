@@ -1,0 +1,1 @@
+Service nodes will have access to NAS with about 10tb storage
