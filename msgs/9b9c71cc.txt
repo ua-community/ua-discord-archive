@@ -1,0 +1,1 @@
+That cluster will have ups and should survive in case power goes out too. I don’t have enough ups for all nodes but will have for the service cluster
