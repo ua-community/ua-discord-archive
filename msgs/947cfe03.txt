@@ -1,0 +1,1 @@
+We had some trouble merging AI augmented PRs recently, but we are open to change/adapt as we as an industry figure out better human-AI collaboration workflows. I don’t have problem with AI gen code as such, I think we lack tools/workflows around software collaboration for community projects
