@@ -1,0 +1,1 @@
+damn they made a browser native sigstore implementation, something i was looking for: https://tinfoil.sh/blog/2025-12-18-browser-native-verification
