@@ -1,0 +1,1 @@
+also the fact that AI rust code is still garbage if not guided with care
