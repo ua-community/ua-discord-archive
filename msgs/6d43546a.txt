@@ -1,0 +1,1 @@
+We’ve got a new 0.4.0 release, the build is 70 MB as it bundles a portable python runtime for dependencies and code interpreter: https://github.com/tilesprivacy/tiles/releases/tag/0.4.0
