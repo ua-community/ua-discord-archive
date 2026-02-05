@@ -1,0 +1,1 @@
+Demo would have been showing node setup via the BMC remotely via ai, including bios, sol, IPMI etc
