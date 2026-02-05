@@ -1,0 +1,7 @@
+Starting to look into how I should train a LLM so it knows how to combine Diffuse elements.
+
+Not sure where to start.. Maybe something https://allenai.org/blog/open-coding-agents ? But how do we make this LLM usable in a web page? Do we rely on external apis or llms built into the browser? 🤷
+
+Might be too soon, could just let it play out and see how the tech evolves?
+
+(user) You said you wanted to collab on this, let me know if you’re still up for that and optionally want to chat about it.
