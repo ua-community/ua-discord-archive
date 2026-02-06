@@ -1,0 +1,1 @@
+you can also add ipfs pins directly to cloudflare
