@@ -1,0 +1,6 @@
+Dato is a very well-designed app for quick situational awareness. It does a bunch of things all in one place which I previously used 3-4 different apps for. I use it in conjunction with Ice to clear all the menubar clutter i don't use.
+
+- menu bar icon (shows day of month by default)
+- shows next upcoming meeting in menubar
+- hotkey to autojoin videoconf for that meeting
+- hotkey to show a panel with month calendar, upcoming events, and configurable set of times around the world (w/ tz offset)
