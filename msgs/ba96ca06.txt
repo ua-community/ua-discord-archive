@@ -1,0 +1,1 @@
+managed to get dynamic module loading in iWA signed bundles via service worker working. 🎉   this would be the solution to many issues but as we discussed this might be just missed by chrome team and seen as bug? should i bring this up and then at least know for sure or do we keep this for some future emergency where we might need it?
