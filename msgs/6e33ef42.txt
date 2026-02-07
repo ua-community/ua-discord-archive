@@ -1,0 +1,1 @@
+for us its actually more secure because it means we can do nearly all of our usecases with signed bundles and a security system in the service worker that prevents unwanted usage. (eg show warning someone installs a system extension similar how macos warns when someone installs a kernel extension)
