@@ -1,0 +1,1 @@
+iwa auto update should also start working from now on. you can switch release channels on about://web-app-internals by writing "nightly" or "default" in the channel subscription.   the ui is still rough but will be overhauled soonish
