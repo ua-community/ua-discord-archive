@@ -1,0 +1,3 @@
+darc is starting version counting and release channels now: https://github.com/Agent54/xe-darc/releases
+
+we start at 0.0.9  pre alpha (alpha will be something like 0.1.0) ,   pre-release tags are the nightly release channel and  the regular tags are a bit more tested and correspond to pre-alpha and later alpha releases
