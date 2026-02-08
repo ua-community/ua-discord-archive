@@ -1,0 +1,1 @@
+I sort of recall there in one of the IWA calls someone mentioning various dynamic loading was possible with service worker but they deemed that ok as it was intentional. Probably worth mentioning it but not in form of a bug report
