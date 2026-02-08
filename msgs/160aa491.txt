@@ -1,0 +1,1 @@
+its a great pattern actually, having super strict csp and then a policy engine doing explicit dynamic loading via service wokrer
