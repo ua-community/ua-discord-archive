@@ -1,0 +1,3 @@
+Yeah. Most render pipelines I've seen render to a image buffer, and then copy to the real display buffer.
+Massively simplifies display requirements. Some GPU/display combinations come up with wild output buffers.
+Also HDR/SDR, resize, etc
