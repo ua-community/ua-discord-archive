@@ -1,0 +1,1 @@
+i wonder if anyone actually needs these context management tools. memory for facts is one thing but context is so broad and model specific, i doubt it can help more than it hurts. latest agents take 2 turns max to rediscover what they need from scratch and then are setup like they need to and also are not outdated
