@@ -1,0 +1,6 @@
+Some thoughts for sensemaking stage that might be helpful:
+
+- identifying capabilities we developed which don't exist in browsers
+- identifying capabilities we developed which don't exist in the extension systems evaluated
+- identifying where web and existing extension systems have points to be used for maximizing compat/interop to make integration easier (eg postMessage)
+- handwavey thought about each project's approach to what's in core vs features-as-extensions vs 3rd-party extensions... seems different for each of the systems you looked at, and the projects people are building here in this community
