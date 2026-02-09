@@ -1,0 +1,1 @@
+I was thinking it'd make sense to skip the part where you pretend to be a matrix server and make a client directly. Sadly the signal code is a major PITA to use if you want to make a client without launching their daemon thingie
