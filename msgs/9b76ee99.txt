@@ -1,0 +1,2 @@
+Yeah, Vulkan has them
+https://docs.vulkan.org/spec/latest/chapters/cmdbuffers.html
