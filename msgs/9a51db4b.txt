@@ -1,0 +1,1 @@
+Well, I'd think if you're making a compositor system, you would want to support games and CAD and such, not just desktop apps, so that stuff is relevant
