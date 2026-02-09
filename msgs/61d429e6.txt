@@ -1,0 +1,2 @@
+> Every resize action is another IPC chat and a new buffer exchange!
+Thinking of how wgpu works, and I think maybe Vulkan as well...what if apps provided a command buffer stream, instead of exchanging display buffers?
