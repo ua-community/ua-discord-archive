@@ -1,0 +1,1 @@
+yeah i would not want to rebuild those tasks of the window manager inside the browser. mouse, keyboard, desktops, screens etc should still be taken care off outside
