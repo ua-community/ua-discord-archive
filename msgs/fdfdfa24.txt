@@ -1,0 +1,1 @@
+yeah i tried exclusive mode too, but you find out all the little things the window manager does like painting nice mouse cursors, resizing the screen when the orientation changes etc. so in the end i used x11+ a minimal xfce. i hope one day its feasible to make a custom window manager just for this
