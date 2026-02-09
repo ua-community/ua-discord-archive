@@ -1,0 +1,2 @@
+Usually last frame information is needed to render anything reasonably complex (at least as an input to the render commands)
+This means you can issue a copy from last of some other location in the desktop to your part of the window, and then read that out
