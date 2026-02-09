@@ -1,0 +1,1 @@
+I could possibly still imagine an approach where apps produce a command buffer stream and also the compositor optionally gives a dedicated "last frame" buffer to do these optimizations with. So if the buffer exchange previously involved copying buffer data, there is now only one copy instead of two, or three.
