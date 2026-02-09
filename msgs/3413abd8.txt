@@ -1,0 +1,5 @@
+At the Vulkan layer image buffer = memory location. So yeah, if you work at that level, it's just a pointer swap.
+Copying is really really cheap on the GPU (the GPU can usually even just do aliasing at a hardware level).
+The cost is more in resources available. Memory space to a degree, and most importantly memory bandwidth.
+That's at least the perspective I've learned from games, CAD, etc.
+Don't think that directly translates to desktop apps, though I'm not even sure what the challenge would be there 😅
