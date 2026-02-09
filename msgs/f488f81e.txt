@@ -1,0 +1,1 @@
+To some extent we're all kinda in a constant pushpull between idiosyncratic software (i'm building the thing i want to use for myself) and side-eying the ability to provide it to others. For software designed to maximize agency, more people using it can often be a trade-off against achieving that goal.
