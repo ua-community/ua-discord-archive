@@ -1,0 +1,1 @@
+I abstracted `window` away so that extensions (features really) don't rely on it, since the scope is more like browser extension than web page, and also for portability across "back-ends".
