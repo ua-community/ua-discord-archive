@@ -1,0 +1,3 @@
+(user) Was thinking about the extension API in Peek. Would it be possible to use `postMessage` instead? The Peek backend would listen for messages and then do whatever `window.app` does now. I know it's an extra step, but potentially enables more interop.
+
+Seems to me that writing an extension that way might make it easier for extensions to support multiple clients?
