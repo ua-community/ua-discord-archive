@@ -1,0 +1,1 @@
+hardest part was getting matrix e2e encyrption working  fully client side
