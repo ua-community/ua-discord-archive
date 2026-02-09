@@ -1,0 +1,1 @@
+Using `postMessage` implies all kinds of things, but most of all it sounds like you're thinking of this through a lens of "is a web page".
