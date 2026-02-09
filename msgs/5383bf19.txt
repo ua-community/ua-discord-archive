@@ -1,0 +1,1 @@
+I'm making a UI toolkit of sorts, and I ran into an issue like that when resizing on my Macbook. The trick was to set a `presents_with_transaction` to `true`.
