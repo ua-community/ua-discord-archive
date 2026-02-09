@@ -1,0 +1,1 @@
+tbh I have done everything *but* write a compositor at this point. I don't fully understand how the driver <-> app API  really works, which presumably is inside the compositor.
