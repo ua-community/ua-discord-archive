@@ -1,0 +1,1 @@
+It also has the issue that this requires giving the app additional access to the GPU for creating the inputs to the cmd buffers. Which has a ton of extra security questions
