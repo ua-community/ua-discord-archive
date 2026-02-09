@@ -1,0 +1,2 @@
+> A GUI toolkit would not send a buffer but would instead send a stream of commands that would make up the entire UI,
+A page from this way of things, except the commands are not "draw rectangle" but instead GPU commands like "load this data, load this pipeline, run this shader"
