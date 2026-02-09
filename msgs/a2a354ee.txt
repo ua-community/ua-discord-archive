@@ -1,0 +1,1 @@
+It's very hard to sandbox unfortunately. But yes something like that is possible.
