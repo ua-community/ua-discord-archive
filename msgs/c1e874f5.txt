@@ -1,0 +1,1 @@
+right but how do you use vulkan? is the compositor not responsible for implementing / shadowing the present calls to well... composit what the apps render?
