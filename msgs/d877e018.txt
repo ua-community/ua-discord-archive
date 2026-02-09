@@ -1,0 +1,1 @@
+So then, the compositor could append the app command buffers to its own before sending it all to the GPU to render
