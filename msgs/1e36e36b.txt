@@ -1,0 +1,1 @@
+Cool. So it may seem less efficient for the compositor, but it lets apps be *way* more efficient.
