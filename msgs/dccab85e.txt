@@ -1,0 +1,1 @@
+Also if the compositor is giving you a last frame buffer anyway, you may as well just draw your next frame into it.
