@@ -1,0 +1,1 @@
+Interop isn't necessarily a goal in this research. The original proposal aimed at "form a basic high-level set of requirements for web user agent extensibility".
