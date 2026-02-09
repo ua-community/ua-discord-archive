@@ -1,0 +1,1 @@
+For my purposes, I am not aiming to interop w/ regular web or extensions in how extensions/features are developed. Darc is taking a different angle, trying to maximize compatibility w/ the Chromium IWA capability framework for various reasons.
