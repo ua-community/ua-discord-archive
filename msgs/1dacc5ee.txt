@@ -1,0 +1,1 @@
+Source? :O Been wanting something like this but to feed the mautrix data into a p2p database so I could pull as needed
