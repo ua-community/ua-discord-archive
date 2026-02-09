@@ -1,0 +1,1 @@
+I will say, Orca seems kind of complex with a lot of key bindings to learn and several "modes". I'm leaning towards making my own thing which focuses just on traversing the acessibility tree and reading sentance by sentance instead of line by line.
