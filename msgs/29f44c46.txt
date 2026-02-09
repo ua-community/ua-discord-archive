@@ -1,0 +1,1 @@
+so much sweet neat sandboxing. https://github.com/earendil-works/gondolin also caught my eye, using firecracker vm's (i wish it didn't have to come to vm's damn)
