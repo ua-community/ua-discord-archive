@@ -1,0 +1,5 @@
+Thanks, that's helpful!
+
+Yeah, I'm using the "is a web page" lens, or rather "web view" lens (extensions have HTML + JS, hence postmessage). And yeah, totally a comment on "API injection pattern". Trying to figure out if we unlock more user agency by opting for postmessage instead, even though it does indeed imply a bunch of things.
+
+Will write about capabilities for sure ✅
