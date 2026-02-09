@@ -1,0 +1,2 @@
+In my experience passing a render graph style structure is by far the most efficient & safe way to abstract it.
+(I mention efficient as that also allows interleaving commands from multiple apps towards the GPU).
