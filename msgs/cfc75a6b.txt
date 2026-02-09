@@ -1,0 +1,4 @@
+All things vulkan! Pretty sure there is a way to make all the major Graphics APIs to work with vulkan.
+
+OpenGL on Vulkan,  DX 9-12 on vulkan exist. Vulkan on Metal is a thing as well as far as I can see. 
+So should be possible, if you're really motivated, to make a pure vulkan environment. Probably even has performance benfits on AMD / Linux and Maybe Mac ( depending on how good OpenGL/Metal is)
