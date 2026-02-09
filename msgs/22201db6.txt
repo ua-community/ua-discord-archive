@@ -1,0 +1,1 @@
+even includes setup hosting for discord bridge
