@@ -1,0 +1,1 @@
+Would that be for cases where much of your render is the same as last frame?
