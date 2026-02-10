@@ -1,0 +1,1 @@
+(user)  you think it would be possible to allow users to join a discord bridge channel directly with matrix?  that would be my dream migration pattern. possibly even with back puppeting though i dont think we could create them with fake ids from the new policy on
