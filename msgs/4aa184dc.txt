@@ -1,0 +1,1 @@
+Damn TIL WebNN works on Mac/CoreML in Chrome, its behind a flag, previously it was only Windows devices only on Edge
