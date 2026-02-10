@@ -1,0 +1,1 @@
+Oh yeah, for surw. Discord sees a single bot that changes names for each message. Banning them needs to happen on the matrix side but maybe could be done through a discord side bot command
