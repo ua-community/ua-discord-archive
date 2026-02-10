@@ -1,0 +1,1 @@
+not chat bubbles, but more like a vertical scrolling approach for loading pages generally
