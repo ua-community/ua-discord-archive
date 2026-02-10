@@ -1,0 +1,1 @@
+i have a vertical carousel component i made for an idea in the general direction.
