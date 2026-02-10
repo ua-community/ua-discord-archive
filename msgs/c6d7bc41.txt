@@ -1,0 +1,1 @@
+one feature i always wanted: open a server and see the latest channels as events with previews
