@@ -1,0 +1,1 @@
+create a matrix account and then join the matrix bridge as matrix user and be able to interact with the users who also use the matrix bridge
