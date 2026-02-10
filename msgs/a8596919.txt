@@ -1,0 +1,1 @@
+I've seen some methods where you can make new voices but it takes some finagling, theres also an MLX fork and its very fast
