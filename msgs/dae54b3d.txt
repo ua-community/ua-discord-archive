@@ -1,0 +1,1 @@
+rebuild the launcher in swift just to find out the main issue was a bug in macos 😭
