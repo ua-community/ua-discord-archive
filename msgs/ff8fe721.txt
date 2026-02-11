@@ -1,0 +1,1 @@
+revolt was nice before stoat rebranding ruined the design, but that was so early and so many features missing that i think its easier to build a matrix client from scratch than to add the missing features or contribute to stoat
