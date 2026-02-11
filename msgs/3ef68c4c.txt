@@ -1,0 +1,1 @@
+(user)  i think the discord bridge misses messgaes that are sent to threads created before the bridge connected, do you have the same behaviour?
