@@ -1,0 +1,1 @@
+I see you posted about matrix -> discord as well. This is really easy for single servers. Just gotta have admin privileges, and the bot to install can easily fake each person including usernames, profile images, etc.
