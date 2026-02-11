@@ -1,0 +1,1 @@
+its the easiest to set up between them, stoat, and matrix/element but I don't know anything about their security or threat model
