@@ -1,0 +1,2 @@
+On here we can use webhooks, no? We should look at getting a u&a matrix w/ bridge asap.
+Setting up similar things for other communities today. Will report back what worked well for us
