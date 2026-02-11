@@ -1,0 +1,11 @@
+The plan for cooperative malleable software is working <:lepPOGGIESMYDOGGIES:803305327046819901> 
+
+Here I'm loading a piece of code from a Github gist (tried Tangle too, no CORS <:lepSADDESPAIR:1068959360413356062>)
+which then works together with the data and other components from https://elements.diffuse.sh
+
+Some other updates:
+* You can fork the built-in UI components (calling these "facets" now) and edit them.
+* All facets are loaded the same way (no more separate html pages)
+* Made the about page a little nicer and easier to understand (I hope)
+
+Was thinking about Web Tiles too, and as much as I want to jump in on the hype, probably gonna be an addition later on. The idea was to make these facets web tiles, but it's just too early.
