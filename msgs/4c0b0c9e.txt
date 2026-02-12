@@ -1,0 +1,3 @@
+Recently, our team at [Telepath](https://telepath.computer/) put together a  demo of what we think an AI-native computer looks like when built from first-principles. There were a few discoveries we made that surprised me, and might be interesting to the group.
+
+I wrote a design breakdown here: https://ruperts.world/blog/ai-computer/
