@@ -1,0 +1,1 @@
+was thinking about something like adding that to our bot, so you can privately validate up to >n proofs to get a flair
