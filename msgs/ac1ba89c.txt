@@ -1,0 +1,1 @@
+i fixed a bug in AlwaysRight yesterday (hopefully) where tab weirdness was happening in Chrome at startup b/c session restore was placing tabs while the extension was trying to execute on them.
