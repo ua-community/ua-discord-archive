@@ -1,0 +1,10 @@
+this one was an oddly similar look, round screen + cam, nothing else, but designed for making at home w/ all Adafruit-able components:
+
+- 3d-printed case
+- pi-zero
+- cam
+- low-res round screen
+
+you hang it on the wall, configure direct connection to someone else who has one, and when it detects you (proximity iirc) it takes little photo/video and shows on the other person's device, and vice versa.
+
+nothing else. lovely.
