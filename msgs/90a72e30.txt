@@ -1,0 +1,1 @@
+and i fixed a bug today in Peek where session restore was restoring windows while the smart display switcher positioning logic was trying to move them around.
