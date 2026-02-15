@@ -1,0 +1,1 @@
+for the community sync there is also  a new bridge without dm support but looking interesting https://gitdab.com/cadence/out-of-your-element/src/branch/main/docs
