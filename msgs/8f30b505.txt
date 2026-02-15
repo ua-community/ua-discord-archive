@@ -1,0 +1,1 @@
+My intent with that point about closing the gap was more in terms of interface design, than an end-to-end task – to allow the computer to fill in a lot of the otherwise manual steps in a task when the intent is clear & well-defined.
