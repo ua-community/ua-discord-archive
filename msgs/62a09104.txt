@@ -1,0 +1,1 @@
+also seems to have some UI on top so you dont have to do verything with comands or cli tools on the servers which i heard was annoying for moderation/ community management
