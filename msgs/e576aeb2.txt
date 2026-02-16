@@ -1,0 +1,1 @@
+eg search repo of notes/todos -> see list -> markdown -> tweak -> save to filesystem for the robot to use as a todo list for the day.
