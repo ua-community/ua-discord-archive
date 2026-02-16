@@ -1,0 +1,1 @@
+yeah i came across 3 more similar ones for other topics. eg the rust server forks drama.  but still somewhat hopeful its possible to ship around all this with just username password and unfederated servers or community server without homeserving. (user)  any other things we need to know? you think this is feasible? any apache 2 rust servers that you think would work for us?
