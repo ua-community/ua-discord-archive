@@ -1,0 +1,1 @@
+nothing fancy right now. focusing on chaining first. mime-typed data running through command chains with fuzzy matching for list-ish or scalar types gets a bunch of daily-use-cases  met.
