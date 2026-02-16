@@ -1,0 +1,1 @@
+RDF and triples and graph databases have their time and place, right?
