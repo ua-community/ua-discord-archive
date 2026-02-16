@@ -1,0 +1,1 @@
+Ollama has reversed its positoning from on device models -> open models as part of their recent shift to hosting cloud models and agent SDK integrations (like OpenClaw, Claude Code etc): https://ollama.com
