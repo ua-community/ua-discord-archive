@@ -1,0 +1,1 @@
+It's not toooo bad if you just install and forget a node, but it's just safer/easier to have someone else do it to save time. Like, I consider an hour of me fussing around with a server to cost a lot more than Etke's automation
