@@ -1,0 +1,1 @@
+as i understand if our server is not a homeserver, everyone would need to create their accounts on some other matrix server and matrix.org is overloaded and slow, not everytone wants to self host/ pay for it.
