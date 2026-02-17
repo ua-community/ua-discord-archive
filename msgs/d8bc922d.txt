@@ -1,0 +1,1 @@
+its an interesting concept but i doubt 40+ year old email as protocol is less pain than alternatives. plus afaik there is no protocol spec or sdk so lots of fun rebuiling whatever their clients do
