@@ -1,0 +1,3 @@
+From what I understand TreeKEM is not really functional, only speced. But the DHKEM variant seems decent viable? (I only really understand the broad strokes of how it works) 
+
+But interesting perspective 👀
