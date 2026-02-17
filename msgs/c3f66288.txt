@@ -1,0 +1,1 @@
+(user)  do you have some resources how piping/chaining is supposed to work or did work in ubiquity? found zero mention of it on youtube or screenshots
