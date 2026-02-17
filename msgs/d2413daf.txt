@@ -1,0 +1,3 @@
+https://bsky.app/profile/webdevs.firefox.com/post/3meyc55xgrt2f
+
+HTML patches, could be neat; even less code/libraries needed for web software?
