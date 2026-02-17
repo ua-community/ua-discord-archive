@@ -1,0 +1,1 @@
+its like the clawdbot version of xenon.  the only hope for these bun centric project i have is https://github.com/oven-sh/bun/pull/25911
