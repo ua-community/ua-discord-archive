@@ -1,0 +1,1 @@
+hey, at least you *know* a malicious component can delete all your data!
