@@ -1,0 +1,6 @@
+like any good story about great things dying, there are only poor and unsatisfactory answers:
+
+- Core team didn't like Labs team b/c they played fast and loose w/ the rules *and* made their experiments appear product-y w/ whole websites, splashy launches, and c'mon, let's be honest - labs executed on ideas that core team had but were never allowed to work on, and also they did it with *excellent* design
+- Labs team didn't like Core team b/c they were a bunch of negative no-fun rule-lovers... rules which keep hundreds of millions of ppl safe and ensures browser perf doesn't fucking suck, but whatever
+- Ultimately there was an attempt to put Ubiquity in core, called Taskfox (lol) given by management to a nice guy but the wrong guy to fight the battles needed to make it *great*, so it sucked terribly, was deemed an unsuccessful experiment, and was removed
+- Only recently we've seen a shades of it in the "Actions" feature on nightly
