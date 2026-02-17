@@ -1,0 +1,5 @@
+Good point yea. I did want to jump in on Web Tiles because of the security aspect.
+
+There’s some serious security holes with my current approach, eg. a malicious component can just delete all your data. You can however fork any component and also reference it by its CID, so a well-behaved component can’t go malicious.
+
+The latter isn’t the default though, and maybe it should be? <a:jake_shrug:1060243120568156160>  Was thinking there could be a “the upstream has changed, want to upgrade, but first let’s check the code” button.
