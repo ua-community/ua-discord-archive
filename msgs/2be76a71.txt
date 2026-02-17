@@ -1,0 +1,1 @@
+P2P + E2EE + supports WebRTC based calling is all I want
