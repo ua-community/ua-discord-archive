@@ -1,0 +1,1 @@
+i played with porting Ubiquity to run on the web, using a "the website provides its commands" approach about 3000yrs ago (in internet years).  https://github.com/autonome/webiquity
