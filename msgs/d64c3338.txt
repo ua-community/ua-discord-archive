@@ -1,0 +1,2 @@
+I mean what I would build is basically matrix. Bind identity to a server that basically just serves files.
+Plus that or a similar server needs to exist to exchange messages & store history for it to be properly usable.
