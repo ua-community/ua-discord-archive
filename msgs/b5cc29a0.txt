@@ -1,0 +1,1 @@
+i would say ui + backend separation is a must. aka yoou need to be able to replace client implementations. also native app only is no go
