@@ -1,0 +1,4 @@
+I gotta come back to the webmcp support I tried to add to skyboard, an atproto kanban board thing.
+https://github.com/disnet/skyboard/pull/26
+
+WebMCP is so so neat. The page offering a form of API for itself is so amazing. APIs have been around by they are this *other* thing often, that doesn't directly affect the user session in the browser. Where-as WebMCP is the page offering capabilities, that, typically, can affect that page. ✨
