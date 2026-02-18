@@ -1,0 +1,1 @@
+Hmm my recollection is that Ubiquity didn't do cmd-to-cmd sequences. Each was a single interaction w/ the browser or the page.
