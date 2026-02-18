@@ -1,0 +1,4 @@
+Oh cool, putting it on the list to try out ty 👍 
+
+https://github.com/tursodatabase/turso springs to mind, it's in beta though.
+Also curious about how Datalog would do here + https://github.com/dialog-db/dialog-db
