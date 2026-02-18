@@ -1,0 +1,1 @@
+In the case of selection, you had a roundtrip effect, but it was still atomic actions, not chains.
