@@ -1,0 +1,1 @@
+hmm not sure i know any fulltext search capable in browser dns except sqlite actually. if you know others let me know but most are just in memory indices for indexeddb or a wrapper around sqlite
