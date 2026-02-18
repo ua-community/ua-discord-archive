@@ -1,0 +1,1 @@
+there are also vector extensions for sqlite if you mean that by natural language)
