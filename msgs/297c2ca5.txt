@@ -1,0 +1,1 @@
+In Peek, I made commands MIME in/out, with some fuzziness around enumerable vs scalar things.
