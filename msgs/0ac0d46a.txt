@@ -1,0 +1,1 @@
+so i would say roomy is at least a year behind revolt especially as they need to solve lots of things around atproto and how to even build this. revolt at time of stoat disaster was neeeearly there but missing some moderation and threading features . stoat messed everything up with vibecoding mess and starting to rebuild stuff that was already there.
