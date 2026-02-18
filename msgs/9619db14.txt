@@ -1,0 +1,7 @@
+Is anyone up to date on databases / full text search in the browser?
+I wonder how these two things overlap.
+Looking for the most performant way to do full text search in the browser.
+
+Currently using Orama, since I guess that sets me up for natural language search as well?
+
+(using this to search through user-owned data, so still on topic 🙈)
