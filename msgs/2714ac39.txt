@@ -1,0 +1,6 @@
+idk, immediately fails a bunch of my smell-tests:
+- says what it actually is
+- says how it's paid for
+- says who's making it
+- full access to source immediately not later
+- usage does not require the creator to exist for a second longer than the point at which you first looked at it
