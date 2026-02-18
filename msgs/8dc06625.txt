@@ -1,0 +1,1 @@
+No need for fussing with bots, it just set up a webhook over my existing admin puppet connection
