@@ -1,0 +1,2 @@
+That's an option yeah. I know of several databases that work in the browser.
+I just don't know if they're equally as good at full text search as full text search specific JS libraries?
