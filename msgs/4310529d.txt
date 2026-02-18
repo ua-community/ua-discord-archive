@@ -1,0 +1,1 @@
+turso is long from being ready in the browser and they aim at being replacement for sqlite with little headache. just tried it last week , wasm in browser is just a demo but not oficially supported yet
