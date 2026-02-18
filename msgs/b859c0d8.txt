@@ -1,0 +1,1 @@
+Interface full of diagnostic stuff rn, but here's a demo of searching a set of notes that have specific tag combination, merging them into one markdown document, reviewing edit as needed, and then save it as a new note... all in a series of chained commands.
