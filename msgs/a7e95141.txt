@@ -1,0 +1,1 @@
+Other thoughts: I want to make it speak AT Proto natively, so web apps created with it won't need to separately import in an SDK for that.
