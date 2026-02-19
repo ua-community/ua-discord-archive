@@ -1,0 +1,1 @@
+What sort of risky data did you have in mind and how does that relate to federation? I assume we'd be e2e all the chats. For incoming spam there's admin tools to purge it from an instance.
