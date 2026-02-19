@@ -1,0 +1,1 @@
+Now I'm thinking instead of just a sequence, I should maintain a command buffer tree. Basically the same as the element tree, but every element has a corresponding command buffer. I can pass the tree to queue as long as it still yields an iterator over the command buffers.
