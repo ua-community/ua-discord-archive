@@ -1,0 +1,1 @@
+Saying they're solutions w/o a problem is reductive and gross, and underestimates the very real problems we have w/ the HTTP+DNS+SSL web.
