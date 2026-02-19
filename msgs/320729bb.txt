@@ -1,0 +1,1 @@
+IPFS was plumbing without context - gives cryptographic verifiability and "from anywhere" distribution, but without a provenance + app layer there's no juice.
