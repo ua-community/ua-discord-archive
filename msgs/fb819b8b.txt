@@ -1,0 +1,1 @@
+At that point, I really only need the element tree wherein each element caches its corresponding command buffer.
