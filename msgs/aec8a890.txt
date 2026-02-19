@@ -1,0 +1,1 @@
+Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks that extend agents with custom functionality.
