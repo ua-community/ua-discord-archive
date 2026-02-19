@@ -1,0 +1,1 @@
+afaik we should either not  allow homeservers or not allow federation.  both have different tradeofs
