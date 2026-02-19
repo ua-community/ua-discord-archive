@@ -1,0 +1,1 @@
+Swap out IPFS for P2P protocols or even just non-HTTP protocols generally in the above.
