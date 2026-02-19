@@ -1,0 +1,1 @@
+homeserver is nice as users can create account with us and it can be as fast as the server is. but then we have user accounts and host potential risky data so have to disable federation.
