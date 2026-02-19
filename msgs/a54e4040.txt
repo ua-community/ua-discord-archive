@@ -1,0 +1,1 @@
+there is still an unsolved attack where a bot signs up on homeserver then joins a malicious group that then sync CSAM via federation, then report hosting CSAM and then forces admins logging into the server to manually delete the blobs. i am not sure what the endgame is but heard multiple admins complain
