@@ -1,0 +1,3 @@
+Its still my primary >local\< ide too but only until i migrated everything to darc code. 
+
+they made a closed source fork of an open source project and removed support for running on the web. the company is tech bros. they don't have a decent security or permission model except praying nothing goes wrong. they were early innovators for agent integrations and autocomplete that have no other moat and try to own a closed tooling layer that needs to be free
