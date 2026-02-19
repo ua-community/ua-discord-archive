@@ -1,0 +1,1 @@
+Funded Kelsie Nabben's phd for 2yrs, where the conclusion was pretty clear early on that verifiability+availability without governance (identity+coordination) doesn't solve the problems, but often creates more.
