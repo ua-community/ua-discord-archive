@@ -1,0 +1,1 @@
+now with finally with drag and drop support, including dragging tab to side for sidepinning. and completely overworked grid view overiew with spaces support
