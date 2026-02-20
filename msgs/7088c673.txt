@@ -1,0 +1,1 @@
+(discord webhook urls are OPEN 😅 so have to be separated from config)
