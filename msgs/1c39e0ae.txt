@@ -1,0 +1,1 @@
+https://github.com/cursor/plugins/tree/46c85c6e847b11733649dcc7a9d5522a382870e6/continual-learning
