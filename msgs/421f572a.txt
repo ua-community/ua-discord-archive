@@ -1,0 +1,1 @@
+I officially hate macOS's storage optimization, it's aggressively outsourcing files *while I'm editing them*
