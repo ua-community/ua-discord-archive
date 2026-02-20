@@ -1,0 +1,9 @@
+(user) re the bot in <#1388112358047617104>  - it's platform-agnostic, simple, modular:
+
+- feed: i generate the feed file inside the repo itself, so not Github or Tangled, just a URL
+- config: mapping of feed->discord-room-name
+- .env: configure mapping of discord-room-name->discord-web-hook-url
+- code: poll feeds -> detect new entries -> post to webhook
+- deploy: cloudflare edge worker
+
+source: https://tangled.org/burrito.space/bzzrt
