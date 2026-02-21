@@ -1,0 +1,1 @@
+my approach to mutual-aid style backups of public data: https://tangled.org/burrito.space/p2pds
