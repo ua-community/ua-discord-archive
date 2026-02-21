@@ -1,0 +1,1 @@
+yeah we need much better sync primitives where you can actually see and control what is going on. and say sync last 2 months of email and garbage collect the rest from local
