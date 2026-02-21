@@ -1,0 +1,1 @@
+private data would be different. w/ public data, public mutual consent is a feature. with private data, it'd the inverse. you'd need zk or plausable deniability that's beyond question.
