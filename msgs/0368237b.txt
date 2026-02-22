@@ -1,0 +1,3 @@
+Tiles Alpha 5 now supports local accounts based on DIDs. ATProto account support is coming soon.
+
+View the full release changelog: https://github.com/tilesprivacy/tiles/releases/tag/0.4.1
