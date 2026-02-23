@@ -1,0 +1,6 @@
+From left to right:
+
+- Auto organize
+- Remove duplicates
+- Tab Groups
+- Tab Style
