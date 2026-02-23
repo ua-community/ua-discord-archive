@@ -1,0 +1,1 @@
+Switched from Atlas to Comet because former lacked menu bar items for extensions
