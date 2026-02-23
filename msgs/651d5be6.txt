@@ -1,0 +1,1 @@
+But at the same time it's the user's data and they can authorize anyone to update it. So there also isn't a singular interfaces/app determining
