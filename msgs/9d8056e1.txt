@@ -1,0 +1,1 @@
+Hopefully one day big apps adopt a system like that and the "high trust" UI/embed goes directly into those apps, but that is far away and easy to get with a system like that
