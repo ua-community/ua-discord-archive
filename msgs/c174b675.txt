@@ -1,0 +1,1 @@
+Currently experimenting with atproto a bit - Is there a way yet to do deep linking in a way? Like link to a leaflet doc or a blue sky post and have it just work? Automatic sign in (based on the "parent" account in the embedder), correct visuals, etc?
