@@ -1,0 +1,2 @@
+Maybe users should even have the possibility to specifically set what app they want to open it with & how that works via atproto? Hmmm maybe I should build that first.
+That way you can even directly share things in the correct format, and "native" apps can correct it on the fly? (Could even apply to urls/apps outside atproto, ie "please share music in <app> link"
