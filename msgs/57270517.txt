@@ -1,0 +1,1 @@
+tab groups just auto categorizes tabs acc to topics, found it helpful. tab style just lets you switch between vertical/classic/scrolling tab styles
