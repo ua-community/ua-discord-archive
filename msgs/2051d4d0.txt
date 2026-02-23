@@ -1,0 +1,1 @@
+the lexicon can be reused by completely unrelated apps though. thats still a major unsolved disign weirdness
