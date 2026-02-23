@@ -1,0 +1,1 @@
+as tabs are grouped it takes much less context switch to close/keep tabs
