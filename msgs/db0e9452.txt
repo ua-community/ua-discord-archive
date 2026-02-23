@@ -1,0 +1,2 @@
+Too deep into the technical side that I don't really understand here, but in the spirit of atproto this feels like something that one would simply have to do, rather than something that is hugely complicated technically
+"store some personal data securely for a user & share it across apps" seems to be precisely the use case for atproto 😛
