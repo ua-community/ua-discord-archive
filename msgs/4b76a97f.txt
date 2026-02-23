@@ -1,0 +1,5 @@
+It can be solved by browser/extensions or by bundling some JS into the app.
+Could pair this with a embed.some.thing/atproto://xyz url being the actual URL? Not very pretty, but works?
+Allow @some.thing or @embed.some.thing accounts to publish "i am an embed URL provider" for extensibility? (if needed & doable in a secure way?)
+-> whatever URL one picks for the lexicon can also be used for this.
+Creates a "high trust" UI + settings provider + embed link for the 80% and should be completely open for everyone else?
