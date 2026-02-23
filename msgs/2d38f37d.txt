@@ -1,0 +1,3 @@
+Problem is that records commonly include a reference to some type of DNS name. So yes, technically it's possible to ignore that, but practically the DNS name will forever be associated with that data and there's no easy way to stop that.
+Not sure if I find that to be such a huge problem though. If you really want to, make an IPFS domain like
+ipfs.<cid>. I don't really see the point though
