@@ -1,0 +1,1 @@
+atproto apps need to know if the browser supports at:// and if not show a https url that shows a captive with localstorage that users can configure to redirect to their atrproto client of choice
