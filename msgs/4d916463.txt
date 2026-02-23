@@ -1,0 +1,2 @@
+I do also think we need to have some way to actually find the "owning" app.
+Haven't dug into the actual protocol side too much, but I'm hoping the "sh.diffuse.output.facet" part is mandatory and refers to the dictionary (or whatever it was called, sorry)? So is effectively the "owning" app (even though it's not necessarily a specific app, but you get the idea)
