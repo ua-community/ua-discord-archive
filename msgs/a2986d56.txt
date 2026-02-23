@@ -1,0 +1,1 @@
+Sounds like a good feature an ATProto native browser anyhow, which I want my UI engine to be in the end :)
