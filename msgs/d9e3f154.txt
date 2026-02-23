@@ -1,0 +1,1 @@
+That way the user can link another user an atproto link by simply copy pasting the (http) url they know, and the other user can open them in their preferred way
