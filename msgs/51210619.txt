@@ -1,0 +1,2 @@
+securely as in another app can independently verify that the user wrote "x" (or authorized an app to write to it, which hopefully did what the user intent was, but that's a separate can of worms)
+Not securely as in privately
