@@ -1,0 +1,1 @@
+this makes some things awkward. Lexicons are governed by domain ownership, which usually is some kind of app. Which is wierd when bluesky profiles images/description become the defacto standard across the network, but ultimately they control the schematic for that data.
