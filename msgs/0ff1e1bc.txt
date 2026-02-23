@@ -1,0 +1,1 @@
+All that's really needed is a source of truth for what a given lexicon is
