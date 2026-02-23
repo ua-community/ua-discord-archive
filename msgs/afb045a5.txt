@@ -1,0 +1,5 @@
+Dan Abramov has some good explainers on atproto I can't recommend enough. I like the social file system metaphor.
+
+https://overreacted.io/open-social/
+https://overreacted.io/where-its-at/
+https://overreacted.io/a-social-filesystem/
