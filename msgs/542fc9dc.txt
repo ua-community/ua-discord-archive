@@ -1,0 +1,1 @@
+this would work in any browser but require client support. default would be at: url for apps that dont want to add the complexity and in those cases browsers or extensions take over that part
