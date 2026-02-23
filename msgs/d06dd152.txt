@@ -1,0 +1,1 @@
+Ultimately DNS based lexicon publishing is just one way to do it
