@@ -1,0 +1,1 @@
+Ideally I'd need both a way to tell a http(s) url is actually about an atproto url, and then also a way to later tell how I should embed at:// urls appropriately
