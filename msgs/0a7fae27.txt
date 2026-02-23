@@ -1,0 +1,1 @@
+actually at this point i dont think it makes sense to build apps directly against lexicons without a transformer so you can evolve app schema and publish schema independently
