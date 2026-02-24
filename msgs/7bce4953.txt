@@ -1,0 +1,1 @@
+While I'm certainly bullish on Atproto (or at least the general idea of identity + transport agnostic data) as an *authoring path* of the now / future, there's no reason we can't interact with entities today. No need to require the web as a whole to opt-in.
