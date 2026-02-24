@@ -1,0 +1,1 @@
+@here please upvote https://issues.chromium.org/issues/487335999 😭    I will stick to using stable chrome 145 for the alpha and use custom drag and drop instead of native apis which were the only blocker there.
