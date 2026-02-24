@@ -1,0 +1,1 @@
+working with suboptimal local models just requires so much stuff that is just obsolete with better models. its like building against a world 10years in the past
