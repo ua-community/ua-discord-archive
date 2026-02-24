@@ -1,0 +1,1 @@
+https://vercel.com/changelog/chat-sdk
