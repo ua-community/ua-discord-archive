@@ -1,0 +1,3 @@
+(user)  codex app server is neeeeraly the right architecture but still not really: its still stdio/cli with websocket extperimental, but we need REST/ + SSE first api design and unix sockets,  it has access to the filesystem  and bash tied to the agent app server, which is the opposite of what we need. 
+
+so in the concpet of app agent / system agent.  codex app server is the server equivalent for system agents, but we need the anaolog for the requirements of an app agent
