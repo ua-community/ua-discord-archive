@@ -1,0 +1,1 @@
+low-tech. the NER stuff i tested was 1) bad quality and 2) heavvvyyyyyyyweight.
