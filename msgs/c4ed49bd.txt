@@ -1,0 +1,1 @@
+Regex alone costs basically nothing and mostly works.
