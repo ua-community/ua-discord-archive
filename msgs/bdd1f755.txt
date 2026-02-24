@@ -1,0 +1,1 @@
+Yep, that's what I said above. I tried a few NER-specific local models. They were inaccurate and had terrible performance.
