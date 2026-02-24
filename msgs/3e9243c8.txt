@@ -1,0 +1,1 @@
+Once the clustering work is done, you get compound entities... uh, superentities? Related collections of scalar entities, with increasing backing data over time as you do more stuff on the web.
