@@ -1,0 +1,1 @@
+Starting to give a picture of navigation effluent, eg load a page and watch entities flow around it, and things like meetings result in notes and navigations (and yet more entities).
