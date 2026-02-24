@@ -1,0 +1,16 @@
+https://kagi.com/summarizer?target_language=&summary=takeaway&url=https%3A%2F%2Fyoutu.be%2F4rx36wc9ugw
+
+```
+Title: Raising An Agent Episode - Episode 10
+
+AMP is discontinuing its VS Code extension and other editor integrations, signaling a shift away from traditional IDE-centric workflows.
+The introduction of 'Deep Mode' in AMP utilizes models like GPT-4 Turbo with CodeX, designed for more thorough, long-term research and complex tasks, contrasting with faster, more interactive modes.
+The concept of 'the assistant is dead, long live the factory' emphasizes a move towards agents performing autonomous, long-running tasks rather than constant human-agent interaction in a sidebar.
+Skills are being developed as a crucial abstraction layer, allowing agents to leverage specific codebase functionalities and common tasks, reducing the need for extensive prompting.
+The development of AMP is increasingly focused on optimizing the codebase for agents, even at the potential expense of the human developer experience in traditional editors.
+The team believes that the future of software development involves agents handling a larger portion of tasks, allowing developers to focus on higher-level strategy and less on granular, repetitive actions within an editor.
+Manual context window management is becoming obsolete as models and tools improve at handling longer, more complex interactions automatically.
+The company views itself as an 'art installation' rather than a traditional software company, embracing rapid iteration, self-disruption, and a willingness to remove features that no longer align with the frontier of AI development.
+The rapid pace of AI advancement necessitates constant reinvention, with a focus on staying at the cutting edge rather than maintaining legacy features or tools.
+The ultimate goal is to explore the potential for the top 1% of developers who invest in agent-optimized workflows, pushing the boundaries of what's possible in software development.
+```
