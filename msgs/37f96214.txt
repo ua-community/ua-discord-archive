@@ -1,0 +1,1 @@
+It’s not exactly fast but it works and should generalize to most installers. Will explore PXE install flow next
