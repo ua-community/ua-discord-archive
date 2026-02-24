@@ -1,0 +1,1 @@
+If it's measurably slow, I could only enable the feature by default on Peek desktop, and disable by default on mobile but still get it via sync. Or enable on both and users can disable if it's not worth the trade-off for them.
