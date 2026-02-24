@@ -1,0 +1,1 @@
+schema.org/opengraph/json-ld, microformats, and a bunch of basic regex against stripped page content
