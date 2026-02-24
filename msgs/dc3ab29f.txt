@@ -1,0 +1,1 @@
+One direction I'm interested in poking at is jamming micro-models behind the entities once they pass some threshold of data availability. Activity-based clustering as a constant feedback loop in refining entity definition -> high-confidence foundation for 1) using the entities as callable-tools and/or 2) using them as the basis for interactive agents themselves.
