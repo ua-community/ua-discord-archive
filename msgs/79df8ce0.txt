@@ -1,0 +1,1 @@
+The tag browser is now kinda showing different types emerging in a constant usage flow - URLs, entities, notes, etc.
