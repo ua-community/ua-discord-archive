@@ -1,0 +1,1 @@
+The entity clustering is particularly interesting - first steps towards a model for "the world that exists *across* web pages".
