@@ -1,0 +1,1 @@
+So basically I'm building a local-first version of what surveillance capitalism does when it models us by web tracking.
