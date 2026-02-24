@@ -1,0 +1,1 @@
+the model small? dont think its self hostable yet. even the promising models are often too slow or energy hungry for this usecase to always run. but imho its mostly wasted time to optimize that part until the tooling works and by time there is a model setup that works its plug and play
