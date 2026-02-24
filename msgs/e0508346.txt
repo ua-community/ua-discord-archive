@@ -1,0 +1,1 @@
+I have an updated version that loads/saves "template packs" (also lexicons + instances) for skins/themes, instead of this "raw" form.
