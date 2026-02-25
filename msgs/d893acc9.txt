@@ -1,0 +1,1 @@
+lets use the term user agent more instead of browser. its ultimately what we build and if we dont need marketing familiarity we might as well go through with it
