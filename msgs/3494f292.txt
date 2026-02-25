@@ -1,0 +1,6 @@
+Little bit of a different use case but I've been calling these features too.
+
+In my case it's more like "hey you can build this custom UI on top of existing logic" and here's a set of features you can enable.
+Which in turn is a wrapper around a group of custom elements.
+
+I like "features" because it feels more like you're building your software as opposed to extending it.
