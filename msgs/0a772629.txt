@@ -1,0 +1,1 @@
+oh no i did not mean to sidetrack you. cbor is totally fine its a documented encoding and the parsed data can be understood, unlike a parsed automerge doc that has some history in it
