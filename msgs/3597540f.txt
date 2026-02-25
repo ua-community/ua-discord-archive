@@ -1,0 +1,1 @@
+btw you were right about hating the app concept and name and the destruction it had on software creativity. i rename apps and extensions into just packages, packages can also just be version controlled markdown files or entities of data or whatever
