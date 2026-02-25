@@ -1,0 +1,1 @@
+For syncing user data across devices, resolving changes from multiple devices, conflicts, etc.
