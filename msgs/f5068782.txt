@@ -1,0 +1,1 @@
+I went with "extension". Almost all features are extensions.
