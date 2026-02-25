@@ -1,0 +1,3 @@
+No worries, happy to hear what other people prefer!
+This whole thing is a bunch of building blocks, so I'm building this system to be flexible, with lots of options.
+And yeah good point on cbor vs automerge bytes.
