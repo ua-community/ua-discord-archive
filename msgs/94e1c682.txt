@@ -1,0 +1,25 @@
+I'm guessing this UX is just so bad for non-tech folks.
+
+The idea is that each mode here has a separate local store, which may or may not be synced. So:
+* Local-only mode (default)
+* Bucket 2: ATProto integration + local store sync
+* Bucket 3: S3 integration + local store sync (based on DRISL & DASL CIDs)
+
+My hope is that you could make separate pages that have a specific storage focus.
+So like, you could have an ATProto page with a login which then would automatically switch the "bucket".
+The automatic switching is probably confusing though, because your data would "disappear" (kind of).
+But not switching buckets is problematic too <a:jake_shrug:1060243120568156160>  (for totally different reasons)
+
+Made two different syncing algorithms, one for each of the above.
+Was trying Automerge at first for S3, but that was super slow, turns out it's a bug.
+Might try Automerge again if they publish a fix.
+
+The todo list keeps on growing, need to take a break again 🥵 
+Even with LLMs it's so much work.
+
+Some other cool changes:
+- Data structure changes to prepare for collaborative playlists
+- Can load UI pieces (facets) from ATProto
+- A ton of performance improvements
+
+Anyhow, I can finally somewhat daily drive this now 🎉
