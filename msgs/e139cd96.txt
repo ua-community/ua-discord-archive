@@ -1,0 +1,1 @@
+i hoped you would go more for simple data structure that remains user readable, especially without so many concurrent edits
