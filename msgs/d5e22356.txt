@@ -1,0 +1,1 @@
+Feels like a shift, now that I'm building on top of that core, vs building foundation and plumbing.
