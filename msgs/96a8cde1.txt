@@ -1,0 +1,1 @@
+i saw intersting approach where apps stored automerge and serialized materialisations
