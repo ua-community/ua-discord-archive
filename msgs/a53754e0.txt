@@ -1,0 +1,7 @@
+RE readable, I could do that, but went with CBOR encoding for this method (DRISL default)
+I could do a regular JSON version as well I suppose.
+But there will be an export data button that gives you a json file, so <a:jake_shrug:1060243120568156160> 
+
+DRISL was good here because it's deterministic, so I'm always getting the same CID back for the same JS object. No weird encoding bs.
+
+Then based on those CIDs I'm keeping track of what got deleted/added/modified.
