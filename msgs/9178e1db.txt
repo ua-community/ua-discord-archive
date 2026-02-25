@@ -1,0 +1,1 @@
+i think automerge still is this binary format without pruning of edit history ?
