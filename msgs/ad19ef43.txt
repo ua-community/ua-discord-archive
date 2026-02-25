@@ -1,0 +1,1 @@
+yeah but its a start. its only good solution for  the cases where the client does not have support and the browser does not have link handler
