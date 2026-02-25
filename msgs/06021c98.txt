@@ -1,0 +1,2 @@
+Actually I did go for simpler approach, that's the DRISL based sync solution I mentioned above.
+There's various output options you can pick from, wanted to provide Automerge as an option too. Which might indeed be overkill here.
