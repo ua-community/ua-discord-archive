@@ -1,0 +1,3 @@
+just booked my first hotel with the new agent prototype! its relly better than i thought even with very rough tooling. i also tried a new taint tracking technique that feels really like it could work until somthing better comes along:
+
+new agent task spawns new empty data container, no logins or personal data avaiable > research hotels > prepare booking page with dates etc. > handover to new agent context with summary. > review summary and add my PII > new faster and smaller agent model just does the form and booking stuff.
