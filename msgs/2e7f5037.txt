@@ -1,0 +1,1 @@
+It's wild how much *faster* CodeMirror loads + processes very large documents compared to Vim classic.
