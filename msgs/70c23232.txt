@@ -1,0 +1,1 @@
+the reason i think i understand now is they use their crypto /security model also as internal app viewmodel because they dont want to reason about the internal app state differently than the security of protocol/server. this makes it secure i guess but is totally against what a great app needs to manage its state
