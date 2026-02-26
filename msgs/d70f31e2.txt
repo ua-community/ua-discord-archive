@@ -1,0 +1,7 @@
+The Editor extension in Peek is now something I am using for everything - nothing too crazy, CodeMirror and some stuff around it... but it's the editor I've always wanted:
+
+- Three panes: outline, editor, preview
+- Easy pane hide/show
+- Vim bindings (not full, but enough)
+- Fold at indent, markdown header and list
+- Folds synced to outline and vice-versa
