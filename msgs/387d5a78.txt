@@ -1,0 +1,1 @@
+yeah i could not imagine using element for common things. its only helpful as reference implementation because it has all the features and to do some rare things that are misssing in other clients
