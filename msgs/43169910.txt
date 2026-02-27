@@ -1,0 +1,1 @@
+The hack-and-hang concept like last year doesn't really work inside of a much bigger thing. Works better as big-thing-adjacent.
