@@ -1,0 +1,1 @@
+OK WELL I made a proof of concept artificial image detector that works on still images
