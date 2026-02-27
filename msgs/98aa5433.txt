@@ -1,0 +1,1 @@
+i went for nearly every possible residual detection method i could find, no silver bullets in any of them really
