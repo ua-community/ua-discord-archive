@@ -1,0 +1,1 @@
+HAND MADE HEURISTICS got demolished by basic gradient boosted decision trees
