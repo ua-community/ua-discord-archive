@@ -1,0 +1,1 @@
+UNLIKE the promise of several rearch papers, I was only able to get about ~70-80% accuracy for genuine and synthetic images, but that is still much better than flipping a coin
