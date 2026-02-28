@@ -1,0 +1,3 @@
+Tiles doesn’t has any fine tuning APIs exposed. Waiting for Unsloth Mac support then we’ll integrate it neatly with Modelfile abstraction over MLX.
+
+Also suggest you to look at Unsloth or Thinking Machines. Can share my account with $150 credits for the latter, while Unsloth works on free TPUs in Google Collab
