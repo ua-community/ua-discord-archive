@@ -1,0 +1,1 @@
+Most notably the observation that once a protocol is released and starts being used, updating it is hard
