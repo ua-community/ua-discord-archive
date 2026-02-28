@@ -1,0 +1,1 @@
+So excited to see the browsers get interested in webassembly & wasm components especially. I weirdly worry it might actually be a little too soon… wasi 0.3 is landing soon-ish & going to be a major major major update to the whole world. It needs some settling time IMO.
