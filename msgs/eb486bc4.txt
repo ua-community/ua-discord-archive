@@ -1,0 +1,6 @@
+Added a mini EUP system recently: An interface to combine tags, events, icons, and a set of actions. This gets non-programmers ability to do things like:
+
+- configure tags "readme" / "read" as on/off states, show an "book" / "closed book" icon that's a clickable button that toggles them
+- configure tags "todo" / "done" as on/off states, show a checkbox / checked icon that's a clickable button that toggles them
+- configure tag "archive", with a filecabinet icon and an action to hide the item unless searched for
+- configure tag "offline", with an eyeball icon and an action to store the reader-mode copy offline, and delete it when tag is removed
