@@ -1,0 +1,1 @@
+I found a repo sometime before, maybe it’s useful as a references:  https://github.com/ShaohonChen/Finetune_Qwen3_on_MacBook
