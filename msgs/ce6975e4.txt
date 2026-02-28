@@ -1,0 +1,1 @@
+It's been implemented on mobile for a while, but isn't quite a full editor like this, you can just configure which tags.
