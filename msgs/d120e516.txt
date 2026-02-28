@@ -1,0 +1,1 @@
+the narative is flawed as we should not paint black and white picture between central control and server federation. you can make central evolution of protocols still much better if you have pluggable clients and data portabilty
