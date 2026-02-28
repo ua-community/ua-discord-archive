@@ -1,0 +1,1 @@
+And the extension API is basically an web-platform-based app framework more than "extensions".
