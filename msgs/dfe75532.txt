@@ -1,0 +1,1 @@
+trainers have reversible and dynamic workflows, its very easy to simply discard or reverse the results of a run when things go awry
