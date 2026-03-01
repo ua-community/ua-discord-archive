@@ -1,0 +1,3 @@
+https://kagi.com/summarizer?target_language=&summary=summary&length=digest&url=https%3A%2F%2Fyoutu.be%2FpznpsgZqlGQ
+
+> [...] Nabors proposes that agents are the future, capable of interacting with websites as APIs to extract and aggregate information without traditional browsers. Technologies like scraping tools, LLMs, and protocols like MCP and AT Protocol are enabling this shift. She envisions a future with ambient agents that adapt to user needs, improving accessibility and user experience. Ultimately, Nabors believes personal agents will supersede platforms and browsers, leading to a more open, accessible, and personalized web, returning to the idea that information wants to be free.
