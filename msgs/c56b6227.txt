@@ -1,0 +1,1 @@
+however, I can say that from my understanding on a low level, I haven't seen poisoning attacks be effective against models due to scale, and hypothetically the size of something that would be split and shared over a network would be too small
