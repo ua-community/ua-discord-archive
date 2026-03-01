@@ -1,0 +1,1 @@
+Looking at AgentQL, it doesn't kill the browser at all, it actually integrates with the browser
