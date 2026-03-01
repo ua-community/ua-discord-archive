@@ -1,0 +1,1 @@
+I also think a big problem with XMPP is that 'anyone can run a server' as long as that anyone has extensive knowledge of XEPs, computer security, setting up reliable embedded or linux devices etc
