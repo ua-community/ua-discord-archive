@@ -1,0 +1,1 @@
+people focus on the user accessibility of browsers and all that, but as I see it, the biggest issue with the internet is simply having no means to build in the existing infrastructure without extremely specialist knowledge for all but the .01% of people on earth
