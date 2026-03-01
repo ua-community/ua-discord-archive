@@ -1,0 +1,5 @@
+Tiles version 0.4.2 Alpha 6 has been released.
+
+New onboarding flow for account and data setup, an OTA updater, and Harmony renderer support for *gpt-oss-20b*, enabling configurable reasoning effort and improved response quality.
+
+Release notes: https://www.tiles.run/changelog#0.4.2?v=2
