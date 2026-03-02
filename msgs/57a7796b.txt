@@ -1,0 +1,1 @@
+Not yet since there's no clear URL schemes for it. If there was a popular veilid HTTP framework or if they finally got their blobs API working it'd be easier
