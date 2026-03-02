@@ -1,0 +1,1 @@
+I think if you want BT protocol like chat then Keet is the way to go. But it isn't open source which isn't ideal. 😅
