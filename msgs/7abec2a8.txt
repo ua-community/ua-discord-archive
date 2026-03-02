@@ -1,0 +1,1 @@
+(user) were talking about getting chat stuff working using Hypercore Extension messages recently. FWIW. Could also extend it to work over IPFS pubsub and bittorrent extension messages. When we tried testing it recently it didn't work though. 😅
