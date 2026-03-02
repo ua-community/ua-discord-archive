@@ -1,0 +1,1 @@
+ATProto requires a lot of infra to operate. "shipping an app" with it sounds complex tbh. Like is it just an app view, does it also need a pds impl, will it use the firehose, etc
