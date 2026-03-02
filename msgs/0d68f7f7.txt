@@ -1,0 +1,1 @@
+Not that I know of! It shouldn't be too hard to piggyback on extension messages and do an IRC-like setup. Probs wouldn't work with MLS E2E, but I think there are variations out there now that can work better for p2p use cases. By default the BT transport isn't encrypted so it might be less secure than other options. 🤷
