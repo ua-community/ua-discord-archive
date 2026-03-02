@@ -1,0 +1,1 @@
+(user) Trying to setup the new version of Peek. Is there a somewhat stable commit I can use? Getting `Unhandled error: SqliteError: no such table: addresses` on main. Database migrations should be running automatically right?
