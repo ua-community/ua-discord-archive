@@ -1,0 +1,1 @@
+Generated a split-view editor that generates a standalone facet. Doesn't look great, but quite fun and useful!
