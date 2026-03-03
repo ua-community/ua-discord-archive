@@ -1,0 +1,1 @@
+dont think you can just style with css. plus dont know how the ui works but something feels sluggish about it
