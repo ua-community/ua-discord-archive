@@ -1,0 +1,1 @@
+Pushed a fix, translating option->alt and meta->ctrl for now so it's platform-aligned.
