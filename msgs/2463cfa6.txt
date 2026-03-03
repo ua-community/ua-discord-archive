@@ -1,0 +1,1 @@
+Would like to make it so the modifier (or mod combo) is app-wide configurable, but haven't got there yet.
