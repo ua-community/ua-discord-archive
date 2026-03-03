@@ -1,0 +1,8 @@
+Sadly keyboard shortcuts aren't working anymore on Linux.
+Tried pointing Claude at it to fix it, but none of the suggested solutions appear to be doing anything.
+Best suggestion I guess was this before starting the electron thing:
+```js
+app.commandLine.appendSwitch('enable-features', 'GlobalShortcutsPortal');
+```
+But no effect.
+Other suggestions were to trigger X11 <:blobno:1226842811819884586>
