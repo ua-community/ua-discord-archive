@@ -1,0 +1,1 @@
+best project i found was agentgateway, but does not seem to do the stata like context management and discovery
