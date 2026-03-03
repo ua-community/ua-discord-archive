@@ -1,0 +1,1 @@
+are you aware of other stata like designs? i did not find much.  same for concrete implementations of code mode mpcs.
