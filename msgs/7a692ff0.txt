@@ -1,0 +1,1 @@
+The datastore is constrained on type right now. I haven't put much thought into it aside from "keep it as simple as possible".
