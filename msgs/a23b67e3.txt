@@ -1,0 +1,1 @@
+Yeah it should be running migrations, but tbh you might the first person ever to hike those codepaths in the wild.
