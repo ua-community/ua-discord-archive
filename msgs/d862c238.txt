@@ -1,0 +1,17 @@
+It's really difficult to use LLMs when you don't know anything about the project.
+Pretty sure Claude is talking out of it's ass here though:
+```
+Found the root cause. When a web page is open in the webview (canvas mode), keyboard events go to the webview guest's `before-input-event`. That handler only handles navigation shortcuts (Cmd/Ctrl+L, R, [, ]) — it never calls `handleLocalShortcut`. So registered local shortcuts like Ctrl+K simply don't fire when a web page has focus.
+
+On macOS this is masked because the global shortcut (Option+Space) works. On Linux the global shortcut fails (Wayland doesn't support it, or Alt+Space is grabbed by the WM), so there's no fallback.
+
+---
+
+Global shortcuts still won't register on Wayland (Electron doesn't implement the GlobalShortcuts portal). Local shortcuts via Ctrl+K should now work, but you may want to surface a warning when `globalShortcut.register()` returns `false` on Linux, or suggest the user change the cmd palette shortcut away from `Alt+Space` (which the WM grabs on X11).
+```
+Asked it to fix this + I manually added this before `app.whenReady` to enable that shortcuts portal, but still nothing.
+```
+app.commandLine.appendSwitch("enable-features", "GlobalShortcutsPortal");
+```
+
+Ok I'll shut up now, because I'm probably not contributing anything here.
