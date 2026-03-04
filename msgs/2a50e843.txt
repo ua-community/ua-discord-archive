@@ -1,0 +1,1 @@
+if i compare the launcher in swift or tauri rust.  it has a similar effect.  i can understand if swift is doing something stupid even as non swift dev but for rust its just like. ok i guess this does something
