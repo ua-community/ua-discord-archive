@@ -1,0 +1,1 @@
+Personally I'm aiming for a different kind of 'anyone can make an app', myself. Or perhaps it'll be more like 'anyone can make a widget'. I have this really ambitious vision of a UI component engine with more safety enforced, and eventually a visual wysiwyg component editor so the creation of components is directly more accessible regardless of stochastic parrots.
