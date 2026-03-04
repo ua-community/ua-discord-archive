@@ -1,0 +1,1 @@
+does this mean gpus still do compositing with key colors for accelerated sub-surfaces?
