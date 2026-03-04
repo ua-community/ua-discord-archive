@@ -1,0 +1,1 @@
+i  found a solution to the missing vscode extension for opencode (https://github.com/btriapitsyn/openchamber). Now pretty confident i can replicate AMP on top of opencode + openchamber + MCP.
