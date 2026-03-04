@@ -1,0 +1,3 @@
+this might be the closest thing to what you're looking for but it's chromium only
+
+https://web.dev/articles/customize-install
