@@ -1,0 +1,1 @@
+So I've been wary of using AI stuff for a while, but lately I've been having some fascinating architectural discussions with Claude about my UI engine. I actually really like how it's raising tradeoffs in my architectural considerations long before any code is involved.
