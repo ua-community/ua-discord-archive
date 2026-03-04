@@ -1,0 +1,1 @@
+the slow parts are already wasm in the main sdk (the megaolm machine) for ui in wasm i thought it was mostly hype that has significant downsides in practice. rust is also just so hard to work with even with llms
