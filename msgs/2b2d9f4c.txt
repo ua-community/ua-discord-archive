@@ -1,0 +1,1 @@
+It'll be interesting to see a Apple's chiplets. Everyone else has done this so begrudgingly, only when they have to. There's such (energy, latency) costs to sea-of-wires between chiplets. I expect it'll be an amazing chip, but also expecting some negative sides vs the M4.
