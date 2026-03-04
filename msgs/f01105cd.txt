@@ -1,0 +1,1 @@
+That, apparently, is a natural benefit of using WASI streams as a signal channel
