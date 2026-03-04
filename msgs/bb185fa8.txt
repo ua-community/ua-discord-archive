@@ -1,0 +1,11 @@
+Sadly not working <:bsad:1308712554285240340> 
+```
+registerGlobalShortcut FAILED: Option+,
+registerGlobalShortcut FAILED: Option+m
+registerGlobalShortcut FAILED: Super+Shift+m
+registerGlobalShortcut FAILED: Option+Alt+m
+registerGlobalShortcut FAILED: Option+Super+m
+registerGlobalShortcut FAILED: Option+Meta+m
+registerGlobalShortcut FAILED: Option+,
+registerGlobalShortcut FAILED: Alt+,
+```
