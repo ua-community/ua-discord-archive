@@ -1,0 +1,1 @@
+I imagine the visual editor resembling Blender's material node editor, with nodes and their inputs on one side and the rendered result on the other, allowing you to play with the node configuration and see the results in real time.
