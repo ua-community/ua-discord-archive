@@ -1,0 +1,1 @@
+and also will log us out from telegram web and whatsapp web every 6 hours
