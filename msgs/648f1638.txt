@@ -1,0 +1,2 @@
+Amazingly, it told me my design would facilitate this, which wasn't even a design goal but I'm very happy about it:
+> Natural batching. You can drain the signal stream at frame boundaries — collect all signals emitted since the last frame, apply them as a batch, then render. This gives you the same "batch writes before reads" property that makes DOM batching so valuable, but architecturally enforced rather than relying on developer discipline.
