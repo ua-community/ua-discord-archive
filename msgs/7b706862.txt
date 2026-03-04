@@ -1,0 +1,1 @@
+It’s a web app recreation of macOS with functional app recreations
