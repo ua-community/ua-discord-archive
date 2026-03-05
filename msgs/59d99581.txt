@@ -1,0 +1,1 @@
+From my experience & conversation on Matrix HQ you don't auto-join all rooms in a space, and they aren't really made available / discoverable. You have to somehow get linked to every single one individually & click them & wait for your client to join
