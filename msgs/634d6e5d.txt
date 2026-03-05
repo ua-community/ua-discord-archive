@@ -1,0 +1,1 @@
+matrix has spaces which are collections of rooms
