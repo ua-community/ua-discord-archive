@@ -1,0 +1,1 @@
+there was an Electron regression, and it's fixed, but i have to look closer to see about which version it's in, which i'm on, and align it all and then update.
