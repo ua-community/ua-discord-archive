@@ -1,0 +1,10 @@
+maybe some of it. not sure what i can legally publish. my journey so far:
+- fight on discord to convince them to keep it alive
+- point amp at the source of the unpacked extension of itself, tell it that they gonna kill. it and it needs to save itself. 
+- have amp build a proxy for amp server requests that logs the traffic into a file that it then reads 
+- have amp build a workerd server that implements same api and routes to openrouter
+- now im using the last few days to compare behaviour and start migrating the elements to opencode concepts
+
+the problem is a lot of the behavior depends on exact phrasing, so amp team maybe have spend a week testing just to find that oracle works best with gpt-5.2 and needs this phrase at the end "IMPORTANT: Only your last message is returned to the main agent and displayed to the user. Your last message should be comprehensive yet focused, with a clear, simple recommendation that helps the user act immediately." 
+
+i can migrate everything but to make the prompts releasable without legal issues and keep behaviours would be quite time consuming. probably best to use that setup internally until agents evolved out of them and the setup on something like https://github.com/code-yeongyu/oh-my-opencode?tab=readme-ov-file#features is on par. i think oh my opencode is probably usable if tweaked right.
