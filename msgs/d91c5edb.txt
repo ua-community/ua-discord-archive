@@ -1,0 +1,1 @@
+encryption is optional, why would we encrypt rooms that are public?
