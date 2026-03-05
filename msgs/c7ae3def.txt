@@ -1,0 +1,1 @@
+ACP is pretty great. agents need to be pluggable. hire an agent, connect ui, MCP gateway. done.
