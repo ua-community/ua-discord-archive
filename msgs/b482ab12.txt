@@ -1,0 +1,4 @@
+Thanks for looking into it! I'll check it out.
+I've also been thinking, I noticed that some apps go about it the other way.
+You add your own global shortcut in gnome settings and then the command it needs to execute.
+Not user friendly for non-techies though.
