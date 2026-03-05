@@ -1,0 +1,2 @@
+Given encryption keys & rooms are all fully independent it kind of is a matrix issue imo :/
+But yeah I guess landing page would be good enough
