@@ -1,0 +1,1 @@
+but what i did do was move everything to local shortcuts for now, and double the cmd bar (local + global), which should ensure things work everywhere, and features can do global at their own risk.
