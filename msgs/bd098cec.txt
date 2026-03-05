@@ -1,0 +1,1 @@
+currently we only try by individuals bridging to their own homeservers
