@@ -1,0 +1,1 @@
+as part of our broader move off hostile platforms, we should move these to openmeet/smokesignals, and have the bot notify here
