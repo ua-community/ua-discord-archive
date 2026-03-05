@@ -1,0 +1,1 @@
+not auto joining is kind of nice. the rest is up to the client how to present it and as most matrix clients suck im not surprised. but does not seem fundamental matrix issue
