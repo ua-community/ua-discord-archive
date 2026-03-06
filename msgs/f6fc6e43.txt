@@ -1,0 +1,1 @@
+my own fault for trying to symlink a folder to trash 😔
