@@ -1,0 +1,1 @@
+Hypertext was basically invented by Doug Englebart and Ted Nelson in the early 1960s. They developed the first knowledge systems for computers, and we are working to bring those ideas to the modern web, including transclusions and backlinks 😄
