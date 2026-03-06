@@ -1,0 +1,1 @@
+we *ALSO* have the same system ready to be used for diffusion *text* generation AND diffusion *audio* generation
