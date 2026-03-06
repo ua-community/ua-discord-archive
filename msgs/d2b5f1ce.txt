@@ -1,0 +1,3 @@
+https://github.com/darkshapes/negate
+https://github.com/darkshapes/divisor
+https://github.com/EfficiencySimplicity/Katana
