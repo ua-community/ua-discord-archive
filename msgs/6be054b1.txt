@@ -1,0 +1,1 @@
+this is an image anti-scraping tool that splits an image into layers that combine to form a seamless image made of distorted ones
