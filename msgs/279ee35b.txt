@@ -1,0 +1,5 @@
+Been working on some EU regulation/funding things related to browsers, and the "independent engine" arc generally. Here's a first draft publication of some of that work - the Servo Readiness Report.
+
+- www: https://webtransitions.org/servo-readiness/
+- pdf: https://webtransitions.org/servo-readiness/servo-readiness-one-pager.pdf
+- post: https://bsky.app/profile/burrito.space/post/3mgfjvd5qzc2m
