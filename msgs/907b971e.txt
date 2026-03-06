@@ -1,0 +1,1 @@
+Divisor is an experiment in trying to get more authorship out of generative image synthesis, where instead of waiting for a machine to generate 'art', we take some control each step of the way
