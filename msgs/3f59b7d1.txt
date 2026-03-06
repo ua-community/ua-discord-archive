@@ -1,0 +1,11 @@
+Just tried it on Chrome w/Macbook. Logged in with Google and the NewBoard dialog apparently has a dead "Create" button. I can't make a board (private, shared, or public) Console.log shows:
+Uncaught (in promise) Error: [CONVEX M(boards:createBoard)] [Request ID: fdb6741b82975a99] Server Error
+Uncaught Error: User not found
+    at handler (../convex/boards.ts:34:21)
+
+  Called by client
+    at handler (../convex/boards.ts:34:21)
+
+  Called by client
+    at te.mutation (https://www.get-dump.com/_next/static/chunks/ed99cc755f1875a1.js?dpl=dpl_HM2KJGUJzEsHHuVMLWatWwjPUHeq:2:44129)
+    at async j (https://www.get-dump.com/_next/static/chunks/71aba512834a8596.js?dpl=dpl_HM2KJGUJzEsHHuVMLWatWwjPUHeq:1:3351)
