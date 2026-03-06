@@ -1,0 +1,1 @@
+I miss functional programming for web software. When it compiled it just worked.
