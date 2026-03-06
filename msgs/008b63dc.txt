@@ -1,0 +1,1 @@
+Beautiful sentiment. Are you architecting this to be model agnostic in some sense? Such that it would be easy to swap in future ethical models eventually?
