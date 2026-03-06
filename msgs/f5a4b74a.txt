@@ -1,0 +1,1 @@
+You're toying with the idea that every "micro interaction" (independent of any app) are entities that can be shown/mixed/reviewed by LLMs
