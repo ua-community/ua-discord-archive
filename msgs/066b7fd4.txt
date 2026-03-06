@@ -1,0 +1,3 @@
+its just markdown and bunch of frontmatter that you can take ref from: https://agentskills.io/home
+
+PS Tiles will have MCP/Skills by end of this month :), We already have DID support in latest release
