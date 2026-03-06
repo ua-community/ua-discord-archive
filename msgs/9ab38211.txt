@@ -1,0 +1,1 @@
+we want to do that with atproto. spaces can be private, shared or fully public and publish changes as stream
