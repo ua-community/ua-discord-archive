@@ -1,0 +1,1 @@
+yeah, it would be wonderful, as for example theres a fine tune trained on licensed only data taht is compatible with this framework, though we havent yet integrated it, only the original reference implementation
