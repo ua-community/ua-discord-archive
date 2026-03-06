@@ -1,0 +1,1 @@
+Yes, I wish I'd seen it earlier. I have a similar (less thought out) setup saving "entries" as content addressed blobs, but haven't worked much on indexing yet
