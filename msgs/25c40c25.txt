@@ -1,0 +1,1 @@
+Zen adding some interesting things in nightly, eg this "smart folder" feature
