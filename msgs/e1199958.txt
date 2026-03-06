@@ -1,0 +1,1 @@
+the idea is a scraper has to re-assemble the split images to make the original, increasing difficulty in processing that data
