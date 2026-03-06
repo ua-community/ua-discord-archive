@@ -1,0 +1,5 @@
+image generation is created using the flow match diffusion process, which takes a noisy image and moves along one of finite paths from noise to data
+
+https://images-ext-1.discordapp.net/external/79YFqUPZUcSr-h-fdVCVKWl8TO0xDIEJx9sMxZ_kxno/https/arxiv.org/html/2506.14603v1/extracted/6549324/figures/overview_fig_4.jpg?format=webp&width=3328&height=1016
+
+normally, it takes a set amount of denoising steps to reach a conclusion. but divisor does away with the idea of set steps and a known conclusion, and allows the artist to move forwards and backwards in time and extend image generation infinitely, so the conclusion is erased. on capable enough hardware, this means a near real-time experience of whats caled a 'latent walk', where an operator steps through different concepts, like a lens into the diffusion model
