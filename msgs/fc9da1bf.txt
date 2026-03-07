@@ -1,0 +1,1 @@
+so far no one really seemed to have liked it. i am thinking maybe the way we communicate is so individual that it should just be a thin client sdk and everyone vibe codes their UI. for the browser itself it was the other way around i thought more of it as a reference browser but people really want to use it and i see eyes light up in demos
