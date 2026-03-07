@@ -1,0 +1,11 @@
+Most of it is actually “live” which you can then fork & edit (see 3 dots menu icon) turning it into a facet that’s saved into your “account”. At this point if you’ve connected your atproto account, you can share it with others.
+
+The “split view” tool has a save icon (hidden behind edit mode button) which then generates a facet based on your split-view config.
+
+You could also do tiddlywiki kind of saving mode if you wanted (the code edits itself).
+
+I should write down a proper definition of a facet … it’s not necessarily a piece of html, or something that’s saved into your user data.. it’s the way you use it I guess, you’re composing your software with parts built by yourself and the community.
+
+I hope that makes sense. The facets page is a mess right now. Working on a better version that should be done soon. Hopefully it gives a better idea what facets actually are 😅
+
+Let me know if I need to explain anything (better) or if you want a proper demo/walkthrough.
