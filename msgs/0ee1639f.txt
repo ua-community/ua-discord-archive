@@ -1,0 +1,1 @@
+if you want to try an experiment, write a spec for your client in .md, then share it with everyone as like a prompt template
