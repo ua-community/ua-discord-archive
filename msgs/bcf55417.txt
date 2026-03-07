@@ -1,0 +1,1 @@
+Right now it uses gpt-oss-20b, but you can also run https://allenai.org/olmo models using the `tiles run` command. The command is currently broken, though it will be fixed in the Sunday release.
