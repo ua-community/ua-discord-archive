@@ -1,0 +1,3 @@
+It's just basic html wrapped in a lexicon with a dasl cid. Then there's the facet loader which injects everything into the current page.
+
+The iframes thing is just an additional thing, a quick demo, to get multiple facets next to each other on the screen. You can do regular split screen in browser as well, but I wanted three panes, so did that to quickly solve my problem.
