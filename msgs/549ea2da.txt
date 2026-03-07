@@ -1,0 +1,1 @@
+from a practical perspective, these things are like much of open source in that theyre pursuing the frontier rather than creating it, but i find it reassuring to know that we can train and use these things while minimizing harm if we really want to
