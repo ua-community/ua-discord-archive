@@ -1,0 +1,1 @@
+there is a lot of emphasis currently on training new models, but i am of the opinion that.. we havent even scratched the surface of whats possible in the older ones yet? so much of our software is about sharing knowledge about legacy things and trying to make on a smaller, sustainable scale
