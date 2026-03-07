@@ -1,0 +1,5 @@
+> (negate) e6d64@A3816 negate % negate infer /Users/e6d64/Downloads/social-banner.png 
+> Preparing feature dataset and loading selected models...
+> Running inference with each selected model: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00, 98.56it/s]
+> ['ae :SYN img:0 48.65%']
+> (negate) e6d64@A3816 negate %
