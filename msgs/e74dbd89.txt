@@ -1,0 +1,1 @@
+I collect datasets that are gathered with absolute consent from all parties, and models that are usually fine tunes on similarly responsible data but also original models on smaller scale (like comma, pleais)
