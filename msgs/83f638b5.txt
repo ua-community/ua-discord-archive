@@ -1,0 +1,1 @@
+just the fact we all accept whatever discord is over slack and companies ms teams speaks for itself. i think ACP bridges are the answer here but in the meantime this might be ready for adenturous trial https://github.com/beeper/ai-bridge/tree/main/bridges
