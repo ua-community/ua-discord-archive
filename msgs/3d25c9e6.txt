@@ -1,0 +1,1 @@
+yeah thats a good idea, but probably pn top of a fixed sdk. you dont want everyone vibe coding the encryption and protocol stuff
