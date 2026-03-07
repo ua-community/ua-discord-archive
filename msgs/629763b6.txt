@@ -1,0 +1,1 @@
+i also have to check out elements js client sdk again, i forgot what the issues with that were
