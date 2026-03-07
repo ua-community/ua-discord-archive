@@ -1,0 +1,1 @@
+https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/agents/always-on-memory-agent i like this architecture for memory, could full be build in a cloudflare worker with agent sdk.
