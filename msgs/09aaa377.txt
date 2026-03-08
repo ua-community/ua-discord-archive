@@ -1,0 +1,1 @@
+I mean this isn't exactly a completely new idea, just reframed for AI (which makes sense, don't get me wrong). We had stuff use SEV/SGX before and that did not always work out great historically
