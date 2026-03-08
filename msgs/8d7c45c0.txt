@@ -1,0 +1,1 @@
+just found out anthropic now encrypts thinking blocks and signs the ones visible. this means you cannot switch providers anymore and try the same convo on multiple providers as the signature will be rejected
