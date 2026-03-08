@@ -1,0 +1,1 @@
+encrypted transmission of prompt material and rag requests requires a lot of trust
