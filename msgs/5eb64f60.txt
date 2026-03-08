@@ -1,0 +1,4 @@
+I like "facet" because of this definition:
+> An aspect or side of something, particularly one among many similar or related, yet still distinct, features or components of a larger entity or concept
+
+I think that encompasses the idea perfectly, you use the facets as building blocks to compose your software.
