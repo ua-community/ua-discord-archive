@@ -1,0 +1,1 @@
+and im coming into it with the understanding that, scientifically, we cannot unlearn the knowledge of what happens with creating llms with gradient descent and backpropoagation and all this other stuff thats been building quietly in more or less independent research circles for years
