@@ -1,0 +1,3 @@
+And yeah, "facet" might be poor naming. I discovered afterwards that atproto has facets too.
+
+Previously it was named "constituents", but that's too long and hard to pronounce, plus it has this possibly negative political connotation.
