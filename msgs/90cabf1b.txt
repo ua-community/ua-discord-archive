@@ -1,0 +1,1 @@
+Haven't looked into the technical details of tinfoil - do they make their own secure enclave hardware, or is it just packaging SEV/SGX (or even AWS thing?)
