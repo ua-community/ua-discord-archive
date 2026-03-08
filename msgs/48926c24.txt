@@ -1,0 +1,5 @@
+enclave + e2ee seems like a good & verifiably secure solution.
+I haven't 100% finished digging into how enclaves work, but from my understanding this should make offloading compute.
+I'm not necessarily against some parts of software being always-online, I'm just against handing someone else all my info.
+When storage isn't tied to a specific provider & compute can be offloaded in a privacy preserving way, why not?
+zk solves a similar thing imo, it just hasn't scaled that way (yet). Although I find zk to be much easier to understand :/
