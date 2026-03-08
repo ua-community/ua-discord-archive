@@ -1,0 +1,2 @@
+AWS Nitro has existed for a while, but I always found it a little funny - AWS sells you some expensive compute, so instead of trusting them not to access their hardware, you now trust them to not access their hardware to access their hardware lol
+(of course if you forward the attestation to your users, that may be interesting, but...)
