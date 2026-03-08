@@ -1,0 +1,1 @@
+has it been audited? how do we know the model cant be accessed/removed from the secure enclave and popped open?
