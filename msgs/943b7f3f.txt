@@ -1,0 +1,1 @@
+this is correct, i wanted to pop a rom update to my nvidia card but the releases are signed, the updater is proprietary and also signed, it is impossible to touch hardware or software, and imo this was largely to thwart reverse engineering attempts rather than keep compute space secure (as its been happening long before the ai boom)
