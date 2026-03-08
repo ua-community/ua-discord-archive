@@ -1,0 +1,5 @@
+Looked at their website now. Seems like there is nothing about that which would be a technical improvement over others.
+I like the ethics & EU storage, but that's about it. Seems like it's just GLM 4.5 AIR slapped on a EU server.
+Things like at rest encryption are standard anyways, and often required by law.
+Seems like you can use any EU inference provider or Minstral, or any of the privacy friendly providers behind Kagi chat interface. There seems to be nothing technical that would set Thaura apart.
+(Oh, and Heat reuse, 100% green energy, etc are not a rarity in European data centers. Quite common actually. Most providers would just not find that kind of thing worth mentioning)
