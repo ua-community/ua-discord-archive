@@ -1,0 +1,1 @@
+Reading a little bit into https://arxiv.org/pdf/2507.02770 my understanding is also that nvidia attestation places a lot of trust into the kernel driver (which presumably is expected to run in the enclave?), but from my understanding the relevant drivers are still proprietary & closed source, even with some parts recently being open sourced?
