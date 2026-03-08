@@ -1,0 +1,2 @@
+WIth e2ee + enclaves you are shifting the trust from the provider to the hardware / manufacturer of the hardware.
+Obviously nothing will ever be as secure as your own computer. I think for the foreseeable future there will always be some computations that most users would rather offload to someone else. So there should be an option that at least shifts trust to only be necessary while executing the calculations & to entities you already trust - ie hardware manufacturers
