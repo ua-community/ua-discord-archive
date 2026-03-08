@@ -1,0 +1,4 @@
+Tinfoil does a lot of work in ensuring chats are encrypted, requests are verifiably private and veotfiying model weights all with enclave backed runtime that you can audit against: https://docs.tinfoil.sh/verification/attestation-architecture
+
+
+Though I wish all of Tinfoil were open source
