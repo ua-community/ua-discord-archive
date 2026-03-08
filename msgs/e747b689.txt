@@ -1,0 +1,1 @@
+the models we promote on huggingface are examples of models that are trained with fair, consent data on small scale
