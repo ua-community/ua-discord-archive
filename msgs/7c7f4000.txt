@@ -1,0 +1,1 @@
+The Tilekit SDK still exists, but it isn’t a priority at the moment. For the first half of this year, the focus is on consumer-side interfaces.
