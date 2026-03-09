@@ -1,0 +1,1 @@
+weird question but - could something like this be used to fwd message/posts from social services to a single service then broadcast from that service or to the different endpoints? - https://automatisch.io
