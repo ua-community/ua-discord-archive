@@ -1,0 +1,16 @@
+(user) Did some writing about capabilities. Is this somewhat along the lines you were thinking of?
+
+https://github.com/ua-community/ua-extensions/blob/main/observations/capabilities.md#capabilities
+
+I organised it a bit differently than you originally suggested.
+Focused on the standout capabilities and then overlap with existing systems (without capabilities from their extensions).
+
+I guess I could also look through all the available extensions for those systems
+and then note how the overlap increases; but not sure how useful that is?
+(seeing that most people don't install a lot of browser extensions, if any)
+
+> * identifying where web and existing extension systems have points to be used for maximizing compat/interop to make integration easier (eg postMessage)
+> * handwavey thought about each project's approach to what's in core vs features-as-extensions vs 3rd-party extensions... seems different for each of the systems you looked at, and the projects people are building here in this community
+Need to think more about these, drawing a blank atm.
+
+I guess I should also make a doc that explicitly states the needs of Peek & Darc? Or do these capabilities suffice? eg. "A critical Peek need would be to escape the capability prison"
