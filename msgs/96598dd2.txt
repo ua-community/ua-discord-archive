@@ -1,0 +1,11 @@
+There are two reasons:
+
+1. The goal is still the same. It has always been about user agency, which is why I chose to research and work on client-side technologies from the beginning, even before Tiles. What changed was the advent of AI and the increasingly sensitive nature of the data we entrust to our computing systems.
+
+2. I realized that I am not particularly strong at interface-level product execution (the notebook product had both interface + technical level novelty), but rather at the deeper technical execution. This new approach with the Tiles assistant is therefore to provide an interface and convenience similar to ChatGPT, (no novelty on the interface side) while excelling at privacy engineering on the technical side (the nerdy stuff I believe I'm good at).
+
+3. Memory is just one type of data. There are also chat logs and many other kinds of data, so I now frame Tiles as a general AI assistant. A practical memory system will come in later releases after we finish integrating the agentic harness. We are currently evaluating Pi because of its minimal and extensible SDK. It also stores sessions as trees and branches in a single file, which aligns well with the local-first design of Tiles.
+
+PS:  The current memory approach with Dria model sucks and we don't have bandwidth to train a better SLM with that kind of parametric approach. This model is behind a -m flag now.
+
+4. The roadmap also includes bringing ATProto, P2P sync, and group chats. However, the core technical focus will remain on local model deployment and privacy engineering without compromising on convenience, which centralized platforms often achieve through their technical design (setting aside the issue of enshittification in this argument).
