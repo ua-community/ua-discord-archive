@@ -1,0 +1,1 @@
+neither rest apis nor the smalltalk philosophy managed to become the mainstream informational paradigm. both were seen at the time of THE new computing foundation and people imagined how everyone would create their own software on these primitives. im not talking about if something is used in a niche or in programming circles but only looking at main paradgim
