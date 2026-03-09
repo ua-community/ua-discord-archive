@@ -1,0 +1,1 @@
+Rooms should be visible in a space if they're marked as public.
