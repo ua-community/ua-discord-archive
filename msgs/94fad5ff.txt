@@ -1,0 +1,1 @@
+In the next version we will package the default model with the installer itself for easier offline installs 🙂
