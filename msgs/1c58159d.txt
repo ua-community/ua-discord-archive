@@ -1,0 +1,1 @@
+No true ownership of course, and some of those, using OAuth / OIDC use Login with Google, Microsoft, or Apple, let you use a different auth key
