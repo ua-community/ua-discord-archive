@@ -1,0 +1,1 @@
+I'm betting on ATProto the most, I think ATProto can work towards private data more easily than AP can work toward portable identity.
