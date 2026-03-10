@@ -1,0 +1,1 @@
+And never looked at other solutions. I met some of them in person in 2024 DWeb Camp and they hadn't figured out how to login / delegate keys between devices, and their stuff barely worked on mobile
