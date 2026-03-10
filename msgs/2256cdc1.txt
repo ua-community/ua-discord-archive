@@ -1,0 +1,1 @@
+(user)  new chrome bugs with hard crashes, hard to keep up for me.  we need to make a few test cases that captures our usecase and make google merge it into the iwa ttest suite which would capture our error early if it was complete. you see any chance of use doing that?
