@@ -1,0 +1,1 @@
+sure. We'll just build a meta standard that makes all the cryptography handshakes work.
