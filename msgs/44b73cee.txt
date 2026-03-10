@@ -1,0 +1,1 @@
+They would like all these protocol things to interoperate, and I've been having that discussion, where somewhere in the middle shared and/or linked identities need to sit, at least
