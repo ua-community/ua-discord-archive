@@ -1,0 +1,1 @@
+On account / identity interop, right now people have infinite accounts on SaaS platforms, all agreeing on email address as unique identifier
