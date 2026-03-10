@@ -1,0 +1,1 @@
+I thought of this in the context of LLVM and Vulkan, which both have intermediate representations between compiler back ends (supply) and front ends (demand)
