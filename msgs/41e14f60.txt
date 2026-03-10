@@ -1,0 +1,1 @@
+In terms of standards economics, refusing to build with *any* existing standard tends to give you the worst of all worlds, building entirely from scratch with both minimal supply *and* demand. That only works if you've got a truly killer app, and the use case is just that compelling.
