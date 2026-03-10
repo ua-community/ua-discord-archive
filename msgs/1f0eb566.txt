@@ -1,0 +1,1 @@
+"good" is a fitness function, where adoptability is also a measurement
