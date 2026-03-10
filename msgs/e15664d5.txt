@@ -1,0 +1,1 @@
+There are notions of supply and demand for standards, where supply has to do with how many implementations there are and demand with how many uses there are
