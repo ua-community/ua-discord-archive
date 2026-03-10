@@ -1,0 +1,1 @@
+.... there are in fact like maybe 3-4 ways of doing accounts, and then an infinite number of pet projects which are a single code base, not a spec or a protocol at all, who want other people to adopt their way of doing things
