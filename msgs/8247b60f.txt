@@ -1,0 +1,1 @@
+Matrix is one of those interesting ones. Really interesting encryption properties, challenging UX, and then .... your identity is tied to your home server! Ouch!
