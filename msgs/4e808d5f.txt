@@ -1,0 +1,1 @@
+let me try to paraphrase, what you want to do is have a memory that is independent of siloed providers?
