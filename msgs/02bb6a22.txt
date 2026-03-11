@@ -1,0 +1,7 @@
+so:
+1.  you're asking for your digital identity to have a human interface that puts you in control, through whatever provable form works for you. 
+
+2. people use like 8-12 different agents, and some are building 100+ agent hives. this information complexity needs to be self managed now, we can't design heuristics anymore, that is how we entered 2026 
+(I am working with one such team, 25+ agents need real time sync in an efficient way without losing sight of mission, that's memory too)
+
+3. the problem with connectors/ingestors explosion is standards. No standard will last this age of disruption. It's laughable, to see what happeend with MCP and A2A, etc. the way to design standards has to change, I don't have an opinion, maybe (user) can pitch in with his years of experience here.
