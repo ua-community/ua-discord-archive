@@ -1,0 +1,1 @@
+we need to refuse to directly connect anything with agent or ai in its name to our data sources or we lose control of our digital identity
