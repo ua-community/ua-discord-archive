@@ -1,0 +1,2 @@
+---
+ACE is still more "opinionated" than ALMA, but the state machine formal system over language. If you were into ML in 2010s, its beautiful to see classical ML come back in this weird open ended form.
