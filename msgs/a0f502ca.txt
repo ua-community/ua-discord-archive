@@ -1,0 +1,1 @@
+(Meaning, it's federated, but if your home server goes down, you're toast and lose your identity forever)
