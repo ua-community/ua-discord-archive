@@ -1,0 +1,1 @@
+https://blog.mozilla.ai/federate-phishing-detection-training-a-url-classifier-without-sharing-browsing-data/
