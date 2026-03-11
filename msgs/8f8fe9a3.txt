@@ -1,0 +1,5 @@
+what are people using to get their data from platforms that don't support it with open API, like X, chatgpt.com, pinterest, insta, all these have data dumps and not a programmatic access, also they ban it. 
+
+is there some auth browser harness that can fetch my data for me with API, non API, self learning adapters, etc? working with all services, apps I use ? 
+
+maybe like an open source anon.com ?
