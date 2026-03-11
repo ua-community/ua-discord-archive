@@ -1,0 +1,1 @@
+'everythings better in rust' moment
