@@ -1,0 +1,2 @@
+what is the right way to do this though, open and secure. for ex. I want it to go through my amazon.com daily / weekly and get my whole foods bill and track expenses and food etc. whatever, it's data. 
+Is there a better way to do it ? any platform, agent builds its adapter, no issues with auth token, refresh token, or perhaps use them wisely ?
