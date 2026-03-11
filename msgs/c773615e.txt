@@ -1,0 +1,1 @@
+you just log into the websites in the browser one big point of using the browser like that is that you dont need this auth layer cruft
