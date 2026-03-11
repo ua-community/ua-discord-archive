@@ -1,0 +1,3 @@
+Kind of stacking on this thought, it seems like this feeds into people thinking LLMs are much better than in reality. If the input thought is not particularly original LLMs are very good at recognizing that and spitting out some variant of the known implementation.
+
+Ultimately this is of course what programming just is in a way, but if you "invent" executing what is basically a graph, yeah, it will do what you said and add 3 features on its own cause there are 10000 preexisting implementations.
