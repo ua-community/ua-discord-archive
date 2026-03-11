@@ -1,0 +1,4 @@
+ALMA is another inspiration for Syke, along with ACE
+Agents learning routes, top searches, with user's actual usage patterns instead of hand crafting memory features. 
+SoTA work from Jeff Clune's lab
+https://arxiv.org/pdf/2602.07755
