@@ -1,0 +1,1 @@
+thats basically the agent browser layer im working on and many others too. this is still an unsolved problem. you can do it but either its not safe or still quite some manual work, you cannot have both
