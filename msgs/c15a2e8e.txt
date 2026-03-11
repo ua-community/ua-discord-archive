@@ -1,0 +1,5 @@
+interesting you said this cos my work literally was graph+vector hybrid for 2 years and then I moved to RLM agent+bash and it literally started inventing a graph again
+
+i fond this phenomenon quite interesting, because I had to let go of the baggage of knowledge graphs and ontologies etc. my default choices being neo4j or falkor. 
+
+but I put a graph space over sqlite and its just better.
