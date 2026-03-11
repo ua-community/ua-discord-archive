@@ -1,0 +1,1 @@
+auth is doomed because all the oauth and pi access is going though the goodwill of companies.  adversarial data extraction with browser automation, screenshots, accesibiltiy apis and MITM proxies all combined depending on the target
