@@ -1,0 +1,1 @@
+thats one form but im talking about writing persisstent ingestors and monitoring for mismatches and continual processes looking more like software engineering than ML
