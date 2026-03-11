@@ -1,0 +1,3 @@
+Just a thought I had a few times recently - AI seems to lead to people often poorly researching their ideas themselves, and the AI doesn't like doing um, actually.
+I feel like I encounter a lot of "new" ideas that are just existing ideas reinvented, often slightly worse. Might also be due to a lot of people with very little experience getting into CS and thinking about stuff.
+Still, I find it insanely annoying reading a whole article, just to slowly realize "oh I know this, and you are just doing it a little bit worse"
