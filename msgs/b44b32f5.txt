@@ -1,0 +1,1 @@
+opus searching more and more for UI strings directly  in app bundles and bins, finding symbols, then going straight for the  right code file with curl instead of cloning repo. instead of debugging blindly i can now ask how exactly chrome behaves. given chrome repo size and context quality its a big difference
