@@ -1,0 +1,1 @@
+yet android itself is closing at the same time https://developer.android.com/developer-verification
