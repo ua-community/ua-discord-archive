@@ -1,0 +1,1 @@
+its more creative than i first thought. because compiled bins contain virtually no strings except the ui ones you find the right place with nearly no noise results with the right symbol you can jump into the code in the repo at the ui layer where something is called and then move inwards
