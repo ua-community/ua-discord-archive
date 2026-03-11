@@ -1,0 +1,1 @@
+Some people seem to want LLMs to do the work for them. I've been using it as a sanity check, which seems like  much better way to use it.
