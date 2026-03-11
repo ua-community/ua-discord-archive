@@ -1,0 +1,2 @@
+Wherever symbols reach 
+Space element cannot be captured by symbols. Outer or inner. We can only try
