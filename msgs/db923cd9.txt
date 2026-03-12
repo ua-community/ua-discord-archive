@@ -1,0 +1,1 @@
+I'm now wishing Claude had a CAS attached, so it could generate an algebraic statement but then have a deterministic system compute its result
