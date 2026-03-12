@@ -1,0 +1,1 @@
+I guess theoretically I was going to wrap our link stream into a Jekyll or whatever site and turn it into RSS. THAT is another worthwhile project, which for maximum impact should then also have an atproto and AP link poster
