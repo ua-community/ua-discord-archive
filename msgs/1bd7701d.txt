@@ -1,0 +1,1 @@
+importantly its self-hostable, but they mention on their gh they are looking at federation options.. and they allow atp integration already
