@@ -1,0 +1,5 @@
+> handwavey thought about each project's approach to what's in core vs features-as-extensions vs 3rd-party extensions... seems different for each of the systems you looked at, and the projects people are building here in this community
+
+I'm actually struggling with this in my own project at the moment. The idea is "build your own software by picking the features you need". I guess with that premise, nothing should be in core except the bare essentials?
+
+Or maybe nothing at all is hidden in core, and we do define it as a feature, but enabled by default. I guess this how Peek also approaches it? Teaches the user about all the capabilities of the software.
