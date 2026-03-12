@@ -1,0 +1,5 @@
+To make things even more confusing, but awesome, there are now two different kinds of facets. “Interfaces” and “Features” (technical names: “interactive” and “prelude”)
+
+You literally toggle features on or off. So for example, say you want to enable scrobbling, you just click the button to enable it and it’s active.
+
+Technical definition of “active”: it’s loaded before any interface that you open.
