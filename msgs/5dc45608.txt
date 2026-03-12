@@ -1,0 +1,1 @@
+i can run a 200 param model with some experts pruned at q4 no problem
