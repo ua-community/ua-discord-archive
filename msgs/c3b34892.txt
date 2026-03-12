@@ -1,0 +1,17 @@
+----
+Syke Update : 0.4.6
+
+Support:
+- Multi Provider Support with agentic UX and onboarding. Supports codex oAuth, claude login, all ant shaped providers, and responses API too. 
+- Used LiteLLM finally after giving up. I dont like it. But it does its job. Had to handroll Codex auth though
+- Silent failure in synthesis and memex fall back removed entirely. The system either works integrated or not at all. 
+
+Interesting Bit:
+- Memex iterated further to truncating its memoryID to the point it could not look up that memoryID anymore. So, Made a prefix matching function (temporary but makes good strategy data and environment for skill learning).
+not giving functions as learning directive to the agent yet
+
+Added more elaborate background and research section in the documentation, for those wondering "why reinvent the wheel, computer science already did this" and why that is not what is happening here. 
+
+https://github.com/saxenauts/syke/blob/main/docs/MEMEX_EVOLUTION.md
+
+*pipx install syke / pipx upgrade syke*
