@@ -1,0 +1,7 @@
+I've been shouting graph since 2022, and back then they all enforced vectorDB because "graphs are complex". 
+
+Now they all want to make graphs in 2026 when the meta has moved away significantly. 
+
+- They don't understand why we even wanted a graph in the first place. 
+- Their marketing and research paper are contradictory
+- Look at these methods, outdated by 6 months.
