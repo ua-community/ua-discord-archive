@@ -1,0 +1,1 @@
+Getting close to having the core finished, and then we can focus on integrating with various services and making cool audio player UIs
