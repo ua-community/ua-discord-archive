@@ -1,0 +1,3 @@
+“Spacebot's memory is a typed, graph-connected knowledge system — and this opinionated structure is why agents are productive out of the box”
+
+cc (user)
