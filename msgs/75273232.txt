@@ -1,0 +1,3 @@
+This is little bit off topic but I’ve not seen a more elegant approach regarding extensibility in LLM chat bots as Pi, plan to integrate this harness in later releases of Tiles to make it useful finally: https://pi.dev
+
+also this tool saves sessions across providers as JSONL files, so local first that way
