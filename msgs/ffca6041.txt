@@ -1,0 +1,1 @@
+just checked, this is basically exactly what im building just we need more finegrained controls/permissions and running in workerd
