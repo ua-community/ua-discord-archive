@@ -1,0 +1,1 @@
+Interesting, they are actually executing on one model per user vision: https://x.com/luke_drago_/status/2032516302020223411?s=46
