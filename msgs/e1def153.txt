@@ -1,0 +1,5 @@
+memory needs versioning, like gastown on doltDB
+important for reasoning traces
+for validation
+and generating more data for smarter strategies that bake in validation
+https://github.com/code-yeongyu/oh-my-openagent/issues/74#issuecomment-4051848035
