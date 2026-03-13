@@ -1,0 +1,2 @@
+its not active inference, but its a real hopfield network kernel, and real memory as attractor space implementation. not vector not search no retrieval. 
+quite smart,  could have gone less schizo on the naming I guess but it really is a memory lattice , these are not embeddings for cosine search
