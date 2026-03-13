@@ -1,0 +1,18 @@
+well i dont know if they have actually implemented this
+but some of their ideas are right and many people have independently converged to
+
+-> this is karl friston's active inference research, which is about life and emergence but disguised as neuroscience 
+and another field called hopfield network which is in simplest term an energy grid, much older concept, but more relevant in AI today
+-> in neuroscience, they represent most of the work on brain/memory as neural manifolds when representing in digital space, but actual space is discrete because our devices and measurements are discrete ( you see electrodes? most of the invasive and even non invasive techniques in neuroscience are like that, discrete thing)
+-> so how do you represent a continuous space on which human and AI brains train when you only have discrete markers for that space ?
+
+That's basically hopfield network, much earlier idea in neuroscience (and physics perhaps, depending on who you ask)
+
+and memory problem is not a store this in a bucket and retrieve that, that's looney tunes computer science shit from last century (sorry I intend to be triggering here)
+
+in 2026, memory is basically a best approximation of creating an attractor space, on which the right answer from randomness will somehow fit. all fields converge here. 
+
+some even go far, like anirban bandyo's work , of representing ORCH-OR as hopfield network in quantum superposed state. same maths honestly, same puzzle, I just want to make money
+
+this person, this library is basically taking these principles of physics (information, not gravity) and apparently made a cuda kernel to represent this as a filter of network that passes through your existing embeddings(?//token space) I am not sure honestly. 
+----
