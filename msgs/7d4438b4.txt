@@ -1,0 +1,12 @@
+---
+Most important being that the decisions get lost, small decisions that shape the vision of the project in the go, get lost in one or two compact cycles, and the agents move on.
+
+What I am going to do is introduce hashline in user memory, their decisions, logs, etc. things that can smartly become validators etc, that don't get forgotten. still experimental
+might put it on a db like turso or dolt.
+
+Will keep updating here. 
+---
+This images are ss on omo agent, from a tricky question where we stashed changes from a previous session because sisyphus executed them in a continuous TODO loop without asking, so I had it reverted commit, stashed changes, and started a new session and asked if we executed on the previous plan. sisyphus natively ran calls and did not find evidence, because it missed the part where we stashed it. syke found it.
+
+The image is sisyphus recording its own tool use and search paths against syke. This just happened 10 minutes ago. So pasting this here, and sisyphus diagnoses this.
+---
