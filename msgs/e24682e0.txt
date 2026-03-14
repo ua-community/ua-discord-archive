@@ -1,0 +1,2 @@
+--- 
+need to see if a clean isolated harness picks it up, because memex rules haven't learnt it, and none of the memories have. so where is it coming from.
