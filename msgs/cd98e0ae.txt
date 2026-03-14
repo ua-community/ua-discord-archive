@@ -1,0 +1,1 @@
+like the focus detection does not work the window thinks its in the background
