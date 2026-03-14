@@ -1,0 +1,1 @@
+TUI/OS/Bash/Browser all in one in a generative UI. The cool thing is their fireproof db tho. thats what I want to use for syke.
