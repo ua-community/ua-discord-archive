@@ -1,0 +1,1 @@
+oh i see i think when I hover over new tabs, some buttons or overlays are hiding the interaction, so they stack up and feels like ghost.
