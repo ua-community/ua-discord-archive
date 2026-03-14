@@ -1,0 +1,1 @@
+at bootup the fps dropped, and I culd not go full screen or move this around
