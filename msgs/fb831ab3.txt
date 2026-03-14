@@ -1,0 +1,1 @@
+(user)  i added a fullscreen mode that works until chrome fixed the native fullscreen button.
