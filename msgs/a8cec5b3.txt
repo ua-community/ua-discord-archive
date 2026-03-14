@@ -1,0 +1,1 @@
+the animation fps dropped at bootup,  and i could not move the window around (or even maximize it immediately) hung there
