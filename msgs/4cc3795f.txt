@@ -1,0 +1,7 @@
+I remember speaking to a lawyer once about chomskys critique of postmodernism whereby he said something, paraphrasing, "i reckon one of chomsky's main points is that a lot of these intellectuals are just repackaging ideas in different language that have existed since the enlightenment which really just obfuscates the meaning and overloads the word.  you see this in the business community *all the time*"
+
+i think the problem is that its like when people are exposed to a new idea and they say something like "take a, b and c and produce X" the llm just can package different things that have been said before and reify whatever the prompt is without producing an actual knowledge artifact, but rather just the pretense of a problem. 
+
+Its like the main problem with llms is that they're conditioned sychophantically, and on top of that don't  "know what they know" ie they can't self-recursively make associations between two different packaging of the same idea they are trained on. identifying things with the same semantic content can't be identified posterior to prompting. 
+
+point being is that the prompts themselves are the central seed about which the llm assembles something, and if the prompt is a priori constrained, specific and tuned "meaningfully"
