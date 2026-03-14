@@ -1,0 +1,1 @@
+again, back to our discussion, can I use this now to run any programmatic data extract on the go, as long as I am logged in? Like if I run a simple RLM over this or A11y tree, even screenshots as tools, theoretically I can crawl and get my data and control my platform regardless of whether they think my data is mine to take or not.
