@@ -1,0 +1,1 @@
+most interactions are hover based
