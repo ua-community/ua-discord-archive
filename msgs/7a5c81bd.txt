@@ -1,0 +1,1 @@
+I mean this, beyond markdown or mermaid diagram. generative whiteboard almost. for temporary workflows, sessions, it knows pieces, blocks temporarily, dont even need a memory here. I work on such whiteboard temporary html with my agents for like 2-3 hours or 2 days max. that's one big feature or something.
