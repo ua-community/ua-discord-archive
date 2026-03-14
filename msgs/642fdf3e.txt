@@ -1,0 +1,1 @@
+this is static, but I am experimenting with this tool from a friend, where its basically react on claude code
