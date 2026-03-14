@@ -1,0 +1,2 @@
+---
+it observes its own tool use stats, so its learning from there, but it was not visible.
