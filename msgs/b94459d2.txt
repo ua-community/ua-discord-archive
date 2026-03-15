@@ -1,0 +1,1 @@
+Would be surpised if https://stream.place doesn't already support something like this? IIUC the chat stream is already an AP feed.
