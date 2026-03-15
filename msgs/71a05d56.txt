@@ -1,0 +1,1 @@
+for a recurring event, you'd probably want a digest for the event
