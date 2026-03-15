@@ -1,0 +1,1 @@
+in Discord you can link atproto handles, so you could even do a "via" field for those you want to be credited / have handles linked
