@@ -1,0 +1,2 @@
+--
+so a single droid skill which is the only generative layer that works with every user, and their adapters on the go., for ex. some users use different config files, or sandbox, etc. so there are no standard patterns here. has to be generative
