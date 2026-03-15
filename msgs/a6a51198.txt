@@ -1,0 +1,1 @@
+So transformer for AP -> RSS takes the markdown/jekyll/etc bit away.
