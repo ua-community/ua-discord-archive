@@ -1,0 +1,8 @@
+See this. 
+Everything is a filesystem, yes. 
+But they all have their opinions on data shape. 
+--
+Syke has to work with them all. So this has to be generative, not deterministic. 
+But a health check with a markdown contract validation like hashline does. 
+--
+should be good enough to discover custom harnesses, read their docs, understand what they are recording and build our own integration on the go to record it into our shape (with maybe some custom skill notes, all text)
