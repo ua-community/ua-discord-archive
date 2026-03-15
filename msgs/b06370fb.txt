@@ -1,0 +1,1 @@
+markdown-in-storage-bucket is the new oil
