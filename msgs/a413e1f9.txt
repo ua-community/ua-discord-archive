@@ -1,0 +1,5 @@
+Here’s an old screenshot, but gives you an idea of how the thing works.
+
+Clicking the toggle enables a feature and adds it your collection. From there you can edit/fork it, and it is synced with your other data. You can also build one from scratch, or import one from other people.
+
+So yeah, it has “features”, a “builder” and a “setup” process I guess 😅
