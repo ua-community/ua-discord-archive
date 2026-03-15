@@ -1,0 +1,7 @@
+different harnesses, building an generative adapter. 
+Across two axis
+Intelligence -> all text, conversation, compact summary whatever the harness or the agent does, however the user uses it. 
+Actions -> The deterministic tool calls.
+__
+Different harness -> Different design, different changes, etc. 
+Need to record them all in a "neutral" way.
