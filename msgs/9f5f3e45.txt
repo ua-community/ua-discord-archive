@@ -1,0 +1,4 @@
+--
+sorry I am making notes on the go, but even this for ex. 
+it is one layer above, omo-agents are a plugint have their own agent system that works above opencode/ or pi.
+we will see many such systems and can't design it for all so have to take the risky bet and say, we will have an agent maintaining the map of a user's custom setup for their agents (coding+non-coding)
