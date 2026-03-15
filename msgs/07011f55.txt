@@ -1,0 +1,20 @@
+Hey, need help. 
+Any good links or reading on designing better federation architectures/protocols?
+ 
+I have worked on federated learning earlier, but that's about it.
+
+I think federation is a broader topic with more relevance in  <User to Agent to Agents> communication. 
+
+My goals/principles:
+
+1. One standard agent that works with all other agents built by different minds, companies, with different motivation -> all this reflected in their logs. 
+ 
+2. This single agent will introduce "federation" to the rest of the agents silently
+
+^^^ basically the adapter for my agent to connect with codex, cursor, gemini, pi, opencode, or any custom harness, will be generated on the fly depending on user's config etc.  on the machine. no determinstic code here, only a skill/protocol. 
+
+^^^ silently means the single federating agent will inject context into the other harnesses only if the user approves, but the other harnesses will not have to change anything about their program/structure at all. The federation happens at the language layer, not in data contracts. Or rather, the other agents only interact with the single agent through language (CLI but only language) 
+
+---
+
+Is this the right way to think about it? Any reading, history, principles, etc.
