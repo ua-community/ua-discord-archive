@@ -1,0 +1,3 @@
+Time to make this less confusing, I think I’m gonna throw out the whole idea of themes and not mention facets at all. That way it just becomes “cooperative malleable software”.
+
+There’s this page now where you’re building your software, adding features into the mix of your choosing. I don’t know what to call that page though. Maybe the “kitchen”? A collaborative space to cook your software?
