@@ -1,0 +1,2 @@
+------->
+The other way to do it is the memorix approach, which assumes all adapters will write to a single database, and not their own, which is just an inherently stupid assumption I think.
