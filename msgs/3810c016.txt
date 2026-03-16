@@ -1,0 +1,1 @@
+i mean i am building an alternative discord client via mautrix bridges and now connected an agent system. im not surprised to trigger some warnings, my problem is more the way its done. also the appeal link did NOT work
