@@ -1,0 +1,1 @@
+agent <> human <> agent - federation protocol readings & notes
