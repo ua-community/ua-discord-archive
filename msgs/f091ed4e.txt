@@ -1,0 +1,3 @@
+yeah I mean more practically right, do we design for determinism as a computing here with fuzzy hyperlink language -pointer engines? 
+or do we keep the absolute secure credential/secrets in a sandbox that agents can't touch. 
+both will converge to something. I am focusing on former.
