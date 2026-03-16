@@ -1,0 +1,1 @@
+not talking about the model providers, just the agent + harness level stuff. that part is totally solvable
