@@ -1,0 +1,1 @@
+but as we're decoupling the whole thing from Discord anyway, worth revisiting an opt-in identity.
