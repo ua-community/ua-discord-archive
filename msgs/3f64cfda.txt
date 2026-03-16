@@ -1,0 +1,14 @@
+> you are saying why let the agent learn in heartbeat loops when we have determinstic workflow engines. 
+
+what are we talking about here. ? 
+
+> its just slow, expensive, unreliable and does not bring any advantage
+what is, and what advantage , 
+you are comparing deterministic computing to non deterministic I assume. 
+wrt spacebot, memory workflow. 
+--
+this is the core thesis that I am working on. non deterministic computing as far as user goes.
+--
+so, in your experience it has been slower, expensive, unreliable, and no advantage
+
+Can you share some data, story, lore, etc. because the entire field has flipped because they are faster, smarter and cheaper...
