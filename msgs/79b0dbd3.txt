@@ -1,0 +1,1 @@
+no its a full team agent environment including opencode coding subagents
