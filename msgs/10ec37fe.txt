@@ -1,0 +1,6 @@
+about the memory system, here is a thing I want you to measure (in vibes or data if you can.. )
+> how does it keep up with day to day patterns of how different modules, blocks, packages, are used together, what are the use case assumptions (or you perhaps have a different methodology like principle validator or something), and then marketing copy, decision making, journals, vision, logs, all that. 
+I want to see is it able to take the complexity of such semantic space.  This space is so personal and so fluid in time (changes like 3 times a day for me now at the very least with research direction), the right memory will keep track of it in the most efficient way. 
+and I want to see what strategies agents develop depending on who. 
+If you could record this signal mentally and spout or log it on <#1481216013797429370> that would be really helpful for my work. 
+in fact feel free to dump your expectations from a memory system over there whenever.
