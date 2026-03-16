@@ -1,0 +1,6 @@
+https://github.com/logseq/docs/blob/master/db-version.md#new-tags
+
+context: logseq (an open-source & imo slightly more powerful markdown-based journal/second-brain/etc app similar to Obsidian) is moving to a new data model.
+Especially the "new tags" is super interesting to me - it allows to "inherit" properties, similar to what you might expect from classes in programming.
+A really powerful direction. They have also immediately changed their included-by-default task/todo system to make use of this.
+The task system was always realized using just queries / other more general features, but this is a new level.
