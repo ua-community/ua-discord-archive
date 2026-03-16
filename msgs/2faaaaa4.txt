@@ -1,0 +1,9 @@
+right, I honestly believe in my limited knowledge
+that an markdown as an execution contract, non editable by agents without your fingerprint. 
+in a TEE
+is all you need
+--
+And if agents break TEE, then we work on adversarial agents. 
+----
+TEE is simplest and most practical. But two agents and you can create a 3 party sharing here, concept is the same, central contract for execution has hard validators that get executed and validated through a TEE only
+----> what do you think?
