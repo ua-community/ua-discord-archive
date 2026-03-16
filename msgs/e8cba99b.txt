@@ -1,0 +1,8 @@
+---
+maybe a bit crude to ask. but when you say this
+> i hate non deterministic things that don't have to be. we have workflow engines and UI for visibilty,  there is no excuse to hook an agent to cron and try it make the system goo brrr when its just slow, expensive, unreliable and does not bring any advantage
+
+is it because you have real data on this, because as far memory systems go, this is objectively untrue now. especially in 2026. 
+
+deterministic anchors are better learned rather designed -> field is emerging towards that 
+learned as in user side gpu poor learning. not weight updates.
