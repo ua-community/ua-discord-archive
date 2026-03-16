@@ -1,0 +1,7 @@
+yeah, keep it local. what's the issue with security there. 
+PII redaction? 
+Security. 
+---
+
+No deterministic computing was reliable because it had stack trace. 
+AI or language as compute doesnt have a stack trace yet. And many are working on it.
