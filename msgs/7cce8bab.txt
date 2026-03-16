@@ -1,0 +1,1 @@
+I'm not completely sure, but I think it's just an extra way to index. You can still do whatever you want with your markdown
