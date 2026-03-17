@@ -1,0 +1,1 @@
+One idea I've had for my UI engine is to give users agency over who gets their analytics data. The UI engine knows everything the user does via the UI and is well positioned to have that feature.
