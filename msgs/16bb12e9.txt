@@ -1,0 +1,1 @@
+Are these things most people care about? Not per se. The gist is that ATProto is both easier to build on and easier to use.
