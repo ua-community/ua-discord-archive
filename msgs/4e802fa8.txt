@@ -1,0 +1,1 @@
+Legibility is everything! There's an open source alternative to Figma called Penpot, with styling options more faithful to how CSS works. I found it a pain to use.
