@@ -1,0 +1,1 @@
+But since ATProto cleanly separates app front ends from data, it will be possible in the future to switch to an app built on my UI engine, and retain all of your data. All of your friends, all of your posts, you name it. ATProto has the potential to cut through the network effect in a way not previously possible.
