@@ -1,0 +1,1 @@
+The main thing separating ATProto vs ActivityPub is that ATProto is basically a universal general purpose data persistence layer, while ActivityPub is just a simple pub/sub protocol. It's way easier to build an app using ATProto as a batteries included back end + ecosystem, than it is to make an app with ActivityPub.
