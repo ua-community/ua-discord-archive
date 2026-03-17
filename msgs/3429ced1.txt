@@ -1,0 +1,12 @@
+Consider how this maps to a GUI style editor. Every element has a simple set of properties. That's the advantage of the single responsibility principle.
+```xml
+<event onclick=f()>
+    <box color=red>
+        <centered>
+            <text color=white>
+                SUBSCRIBE
+            </text>
+        </centered>
+    </box>
+</event>
+```
