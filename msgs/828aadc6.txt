@@ -1,0 +1,1 @@
+Roundabout by New Public is aiming to be an alternative to FB Groups, that runs a mini atproto network for each community (not really publicly available yet) <-- this one is funded / has a team behind it as public interest technology
