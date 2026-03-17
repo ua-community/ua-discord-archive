@@ -1,0 +1,1 @@
+One can imagine clicking on each element in the editor, and seeing the properties listed in a sidebar.
