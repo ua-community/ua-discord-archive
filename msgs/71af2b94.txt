@@ -1,0 +1,1 @@
+Nope! It will run in my UI engine, which will be more efficient than the browser. Roughly, the same things that make it easier for humans to understand, also make it easier for a computer to process.
