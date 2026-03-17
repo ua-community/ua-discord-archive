@@ -1,0 +1,1 @@
+Meanwhile, these are all the properties one thing has in Penpot. True to html and css, where nearly every element can have nearly every styling option.
