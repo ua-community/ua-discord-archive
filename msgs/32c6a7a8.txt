@@ -1,0 +1,12 @@
+Maybe you can give me your opinion on this. Can you follow it? Can you guess what it does?
+```xml
+<event onclick=f()>
+    <box color=red>
+        <centered>
+            <text color=white>
+                SUBSCRIBE
+            </text>
+        </centered>
+    </box>
+</event>
+```
