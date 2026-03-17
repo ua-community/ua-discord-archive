@@ -1,0 +1,1 @@
+I suppose for something like ATProto, one test would be if a mass migration to another PDS host happened, then we could definitely say the protocol worked as intended
