@@ -1,0 +1,6 @@
+the nvidia keynote was just mind boggling crazy. not sure why no one talked about it https://youtu.be/jIviHI7fqyc
+
+key points:
+- jensen mentioned developing an nvidia CPU specifically to also be able to run agent tools like agentic BROWSERS of all things close to the inference in an integrated system. i did not expect this to happen for at least a few years, cought me totally off guard
+- openclaw type agents are mentioned as the biggest breakthrough since kubernetes and linux! i nearly dropped my coffee. like its not just insulting to linux but also crowning a hypememe before agents even reach hayday. important was the framing as a new kind of system "agent OS" which i think is really key. this is clearly the right framing.
+- launched openShell, nvidias answer for docker based sandboxes, i am investigating how solid it is, its apache 2 unlike other of their projects so might be a good foundation, but also complex with k3s instead of docker compose as the system i am building, but might still be worth it if it saves us time
