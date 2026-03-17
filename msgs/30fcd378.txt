@@ -1,0 +1,1 @@
+update: so openshell is really more for enterprises, i had evaluated k3s in detail back then and looks like all the reasons deciding against it still hold. just to get this thing to start and reason about all the services is already so annoying and a big turn off. call me conservative but i just dont think kubernetes on local machines is the right answer at this point in time.
