@@ -1,0 +1,1 @@
+reading up some, I'm probably more interested in the "not social media" parts of atproto. There are 800 data types and many atproto apps that are not social media
