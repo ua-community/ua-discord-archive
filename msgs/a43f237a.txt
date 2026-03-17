@@ -1,0 +1,1 @@
+Every ActivityPub app needs to make its own federated network from scratch. The ATProto ecosystem is a single ecosystem, such that you don't need to make another account to use another app in it.
