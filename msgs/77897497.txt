@@ -1,0 +1,1 @@
+I'm making a UI engine to hopefully make the component paradigm just as accessible as that. Imagine if you could just publish a Figma design and it worked.
