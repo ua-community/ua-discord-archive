@@ -1,0 +1,1 @@
+I'd like my UI engine + component editor to feel like that, but with dynamic components instead of just static stickers. I want it easy to pull a component someone else made into your web experience.
