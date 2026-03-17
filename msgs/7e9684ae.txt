@@ -1,0 +1,1 @@
+Albeit, a fairly boring tree in this case. Every parent node has only one child node.
