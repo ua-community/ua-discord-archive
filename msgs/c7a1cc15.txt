@@ -1,0 +1,1 @@
+As a developer, I like ATProto because I think developers can serve users better with it. The win in the end is not going to be from explaining protocols to users, it's going to be from the resulting ecosystem being nice to use.
