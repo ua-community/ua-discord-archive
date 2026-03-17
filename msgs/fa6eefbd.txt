@@ -1,0 +1,1 @@
+A minor caveat is that the offline installer requires Rosetta (dont really know why), and that requires downloading Rosetta from apple servers. Gotta fix the issue
