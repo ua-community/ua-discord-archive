@@ -1,0 +1,1 @@
+Now, between the two, I'm willing to bet my pseudocode is easier to follow for beginners than html is. It's cleaner, easier on the eyes, and everything has one job. (Or in technical terms, every element follows the single responsibility principle.)
