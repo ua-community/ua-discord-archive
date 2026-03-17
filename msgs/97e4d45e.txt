@@ -1,0 +1,1 @@
+Can we decompose "the bundle of stuff called OpenClaw" into interfaces or approaches that aren't claw?
