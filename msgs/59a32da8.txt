@@ -1,0 +1,6 @@
+Contrast with the equivalent html.
+```html
+<div onclick="f()" style="background:red; display:flex; justify-content:center; align-items:center; cursor:pointer;">
+  <span style="color:white;">SUBSCRIBE</span>
+</div>
+```
