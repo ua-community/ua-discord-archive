@@ -1,0 +1,1 @@
+So far I've got a couple of shapes rendering with wgpu. I'm starting at the gpu layer and writing my own shaders.
