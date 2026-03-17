@@ -1,0 +1,1 @@
+i got some mods running to turn off short form content and was trying to bypass songsterr's paywall with a new mod, but now im unable to refresh the controlled frames to get them out of hibernated state.
