@@ -1,0 +1,1 @@
+I see MCP as being very insecure - it’s fine-ish as a pattern, the OAuth is similar to atproto, and atproto also needs a “delegation” model rather than just api keys. It will take a while to settle on something else.
