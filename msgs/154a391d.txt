@@ -1,0 +1,1 @@
+I do love how piping curl to bash is the go to install method these days
