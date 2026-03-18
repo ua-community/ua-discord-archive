@@ -1,0 +1,1 @@
+the most funny is the vite plus one. the cert is invalid and it refuses to show you the shell file unless the direct bash command tries executing it. it looks 100% like an attack
