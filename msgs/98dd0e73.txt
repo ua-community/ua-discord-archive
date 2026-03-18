@@ -1,0 +1,1 @@
+and it also requires using an mcp gateway instead of directly connecting agents to mcp servers
