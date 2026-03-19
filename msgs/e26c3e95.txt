@@ -1,0 +1,3 @@
+> Aug 2026     Limited distribution account launches globally.
+> Advanced flow for users launches globally.
+> Sep 2026     The verification requirement goes into effect in Brazil, Indonesia, Singapore, and Thailand. At this point, any app installed on a certified device in these regions must be registered by a verified developer.
