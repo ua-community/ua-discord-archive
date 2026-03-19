@@ -1,0 +1,1 @@
+with python, you have conda, which nobody really uses anymore, pip the official pain way, or uv
