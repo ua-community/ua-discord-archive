@@ -1,0 +1,1 @@
+https://huggingface.co/exdysa/MiniMax-M2.5-REAP-172B-A10B-GGUF-Q4_K_M
