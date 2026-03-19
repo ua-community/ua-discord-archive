@@ -1,0 +1,1 @@
+yeah the most important part is that with bun, you still have pnpm, npm, yarn, etc
