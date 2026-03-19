@@ -1,0 +1,1 @@
+I do all this to develop systems that enable more fluid and creative use of machine learning. I'm particularly interested in diffusion image generation, audio generation and enzyme/protein generation.
