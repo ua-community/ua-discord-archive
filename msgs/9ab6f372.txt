@@ -1,0 +1,1 @@
+uv is a drop in replacement for pip but also with its own python installation management system, isolated system-wide tools and extremely fast dep download
