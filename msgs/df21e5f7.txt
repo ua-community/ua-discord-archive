@@ -1,0 +1,7 @@
+Hey all, I've been working on this side project for a bit, https://crewchief.cc , basically a one stop shop for everything you would need to maintain and manage your cars. I think the coolest part is the diagnostic reports. I scraped a shit ton of specs for basically every make and model and have been also adding for tractors and basically anything with an engine.
+
+I have a mobile app where I can connect to those bluetooth OBD2 diagnostic scanners, but I haven't submitted to the app store yet. 
+
+The branding is pretty basic so far, but I'd love to get some feedback on it. 
+
+So far I've been told its just way too information dense 😬 which is fixable, i'm happy to have too much info than not enough
