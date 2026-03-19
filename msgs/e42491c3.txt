@@ -1,0 +1,1 @@
+right now tho im trying qwen3.5 27b agentic in a completely hands off way locally.. its actually insane that this works now
