@@ -1,0 +1,19 @@
+I was going to post today about my local inference setup
+
+Initially I started with a 16GB 2015 macbook and mistral 4gb model around a year and a half ago
+I have gone threw a slew of models since, too many to count, but all of them have been open source
+Mostly I was using copy/paste methods and lots of editing, because the open models weren't that great, and I didnt trust them to use tools ~~at all~~ correctly
+I managed to secure a job at a startup last year however where I got spoiled by Claude code and Cursor. I decided I wanted to make exactly this system at home.
+
+I have currently a 128gb m4 macbook pro. poor gpu compute compared to a datacenter, but im pushing it to its limits.
+I use VSCodium (the OSS fork of VSCode) so my first work was to find an extension that mirrored Cursor
+I ended up with 
+
+- Ollama
+- Continue extension for VSCode
+- gpt-oss20b for autocomplete (12gb)
+- gpt-oss20b (12gb) or gpt-oss 120b (~70gb)
+
+Continue, largely because the autocorrect worked as expected, and because I could choose to insert code instead of letting it try to write code with placeholders over my existing code (annoying). At this time (~4 months ago) the open source models I was using were still having trouble with inserting code without assistance and i was still working up my trust with the machine, so I mostly let it populate the sidebar with code and then cherrypicked the best parts.
+
+By my metric this was a phenomenal success for me as I was losing very little of the functionality I was using from Cursor+Claude, but also (most importantly) doing it all for free, and using 20b it was a similar pace too.
