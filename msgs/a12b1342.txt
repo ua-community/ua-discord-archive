@@ -1,0 +1,1 @@
+it makes what was an extremely painful requirements.txt and setup.py method into something that you dont even need to think about anymore
