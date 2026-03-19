@@ -1,0 +1,1 @@
+I want to move further and push the boundary using the smaller Qwen 9b model. I want to see how fast this process can go without losing reliability. This will probably involve quantizing the model, and possibly pruning some of its experts to reduce size. I think its like a 5gb model? if i can make it 3, I say why not
