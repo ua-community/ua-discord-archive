@@ -1,0 +1,6 @@
+eventually though I got curious how big i could get, and I wanted to see if things got better if i did. this is where i moved into
+
+- glm-4.6 (60gb)
+- minimax2.5 170b (80gb)
+
+and things did improve quite well. I hardly wanted to switch. but still I kinda wondered if I could do something agentic? and i didnt really want to do a lot of work for it.
