@@ -1,0 +1,1 @@
+NVIDIA ones are tailored made for that but recently MLX has gained support for batch inference too
