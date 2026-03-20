@@ -1,0 +1,1 @@
+I can tell you what I’m mostly using… epyc Rome / Milan gen + ddr4 with second hand 3090 GPUs. Probably best bang for the buck if you want multi GPU rig
