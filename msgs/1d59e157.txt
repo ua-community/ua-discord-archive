@@ -1,0 +1,1 @@
+We're thinking about getting a single server, and to use it for inference
