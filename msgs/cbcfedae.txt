@@ -1,0 +1,3 @@
+Things sorted this trip. Upgraded core switch and network layout. IPMI power management. Full ai control of bare metal remote access (bios, os install, console, etc) via reversed engineered BMC. Same for Jetkvm used on non epyc boxes. Skills for configuring MikroTik network gear. Skills for managing proxmox, unattended installs, setting up GPUs etc. Remote control for cooling (ac and fans). 
+
+In progress… hacking of mellanox switch to change from switchos to mellanox os and hopefully get it flipped from infiniband to regular Ethernet. Unsure if will be success or not.
