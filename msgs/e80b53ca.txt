@@ -1,0 +1,1 @@
+iirc this was also one of the original plans for voice/video on Matrix. There are also plugins for IRC clients, etc.
