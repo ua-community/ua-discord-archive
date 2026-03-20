@@ -1,0 +1,1 @@
+I think we want an OpenAI compatible interface, and the ability to provision API keys to run inference on the machine
