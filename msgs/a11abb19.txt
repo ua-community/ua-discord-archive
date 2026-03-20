@@ -1,0 +1,1 @@
+Heading home after longer than I thought it would take. Main thing left to sort before I open for experiments it up is getting access gateway properly working so it routes out via tunnels not directly. Will give a rundown at next demo day.
