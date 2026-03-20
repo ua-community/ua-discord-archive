@@ -1,0 +1,1 @@
+new freedreno drivers are finally out, hardware accelerated darc on android now. not working is full hardware accelerated window compositing and video decoding. but webgel and web rendering works great so far. im tempted to try making a web compositor in xenon and replacing xfce entireley if i dont get that to work but still hopeful
