@@ -1,0 +1,4 @@
+I'll come back with better questions here. Federation as in which entity handles how much of the collective welfare while maintaining autonomy.
+So sure, smart adapters that run on the go with any entity (agent, or non agent like X, or bluesky or even a feed could be an entity in this framework, as long as its a continuous process)
+And then manage and take responsibility in a verifiable way. 
+They generate a lot of messy chaos when fragmented across the web
