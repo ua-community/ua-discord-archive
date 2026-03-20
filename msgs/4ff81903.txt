@@ -1,0 +1,4 @@
+With Discord not working wellfor us today, me and a few friends that hang out on discord most of the time, we have tried Jitsi.
+I used it before for something I don't recall. Great piece of software. The noise supression is actually decent. One of my friends had some minor issues with it, but could resolve it on his own.
+The settings are lackluster and we resorted to URL parameters as the UI does not expose many options.
+One of my friends has a weird microphone that advertises stereo capabilities, but only play on the right channel. There is no way to stereo-to-mono in Jitsi or windows. All other major meeting/voice/video apps I know only support mono. Stereo could be cool, but most people probably haven't set it up correctly. Probably something I would contribute to Jitsi before rolling it out to friends permanently
