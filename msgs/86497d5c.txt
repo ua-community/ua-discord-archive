@@ -1,0 +1,1 @@
+still some jank here and there and obviously needs lots of android ui specifics but it would be possible to create something usable now
