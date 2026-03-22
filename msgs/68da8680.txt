@@ -1,0 +1,1 @@
+and when the browser mcp is fast and good enough to replace casual background searches we might try to just use the accessiblity apis like any other website for search and hope we dont get blocked by something we cant hide
