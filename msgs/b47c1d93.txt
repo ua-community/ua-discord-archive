@@ -1,0 +1,1 @@
+for this Open web pages in various web views/windows.    Open web pages in various tabs or windows. >> the difference is peek is heavily os integrated and allows experimentation with window shapes and destrucuring winodws into panels and toolboxes which darc cannot do at all because of xe architecture
