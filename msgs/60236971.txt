@@ -1,0 +1,2 @@
+also don't want to manage payments across 4 subscribers just to drain them all, my compute demand is high rn. 
+So I am running qwen-3.5-a3b , sparse models are really good. I can load and run 2 of them together on my mac and still work smoothly with perhaps faint fan noise
