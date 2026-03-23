@@ -1,0 +1,1 @@
+how are these different? "Manage your personal structured data produced by extensions and sync it with your other devices through the configured syncing algorithm."    <> "Manage data entities produced by web pages and sync them with all of your devices."
