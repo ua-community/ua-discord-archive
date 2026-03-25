@@ -1,0 +1,1 @@
+Let’s get open ai sub login working so you don’t have to pay per prompt
