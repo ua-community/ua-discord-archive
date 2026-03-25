@@ -1,0 +1,3 @@
+👋  Couple questions about Tiles:
+- What is the cryptographic identity used for?
+- What is transferred between devices when linking using Iroh?
