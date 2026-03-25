@@ -1,0 +1,1 @@
+my first try of gpt 5.4 pro to fix a complicated state bug in a dependency. it spend 200 $ reasoning a whole workday (excluding waiting for some approvals) now it finally started to write some code, i am really curious what this will look like in the end
