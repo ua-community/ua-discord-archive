@@ -1,0 +1,4 @@
+Tried to put the "needs" of every project of our community in one doc:
+https://github.com/ua-community/ua-extensions/blob/main/observations/needs.md
+
+I'm very unfamiliar with Syke, Tiles and Zodiac. So correct me if I'm wrong or missing something a key part.
