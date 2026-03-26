@@ -1,0 +1,5 @@
+this is 80% on the way to figure out the solution : D 
+three sapect missing 
+a) per page skills. for google sheets the solution to fill rows is not discoverable from inspecting the DOM at all. this could be 1000% faster if the agent gets the skill knowledge that its possible to fill csv into clipboard api and just paste it!  but the reasoning to come to this conclusion would eat up too much latency to even start the tasks, creating a skill on first use of any app that can be reused later can solve this tradeof.
+b) playwright is still slow and resource hungry going directly to cdp (or chrome extensino or our direct XE api) makes things much more controlled and even faster 
+c) architecture change: instead of treating the playwright nodejs environment as the agents code mode/ RLM  runtime and only executing expressions in the web context, the runtime has to default to  the pages overlay context itself. this not just cuts off latency but also thinking overhead for the pw orchestration and simplifies many other things
