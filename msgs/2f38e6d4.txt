@@ -1,0 +1,1 @@
+I'm aiming at similar w/ Peek, and agree that there's not great language for this. There's 2000s work around "adaptive user interfaces" etc.
