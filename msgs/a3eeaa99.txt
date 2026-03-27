@@ -1,0 +1,1 @@
+not sure about driver situation but one of the unique aspects is GPU support
