@@ -1,0 +1,1 @@
+I guess for Diffuse you can also make the distinction between minimal and essential, because for some parts that you could argue that are core are actually "swap-able". For example, data sync, Diffuse provides a default set of sync options, but you can remove those and/or add your own. But if you wouldn't enable those by default, you could think the software is useless.
