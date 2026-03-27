@@ -1,0 +1,6 @@
+Riffing a bit on the "core vs extension" thing: https://github.com/ua-community/ua-extensions/blob/main/patterns/core-vs-extension.md
+
+Curious what people think about this part:
+> To determine what's in core you want to find a balance between essential features and a few additional features that demonstrate the range of what is possible.
+
+Would there be a better way find a balance?
