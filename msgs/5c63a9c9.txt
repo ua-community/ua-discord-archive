@@ -1,0 +1,3 @@
+https://x.com/stevibe/status/2036809734611988818?s=46
+
+qwen 3.5 27b dense is turning out to be a winner of a local models
