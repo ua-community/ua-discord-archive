@@ -1,0 +1,1 @@
+its made to be embeddable so just the architecture we need if we want to allow some of the cpabililites but make it accessible to non devs who dont want to manage colima with homebrew and know how vms and docker work
