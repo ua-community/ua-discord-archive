@@ -1,0 +1,1 @@
+Met binbin on hackernews, he used to work on firecracker at aws and started smolvm out of frustration aws only let him work on things directly usable for lambda. https://smolmachines.com i think its a very interesting direction for local vms, maybe this could replace colima in darc when ready
