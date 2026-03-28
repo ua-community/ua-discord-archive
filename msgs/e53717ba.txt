@@ -1,0 +1,1 @@
+I also feel the desire to extract some of the mechanisms from Zodiac to use for other projects so expect Zodiac-core at some point in the near future
