@@ -1,0 +1,1 @@
+(user)  someone made a native window server for wayland on macos similar to my idea for android. https://github.com/J-x-Z/cocoa-way.   dont have a good idea where it could be useful but have a feeling this could be nice in some situations
