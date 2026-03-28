@@ -1,0 +1,5 @@
+ANYWAY we are working on the Parameter Golf challenge from OpenAI <https://github.com/openai/parameter-golf>
+
+The trick is to make a <16mb model that performs at a low loss threshold on a specific open dataset. We want to do the challenge because we think small models are sustainable, and because we want to explore avenues for training on significantly less data in order to have custom private models, and deliver full offline model systems that are practical and responsible.
+
+I also have a deep desire to rebuke OpenAI with lots of expletives, so theres that
