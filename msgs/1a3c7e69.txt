@@ -1,0 +1,4 @@
+Really cool! I liked this with radicle. They also store issues/PRs/identity in git, and I found it quite elegant. The tooling isn't amazing though.
+Could be *really* interesting to do a version of spec driven development where the agent chat lives in git, but aside.
+The radicle way also enables causal dependencies (by making the next change have several parents), so "I added this doc, then agent session started, then agent made these 5 commits, then I gave these instructions, ..." would be perfectly possible. 
+From what I understand that is the direction you've taken here?
