@@ -1,0 +1,1 @@
+Yes, git is a shared Substrate, but it is still extremely difficult to make anything beyond the existing tools - it may have been smart to use a separate social layer, and only consider git a way to share code (w/ patch files over the social layer as a way to share code. Not sure)
