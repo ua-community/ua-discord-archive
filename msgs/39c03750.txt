@@ -1,0 +1,2 @@
+Also this https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/
+A negative story, but highlights what the issues are, and how badly we are locked into our tools
