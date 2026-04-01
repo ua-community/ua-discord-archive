@@ -1,0 +1,1 @@
+I'm musing about what sort of AI algorithm system would suit ATProto. I'm thinking what they should do is sit between you and AppViews, learning from your usage patterns, and saving references to content that's a good enough fit for you. Then when you log in, it shows you stuff from its curation.
