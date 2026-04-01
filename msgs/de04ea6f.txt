@@ -1,0 +1,3 @@
+Also had details about the memory architecture 
+
+cc (user)
