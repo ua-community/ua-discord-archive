@@ -1,0 +1,1 @@
+finally found some innovations in cursor 3. it can run agents on any remote ssh server via the code-server. this is something i have been working on too  for the folknet and did not see implemented somewhere else. (if you kow something that does it pls ping so i can check it out)
