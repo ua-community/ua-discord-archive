@@ -1,0 +1,2 @@
+> The more you can convert visual correctness into textual assertions I can check, the more reliable I'll be.
+Strongly suggesting that what matters is a really solid UI language. That's what closes this gap.
