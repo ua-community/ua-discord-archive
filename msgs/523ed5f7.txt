@@ -1,0 +1,1 @@
+and further, that the written language has to then be passed to a machine, which further increases loss between analysis and interpretation
