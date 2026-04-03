@@ -1,0 +1,1 @@
+Oh huh. I wonder what it would think of the markdown language I am (slowly, painstakingly) developing. I'm designing for explicitness, which I suspect would in the end be a better UI language for humans and AI alike.
