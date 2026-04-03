@@ -1,0 +1,1 @@
+nah its too much text linking like this is much preferred. if you want to suppress the embed, you can encapsulate the link with < and > at the ends
