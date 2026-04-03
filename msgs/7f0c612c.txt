@@ -1,0 +1,1 @@
+to claude, what will improve this is prelabeled automated visual processing, but even this falls short because again, the bottleneck is not the technology, but the limitations of language to capture the experience of navigaton and graphic design
