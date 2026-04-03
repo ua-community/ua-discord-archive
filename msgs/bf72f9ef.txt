@@ -1,0 +1,3 @@
+Oooh
+> UIs: I write → you see → you describe the problem in words → I guess what you mean → I patch. Lossy, slow, frustrating.
+Some of that lossiness is due to implicit behaviors in html and css. A more explicit UI language would fix a lot of that.
