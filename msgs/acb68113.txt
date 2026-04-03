@@ -1,0 +1,2 @@
+> I can't see overlapping elements, subtle alignment issues, colors that clash, text that overflows, or responsive breakpoints that break. You see all of that instantly.
+It only has to guess at these because of the implicit behaviors of html and css
