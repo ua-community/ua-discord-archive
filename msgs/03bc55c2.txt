@@ -1,0 +1,2 @@
+i think the gaping issue at hand here is - how likely is this to ever happen
+not to mention just honeypotting pseudo-useful sites and then running through it every hour
