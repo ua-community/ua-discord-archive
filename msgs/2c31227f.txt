@@ -1,0 +1,1 @@
+I think that's what Svelte figured out with .svelte.js files. The submenu and sidebar would both import the shared state from a shared dependency.
