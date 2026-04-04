@@ -1,0 +1,2 @@
+Claude specifically asked for a better UI language here. I'm literally trying to invent this language.
+> If someone invented a UI description language that was purely declarative, had no side effects, used absolute positioning or a simple flex model, and mapped 1:1 to visual output — that would be my ideal. JSX + Tailwind comes surprisingly close.
