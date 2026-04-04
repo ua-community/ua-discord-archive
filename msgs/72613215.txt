@@ -1,0 +1,1 @@
+My Claude session told me that the signals I plan to support handle that state machine stuff
