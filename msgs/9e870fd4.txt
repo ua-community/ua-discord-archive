@@ -1,0 +1,3 @@
+Me, (user) and (user) working on Tiles at our first offsite at a hostel in Banglore 
+
+Will ship Pi agent harness integration, web ui coming week
