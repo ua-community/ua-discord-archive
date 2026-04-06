@@ -1,0 +1,1 @@
+The thing to consider perhaps is that Storacha is a real use case so their implementation is stable in a way the others are not.
