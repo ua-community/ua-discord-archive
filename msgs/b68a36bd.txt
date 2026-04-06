@@ -1,0 +1,1 @@
+rs-ucan in wasm works good?
