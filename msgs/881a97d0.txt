@@ -1,0 +1,3 @@
+My understanding of the current landscape is that Storacha has a stable-ish implementation but it isn't quite the same as the latest spec. The `rs-ucan` crate is being updated by Brooke but we have forked it for Dialog so that we can iterate quickly (and we intend to upstream our work eventually). I'm not sure about `iso-ucan`.
+
+The UCAN WG Discord might be the best place to get more deep into a question like this.
