@@ -1,0 +1,6 @@
+Technofeudalism happens when a bunch of businesses all have the same problem but recognize that it's more cost effective if only one or a few of them solve it for the others as a service
+It's built from the business to the user, in a sense. Businesses make all the decisions and the user just has to deal and pay the bill. 
+The opposite builds from the user toward the business. Personal data servers. Personal identity servers. In general, personal servers of various kinds. The user brings their own preferred stack to the small business, having already paid for it, and the small business just has to be protocol compliant.
+Now, the tradeoff is that a brand new user entering this paradigm has to make more choices before they can do anything. Choose an identity server host to make an account, choose a PDS host to save your data somewhere, etc. But that's basically fundamental to user agency. More agency means more choices.
+What could help with that, is letting businesses or browsers or some such choose onboarding defaults for brand new users, so the user can get started more easily and make different choices later if they choose. Like how Bluesky starts users on its own PDS service. 
+In principle, I think even though users don't want to make a ton of choices up front, they will want to make more choices later and should be able to.
