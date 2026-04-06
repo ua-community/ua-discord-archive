@@ -1,0 +1,1 @@
+their system prompt just specifies that the assistant is meant to do only coding tasks, wild slip
