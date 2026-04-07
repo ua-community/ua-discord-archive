@@ -1,0 +1,1 @@
+I encourage you to think a bit more about why we do any of this stuff (public key cryptography, addressing content by hash, basically all the DASL stuff). All of these things exist to _liberate you_ from your obligation to care about the host in the ways you are describing.
