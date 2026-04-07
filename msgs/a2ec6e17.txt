@@ -1,0 +1,1 @@
+The same key needed to sign a revocation record, is the one needed to change PDS data.
