@@ -1,0 +1,1 @@
+I see. I think I can revise the proposal with that in mind. I still like absense-of-delegation-as-revocation, but that should not glue you to a specific vendor.
