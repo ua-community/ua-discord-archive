@@ -1,0 +1,5 @@
+One thing that comes up for me (as a UCAN fan) is that UCANs make infrastructure fungible, while the proposed Capability Chains are coupled to infrastructure (that is to say, each delegation in a chain *must* be served by a couterpart PDS; correct me if I'm wrong).
+
+I'm not sure if this is good or bad overall, but it does seem to run against the grain of DASL (as it is no longer self-certifying) and consequently makes certain types of optimization harder (e.g., delegations can no longer be freely syndicated along with other data, or at least there is no point in doing it so long as you *must* discover the availability of the delegation on the PDS).
+
+To entertain a contrived alternative: suppose that revocations were issued by publishing a specific kind of record to the PDS. Could it not then be syndicated along with other PDS' other records via a relay + firehose?
