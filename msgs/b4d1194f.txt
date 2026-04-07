@@ -1,0 +1,1 @@
+This actually presents an entirely different problem that I have not brought up (though I think it is surmountable without chaning the substance of your proposal)... you probably want an explicit revocation (rather than an indirect signal of revocation). The reason is: an attacker without access to your key could issue the revocation by removing the delegation from the PDS.
