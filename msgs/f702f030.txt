@@ -1,0 +1,1 @@
+Credible exit isn't material to the problem; the PDS vendor can trivially stab you in the back (or someone who compromises them can do it). Why open yourself up to such an attack? Is it really worth the convenience of not issuing explicit revocations?
