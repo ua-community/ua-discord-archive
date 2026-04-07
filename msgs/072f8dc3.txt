@@ -1,0 +1,1 @@
+You don't have to self-host a PDS to have data sovereignty with it. In fact, most people don't self-host.
