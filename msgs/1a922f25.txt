@@ -1,0 +1,1 @@
+We could come up with a lot of contrived scenarios that entail threat model and consequences, but ultimately I would argue that your better off only having to worry about one thing: keeping your private key private.
