@@ -1,0 +1,1 @@
+It occurs to me that capability trees don't *need* to be tightly coupled with ATProto specifically; it could work across more protocols with sufficient data sovereignty mechanisms.
