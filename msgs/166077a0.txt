@@ -1,0 +1,13 @@
+You may think of infrastructure (your PDS) as sovereign because you self-host it, but several decades of internet history inform us that humans will gladly trade sovereignty of infrastructure for the convenience of not being responsible for keeping that infrastructure online.
+
+> The self-certification property shifts the burden of proof: you have permission until explicitly told you don't. That is a fail-open default.
+
+This is only narrowly true, and conditioned on the system that is implementing your capability model.
+
+The question that seems to matter here is: if you _do not_ bond delegations to infrastructure, do you _lose_ guarantees that you might otherwise be able to enjoy?
+
+And, this ultimately is a question that can only be answered for whatever system is incorporating your capability model.
+
+Can we construct systems that retain self-certification while also supporting revocations in a useful way? I think yes.
+
+Is it possible to do with ATProto? I'm not 100% sure, but it seems like we have a lot of the right ingredients at hand to do it.
