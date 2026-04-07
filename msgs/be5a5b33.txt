@@ -1,0 +1,1 @@
+I'd argue one of the major things ATProto does, is a way to have data sovereignty without self-hosting.
