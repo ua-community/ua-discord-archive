@@ -1,0 +1,1 @@
+I would argue that trusting your PDS host to some degree is an inherent part of using one and the ability to migrate to another one as soon as your current one violates your trust for any reason, is a good solution.
