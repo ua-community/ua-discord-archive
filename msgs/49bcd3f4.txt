@@ -1,0 +1,1 @@
+Is there way I could pull a chat log from our bot here, for llm context?
