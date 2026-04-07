@@ -1,0 +1,1 @@
+Yes, that's what I'm getting at: the attack vector for compromising my key is in practice a taller hill to climb than attacking some infrastructure (not always; there are certainly scenarios where compromising the key is way, way easier).
