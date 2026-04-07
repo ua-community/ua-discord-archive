@@ -1,0 +1,1 @@
+The way I see it, the use of CIDs and Merkle trees and such are how a PDS host proves it is trustworthy. The message is "you can trust us with your data because you can trust these things we do."
