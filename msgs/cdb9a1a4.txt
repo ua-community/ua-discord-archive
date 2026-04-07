@@ -1,0 +1,1 @@
+Yeah, relying on the user agent does require the user agent to be very secure.
