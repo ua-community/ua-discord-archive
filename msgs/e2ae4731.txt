@@ -1,0 +1,1 @@
+Perhaps they get your revocation key and sign a revocation and the cat's out of the bag. In either case, the recovery is to reissue the delegations. That's annoying, not world ending. If your PDS or whatever is compromised that bad though, all the data in it is at risk, not just delegations. No bueno. PDSes already have high security needs and are thusly designed for security.
