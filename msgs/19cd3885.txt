@@ -1,0 +1,1 @@
+If I were to make a claim with some conviction, it would be: we can design systems where it is possible to issue revocations in a manner that is more friendly to the self-certifying data mental model.
