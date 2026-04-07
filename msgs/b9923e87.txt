@@ -1,0 +1,5 @@
+Some food for thought:
+
+If you could assume a record system like DNS was in the mix, could you get the desired outcome by publishing revocations as DNS records?
+
+Try to sit with the question. I'm sure Claude will happily argue it's not as good for any reason if you ask it to.
