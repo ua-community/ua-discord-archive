@@ -1,0 +1,8 @@
+Interesting, but the conclusion seems completely wrong to me
+
+> As we’ve seen, modern computers can only represent floating point numbers with a finite number of bits, and so numerical error is unavoidable. 
+This is technically true, but the core issue isn't the numerical error, it's that this error happens at unknown times with no rules.
+
+Everyone knows this, I feel like every developer has been taught that we usually use IEEE754 floats, but if dealing with money or similar things, use a fixed-precision data type and take care of rounding (= errors) yourself.
+
+It's ridiculous to me that we are pretending the computer has a will of its own and we just have to alleviate issues that "just happen". We've made this problem, we knew about this problem, and we know how to fix it.
