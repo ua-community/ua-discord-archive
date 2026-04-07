@@ -1,0 +1,1 @@
+how do peers discover in this? or is it just a meta spec?
