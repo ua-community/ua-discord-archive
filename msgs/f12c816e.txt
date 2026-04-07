@@ -1,0 +1,3 @@
+>  If your PDS or whatever is compromised that bad though, all the data in it is at risk, not just delegations
+
+You develop an adversarial relationship with your PDS host; as designed, capability chains put that host in a sufficiently privileged position to revoke delegations _even if_ your actual server is running in some kind of enclave they don't have direct access to.
