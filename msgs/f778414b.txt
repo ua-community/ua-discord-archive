@@ -1,0 +1,1 @@
+Can we simplify things even further, then? Could we give all content human-readable names instead of addressing it by hash? After all, I trust my PDS host to preserve the integrity.
