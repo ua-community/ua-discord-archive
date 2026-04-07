@@ -1,0 +1,1 @@
+then there is mautrix bridge storage which would allow this but its private as we dont have shared bridges yet
