@@ -1,0 +1,1 @@
+So, if you can verify the hash of some data served by the host, that's reputationally positive for the host?
