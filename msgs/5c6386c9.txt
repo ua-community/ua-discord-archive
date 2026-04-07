@@ -1,0 +1,1 @@
+Well, not exactly. Without the capability tree, I can consume your data from any syndicating stream and still know it's yours.
