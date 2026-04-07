@@ -1,0 +1,1 @@
+If the integrity of data is self-evident (because I know the hash I expect), I _never_ need to worry about who serves that data or their intentions.
