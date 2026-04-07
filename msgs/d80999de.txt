@@ -1,0 +1,1 @@
+If I publish a revocation to DNS, it can be relayed and cached by *any* DNS server
