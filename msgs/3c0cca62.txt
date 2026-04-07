@@ -1,0 +1,1 @@
+In other words: a capability should always be lost either due to expiry or an explicit sign-off that traces back to the root of authority.
