@@ -1,0 +1,1 @@
+Migration as easy as updating your DID document to point to your new PDS host, already up and running
