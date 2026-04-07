@@ -1,0 +1,1 @@
+I think what you're saying is you'd rather not lean on any particular system as a user agent and let the data always speak for itself, whereas capability trees rely on PDS as user agent to work.
