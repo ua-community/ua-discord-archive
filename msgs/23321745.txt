@@ -1,0 +1,1 @@
+If someone hacks your PDS, they basically have data access regardless of whatever permission system is on top. That's the failure mode of every permissioning system.
