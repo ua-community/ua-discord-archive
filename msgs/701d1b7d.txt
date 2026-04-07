@@ -1,0 +1,1 @@
+tbh I'm not really sure how an attacker without access to my key could do anything with my PDS, the key is needed to authenticate data changes.
