@@ -1,0 +1,3 @@
+https://ev00.net/glitchbuf/
+https://github.com/Evelyn-H/glitchbuf
+Smol collaboration with this fantastic dev. Glitch aesthetic image processing that runs in a browser. Local storage only! My contributions were design assistance for the mouse-driven editor elements, a few preset filters, and the share button. Meager, marginal code, all the good stuff was Evelyn, she's amazing & I am so grateful to be able to support her work!!
