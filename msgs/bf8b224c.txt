@@ -1,0 +1,1 @@
+b) in full network mode, you are required to link the device identities and we can piggyback on revocation of atproto eg. via the did:web or did:plc or the capabilty tree work, that was posted in out links channel
