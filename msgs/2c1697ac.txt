@@ -1,0 +1,2 @@
+the key difference of your pdf feedback is 
+a) use atproto as higher level identity that wraps the device identities or design an own added layer with rotation and revocation strategy. i honestly have no good feeling which route is better, which is why i picked the direct use of the passkey vs having a separate key that is just encrypted with the passkey PRF
