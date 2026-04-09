@@ -1,0 +1,1 @@
+interesting. they use a js virtual fs with fuse  wich has some nice properties i wonder how the perormance and reliability is
