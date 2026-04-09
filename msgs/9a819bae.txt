@@ -1,0 +1,1 @@
+a) if only using did:key it means only my own root owned devices are supported eg my two computers or my home nas. revocation is absically re-owning the components as the sudo /root of the fielsystems
