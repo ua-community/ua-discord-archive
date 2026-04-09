@@ -1,0 +1,3 @@
+Sounds great to me. Does this allow for multiple devices to be combined into some sort of network. Eg if I have a laptop, home server, and phone can they be linked in a way that they can be recovered if one dies on me. Perhaps that’s out of scope.
+
+I asked ChatGPT 5.4 pro (extenddd thinking) for its take and got back this pdf. The stuff about domain sockets not working in IWA seems to miss the fact you mention that all happens before IWA starts, so I guess that’s wrong but it’s take on using passkey to authenticate and then unlock another owner key makes sense. Or is that in the design already?
