@@ -1,0 +1,1 @@
+the multi device exactly, part of the requirements was this has to work with folknet extending the local browser seamlessly and working across devices
