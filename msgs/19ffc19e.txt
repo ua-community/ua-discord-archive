@@ -1,0 +1,1 @@
+https://x.com/pupposandro/status/2041904070542180771 - Good news for 3090s. They show it working on 0.8b, sounds like they will do a megakernel for qwen 3.5 27b next. Seeing this my first thought was does it work with bigger models? Gonna be awesome if it does.
