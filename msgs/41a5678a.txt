@@ -1,0 +1,1 @@
+I found a way to include UCANs in my proposal - they are tokens produced by capability tree verifiers
