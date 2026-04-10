@@ -1,0 +1,1 @@
+some of the ucan criticicsms i wan to explore with a prototype, my hope is that everyday use can have limited delegation chain lengths and for usecases that turn out to require very complex permission language ucans can delegate to content hash of an OPA policy.   (bridging the gap to buiscuits a bit while staying simpler for simpler usecases)
