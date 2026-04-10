@@ -1,0 +1,1 @@
+just i dont have neough experience to build it right.   the roadmap is:  use hardware keys diretly in prototype > use separatate identtity private key  > support integrating into more broad ecosyste by one of the methods on the table
