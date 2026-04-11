@@ -1,0 +1,1 @@
+this is interesting but hard to tell where it would really fit in a stack. its a potentially more powerful alternative to anthropic srt - but can only support linux.    The only places i can see it would be as replacement for the linux sytem in srt or application level alternative in docker context where gvisor is not available.
