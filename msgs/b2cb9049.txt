@@ -1,0 +1,1 @@
+Thanks for the fff link. I'm surprised there's few general cli tools using SW yet that this is still mostly nvim (which I do use). Now Pi. But no fzf yet??
