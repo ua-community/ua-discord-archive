@@ -1,0 +1,1 @@
+gvisor is also nice for defense in depth  as extra layer eg. when you dont want nested virtualisation but still need to sandbox a group of less trusted containers more from another one. bvisor  seems also more comparable to bublewrap/seccomp
