@@ -1,0 +1,3 @@
+Working within the platform you have has a number of advantages vs spawning new platforms. You can deploy and manage your workload at a single system level, within cgroups for example, to make smart scheduling and resourcing allocations. Yiu get great visibility into what is running.
+
+On top of that, the world is your oyster. You have basically a programmable middleware between the program and OS, a proxy you are in full control of, that you can go to town building rewriting tools, observability, authorization checks to your hearts content with, in a way that's significantly easier than trying to do it all in eBPF or other system hooks.
