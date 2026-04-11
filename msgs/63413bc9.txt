@@ -1,0 +1,2 @@
+That said we are seeing more microvms. Mario and Armin (of Pi fame) are at Earendil (while at least Armin holds his current job too), and their main work (open source) is Gondolin, a microvm designed for  extreme programmability.
+https://github.com/earendil-works/gondolin
