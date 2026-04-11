@@ -1,0 +1,1 @@
+Can someone explain the purpose of these types of tools to me? Lightweight VM (ie firecracker) seems more powerful & more secure to me? Cost / performance I'd expect to be similar
