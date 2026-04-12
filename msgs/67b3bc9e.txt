@@ -1,0 +1,1 @@
+gpt 5.4 pro is not really usable in the subscription, i suspect even the little usage you have is always queued at the end of api tier requests. 😭  cc  (user)
