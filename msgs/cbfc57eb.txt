@@ -1,0 +1,1 @@
+looks quite interesting, main difference to smolvm is that its sdk with sub process and smol is using daemon server
