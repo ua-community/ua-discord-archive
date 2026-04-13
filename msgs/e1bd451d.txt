@@ -1,0 +1,3 @@
+My point is that an action like migration seems easy when the system is relatively simple and authority is vested in the hands of the individual. But, as the system becomes increasingly grotesque to deal with real-world scaling challenges, details like "who controls this name" or "where is this file actually stored" start to matter a lot.
+
+In the end, email users transitioned from a cohort with a lot of agency and choice of infrastructure providers to a captured audience who mostly cannot even contemplate migration.
