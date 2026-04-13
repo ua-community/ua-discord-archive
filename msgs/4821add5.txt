@@ -1,0 +1,1 @@
+Perhaps I misunderstood, but the proposal is that revocations be tied to the state of a specific PDS.
