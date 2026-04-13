@@ -1,0 +1,5 @@
+Ultimately ATProto has certain trade-offs that centralize some things to support the decentralization of others. So, I'm sympathetic that you must work within these trade-offs when suggesting something that is specifically intended to be a part of ATProto. ATProto has centralization on the discovery layer (e.g., relays, firehoses and app view) so that it can decentralize data and (although this isn't fully realized yet) identity.
+
+You admitted to me earlier that your design vests trust in the PDS host (the service provider that runs the PDS). This points to an uncomfortable detail of the design: the data no longer speaks for itself; it depends on the state of the PDS, and that may be subject to the whims of the PDS host.
+
+It's not satisfying to say that the user should be discerning of their host. History informs us that users at scale do not have agency to be so discerning.
