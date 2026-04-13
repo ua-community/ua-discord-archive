@@ -1,0 +1,5 @@
+i think this is one of the most relevant use cases for this whole data sovereignty/sheafs over data landscapes. but i haven't had time to explore the practicalities, ie your proposal, nor the theoretical side, ie various security stuff. 
+
+one thing i do know is all my friends who did verification work in various security spaces were very concerned with noninterference, because it admits nice mathematical descriptions, and these models is very relevant to my conception of data sovereignty 
+
+https://en.wikipedia.org/wiki/Non-interference_(security)
