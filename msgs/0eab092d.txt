@@ -1,0 +1,1 @@
+If I understand you correctly: you have to fan out to N PDS's to verify a chain with that many delegations. This would seem to present a logistical challenge (more opportunities for a given PDS to be an indeterminate state) and a scaling one (the longer the delegation chain, the harder it is to verify).
