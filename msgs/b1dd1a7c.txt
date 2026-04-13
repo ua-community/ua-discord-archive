@@ -1,0 +1,1 @@
+People started using gmail because self hosting got too hard. Then they got stuck. They'll never be stuck, on ATProto, by design.
