@@ -1,0 +1,2 @@
+(user) I noticed you're a maintainer of this. Is there a policy evaluator in this crate that I could use as a dependency?
+https://docs.rs/ucan/0.4.0/ucan/index.html
