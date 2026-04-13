@@ -1,0 +1,1 @@
+That makes it sound like the whole thing leans on a single PDS, which is not the case. The revocations stem from the PDSes of every user in a given delegation chain.
