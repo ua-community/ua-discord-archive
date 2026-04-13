@@ -1,0 +1,1 @@
+Referring back to our original discussion, you and I may not have shared definitions of what that means. For me, it is unacceptable to require reading state from a specific host in order to determine if a delegation is revoked.
