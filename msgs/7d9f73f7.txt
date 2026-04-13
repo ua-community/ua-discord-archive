@@ -1,0 +1,7 @@
+I haven't followed the proposal since we last talked, but for what it is worth I disagree with the premise of the last version that I read.
+
+This is my bias, but I want a world where authority is unbound from specific infrastructure (e.g., specific hosts, including PDS hosts). I read your proposal as a retreat from this ideal.
+
+That having been said, feel free to use whatever is useful - it is all open source and liberally licensed (in the case of our code, MPL) so that anyone may use it for any reason.
+
+https://github.com/dialog-db/dialog-db/tree/main/rust/dialog-ucan
