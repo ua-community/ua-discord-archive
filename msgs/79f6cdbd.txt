@@ -1,0 +1,7 @@
+I don't know if it is useful to draw a hard line around my ideal.
+
+My benchmark is: could we solve this problem with DNS (or something like it)?
+
+Hence my question here: https://discord.com/channels/1309454711392305192/1357325149615030302/1491171751659438090
+
+If the answer is yes, then I would not settle for a solution that is *even more* centralizing than DNS.
