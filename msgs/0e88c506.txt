@@ -1,0 +1,5 @@
+Circling back to the original claim: I observe that in the case of email (and other similar cases) users seem to avoid self-hosting infrastructure at scale.
+
+Even in cases of ideologically-driven technologies like cryptocurrencies and IPFS, users often preferred paying a third-party for the privilege of using their managed infrastructure because that path offered reliability benefits and spared them the overhead of self-hosting.
+
+The web as we know it is built on a foundation of mostly a self-hostable infrastructure. How much of the web as we know it is served directly from Cloudflare's infrastructure? (unknowable, but I would bet that the answer is "a lot").
