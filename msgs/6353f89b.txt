@@ -1,0 +1,3 @@
+no sorry had a brain fart. i was still thinking about key revocations not delegations. but what you have in mind is basically like this? (or the did:dns analog): 
+https://alice.example.com/.well-known/did.json          ← DID Document
+https://alice.example.com/.well-known/ucan/revocations  ← Revocation store (list of CIDs)
