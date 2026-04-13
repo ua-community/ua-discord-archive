@@ -1,0 +1,1 @@
+I guess there's two answers here. Yours is reduce dependence on specific infrastructure. Mine, and ATProto's, is increase user agency over specific infrastructure.
