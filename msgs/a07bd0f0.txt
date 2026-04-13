@@ -1,0 +1,1 @@
+My proposal puts the authority in the data in your PDS. It's not tied to which host you use at all.
