@@ -1,0 +1,1 @@
+with did:web did:dns and maybe with a future version of federated did:plc this would  be how things work i am not sure what / if  the pds should play
