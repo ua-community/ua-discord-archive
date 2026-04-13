@@ -1,0 +1,17 @@
+Email started as a self-hostable infrastructure (technically it still is that arguably that doesn't matter). I have my self-hosted mailbox and you have yours and I can send mail to you directly in many cases.
+
+Migrating in those days would have been rather easy: copy your the state (it's all files on disk) and update DNS records (since there is a good chance you have your own DNS name).
+
+Eventually, this arrangement manifested problems. The most well-known problem, perhaps, was that spam mail became pervasive and ranged from annoying to debilitating for self-hosting users.
+
+Add to that the general overhead and technical know-how required to set up and maintain a mail server, and it is no surprise that most email users ended up on centralized service providers who offered virtualized mailboxes as a service.
+
+Now consider the overhead of migration:
+
+- If you use Gmail, you don't own the DNS name (as many early email users did) so you would have to arrange some kind of forwarding
+- There is no filesystem, so you'll *have* to transfer saved mail using some other protocol (which is a know-how barrier for a lot of users)
+- And, wherever you go, you probably won't self-host because it is very difficult to run infrastructure and also stay on the good side of anti-spam filters
+
+I'll also point out:
+
+If the size of history is a barrier to migration, there is nothing about ATProto that will mitigate this problem.
