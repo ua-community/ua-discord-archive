@@ -1,0 +1,3 @@
+Wondering, is there an actual reason for an app to not simply push encrypted data to atproto? I mean it's not shareable etc but if I just view it as a way to store a blob to a users storage + it's public by default?
+User provides private password -> decrypts data.
+Sure, not ideal, not great UX, no recovery, etc. But that is available right now, I think?
