@@ -1,0 +1,1 @@
+self hosting email would be something like - you need a domain name, some kind of server or vps, and probably need to know ssh. this is just step one. this already excludes a massive amount of people
