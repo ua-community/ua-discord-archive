@@ -1,0 +1,1 @@
+I don't know. I think the question is, what is the minimal way for a user to give you permission to write data onto "their" server. ATProto + OAuth is very minimal already I think
