@@ -1,0 +1,1 @@
+Incidentally: practically the same things are needed in order to self-host almost anything, including a PDS.
