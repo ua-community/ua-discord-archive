@@ -1,0 +1,7 @@
+You can totally do that, but yeah, not great UX. I went for optional passkey encryption.
+
+Curious to see how permissioned data will change this.
+
+I’m also not sure it’s the best idea to treat the pds as a sync server. Should it just be a “public data” repo? 🤷 On the other hand it seems weird that I would need to authenticate with two different servers just to use an app.
+
+Would be neat if we somehow got a token from the PDS that was usable with other servers too so we’d only need to authenticate once.
