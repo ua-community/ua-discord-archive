@@ -1,0 +1,5 @@
+Sounds like a neat idea!
+
+I’d change the initial delegation chain: generate root identity key pair -> create initial ucan -> throw away that key pair -> delegate to passkey identity -> optionally delegate to device identity (separate key pair so we don’t need to sign everything using passkey ui)
+
+That way your “account” identifier isn’t associated with a specific passkey, you can throw away that passkey (after you redelegate to another passkey or identity that is)
