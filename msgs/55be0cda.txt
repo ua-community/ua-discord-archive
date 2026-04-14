@@ -1,0 +1,1 @@
+(user) thanks thats highly relevant, also the lapadula model referenced. we basically need a way to bridge these state machine proofs with the CaMel 🐫 paper
