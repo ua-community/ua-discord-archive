@@ -1,0 +1,1 @@
+camel works on compiler level taint tracking per variable, lapadula on formal state machines with labels. opa and cedar are compiled policy languages cedar is even formally verified so sit somewhere adjacent with some overlap.
