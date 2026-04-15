@@ -1,0 +1,4 @@
+this project is really cool, implements all the right and needed for performance upgrades:
+
+https://github.com/jundot/omlx/blob/main/docs/experimental/dflash_mlx_integration.md
+https://github.com/jundot/omlx/blob/main/docs/oQ_Quantization.md
