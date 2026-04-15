@@ -1,0 +1,3 @@
+It's perhaps too cynical, but I am not going to hold my breath for a self-hosting revolution. User agency must be obtainable without asking users to run infrastructure.
+
+ATProto does a fairly good job of this. Users can switch to a self-hosted PDS if necessary and their peers don't really have to notice or care (with some caveats in the margins).
