@@ -1,0 +1,1 @@
+we could also have phenomena support mapping accounts here (or wherever we move) to atmosphere accounts, so the U&A account can follow them. then you get 1) ambient community discovery (browse the accounts U&A follows) and we can have posts from the community ingested into the corpus.
