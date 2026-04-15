@@ -1,0 +1,1 @@
+meanwhile i think there's a lot of cowpaths being paved that keep making hosting more and more neat and interesting and broadly capable, and less like the server hugging of old. i'm forgetting the list, but the yunohost, umbrel, CasaOS, a lot of others.
