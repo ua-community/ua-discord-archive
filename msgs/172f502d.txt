@@ -1,0 +1,5 @@
+ya i guess the most basic question is : 
+
+What is the type of security/privacy/safety that Darc should be most concerned with at the outset : what is the most foreseeable threat that is universally undesireable, and what are the most fundamental constructions darc can use to internalize some notion of safety relative to whatever adversaries this threat model admits?
+
+Derivative, what are the notions of safety which are secondary and tertiary relative to specific use cases and their specific threats : if Darc is hypercustomizeable, with all types of hackers using it in unique ways, each user will have threats that are unique to what they use it for ; and these more domain specific security threats should be addressable not in a more "ad hoc way" generally, but at least relative to the core build.
