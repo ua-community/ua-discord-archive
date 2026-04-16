@@ -1,0 +1,3 @@
+its like if you think of the different abstraction layers on computers generally, each layer has its own forms of vulnerability. and one thing i'm still confused about is which abstraction layers your pemission architecture are mostly. can paste snippets of a (refined) llm thread about how i'm trying to understand it for myself if you think that would be helpful
+
+one thing tho, i'm very much curious what your thinking is about the extension ecosystem. because this is basically where all my attention has been transposing to
