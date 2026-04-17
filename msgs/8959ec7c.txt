@@ -1,0 +1,2 @@
+No it doesn't, but it's really easy to do.
+Guys from coder have a repo here, for example: https://github.com/jpillora/ghostty-web
