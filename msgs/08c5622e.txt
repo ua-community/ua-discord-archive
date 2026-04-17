@@ -1,0 +1,1 @@
+wait ghostty does not render to real dom right?
