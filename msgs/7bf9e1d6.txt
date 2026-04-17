@@ -1,0 +1,3 @@
+Cool Project, but what is it with vercel and repackaging existing things - I don't even need to check the source code, I would bet that this is ghostty repacked.
+Ghostty already has web support.
+Obviously this doesn't take away from the thing itself - ghostty and especially it's lib variant is well on its way to massively improve terminals as a whole but I despise vercel for its strategy.
