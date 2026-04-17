@@ -1,0 +1,1 @@
+Translating specially colored text (basically what libghostty outputs) into HTML markup is a task I'd trust Claude to oneshot
