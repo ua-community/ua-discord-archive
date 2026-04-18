@@ -1,0 +1,10 @@
+I have this now: https://huggingface.co/exdysa/MiniMax-M2.7-REAP-172B-A10B-GGUF
+current projects
+
+- a text-only interactive web engine where screenreaders and accessibility features are treated to first class and everyone else is coach 
+- automating glitchbuf for model training data augmentation to reduce train data size and ai scrape profit margins
+- completing integration and modularization of new techniques into Negate 
+- completing rewrite of MIR
+- splitting Zodiac from its GUI into two repos
+- art art art art art
+- probably something else will come up
