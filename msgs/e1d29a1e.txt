@@ -1,0 +1,1 @@
+if you go matrix consider using a homeserver like pub.solar, mauve.moe(??) or sticking a server on luke's folknet
