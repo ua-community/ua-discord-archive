@@ -1,0 +1,1 @@
+The other half is distribution, using atproto for signing and content storage/delivery
