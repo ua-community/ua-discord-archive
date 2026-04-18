@@ -1,0 +1,1 @@
+This transitions means that features can be published/shared/discovered/installed all on the network.
