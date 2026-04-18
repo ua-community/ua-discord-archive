@@ -1,0 +1,1 @@
+All the features I've been bundling just as local dirs, will now be bundled pre-installed signed features.
