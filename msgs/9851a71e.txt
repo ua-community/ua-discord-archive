@@ -1,0 +1,1 @@
+this is exploring how to communicate the benefits and risk mitigations of the approach i'm taking w/ the extensibility+distribution combo in Peek
