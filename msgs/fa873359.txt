@@ -1,0 +1,1 @@
+Peek features were previously were loaded from the disk using a protocol that injected capabilities but didn't really lock anything down. Just punted on it safe access.
