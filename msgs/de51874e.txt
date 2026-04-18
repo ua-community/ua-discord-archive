@@ -1,0 +1,1 @@
+zodiac is more like modality switching, rather than agentic process, its meant to be for the future where we have to move through different pipelines for protein generation
