@@ -1,0 +1,4 @@
+ps from fluxer blog
+> This looks a lot like Discord!
+> 
+> The UX is intentionally close to the classic Discord experience (and Discord itself borrows heavily from Slack and similar products). If you want a Discord-like product, familiarity is a pretty important aspect. This is not copyrightable.
