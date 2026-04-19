@@ -1,0 +1,1 @@
+Agents have an easier time making smaller, composable modules
