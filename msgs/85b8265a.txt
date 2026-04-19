@@ -1,0 +1,1 @@
+https://huggingface.co/jedisct1/Qwen3.6-35B-rust.mlx
