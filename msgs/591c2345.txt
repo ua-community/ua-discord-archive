@@ -1,0 +1,1 @@
+i played around with it seems to be interesting, but im worried they are building all the feautres of docker compose on top of their sdk again. i am betting on [smol](https://smolmachines.com/) adding docker support
