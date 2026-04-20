@@ -1,0 +1,1 @@
+and as we decided initially it will be more marketed as a dev environment than enduser browser "your mom can use"  this is the right tradeoff
