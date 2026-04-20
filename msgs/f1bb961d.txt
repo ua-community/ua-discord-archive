@@ -1,0 +1,1 @@
+> A "commit" to a data repository is simply a keypair signature over a Root node's CID. Each mutation to the repository produces a new Commit node.
