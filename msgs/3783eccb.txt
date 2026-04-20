@@ -1,0 +1,1 @@
+IIRC firehose/relay is unsigned records but PDS XRPC is signed records.
