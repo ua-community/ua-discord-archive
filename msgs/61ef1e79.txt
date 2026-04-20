@@ -1,0 +1,1 @@
+Get pubkey from DID document, and check locally as part of pre-install process?
