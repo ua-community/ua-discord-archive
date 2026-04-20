@@ -1,0 +1,1 @@
+So from integrity/signing pov, covered in two ways - signing verification and content hash verification.
