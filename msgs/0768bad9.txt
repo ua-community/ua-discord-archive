@@ -1,0 +1,1 @@
+The user trusts the PDS. And the client trusts the author. So two trust places.
