@@ -1,0 +1,1 @@
+You'd get the record and the commit (signature) in two calls and verify locally.
