@@ -1,0 +1,1 @@
+We can verifying the key signed the records and the CIDs match the served content.
