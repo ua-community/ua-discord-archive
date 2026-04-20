@@ -1,0 +1,4 @@
+these two quotes:
+> Neither today's coding agents nor their typical users are prepared to rewrite Photoshop on the fly to add a new kind of brush tool.
+
+>  We may need programs that look a little more like art school with technical electives—learning to develop ideas from intuition before being able to express them precisely, to discover by playing with the material.
