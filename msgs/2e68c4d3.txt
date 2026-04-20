@@ -1,0 +1,1 @@
+we wil lsupport s25, s24 and pixel 10 + initially.  but yeah this is prep work for 2027 or so...   unfortunately the lower level things are the slower they move.  it will be an apk for the frontend and then require a package for termux to be installed unless we find better solution to make a chromium android build with IWA, but looks that will take way more resources
