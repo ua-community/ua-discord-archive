@@ -1,0 +1,5 @@
+Alright, we're getting to the "generate interfaces with llm" part. How the f do I do this.
+
+I added a `llms.txt` which Claude supposedly should pick up, but it seems like you have to explicitly paste in the entire URL?!
+
+I guess making a skill would be a better idea then? Halp pls(user) 😅
