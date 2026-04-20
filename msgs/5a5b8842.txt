@@ -1,0 +1,1 @@
+we plan with what we know is there and the only option is custom chromium build for IWA or termux + x11 server compositor app
