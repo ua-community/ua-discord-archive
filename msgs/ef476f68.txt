@@ -1,0 +1,1 @@
+I do feel like entrusting the PDS with the signing key is a weakness. I wish personal identity servers were a thing, such that the personal identity server would be responsible to sign everything before sending it to the PDS, and then your PDS just verifies that everything going in was signed before committing it.
