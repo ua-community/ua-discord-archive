@@ -1,0 +1,1 @@
+oh thats an option? so you can have a termux release with included packages that wont conflict with termux if already installed for normal termux usage?
