@@ -1,0 +1,1 @@
+do you mean the CID of the repo commit for the record? or CID of a blob?
