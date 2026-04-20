@@ -1,0 +1,1 @@
+Do you mean if the PDS is serving up HTTP XRPC responses that are intentionally invalid?
