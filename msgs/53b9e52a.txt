@@ -1,0 +1,1 @@
+Current architecture and progress report. orange is current work, white is to be done, green is mostly in place
