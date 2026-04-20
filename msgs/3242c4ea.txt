@@ -1,0 +1,1 @@
+I didn't add another entity, I just reshuffled functions between existing entities. The personal identity server I want would also do what PLC currently does.
