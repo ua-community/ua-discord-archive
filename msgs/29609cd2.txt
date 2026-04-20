@@ -1,0 +1,1 @@
+Maybe some nice indexer that detects new entries of the lexicon and grabs commit at that time.
