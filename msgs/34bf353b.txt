@@ -1,0 +1,1 @@
+AppView is kitchen-sink-y in function and name, as a side-effect of first mover. And today it seems to be a consumer-facing endpoint. Slicing it up both vertically and horizontally is directionally what I'm thinking about.
