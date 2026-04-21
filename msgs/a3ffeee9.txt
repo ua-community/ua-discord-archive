@@ -1,0 +1,1 @@
+you can also ask claude to do analysis of conversation history and subagent work to determine where a skill/tool would be more efficient.
