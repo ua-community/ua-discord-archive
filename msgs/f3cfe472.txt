@@ -1,0 +1,1 @@
+"cache all of these records as cars + sigs refreshed hourly"
