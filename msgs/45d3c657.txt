@@ -1,0 +1,1 @@
+Although, I mean the Iroh relays are already not trusted right? They can make out who you connected to, but that's about it? Similar to the relationship users already know from their ISP and websites over TLS?
