@@ -1,0 +1,1 @@
+so Phala is roughly 50% cheaper TEE compute compared to Tinfoil
