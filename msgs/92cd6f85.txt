@@ -1,0 +1,1 @@
+there's a skill creator skill lol: https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
