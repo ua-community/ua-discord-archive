@@ -1,0 +1,7 @@
+If you're ingesting the firehose directly (user) outlined the steps to verify
+
+
+> 1) Resolve the did:plc to a public key
+> 2) Decode the CAR
+> 3) Find the root of the tree and grab the signature (sig)
+> 4) Verify the signature over the root CID using the public key resolved in step 1
