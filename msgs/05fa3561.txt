@@ -1,0 +1,3 @@
+I guess Claude really doesn't want me to do this <a:thisisfinefire:1226842306444005456>
+It can only read files that you explicitly link to and it filters scripts from HTML pages, sigh...
+I was trying to have it analyse code that's hosted on elements.diffuse.sh
