@@ -1,0 +1,3 @@
+just wanted to chime in since (user) and I previously had this exact [conversation](https://bsky.app/profile/chrisshank.com/post/3mhbsgqvvqk2h).
+
+So the [firehose](https://atproto.com/guides/streaming-data#firehose) contains retains the signed data. Whereas [jetstream](https://atproto.com/guides/streaming-data#jetstream) verifies and strips off the signature for [pragmatic reasons](https://bsky.app/profile/jimray.locket.computer/post/3mhbsrb53os2h). Most apps on atproto use jetstream so the signature doesn't even make it to the appview let alone the client to verify.
