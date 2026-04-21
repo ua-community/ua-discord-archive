@@ -1,0 +1,1 @@
+Tiles in alpha currently use public relays hosted by Iroh meant  for development and testing pruposes
