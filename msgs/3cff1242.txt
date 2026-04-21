@@ -1,0 +1,1 @@
+i was thinking more along a saas providing indexing/caching in a way set up for verifiability
