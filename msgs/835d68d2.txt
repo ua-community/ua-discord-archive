@@ -1,0 +1,1 @@
+I believe if you have client-side records ingested from an untrusted firehose then you would have to make roundtrips to the PDS to verify. Both the record and it's CID can be spoofed in the relay/appview.
