@@ -1,0 +1,3 @@
+It's not a perfect analogy, but this is structurally what the PDS / AppView archicture entails. Like, you do your thing that scales to your personal data in the PDS, and we (AppView) will architect the thing that scales (to the extent it needs to).
+
+Something like the Firehose quickly becomes commons infrastructure in terms of how it is used (but not necessarily in how it is governed). For ATmosphere's sake, it seems important for the community to produce a credibly neutral Firehose.
