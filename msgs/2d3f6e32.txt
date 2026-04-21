@@ -1,0 +1,1 @@
+by record i mean lexicon type, so it pulls from all the pds who hold it
