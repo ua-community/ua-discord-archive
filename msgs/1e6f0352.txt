@@ -1,0 +1,3 @@
+Yeah that's a good point. Mostly thinking about this from the user's perspective. How does a Diffuse user generate an audio playback interface, or anything else really, with an LLM without knowing any technical details or code.
+
+Ideally there'd be a prompt screen in Diffuse itself, but I assume managing connections to all the different frontier models is a hassle to maintain. The community can create interfaces in Diffuse itself to actually do this... So I thought I'd start with something simple. Maybe a small prompt to copy? <a:jake_shrug:1060243120568156160>
