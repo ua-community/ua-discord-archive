@@ -1,0 +1,1 @@
+Tinfoil TEE containers reduced their platform pricing from 200 USD to 20 USD for CPU only workloads, GPU ones remain same at 200 USD
