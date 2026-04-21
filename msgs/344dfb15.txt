@@ -1,0 +1,3 @@
+Really like these kind of projects targeting and optimizing specific chips
+
+Repo: https://github.com/Luce-Org/lucebox-hub
