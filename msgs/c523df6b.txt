@@ -1,0 +1,1 @@
+for anything that works in pwa thats the way to go, our requirements are quite specific as in we need to show a webpage from untrusted source in our app and controll that webview.
