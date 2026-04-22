@@ -1,0 +1,7 @@
+Hah yeah. I’ve often thought about making an editor to put the elements together interactively, but I don’t see YET how that could work.
+
+Maybe I should ask Claude to build this and maybe I’ll see the path forward 🤔 You’re right that there need to be some constraints here..
+
+Curious to see how Peek is changing!
+
+Claude used its web fetch tool. I tried asking it to use other tools, but it only suggested installing skills that might not even help.
