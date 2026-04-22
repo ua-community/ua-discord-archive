@@ -1,0 +1,1 @@
+even if new thing is not atproto, you can use portable.agency as B when moving from A -> B -> C.
