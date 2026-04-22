@@ -1,0 +1,1 @@
+and registered portable.agency to take a stab at a {captive platform}->{atproto did} mapping.
