@@ -1,0 +1,1 @@
+Don’t understand, I think it’s a good release. 1.5B with 50M activations, very viable to run on device
