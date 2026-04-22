@@ -1,0 +1,5 @@
+- open the page
+- oauth in with discord (for example)
+- oauth in with atmosphere account
+- creates a record on each pds, yours and portable.agency's, pointing proofs at each other
+- add attributes like "role:fascinator"
