@@ -1,0 +1,1 @@
+i jammed up a basic version that just does the discord mapping for U&A, should be able to get it going today later
