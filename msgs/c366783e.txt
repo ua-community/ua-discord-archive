@@ -1,0 +1,1 @@
+eventually we still need a layer for distributed service deployment, but static hosted zerostorage will do for now.
