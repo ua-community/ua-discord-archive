@@ -1,0 +1,1 @@
+Since you're already assuming an LLM is there, i was thinking you'd have a default prompt behind the scenes, to which appended something like "with these user-selected attributes: {selected button text}".
