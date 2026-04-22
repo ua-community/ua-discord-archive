@@ -1,0 +1,1 @@
+oh im not sure if you followed the xenon architecture and the previous discussins. we are working with a technology called IWA which is a standardish API and part of a real chromium instance
