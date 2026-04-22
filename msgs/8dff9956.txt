@@ -1,0 +1,1 @@
+mix of ptsd from the early cordova times, dislike of the divide of frameworks targeting either mobile (react native, capacitor, nativescript) or desktop (eclectron tauri etc.) plus its not really giving proper sub-webviews, imagine having to implement a fill browser with capacitor
