@@ -1,0 +1,1 @@
+Fission's IPVM for immutable "functions" on IPFS was a step in this direction.
