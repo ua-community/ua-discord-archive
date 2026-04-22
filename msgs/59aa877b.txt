@@ -1,0 +1,1 @@
+If you mean doing something like that without an LLM generating the front-end, yeah whole different type of challenge.
