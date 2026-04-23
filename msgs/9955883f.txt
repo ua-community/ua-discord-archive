@@ -1,0 +1,4 @@
+the experiment would be to go blank slate:
+- a page with an atmosphere login, gated on the portable.agency proof-of-UA-membership
+- and an empty document
+- and (user)'s DOM+automerge stuff
