@@ -1,0 +1,3 @@
+This is what I've been working on in Agregore: https://github.com/AgregoreWeb/agregore-browser/issues/330
+
+Been reworking what it "is" from a "web browser" to more of a social "game" focused on creation.
