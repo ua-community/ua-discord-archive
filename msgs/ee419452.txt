@@ -1,0 +1,1 @@
+https://blogs.igalia.com/jfernandez/2026/03/24/protocol-handler-registration-via-browser-extensions/?ref=ipfsfoundation.org
