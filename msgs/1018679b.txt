@@ -1,0 +1,1 @@
+to not request full publish capabilities
