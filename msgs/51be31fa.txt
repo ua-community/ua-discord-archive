@@ -1,0 +1,1 @@
+i've made a few attempts over the years at making the self-contained and self-generating static site host/generator/publisher i want, but never took it all the way to useful.
