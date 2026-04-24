@@ -1,0 +1,1 @@
+Still going! In the workplan for the Horizon grant consortium I mentioned in <#1357325149615030302>, Crab Nebula's needs for embedded Servo are a primary driver for Igalia's work.
