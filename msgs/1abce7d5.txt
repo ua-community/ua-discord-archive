@@ -1,0 +1,11 @@
+```
+
+### TL;DR Version
+
+- lets someone login to a web page with their Discord account
+- the page makes a call to Discord API, checking membership here or not
+- if member, it writes that to the checker's PDS and to the user's PDS
+- if not a member, stops without writing anything anywhere
+
+### Detailed Version
+```
