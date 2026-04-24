@@ -1,0 +1,2 @@
+Awesome project. Lots of performance improvements still to be had clearly.
+It should probably note further up that this is ReLu only, so most models don't work with this approach.
