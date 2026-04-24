@@ -1,0 +1,1 @@
+i would've agreed quickly and easily in the olden days (earlier this year) but now Ladybird said they're converting to Rust.
