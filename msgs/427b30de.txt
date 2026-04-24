@@ -1,0 +1,1 @@
+when i signed up i couldnt continue w/o ssh auth set up
