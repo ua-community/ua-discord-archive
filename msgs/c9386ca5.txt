@@ -1,0 +1,1 @@
+we can scope to single guild info
