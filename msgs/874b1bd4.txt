@@ -1,0 +1,1 @@
+Phala makes this easier with: https://github.com/Dstack-TEE/dstack/blob/master/docs/deployment.md
