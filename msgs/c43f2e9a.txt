@@ -1,0 +1,1 @@
+This is work we kicked off at least 3yrs ago. Desktop only (for now). Apple will probably never do it. Can't do locally implemented protocols still, but a key tiny piece in the puzzle that required years and tons of effort from a bunch of people. Long slow grindy negotiation process.
