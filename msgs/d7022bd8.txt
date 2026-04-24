@@ -1,0 +1,1 @@
+there were a few of these .but the difference is now they run agents and might run whole applications, so it actually makes sense to have cloud env that you pay for
