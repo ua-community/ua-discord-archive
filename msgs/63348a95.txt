@@ -1,0 +1,1 @@
+I totally agree; it's just that when I think "universal optimizing cache" + ATProto, that's what comes to mind
