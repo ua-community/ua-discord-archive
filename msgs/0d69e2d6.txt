@@ -1,0 +1,9 @@
+high level, it just answers the question:
+
+can we know if someone was a member of the U&A Discord?
+
+it answers that by:
+- letting someone login to a web page with their Discord account
+- the page makes a call to Discord API, checking membership here or not
+- if member, it writes that to the checker's PDS *and* to the user's PDS
+- if not a member, stops without writing anything anywhere
