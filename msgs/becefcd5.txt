@@ -1,0 +1,1 @@
+for mighty thats true, for darc, the contract is a docker context. it can run on your local machine, can be your own nas or server or a traditional cloud
