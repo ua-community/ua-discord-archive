@@ -1,0 +1,1 @@
+this complicated interplay of oauth scope + app permission means it's impossible to clearly demonstrate at the Discord security UI level that portable.agency cannot list your guilds.
