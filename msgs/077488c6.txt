@@ -1,0 +1,5 @@
+Maybe you can help me out then actually, cause ever since I talked to them I really wondered about this. 
+They were really adamant at the time that they want 1:1 chrome compat. To me one of the key reasons to use/make alternative browsers was always to stop Google from forcing their features on everyone. 
+Like, I'm sure servo has some implementation advantages, but those kinda seem tiny compared to the effort.
+They were very unhappy at the time when I pointed out this (somewhat ideological) confusion of mine.
+Maybe you some knowledge cause I have really been wondering this 😅
