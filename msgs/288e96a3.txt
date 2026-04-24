@@ -1,0 +1,1 @@
+the Web Extensions spec is not yet a normative document, there's still time for you to fix this!
