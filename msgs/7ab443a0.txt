@@ -1,0 +1,7 @@
+if by "patch, deliver" you mean pull request, that's out-of-band of git tho. that's all github machinery. so you'd need to
+1) clone your tangled repo (your fork of mine) to local machine
+2) `git branch main -b yesplzpatch` locally
+3) make your changes
+4) commit
+5) push
+6) idk, never looked at whether Tangled supports GH-style PR flow
