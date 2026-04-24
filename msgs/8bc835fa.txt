@@ -1,0 +1,1 @@
+Talked a bunch with some guys from Tauri about them implementing their own WebView like 2y ago. Not sure what ever came from it
