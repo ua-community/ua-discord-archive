@@ -1,0 +1,1 @@
+TLDR made by Jeremie Miller, Jabber/XMPP founder and now also board member at Bluesky PBC. What if open source code is actually nothing but forks in a network graph. Built on atproto.
