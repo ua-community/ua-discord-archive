@@ -1,0 +1,17 @@
+re ucan in diffuse question earlier:
+
+I was actually planning to add a WNFS + Storacha option, but yeah RIP Storacha (which used UCAN)
+
+Waiting a bit more to experiment with https://github.com/inkandswitch/subduction
+
+Also Keyhive as I mentioned.
+
+There’s so many possibilities here, but the question is what has the best UX + security + convenience overlap. And how do I avoid running any servers, because I don’t want to maintain any servers that are accessible by anyone. Should be a community/group effort ideally.
+
+Keyhive and Subduction are great for userdata, could even do pure passkey auth. But it doesn’t solve audio file hosting or audio streaming servers, that needs different protocols such as WNFS. So we need other servers there.
+
+In a perfect world we’d have these two things in a single service, fast and slow data, but we’re quite a way off from that.
+
+Brooke also mentioned that she needed something like WNFS for blob storage, so they’re thinking about that too.
+
+Could perhaps do a paid Diffuse service that does this two in one server with UCANs and passkeys, but we’ll see.
