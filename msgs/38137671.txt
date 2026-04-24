@@ -1,0 +1,3 @@
+Maybe I'm completely missing something but isn't a webview basically a way to get an embedded way to say "please render this document / from this url" + some hook APIs so you can talk to the document(s) inside?
+And a browser is basically that + persistence, extensions (?) and some UI so the user can directly interact? 
+And then Blink/Servo/... are roughly the thing you feed documents and it tells you what it figured out has to be done next (load this other thing, navigate, run this code), can render frames (handle layout, evaluate CSS...), and provides a lot of the APIs needed to implement/provide the standard browser JS APIs to scripts?
