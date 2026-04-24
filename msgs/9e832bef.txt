@@ -1,0 +1,8 @@
+>       <h3>TL;DR Version<h3>
+>       <ul>
+>       <li>lets someone login to a web page with their Discord account</li>
+>       <li>the page makes a call to Discord API, checking membership here or not</li>
+>       <li>if member, it writes that to the checker's PDS and to the user's PDS</li>
+>       <li>if not a member, stops without writing anything anywhere</li>
+>       </ul>
+>       <h3>Detailed Version</h3>
