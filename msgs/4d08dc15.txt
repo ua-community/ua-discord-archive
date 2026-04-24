@@ -1,0 +1,1 @@
+i'm not sure if Discord has Oauth scope for only one server
