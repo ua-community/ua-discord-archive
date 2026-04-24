@@ -1,0 +1,1 @@
+They were talking about the webview they want(ed) to build for Tauri. For that I think 1:1 chrome compat makes sense no? Like 1:1 same JS/CSS/HTML behavior and APIs. Not sure if webviews generally support extensions, so I guess that might be excluded.
