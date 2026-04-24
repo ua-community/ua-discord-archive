@@ -1,0 +1,1 @@
+I mean for a loaded document that's not really that visible, right? So for a webview I figured 1:1 compat means all the same HTML/CSS/JS APIs. Not much else the loaded document can see, I think?
