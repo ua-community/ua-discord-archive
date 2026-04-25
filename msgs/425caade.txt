@@ -1,0 +1,1 @@
+But Tauri doesn't really need that since they explicitly say they don't support that use-case.
