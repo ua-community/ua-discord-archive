@@ -1,0 +1,1 @@
+Enough compat at the web platform level that most Chrome users wouldn't complain.
