@@ -1,0 +1,1 @@
+The measurement I used for the Servo readiness report, is velocity parity. of Baseline "widely available" keys. It assumes a base level of implementation of pre-BWA web platform implementation, and then an ability to match implementation velocity annually of expected BWA features.
