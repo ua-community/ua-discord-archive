@@ -1,0 +1,1 @@
+That's the bar for something expected to reasonably be called "browser".
