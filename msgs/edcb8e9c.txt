@@ -1,0 +1,18 @@
+```
+Principle                     Sesh.Description
+------------------------------------------------------------------------------------
+Principle of Constant Change: 565 The Internet should evolve, not remain static. 
+Fate Sharing:                 544 State should be kept at endpoints with stake in it. 
+Layering:                     456 Sort complexity with well-defined protocol layers. 
+Simplicity:                   418 Prefer simple designs for ease of understanding & implementation. 
+Rough Consensus & Running Code:
+                             331 Prioritize functional implementations and rough agreement. 
+Trust:                       252 Trust decisions cascade & impact the entire system. 
+Connectivity:                164 Aim for universal Internet access. 
+Robustness / Postel’s Law:   80 Send data conservatively, accept it liberally. 
+Protocol Ossification:       71 Middleboxes can freeze protocol evolution. 
+End-to-End Principle:        56 Intelligence should reside at network endpoints. 
+Tussle in Cyberspace:        50 Design for conflicts among divided stakeholders.
+Principle of Least Surprise: 4 Protocols should behave as expected.
+```
+Converted to discord format
