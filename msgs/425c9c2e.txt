@@ -1,0 +1,1 @@
+eg guess what else looks a lot like atproto firehose -> websocket? blockchain event streams -> websocket. eventually they hit problems of scale, and shard on specific use-cases.
