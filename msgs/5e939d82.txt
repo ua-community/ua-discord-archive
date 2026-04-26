@@ -1,0 +1,1 @@
+“If you’re thinking, why not just use Slack? It’s because Slack is never going to become a fully featured software development tool. It doesn’t have the right primitives, and it’s not going to add them. Ace is explicitly for software development, but is more welcoming to other team members than your terminal.”
