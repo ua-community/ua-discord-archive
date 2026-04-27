@@ -1,0 +1,1 @@
+better paradigms are session and modality based UIs. eg. you work on your own figma file but when you are in a call or iterate as a team you turn of colab sessions. but in between people do really not want their things to be live in both directions
