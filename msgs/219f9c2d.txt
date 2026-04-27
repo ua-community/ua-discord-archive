@@ -1,0 +1,1 @@
+A full CRUD for Atproto as a protocol handler is nice. I've kept all Atproto stuff outside protocol and strictly product at this point (though feature distribution/verification might change that somewhat), haven't poked much at what native resolution would look like.
