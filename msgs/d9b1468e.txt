@@ -1,0 +1,1 @@
+lessons building a canvas browser on chromium fork. (10 people and millions to get to even a stable base state to try finding what exactly to build in the first place) https://www.alejandro.pe/writing/sail-muddy-lessons
