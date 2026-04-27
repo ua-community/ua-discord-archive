@@ -1,0 +1,1 @@
+(user) Can your protocol handler approach handle relative URLs and streaming media/video responses?
