@@ -1,0 +1,1 @@
+That p2p broadcastchannel thing sounds amazing! I built some malleable software thing that uses channels heavily so I’m very much looking forward to trying that.
