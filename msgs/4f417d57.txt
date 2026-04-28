@@ -1,0 +1,1 @@
+Warp the terminal I use is open source under MIT/AGPL now: https://github.com/warpdotdev/warp !!
