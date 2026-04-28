@@ -1,0 +1,5 @@
+I am taking time to design the environment, there are so many moving parts. And this problem is not easy to even name. But heres a neat little trick I wanted to share. 
+
+Apart form tons of evidence I have for judge, I have to manually verify each probe, and what the agent sees, etc. and to structure your data as a story book works great not just for human interaction, but for agents to programmatically grab data intuitively.  
+
+Memory is a non verifiable / stochastically verifiable task.
