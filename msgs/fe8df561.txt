@@ -1,0 +1,1 @@
+yeah will do, it'll have a explainer for how ATProto works as well and documenting the progress on private permissioned data by ATProto and the wider community, like one from (user)'s https://docs.basic.tech/readings/personal-data-stores
