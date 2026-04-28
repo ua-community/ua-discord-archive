@@ -1,0 +1,1 @@
+looks like a nice shaped tool. but makes me wonder again how the hose is supposed to scale without proper fanout or partitions
