@@ -1,0 +1,1 @@
+chat transcript is fetched client-side from the ATProto PDS, no data is stored on our servers
