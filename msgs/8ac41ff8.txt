@@ -1,0 +1,1 @@
+--- Also, the above surface. since its both for human/machine, I can design the environment in such a way that my learnings become meta learnings, and I can keep generating new data as I go and keep training
