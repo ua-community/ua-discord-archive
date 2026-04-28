@@ -1,0 +1,2 @@
+Similar vain as above, but who owns userandagents.com? Could they setup a did web or did dns? I can provide the hosting if necessary.
+Could then use something like https://airglow.run/ to automatically collect links from a semble collection per-person to a "shared" semble collection.
