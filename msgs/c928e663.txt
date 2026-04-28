@@ -1,0 +1,1 @@
+(could then also enable automatic posting to <#1357325149615030302> via webhook)
