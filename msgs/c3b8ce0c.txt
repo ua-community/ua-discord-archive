@@ -1,0 +1,5 @@
+--
+I took a little detour, and working on env design for memory now. cos people are still claiming 2 yo benchmarks, synthetic data. etc. 
+The new leaner syke agent code is in my dev remote, sitting there for 4 weeks now. 
+only thing needed before release is changing the prompt string. 
+I have spent 4 weeks designing evals for this. lol just to replace that string with a better one. you can have a look at the branch to get a sense of how the agent works/daemon runs
