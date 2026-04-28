@@ -1,0 +1,1 @@
+for private data we plan to store it as encrypted blob on PDS as well, and gradually migrate to permissioned data spec once it's released on ATProto
