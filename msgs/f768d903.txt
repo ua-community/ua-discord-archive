@@ -1,0 +1,1 @@
+if someone were to ask you to prove that no data is stored, what will you show, is the source code enough?
