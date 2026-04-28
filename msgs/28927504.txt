@@ -1,0 +1,1 @@
+a user would be able to share their sessions with /share command in the CLI
