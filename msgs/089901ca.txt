@@ -1,0 +1,1 @@
+right now that's not an issue, as everything on a PDS is public, and yeah source code should be enough
