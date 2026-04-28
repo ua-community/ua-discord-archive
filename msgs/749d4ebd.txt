@@ -1,0 +1,1 @@
+maybe we should submit a protocol change proposal for xrpc param/path that returns signature
