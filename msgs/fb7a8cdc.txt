@@ -1,0 +1,1 @@
+But once that requirement is met, easy peasy to set up a page where you do a dual verification (discord+atproto) and configure where to spray links as records to.
