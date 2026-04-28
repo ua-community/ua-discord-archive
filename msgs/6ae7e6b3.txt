@@ -1,0 +1,1 @@
+I've added the atproto explorer link to the at:// address in the footer as well
