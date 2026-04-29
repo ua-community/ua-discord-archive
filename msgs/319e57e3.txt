@@ -1,0 +1,1 @@
+we need the authenticated part to go e2e. right now the bsky focus on a global social network use-case has resulted in the normalization of delegating trust to large infra pieces.
