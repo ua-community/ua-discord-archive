@@ -1,0 +1,1 @@
+take away the global social network ,and you don't need nearly as much infra, and you can apply cryptographically verifiable and p2p approaches.
