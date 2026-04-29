@@ -1,0 +1,3 @@
+Alright, now we're getting somewhere. Just one-shotted this with the Claude skill using a simple Claude chat, worked out of the box.
+
+Best idea so far for simple usage: Download versioned `skill.zip` from Diffuse deployment, user installs it using Claude settings and then uses it in chat.
