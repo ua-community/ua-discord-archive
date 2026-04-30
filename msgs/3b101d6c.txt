@@ -1,0 +1,1 @@
+i haven't really experienced any web compat issues, it's just Chromium.
