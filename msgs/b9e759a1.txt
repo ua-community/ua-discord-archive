@@ -1,0 +1,1 @@
+The goal of HTTP is to move data from a server to another device (serving content). The goal of ATproto is to move data from a PDS (server) to another device (serving content). The main difference lies in how content is selected. But they are both general enough to serve practically anything
