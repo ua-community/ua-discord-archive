@@ -1,0 +1,1 @@
+Would CSAM still exist within ATProto anyway? Sure. That's because it's a protocol and so long as CSAM exists in the world at all, it will have some presence and the most we can do with web technologies is contain it.
