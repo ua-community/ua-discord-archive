@@ -1,0 +1,1 @@
+The only way for you to ensure that everything in your island does CSAM scanning, is for you to control every piece of it, including who is in. But that's centralized and invite only again. The hard reality is open protocols with entire ecosystems can't comprehensively do anything beyond what the protocol specifies, and ATProto does not, and cannot, do CSAM scanning directly.
