@@ -1,0 +1,1 @@
+CSAM filtering won't make everyone move to other PDS hosts. People will stay put until either a more compelling PDS host comes along, or Bluesky loses favor.
