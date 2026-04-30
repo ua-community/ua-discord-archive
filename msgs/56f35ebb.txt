@@ -1,0 +1,1 @@
+mod+space is default to open the cmd bar. you can type `editor`, or `edit {chars from a document}`
