@@ -1,0 +1,1 @@
+PDS hosts could have CSAM detection and ban users who upload it, but self hosting is still an option so that doesn't solve the entire problem.
