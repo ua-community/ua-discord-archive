@@ -1,0 +1,3 @@
+https://bsky.app/profile/mia.omg.lol/post/3mhw3iatk5224
+^ haven't reproduced this yet, but ATproto islands are 100% possible
+If you want your own bluesky, do that, run a bluesky AppView on there. You can add whatever scanning you want.
