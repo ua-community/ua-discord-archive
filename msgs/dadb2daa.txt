@@ -1,0 +1,1 @@
+Local CSAM filtering is not in ATProto's scope, that would be an entirely separate piece of software.
