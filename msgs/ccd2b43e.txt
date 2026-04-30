@@ -1,0 +1,3 @@
+There is no way we can prevent people from using the Internet in general. ATproto serves a similar role as HTTP. You cannot prevent CSAM at the HTTP level, and it is a nonsensical idea.
+What we can prevent is CSAM happening using our storage/PDS (and providers probably should do that) AND we can prevent CSAM infiltrating our feeds, profiles, etc and possibly by blocking it in the viewing client.
+But we cannot prevent ATproto being used for bad things in general. it's just a protocol.
