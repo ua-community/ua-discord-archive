@@ -1,0 +1,1 @@
+now it is selecting the text in the overlay
