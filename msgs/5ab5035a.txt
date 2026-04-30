@@ -1,0 +1,1 @@
+its just working with general extension support or some specific support you needed to add? what is the advantage of ghostery vs https://github.com/gorhill/uBlock
