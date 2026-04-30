@@ -1,0 +1,1 @@
+Electron has extremely rudimentary support for extensions. i'm hacking away a polyfill at a time. no point in supporting mv2, no thanks.
