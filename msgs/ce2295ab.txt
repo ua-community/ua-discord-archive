@@ -1,0 +1,1 @@
+i didn't even try, b/c it seemed hamstrung. also my ghostery is not an extension, it's a lib designed for Electron.
