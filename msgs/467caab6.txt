@@ -1,0 +1,1 @@
+But then you're saying it should be done at the storage level? So PDS implementations should have it built in? That seems very easy to get around by self hosting.
