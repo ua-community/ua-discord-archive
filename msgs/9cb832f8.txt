@@ -1,0 +1,1 @@
+What is your proposal? It sounds like you want to do it at the speech layer? That seems like a technical impossibility to me
