@@ -1,0 +1,1 @@
+Yes moderation and network infra are are layers that need to be run by someone
