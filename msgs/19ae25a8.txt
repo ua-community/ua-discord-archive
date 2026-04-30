@@ -1,0 +1,1 @@
+really want to not make a chrome extension compat layer but also really want a few basic things to work, like password managers
