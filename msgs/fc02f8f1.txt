@@ -1,0 +1,1 @@
+We are experimenting with a new framing for xenon apps as "zero trust apps" leaning on zero trust auth and org architecture. wonder if this makes sense or is too confusing as not a 1:1 analogy
