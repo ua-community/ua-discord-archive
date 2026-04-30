@@ -1,0 +1,1 @@
+You’re going to need to work with other people to stand up solutions. That is a coordination problem not a protocol one.
