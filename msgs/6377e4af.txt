@@ -1,0 +1,1 @@
+If you also want to catch it in transit, your relays and feeds will need it too. If you also want to catch it on download, add it to your clients.
