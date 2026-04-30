@@ -1,0 +1,1 @@
+If you want to catch it on upload, you must mean on PDS data upload, which means your PDS implementation needs CSAM filtering. That's all I got for you. Good luck, if you're serious.
