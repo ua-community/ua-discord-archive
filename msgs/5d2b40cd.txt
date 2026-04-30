@@ -1,0 +1,1 @@
+Stuffed this into the "Create" page. Not exactly user friendly, but it's a start. Ideally you'd be able to prompt in Diffuse itself, but don't know where to start with that without creating some LLM lock-in.
