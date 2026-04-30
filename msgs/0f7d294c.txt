@@ -1,0 +1,1 @@
+Bluesky the PDS host, lexicon, and client is centralized, and they don't hide that. ATProto, the protocol, is not. User controlled labels live in ATProto, while the centralized moderation they refer to is only part of the pieces they own.
