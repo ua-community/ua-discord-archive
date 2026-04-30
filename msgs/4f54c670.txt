@@ -1,0 +1,1 @@
+Why relays? Their role in the system is aggregating data to be easily findable by feeds and clients. If CSAM was caught there, it choose not to index it, preventing its distribution from that relay.
