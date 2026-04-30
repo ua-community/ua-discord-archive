@@ -1,0 +1,1 @@
+it should fill the editor with the compoent
