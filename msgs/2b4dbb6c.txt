@@ -1,0 +1,4 @@
+Not sure I get it. ATProto is just the fabric. You wouldn't want to bake scanning into HTTP?
+The client that presents content to users & mayyybe the feeds deciding what is shown should handle that.
+The PDS is just that, The users personal data server. What the user chooses to store there is outside the control of other users.
+Should people providing storage in general have some kind of scanning? Probably. Is that the best place to do it? Eh.
