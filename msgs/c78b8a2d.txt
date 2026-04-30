@@ -1,0 +1,1 @@
+My opinion is the best place for CSAM detection is relays, next best place is feeds
