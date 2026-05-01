@@ -1,0 +1,1 @@
+Warp contributing having some shades of v-it atproto based social coding, where you don't submit a PR per se but socialize generally what your direction is for the codebase, let the agent do it, and vouch other people s efforts, distributedly/maintainerlessly. https://v-it.org/
