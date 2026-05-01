@@ -1,0 +1,1 @@
+durable streams is like a subset of couchdb sync protocol without offline support and without conflict resolution. would love to try pouchdb adapter for tanstackdb as alternative
