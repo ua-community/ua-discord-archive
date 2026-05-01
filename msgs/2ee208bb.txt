@@ -1,0 +1,1 @@
+doesn’t runs on Linux yet, but there’s a branch in development by (user) . He expects to release in a few weeks
