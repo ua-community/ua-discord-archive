@@ -1,0 +1,25 @@
+**Proposal title**
+
+```text
+Resisting Slop-Nine: The Thermodynamics of Generative Pollution
+```
+
+**Description**
+
+```text
+Slop-nine is a phase of matter whereby every digital and physical artifact risks being infected by and crystallized into some form slop. The pedagogic focus on hallucination overshadows the material reality of generative models primary use : producing copious amounts of slop.
+
+To avoid drowning in slop, to resist becoming sloppy, one must first measure and index slop. I'll showcase a theoretical framework for pollution via a dissipative model, accounting for the energy consumed and the exergy destroyed across slop’s production, circulation, and cleanup.
+
+I paint, write, prove, code, think, observe, and feel. Fuck slop.
+```
+
+**How does your talk fit into the themes of Local-First Conf 2026?**
+
+```text
+Life is local-first. It forms coherent patterns across scales: DNA, organs, bodies, species, ecosystems, and life itself. It builds wholes from local processes, such that for many thermodynamic byproducts, another form of life evolves to metabolize or clean them up. Even viruses, despite their parasitic nature, evolve toward minimizing casualties.
+
+Global-first software, microplastics, CO₂, and slop are all downstream from an addiction to oil.
+
+Resisting slop-nine means learning how to clean up after ourselves; acknowledging the inability of our world to absorb endless pollution without killing us. Local-first is an antidote to slop.
+```
