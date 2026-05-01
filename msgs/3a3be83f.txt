@@ -1,0 +1,1 @@
+Maybe sessions could also say what stage a given project is at, e.g. whether it's going over a concept doc, actually demoing something, or "everyone install the thing and mess around and talk about what we think"
