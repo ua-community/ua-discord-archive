@@ -1,0 +1,25 @@
+**Proposal title**
+
+> Towards a Mathematical Theory of Local-First Software
+
+**Description**
+
+> My experience as a photographer, engineer, and mathematician led me to study sheaves as a model for networks of physical sensors.
+>
+> The mathematical instruments called sheaves describe how data varying locally over a space can determine global structure via gluing conditions. Stitching overlapping images into a panorama showcases different granularities of zoom.
+>
+> Sheaves model the paradigm of local-first software and can enable the design of coherent applications over data landscapes at the discretion of local consistency.
+>
+> This talk sketches a bridge between local-first software and topoi, with examples that both mathematicians and hackers may further explore.
+
+**Language**
+
+> en
+
+**How does your talk fit into the themes of Local-First Conf 2026?**
+
+> The contemporary data landscape is global-first: cohered by big corporations whose terms and conditions we are coerced into accepting. Envisioning digital liberation means reclaiming our data from their servers. Just as any portrait photographer should ask for consent to make, not take, a photo the subject feels comfortable with, so too should companies ask to make our data profiles as we see fit: they objectify us.
+>
+> A dual infrastructure of local-first software applications should reflect our data as we see fit to produce, shape, and share it.
+>
+> Sheaves and topoi give the blueprint to construct such infrastructure.
