@@ -1,0 +1,1 @@
+Another idea, everyone gets a turn to give the coding agent a single prompt but you don't get to see the previous prompts on your turn, just the code it left you
