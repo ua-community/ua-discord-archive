@@ -1,0 +1,1 @@
+That’s what OpenAI recommends as minimum hardware on their blog page as well
