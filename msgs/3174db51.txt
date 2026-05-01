@@ -1,0 +1,1 @@
+we also want to use folknet for the demo sessins, eg sharing vms on folknet to try together or similar experiments
