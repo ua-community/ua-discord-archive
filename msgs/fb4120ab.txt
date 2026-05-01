@@ -1,0 +1,1 @@
+Have more than enough compute and GPU to support with folknet
