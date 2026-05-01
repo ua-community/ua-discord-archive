@@ -1,0 +1,1 @@
+Related ish, anyone else keyed in to Durable Streams stuff? Kind of out of Electric. But they seem to be really trying thing after thing after thing. They just launched Electric Agents for persisting agent state which is like yeah ok to be expected & a good use case. But durable steams is good shit. Their TanStack DB support is upstream any pretty great
