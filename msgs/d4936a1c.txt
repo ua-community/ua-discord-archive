@@ -1,0 +1,1 @@
+OpenAI acquiring OpenClaw and now we’ve Codex as a first part harness replacement for Pi: https://docs.openclaw.ai/plugins/codex-harness#quick-config
