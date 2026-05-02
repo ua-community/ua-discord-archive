@@ -1,0 +1,1 @@
+Don’t think they mean to use Pi harness at all in their OpenClaw implementation
