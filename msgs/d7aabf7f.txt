@@ -1,0 +1,1 @@
+there's a talk proposal at web engines hackfest about a modular webextensions implementation. something i've always wanted, so i'm hoping it's real not imaginary.
