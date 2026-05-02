@@ -1,0 +1,3 @@
+https://www.tiles.run/share/YXQ6Ly9kaWQ6cGxjOmtkY2M0NzVtd21mZDdlaGx2aHF4Z3Jxci9ydW4udGlsZXMuc2Vzc2lvbi8zbWt1Mm91eXduNTJh
+
+In fact I think Linux via llama cpp is now in parity with Mac MLX in most ways in Tiles
