@@ -1,0 +1,3 @@
+These objections are not about the API. They are basically just barely shy of ad-hominem attacks against Google. We can't have LLMs on the web because we are afraid of Google's natural monopoly? Really?
+
+I just don't think the concern about what Google offers is really relevant to this effort. Figure out the API! This is imperative for the web.
