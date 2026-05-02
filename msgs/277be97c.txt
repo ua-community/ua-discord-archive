@@ -1,0 +1,5 @@
+I strongly dislike the people saying "this should just be a library" or "we should spend more time doing this in userland". 
+
+The idea that a random website is going to use a Prompt API like service when it means sending a couple GB model to the user to run on webgpu is laughable.
+
+Big players might suck up the cost of running the model remotely, but any normal entity is going to be shit out of luck here, have no good path. Even though the device could happily do whatever local model is there.
