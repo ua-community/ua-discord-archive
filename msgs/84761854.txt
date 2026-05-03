@@ -1,0 +1,1 @@
+> only tangentially linked, but i’ve been mentoring the folks building vCon at the IETF and there’s movement to incorporate human/agent transcripts as a first class use case, it’s pretty well designed json and there’s a vCon schema that would pretty trivially turn into a lexicon… happy to help connect dots if they’re interested in kicking those tires:
