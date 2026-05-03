@@ -1,0 +1,1 @@
+(user) I talked to Jeremie and he said he's talking to IETF folks about a standard for human agent transcripts https://www.ietf.org/archive/id/draft-ietf-vcon-vcon-overview-00.html
