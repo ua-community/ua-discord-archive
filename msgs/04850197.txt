@@ -1,0 +1,1 @@
+A good read / follow-along for understanding state of standards and browser vendor thinking around this decoupling: https://github.com/whatwg/html/issues/3998. TL;DR: Quite far off from the status quo in shipping browser products today.
