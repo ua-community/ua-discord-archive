@@ -1,0 +1,1 @@
+There's a long history of how and why registerProtocolHandler/registerContentType are hamstrung, unfortunately. I agree w/ your "decoupling" comment 100%, but it's not going to happen with the current browser/engine dynamics. Going to have to leapfrog.
