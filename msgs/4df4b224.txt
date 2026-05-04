@@ -1,0 +1,1 @@
+How difficult and useful would it be to generate a small model to integrate with Diffuse 🤔
