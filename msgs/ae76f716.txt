@@ -1,0 +1,1 @@
+AI tooling can pretty close though, with new data tooling like the specs mega-repo, BCD/WF and the far-better WPT coverage that's happening (fingers crossed).
