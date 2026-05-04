@@ -1,0 +1,3 @@
+> the first 80% being done and extrapolate to the remaining 800%
+
+💀 Yes, I agree that this is a common problem in web platform work, whether AI or no AI.  I also think that new web engines will not be like the engines of today in quite a few ways (eg not fully backwards compatible, or will be subsets focused on narrower use-cases/platforms/eras etc). We have systems of data in the web platform that are quite new and can be leveraged to make pretty big steps.
