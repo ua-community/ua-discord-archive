@@ -1,0 +1,1 @@
+Yep I don't vibe w/ this part. It underestimates what a minimum-viable interoperable web platform surface actually buys you, and also underestimates how hard it is get authoring changes to occur. I'm more interested in engine malleability wrt to dismantling the three-engine hegemony on capability set in some coarser pieces for author targeting, vs "melt it all".
