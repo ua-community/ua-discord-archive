@@ -1,0 +1,1 @@
+Strong recommend to follow Paul Kinlan, so so good. Web Intents was such an interesting idea. I don't know why registerProtocoHandler and registerContentType weren't aren't enough, but in general the decoupling of the web, allowing more interconnection of tools across sites is so so good.
