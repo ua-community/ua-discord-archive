@@ -1,0 +1,1 @@
+Those abstractions are also there to make it easy to change the code later as requirements change
