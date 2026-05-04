@@ -1,0 +1,1 @@
+and abstractions don't always add cost, see: zero cost abstractions lol
