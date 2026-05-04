@@ -1,0 +1,1 @@
+Even familiar tooling will fall by the wayside when you have liquid LLM software on both ends. For what he's describing, why bother with the web at all. Maybe as an initial step, but it goes away pretty quick.
