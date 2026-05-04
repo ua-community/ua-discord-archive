@@ -1,0 +1,5 @@
+---
+For those here who live in NOT UTC, How do you guys deal with the timezone issues with your agents ? 
+Or rather, do you have these problems where your natural language expression of time gets conflated with UTC, so friday evening in PST becomes saturday morning for agents. 
+Or does your workflow somehow account for this ? 
+https://x.com/saxenauts/status/2051384410218651849?s=20
