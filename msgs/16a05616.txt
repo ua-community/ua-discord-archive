@@ -1,0 +1,1 @@
+I'm also interested in the slightly broader question... a small model for orchestrating/gluing multiple custom elements together (assuming they each have an appropriate API documentation)
