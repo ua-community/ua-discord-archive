@@ -1,0 +1,1 @@
+triggered. reviewed too many cycle collector patches in Gecko c++ back in the day.
