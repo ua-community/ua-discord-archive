@@ -1,0 +1,1 @@
+we also had to go for the hybrid model they present, but for purely practical reasons, local sandbox latencies for tools are not that high to make this a reason to weaken the isolation. (their sliders starts at 20 ms which implies network)
