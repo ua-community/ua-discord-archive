@@ -1,0 +1,1 @@
+With all the malleable software and llm talk lately, I think this is a good moment to write down some notes and think a bit on how this relates to extensions. Started writing the blog post incorporating some of this, in combination with earlier research that's already in the Github repo.
