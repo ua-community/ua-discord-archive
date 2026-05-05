@@ -1,0 +1,1 @@
+run some trials with a small model like liquid or qwen3.5 0.8
