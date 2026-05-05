@@ -1,0 +1,1 @@
+It is, also android app, both with ffi bindings to rust code.
