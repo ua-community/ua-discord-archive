@@ -1,0 +1,2 @@
+me: may I please have Electron and global hotkeys and Wayland?
+asahi: no.
