@@ -1,0 +1,1 @@
+a good writeup what the pains gettting compose to a production setup are and confirming this is still worth doing.  nice to see similar reasoning and experience from a completely differnt angle.  https://distr.sh/blog/running-docker-in-production
