@@ -1,0 +1,24 @@
+https://github.com/saxenauts/trimmrog
+
+--- TrimmROG, hobby project made by claude, that I have been using personally, it works well for my workflow. 
+
+What ?
+
+- Source code graph sharding on gitnexus + pi reflection agent and reasoning + wiki + excalidraw diagrams (architecture, modules, imports, any color you like). 
+- configurable daemon heartbeat to keep up with changes
+- versioned
+- agents read shards themselves naturally, claude might need a push
+- pi core agent now (was pi coding agent earlier, more proactive but needed containment)
+
+Why ?
+- Agent are really bad at design patterns
+- Do not maintain coherency over architecture
+- Dead code, orphan modules pile up
+- I work on stuff that cannot be spec'd beforehand -> more drifts expected
+- need a sense of versioning (how the architecture changes)
+- need to visualize 
+- cannot trust agents with holistic map of the codebase as well as module level details (context engineering problem, cannot switch abstractions easily, but needed almost always)
+
+Entirely inspired from https://supermodeltools.com/ 
+
+(use them they are smarter, better, sharper, my thing doesnt handle dead code well unless prompted)
