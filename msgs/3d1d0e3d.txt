@@ -1,0 +1,1 @@
+Cleared the Asahibook and reinstalled w/ Gnome and have a Peek dev env working now
