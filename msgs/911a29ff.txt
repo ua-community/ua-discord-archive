@@ -1,0 +1,1 @@
+similarly for android, wanna set peek as homescreen app w/ a built-in "group" that's a passthru to native apps
