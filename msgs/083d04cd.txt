@@ -1,0 +1,1 @@
+or global hotkeys + Wayland, if you don't want to pull in the full dbus universe
