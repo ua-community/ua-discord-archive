@@ -1,0 +1,7 @@
+Yeah, I don’t know what the exact minimal subset should be yet tho.
+
+I guess you’d usually want the LLM to have a large “imagination” (context) so that it can dream up various interface designs and features. I suppose the smaller models seem more useful in making an existing design (already implemented in css) into a working audio player/browser..
+
+Maybe with the latter it could be a two step process: tell any LLM to make the html/css for a thing, then copy/paste it into Diffuse which makes it real. Saves you the step of needing to install a skill, but the big model looses context of what is possible. This also doesn’t allow for functionality that isn’t included already in Diffuse, but maybe we can play in on the social network aspect here to extend the capabilities.
+
+Sorry for the long answer, had to get that out 🙈
