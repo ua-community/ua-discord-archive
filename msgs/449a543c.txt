@@ -1,0 +1,1 @@
+can call the cli to get the list of supported commands
