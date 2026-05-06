@@ -1,0 +1,1 @@
+Ok hotkeys passing through to appimage is confirmed working. The value to put in Gnome hotkey settings is gnarly, but whatever, the whole OS experience is gnarly.
