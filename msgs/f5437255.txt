@@ -1,0 +1,1 @@
+Seems straight forward with appimages, appimage itself = binary with commands, gnome settings specifies command
