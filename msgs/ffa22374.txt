@@ -1,0 +1,5 @@
+Filter system gives flexibility for combos like:
+
+- write all urls on server to Semble collection X
+- write urls from channel X to Bsky account Y
+- write all messages from bmann in channel X to Leaflet
