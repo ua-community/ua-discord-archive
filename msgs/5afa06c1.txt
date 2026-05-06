@@ -1,0 +1,1 @@
+Looks like a regular (and not super performant) reactivity demo, but behind the scenes it's the new rules engine in action. It wires events up to feature-registered handlers. In this case it's tag transformations, eg  TODO -> DONE. This decoupling makes it possible for pipelines and transformations across app or network.
