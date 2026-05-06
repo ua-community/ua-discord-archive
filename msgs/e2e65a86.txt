@@ -1,0 +1,6 @@
+Thinking to set it up like:
+
+- One paying user
+- Add bot to as many servers as you want
+- Configurable rules: {discord server}->{filter}->{atproto svc}
+- Payment tiers on write volume
