@@ -1,0 +1,1 @@
+(user) ok main has Linux shortcut fixes. only works when app is focused, for now.
