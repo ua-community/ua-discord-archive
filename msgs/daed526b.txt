@@ -1,0 +1,1 @@
+Awesome thanks! 🙏  It is a mess yeah. But for technical folks, maybe it’s easier to do it the other way around where you define a shortcut yourself and tell Peek what to do using a command? (eg. via custom Gnome keyboard shortcuts)
