@@ -1,0 +1,1 @@
+added feature cards to landing page to make Tiles' value proposition clear
