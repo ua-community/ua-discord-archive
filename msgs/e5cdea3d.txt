@@ -1,0 +1,3 @@
+> You could instruct an agent as much as you want and there's still a chance, however small, that it does the wrong thing.
+
+Working on the extension-work blog post. Do we think that's a fair statement? Seeing that LLMs are "bullshitters"
