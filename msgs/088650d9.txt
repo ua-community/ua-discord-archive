@@ -1,0 +1,1 @@
+containers are a packaging and standardization tool not a sandbox, so docker cannot have a security issue in the same way zip cannot have a security issue. you can use it in an insecure way or in a secure way
