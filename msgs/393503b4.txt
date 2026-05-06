@@ -1,0 +1,1 @@
+Turns out global hotkeys on Linux are a mess. Electron has nothing to do with it.
