@@ -1,0 +1,1 @@
+shuru uses vz which is also what colima uses, microsandbox and my current fav smolmachines use libkrun microvms which support gpu and also are much faster to boot
