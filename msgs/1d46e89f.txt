@@ -1,0 +1,1 @@
+Though there's a way to run any mlx-community/ model from HF as well through Modelfiles on demand after downloading the 100MB network installer: https://download.tiles.run/tiles-0.4.8-signed.pkg
