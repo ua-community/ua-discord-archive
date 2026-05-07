@@ -1,0 +1,11 @@
+I'd like this to be posted if possible, feel free to edit/trim it as you like: 
+
+"
+Tiles is a local-first private AI assistant.
+Attached image are the features we will be going through in the spotlight today.
+
+We’ve optimized Tiles to work best with the gpt-oss-20b model, so we recommend downloading the full offline installer in advance of the spotlight session, as it is a large 10 GB file. If you prefer to run a smaller model, you can download just the runtime, and then download any text-only mlx-community hosted model on Hugging Face by creating a Modelfile for demo purposes.
+
+Offline installer (~10GB): https://download.tiles.run/tiles-0.4.8-full-signed.pkg
+Network installer (~100MB): https://download.tiles.run/tiles-0.4.8-signed.pkg
+"
