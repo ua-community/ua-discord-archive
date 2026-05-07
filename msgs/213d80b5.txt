@@ -1,0 +1,1 @@
+difference between microsandbox and smol is that the former tries to rebuild the whole docker compose kind fo stack in sdk layer, and smol is trying just to make the primitives and potentially support docker and docker compose for the more complex things
