@@ -1,0 +1,3 @@
+similar is not a spec 😄 https://wicg.github.io/controlled-frame/
+
+but as i said if capabilities and stability are there im happy to make a ployfill
