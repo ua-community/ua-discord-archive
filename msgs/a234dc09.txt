@@ -1,0 +1,1 @@
+going to try smol now, thanks. someone mentioned earlier that libkrun has support for TEE, so I can use that for when I am on Linux.
