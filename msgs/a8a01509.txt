@@ -1,0 +1,1 @@
+but we've optimized the inference stack around gpt-oss-20b model so would ideally like people to try that out
