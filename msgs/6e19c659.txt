@@ -1,0 +1,1 @@
+I already have Tauri as a back-end option. It doesn't do many of the key things I need. It's designed for single-window no-transparency apps. It explicitly says not intended for use with the wild wild web. So no.
