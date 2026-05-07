@@ -1,0 +1,1 @@
+although there's not much difference in functionality between em, unless you wanna see some CUDA logs which aren't in mac
