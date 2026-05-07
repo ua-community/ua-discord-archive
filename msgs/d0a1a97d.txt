@@ -1,0 +1,1 @@
+i thin peek on tauri is already a thing, not sure if its maintained as well as the electron one
