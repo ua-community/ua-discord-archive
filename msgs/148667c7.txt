@@ -1,0 +1,6 @@
+https://shuru.run/ 
+What do you think of this ? (user) 
+It's not directly relevant to tiles I guess. 
+This is a fourth category for sandboxing I've found and trying it now. 
+seatbelt/bubblewrap, Docker, are bad for my environment so I used QEMU there. 
+But QEMU is too heavy for inference use cases. So I am trying this. It's mac native.
