@@ -1,0 +1,1 @@
+My main reason for using IWA afaik its the only browser way of doing webviews in web apps. I would be happy if there was any standard for this but the other browsers don’t seem interested
