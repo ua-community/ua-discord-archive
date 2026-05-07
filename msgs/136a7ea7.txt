@@ -1,0 +1,1 @@
+I don’t view electron or tauri or servo for that matter + some webview alone as being enough to be equivalent to IWA as it misses the super web app part, a web app the user can control that has capability to load other web apps. Electron and tauri let devs ship packaged apps to users. Those apps are not the users app.
