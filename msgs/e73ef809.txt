@@ -1,0 +1,1 @@
+i was thinking about extracting the Peek API into a spec and then trying out some codegen approaches.
