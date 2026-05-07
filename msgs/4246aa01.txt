@@ -1,0 +1,1 @@
+I should pin that to Peek, for how many people think Tauri is just a skinny Rust version of Electron.
