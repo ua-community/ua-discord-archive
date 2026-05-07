@@ -1,0 +1,1 @@
+Aside from the fact that a key design choice of Tauri is "use platform web engine". The idea of dragging an engine around with it is adding yet more friction against what Tauri is trying to do.
