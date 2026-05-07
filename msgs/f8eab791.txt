@@ -1,0 +1,2 @@
+i am not saying you are wrong , in the end its another case of tradeoffs. 
+we just dont have anything better than iwa under assumption a) we accept the window paradigma and b) seeing nodejs as fundamentally incompatible with the web (no sandboxing, eager loading of full packages, no security architecture), if there was we would happily back it.
