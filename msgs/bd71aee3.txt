@@ -1,0 +1,1 @@
+I guess their system prompt is minimal which helps with local models
