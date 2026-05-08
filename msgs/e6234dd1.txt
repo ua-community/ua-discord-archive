@@ -1,0 +1,1 @@
+nice, i was planning on using panproto to do this in place. gotta check out source, see Nick's approach.
