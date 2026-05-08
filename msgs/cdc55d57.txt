@@ -1,0 +1,8 @@
+its just as they say
+MLX, GGUF, Transformers?
+ollama, osaurus, omlx, mlx_studio, lm_studio, llamabarn?
+Q8_0, MXFP4, JANGQ, INT4, OQ2?
+[llama, qwen, command, gpt? ](https://github.com/huggingface/transformers/blob/1d5296f2de31ecee4fdd789dc2b2fe068b320284/src/transformers/models/auto/tokenization_auto.py#L64)
+4k? 16k? 64k? 256k?
+`~/.agents/skills`, .`/.agents/skills`, `<your_system_here>/agents/skills` ?
+temperature? topk? repeat penalty?
