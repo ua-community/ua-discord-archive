@@ -1,0 +1,1 @@
+don't forget Apple not being compliant with the existing standards so they create layers which you have to relearn (Metal, and webgpu to some extent)
