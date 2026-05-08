@@ -1,0 +1,3 @@
+16 GB gpt-oss-20b variant: https://huggingface.co/manjunathshiva/gpt-oss-20b-tq3
+
+cc (user)
