@@ -1,0 +1,1 @@
+look at CPU, so simple, much less standards, two main ISAs (x86 and ARM)
