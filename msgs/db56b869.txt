@@ -1,0 +1,1 @@
+my answer is gguf + llamabarn + the highest that fits for quantization and context. + opencode. real simple
