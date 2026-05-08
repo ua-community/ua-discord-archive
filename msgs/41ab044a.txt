@@ -1,0 +1,1 @@
+idk, i use opencode, and ive used it down to qwen3.5 4b, even qwen3.5 0.8b to great success
