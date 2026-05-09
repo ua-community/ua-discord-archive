@@ -1,0 +1,1 @@
+I think I’m healing about the inference engine layer part not harness part. Having close coordination between these two layers just mean putting config values that work beforehand
