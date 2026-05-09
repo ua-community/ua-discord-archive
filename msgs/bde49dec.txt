@@ -1,0 +1,1 @@
+The atproto side of this is fun too. Playing w/ lexicon spread and pds write fanouts.
