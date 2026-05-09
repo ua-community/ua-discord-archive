@@ -1,0 +1,4 @@
+ok but look, every model is a different architecture optimization, no one reuses whats already out there. this makes it taxing for both people who want to integrate and people who want to optimize one thing
+
+if you optimize one thing, you settle for having less flexibility but more precision since you can focus on building out
+if you optimize for integration, you have amazing flexibility but nothing gets production-quality since it moves so fast youre always building across
