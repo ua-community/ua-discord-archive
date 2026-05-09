@@ -1,0 +1,1 @@
+i do agree, i think thats why i wanted to implement Modelfile in Tiles seeing the long term bet but in the short term trying to vertically integrate around a single model and do lots of polishing around it
