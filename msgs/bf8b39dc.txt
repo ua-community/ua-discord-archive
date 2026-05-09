@@ -1,0 +1,1 @@
+this is not a problem that is solved by doubling down on a single model architecture, its a problem solved by cooperation and standardization; this is why I started MIR
