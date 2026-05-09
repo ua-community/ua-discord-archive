@@ -1,0 +1,1 @@
+temperature and model mapping to agent is typically part of harnesses. why does that need to know how the model is run exactly?
