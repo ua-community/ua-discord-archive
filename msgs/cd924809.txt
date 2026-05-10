@@ -1,0 +1,1 @@
+ublock V2 extension is working. adblock was the most requested missing feature and also the main blocker to be able to browse medium trust websites, excited for the next release
