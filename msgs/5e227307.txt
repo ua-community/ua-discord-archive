@@ -1,0 +1,5 @@
+Initial draft of the blog post: https://github.com/ua-community/ua-extensions/blob/main/posts/future.md
+
+It turned out into a mix of some of the research results and thinking about the future of extensions (and little bit of software).
+
+Let me know what you think. Should I expand on anything?
