@@ -1,0 +1,1 @@
+relevant for opensocial -> it's the "in between" state before permissioned data / uses an app password to do stuff, but works today
