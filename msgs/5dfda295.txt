@@ -1,0 +1,1 @@
+This is quite a rough targeted patch to prove it works, we are missing a bunch of non essential things still but it’s enough to show it works and would be enough if you wanted to ship an IWA as an Android app. Will continue with getting the whole install, installed apps, etc backend working.
