@@ -1,0 +1,1 @@
+hmm i wonder about replacing the custom bot->github flow w/ this more general approach also
