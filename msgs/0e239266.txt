@@ -1,0 +1,3 @@
+Hey everyone, I've been building an internal (for now) documentation tool that combines CRDT (via automerge), multi-agent CLIs (calude, codex, gemini) and user:user collab into a single UI. The backend work is done, but I'm struggling a bit on UX/UI. Here's a quick video sorry it cuts off at 1min... jumpshare free tier caps it at 1min. https://jumpshare.com/share/ay1JJ6pflRjuweXYQvoQ
+
+Feedback is welcome on how I can make the UI more intuitive.
