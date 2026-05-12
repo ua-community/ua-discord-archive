@@ -1,0 +1,1 @@
+> Apple Silicon Macs ship a built-in LLM via Apple FoundationModels. apfel exposes it as a UNIX tool and a local OpenAI-compatible server. 100% on-device. No API keys, no cloud.
