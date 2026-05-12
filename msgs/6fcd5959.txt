@@ -1,0 +1,1 @@
+We're using it for other things on a bigger project this runs on top of. This also has multi user + their agent collaboration, so collisions will happen.  3 users x 3 agents each would yield 12 participants editing a document in real-time.
