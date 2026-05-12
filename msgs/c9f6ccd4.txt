@@ -1,0 +1,4 @@
+Looks like it's mostly a question of the PDS to properly display permissions?
+```
+atproto blob:*/* rpc:app.bsky.actor.getProfile?aud=did:web:api.bsky.app#bsky_appview repo:social.colibri.actor.data?action=create&action=update&action=delete repo:social.colibri.community?action=create&action=update&action=delete repo:social.colibri.category?action=create&action=update&action=delete repo:social.colibri.channel?action=create&action=update&action=delete repo:social.colibri.message?action=create&action=update&action=delete repo:social.colibri.membership?action=create&action=delete repo:social.colibri.approval?action=create&action=delete repo:social.colibri.reaction?action=create&action=delete repo:app.bsky.actor.profile?action=create&action=update
+```
