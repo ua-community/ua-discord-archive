@@ -1,0 +1,1 @@
+i've tested on two ios devices, seemed to work ok
