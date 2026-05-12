@@ -1,0 +1,1 @@
+(user) the previous link worked for me too just the video did not render in the web player. thanks! looks quite cool especially the fact checking and document style chat flow. can you give a few details how you build this? is this a webapp? how are the agents wrapped? own cli / t3 app clone etc?
