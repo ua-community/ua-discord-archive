@@ -1,0 +1,17 @@
+(user) can you do this from your Cloudflare dashboard:
+
+```
+1. Cloudflare Domains, select userandagents.com
+2. Go to Rules → Redirect Rules.
+3. Create a new rule:
+    * If incoming URL matches: *userandagents.com/*
+    * Redirect to: https://userandagents.org/$1
+    * Status code: 301 Permanent Redirect
+
+Also create rules for:
+
+* www.userandagents.com
+* non-www → www or vice versa (pick one canonical version)
+```
+
+Or maybe we just don't bother with it as we've not published anything under the old domain, we will now!
