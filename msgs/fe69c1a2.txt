@@ -1,0 +1,1 @@
+Gave this some more thought. I think maintainability becomes *more* important in vibe coding world, not less. Sure maybe you don't need to maintain the specific thing you're vibe coding, but you sure do want to maintain the context you're going to use it for, so it doesn't break as soon as you introduce the vibe coded piece.
