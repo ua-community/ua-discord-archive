@@ -1,0 +1,5 @@
+---
+PS: I had paused work on syke for a month, and have been working on an environment design to evaluate different memory approaches. Would love to show the early work on this after the syke demo. All that work is to answer the question. 
+
+Why not just a markdown with a filesystem.
+Its a really good question. And thats where I have spent my last month on. So that is bonus demo. Would love to spark a debate
