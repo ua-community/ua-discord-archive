@@ -1,0 +1,1 @@
+nice, are you running generated appimage via the cmd above? or running from source?
