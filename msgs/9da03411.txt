@@ -1,0 +1,4 @@
+@everyone 
+Hello. We have been building on COVEN, a simple p2p distributed research lab for serving and training community AI. We want to support everyone regardless of technical ability by providing an unopinionated way to pool compute for small groups of any interest.  
+
+We will be live installing this work over video with everyone during the [U&A spotlight event](https://discord.com/events/1309454711392305192/1392920685533204590/1504513622016000000) here at <t:1778774400:F> ! You can read more, try it out, and collaborate using this link https://tangled.org/yzzxyz.roomy.chat/coven , and you're welcome to discuss COVEN in <#1457761006901268683>  our join our community [Darkshapes](<https://darkshapes.org/>).
