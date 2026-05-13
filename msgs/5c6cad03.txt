@@ -1,0 +1,1 @@
+hmm can you remind me what this is about? what are you trying to do? any windows should be movable *except* for peeks, which are centered intentionally.
