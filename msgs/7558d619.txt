@@ -1,0 +1,1 @@
+thats how remote link would work, need to figure out a minimal implementation of this
