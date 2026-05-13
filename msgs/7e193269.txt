@@ -1,0 +1,1 @@
+Chad Fowler’s Phoenix architecture suggests re-generating on every CI run, where the maintained artifacts are tests and business outcomes in the form of prompts
