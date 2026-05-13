@@ -1,0 +1,1 @@
+enabled ``@everyone`` access for everyone, hope no one abuses it
