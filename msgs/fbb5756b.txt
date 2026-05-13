@@ -1,0 +1,1 @@
+Movable peeks (webviews) is the main thing, resizable would be nice too. For me personally the keyboard shortcut isn't necessary, so app shortcut will do fine.
