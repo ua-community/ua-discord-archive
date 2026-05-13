@@ -1,0 +1,1 @@
+Like, you don't want a vibe coded component to break the entire app you've been using
