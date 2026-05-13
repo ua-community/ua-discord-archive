@@ -1,0 +1,3 @@
+Testing this now, shortcuts work 🎉 
+
+I'm curious about the `app-region: drag` css, this used to work with the old electron-specific version. This would allow the web view to be moved around the screen. Now it just hides the "peek" (because clicking on anything hides the peek). Do you think this css snippet is still the way to go, or are you thinking of implementing alternative methods to move stuff around?
