@@ -1,0 +1,1 @@
+absolutely agree in that tests are the closest representation to spec, and should be honored, though at the same time there will inevitably be preferences, so seeds and prompts should be kept and able to be returned to
