@@ -1,0 +1,1 @@
+maybe a per-peek setting for centered or not (not==movable) is what we need for this use-case?
