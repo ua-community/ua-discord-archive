@@ -1,0 +1,5 @@
+couple questions:
+
+- OS global hotkey, or just app shortcut?
+
+- Peeks are {modifier}+0-9, pretty constrained... wdyt about a user-defined coupling of [shortcut+url] instead? or you just want movable Peeks?
