@@ -1,0 +1,8 @@
+https://discord.com/channels/1309454711392305192/1388112358047617104/1459226943760236688
+https://discord.com/channels/1309454711392305192/1388112358047617104/1415342084184866917
+
+Move webviews around that I can spawn with a keyboard shortcut. Like you can move around the various in https://elements.diffuse.sh/4.x-nightly/l/?path=facets/themes/winamp/facet/index.html (click artwork and/or browse desktop icons)
+
+the css is already there using a separate stylesheet, not directly on the element.
+
+A setting would be nice yea.
