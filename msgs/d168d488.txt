@@ -1,0 +1,1 @@
+For most apps you will have to log out & in again but beyond that org accounts on ATproto "just" work. With the right PDS/AS that is
