@@ -1,0 +1,35 @@
+---
+So, the "SOON" lasted longer than I had anticipated. I was working on a visualizer for some demos. Here it is. 
+
+https://github.com/saxenauts/syke
+Release 0.5.6
+
+Recall:
+Syke is an experimental cross harness memory agent that intends to work with your main agents and bring coherency in your workflow. It intends to be a hyperagent, that manages and writes its own code (or system context) for how to manage and maintain memory as a response to the incoming harness data on the machine. In that sense it is less of a retrieval agent, and more of an active inference agent. 
+
+
+This release. 
+--
+What: 
+1. Removed the file watcher unifying events.db, The agent now wakes up each tick and reads the source harnesses instead, and maintains the unique shape and interpretation rules of each harness in md
+ex: https://github.com/saxenauts/syke/blob/main/syke/observe/seeds/adapter-codex.md 
+This is where I fully let deterministic heuristics go. 
+
+2. Moved to Pi ecosystem. Syke uses Pi as runtime and for auth. The standard flow.
+
+3. Minimized the system prompt to even thinner instructions layer. This is to carry out experiments and benchmarks on self evolution capability. As a result. But it is useful from day one, and compounding shows results within first week. You can evaluate memory reconstruction tasks with syke against native harness memory. 
+
+4. Added a HTML visualizer. Syke is not meant for active human use, mainly for agents to use. But it helps. 
+
+Issues:
+
+1. The agent "sometimes" copies the harness transcripts from the source into its workspace. Instead of solving it with instructions, I am letting it be to see when the agent starts managing its own cwd better. 
+
+2. This is not designed for filesystem memory problem space. Its a sandbox with read only access to your harnesses. But through transcripts, it will reconstruct the filesystem index whenever. So works in a limited sense. 
+
+
+That's all
+--
+
+Ref:
+Hyperagent : https://arxiv.org/abs/2603.19461
