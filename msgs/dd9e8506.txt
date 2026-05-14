@@ -1,0 +1,4 @@
+mesh-llm is cool on its own, ngl. but i would like to explore
+- making it leaner by reducing things our project wont use
+- making it shard diffusion models and not just llms and not just llama.cpp llms
+- combining drift STDOUT with mesh-llm's cli stuff, and likewise with mesh's web page server
