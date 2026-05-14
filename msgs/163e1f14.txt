@@ -1,0 +1,1 @@
+feel free to muck about in the srt-settings and Justfile or feed it to your favourite LLM until it works
