@@ -1,0 +1,1 @@
+For more context the first attempt didn’t port the full IWA installed app registry stuff it takes the more minimal and sledge hammer approach of porting minimal required to get it working in Android mobile build. Next we need to see what’s required for Android desktop (should be minimal) and then a more extensive port of parts from desktop to mobile.
