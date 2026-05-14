@@ -1,0 +1,39 @@
+im getting this error when building:
+
+```
+just build
+cp srt-settings.json ~/.srt-settings.json
+mkdir -p ./tmp/claude
+rm -rf ./nocturne/.cache/mesh-llm-install
+rm -rf ./nocturne/.cache
+rm -rf ./nocturne/build && mkdir -p ./nocturne/.cache
+==> Downloading pnpm binaries 11.1.2
+[WARN] using --force I sure hope you know what you are doing
+Installing pnpm CLI globally from /private/var/folders/nw/qmw2ykln2wb0xdb8zzy8fkm80000gn/T/tmp.QSTyO8SWwM
+Packages: +1
++
+Progress: resolved 1, reused 0, downloaded 0, added 0
+(node:61439) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///private/var/folders/nw/qmw2ykln2wb0xdb8zzy8fkm80000gn/T/tmp.QSTyO8SWwM/dist/worker.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /private/var/folders/nw/qmw2ykln2wb0xdb8zzy8fkm80000gn/T/tmp.QSTyO8SWwM/package.json.
+Progress: resolved 1, reused 1, downloaded 0, added 1, donewas created)
+
+global:
++ @pnpm/exe 11.1.2
+
+Done in 5.2s using pnpm v11.1.2
+Appended new lines to /Users/feynon/.zshrc
+
+Next configuration changes were made:
+export PNPM_HOME="/Users/feynon/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME/bin:"*) ;;
+  *) export PATH="$PNPM_HOME/bin:$PATH" ;;
+esac
+
+To start using pnpm, run:
+source /Users/feynon/.zshrc
+/var/folders/nw/qmw2ykln2wb0xdb8zzy8fkm80000gn/T/just-PFbarl/install-srt:71: command not found: pnpm
+cd drift && srt cargo build --release
+zsh:1: command not found: srt
+```
