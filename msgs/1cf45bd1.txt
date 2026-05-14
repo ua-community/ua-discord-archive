@@ -1,0 +1,1 @@
+Or relaunching the terminal and calling `just build` again
