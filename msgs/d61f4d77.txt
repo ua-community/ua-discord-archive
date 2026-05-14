@@ -1,0 +1,1 @@
+Super web app has similar trust model to a browser itself
