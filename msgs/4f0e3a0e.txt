@@ -1,0 +1,1 @@
+can you explain the nix spindle thing?
