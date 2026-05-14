@@ -1,0 +1,1 @@
+Will try spinning up a vm with a couple of GPUs to test now
