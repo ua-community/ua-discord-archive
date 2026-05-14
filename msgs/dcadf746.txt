@@ -1,0 +1,1 @@
+yeah my problem here is : i dont think anyone whos not doing development should need to install docker
