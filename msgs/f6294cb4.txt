@@ -1,0 +1,10 @@
+try changing in the Justfile
+```
+build-drift: install-srt
+    cd drift && srt cargo build --release
+```
+to
+```
+build-drift: install-srt
+    cd drift && srt --debug cargo build --release
+``` ?
