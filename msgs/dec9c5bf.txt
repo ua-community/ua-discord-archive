@@ -1,0 +1,1 @@
+Currently as far as Google is concerned it’s only available on chrome os and windows officially and quite locked down to enterprise admin whitelisting of IWA apps but it works on other platforms if you set the correct flags. So Mac, Linux, and by the looks of things also Android soon.
