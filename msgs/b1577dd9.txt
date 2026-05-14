@@ -1,0 +1,1 @@
+i always tried to limit deps to big projects that can be reasoned about and dont go away. but its always a tradeoff
