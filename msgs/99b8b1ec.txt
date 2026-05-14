@@ -1,0 +1,1 @@
+so it should be on the PATH if you restart the CLI
