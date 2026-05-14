@@ -1,0 +1,1 @@
+It’s also possible to install unpacked in dev mode so it’s live editable
