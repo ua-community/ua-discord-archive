@@ -1,0 +1,1 @@
+fwiw docker isn't too hard to install these days with Docker Desktop being a thing, you don't have to know any CLI stuff to use it
