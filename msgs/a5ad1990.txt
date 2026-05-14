@@ -1,0 +1,1 @@
+this is good! it means you cant symlink to a place and bypass the sandbox
