@@ -1,0 +1,1 @@
+Maybe you can set redirect rules to the new .org website in Cloudflare or I can add a page on the domain informing visitors where our new home is
