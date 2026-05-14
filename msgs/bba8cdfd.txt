@@ -1,0 +1,1 @@
+but if you want to work on a docker image together id make it part of the repo
