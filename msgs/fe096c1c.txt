@@ -1,0 +1,3 @@
+I just removed the `srt` command prefix and then it worked 😅 
+
+Now fighting with `pnpm` which is complaining for some reason (totally a problem on my machine, `yarn` doesn't work either)
