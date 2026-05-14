@@ -1,0 +1,1 @@
+which you should not need to do, if you're shipping a native app in the end. You can ship the app with the image baked in, without pulling it from the registry.
