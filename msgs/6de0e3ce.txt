@@ -1,0 +1,1 @@
+you should restart the terminal after pnpm is installed for that problem, then ensure `pnpm` works
