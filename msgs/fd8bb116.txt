@@ -1,0 +1,3 @@
+I have a rust WebAssembly website which deploys using nix flakes (I could have just used cargo but I like suffering ig) and it was a pain in the butt for sure
+
+and even then no LLM could have helped me there because of bad documentation
