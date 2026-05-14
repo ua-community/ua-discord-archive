@@ -1,0 +1,1 @@
+so if you can do `just build-drift` and `just build-nocturne` you should be able to run `covn` just like that
