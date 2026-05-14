@@ -1,0 +1,1 @@
+worst case scenario anyway. it wont have the mesh-llm component, but itll be something you could train models with
