@@ -1,0 +1,3 @@
+Yeah I'm using Bluefin which is an atomic distro, sometimes makes things more difficult. Although this is all in the user folder so it should be fine..
+
+Thanks for the help! 🙏 I'll see if I can get it to work.
