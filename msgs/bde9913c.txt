@@ -1,0 +1,1 @@
+Try installing `pnpm` using `brew install pnpm` for example
