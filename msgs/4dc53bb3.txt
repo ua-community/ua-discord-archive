@@ -1,0 +1,1 @@
+They can host a .swbn (signed web bundle) file that the user can then manually install into their chrome or can be launched using the native launcher we have made. There is first an install flow and then it’s available as a desktop app with its own entry point app shim. Similar to PWA but with the super powers granted by the IWA manifest.
