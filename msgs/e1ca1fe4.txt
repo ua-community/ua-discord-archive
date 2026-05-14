@@ -1,0 +1,1 @@
+yeah i dont know that theres anything i can do wrt ~/.local/bin because several other scripts use it too
