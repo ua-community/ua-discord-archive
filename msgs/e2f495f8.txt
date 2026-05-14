@@ -1,0 +1,1 @@
+You'll likely be pulling other images from the registry, but that's free and also doesn't require sign in
