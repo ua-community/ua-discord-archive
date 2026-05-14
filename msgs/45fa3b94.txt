@@ -1,0 +1,12 @@
+It's all good. I don't know why so many tools fail to work on my machine tho.
+```
+node:internal/modules/cjs/loader:1478
+  throw err;
+  ^
+
+Error: Cannot find module '/home/toko/.local/share/pnpm/global/v11/5af3b-19e26762ea1/node_modules/pnpm/bin/pnpm.mjs'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1475:15)
+    at wrapResolveFilename (node:internal/modules/cjs/loader:1048:27)
+    at defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1072:10)
+```
+What does that even mean 😂
