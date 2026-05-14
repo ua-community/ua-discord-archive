@@ -1,0 +1,1 @@
+Well, almost, I guess. Claude is a bit more than the Barnum effect, but you still have to remember that an LLM only has an associated web of concepts encoded in it.
