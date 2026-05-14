@@ -1,0 +1,21 @@
+Hehe, thanks 😊  Ok, it's building now 🎉 
+
+Something in this build script is installing `pnpm` into my `.local/share` folder, even though it's already installed using homebrew. This additional pnpm doesn't seem to work well, homebrew version does. It's probably that `pnpm self-update` thing that does it.
+
+```
+Error: unsupported backend 'Checking for updates...
+The currently active pnpm v11.1.2 is already latest and doesn't need an update
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Packages: +6
+++++++
+Progress: resolved 6, reused 6, downloaded 0, added 0, done
+
+global:
++ @anthropic-ai/sandbox-runtime 0.0.51
+
+Done in 722ms using pnpm v11.1.2
+cpu' (expected cpu, cuda, rocm, or vulkan).
+```
+Looks like it's outputting a bunch of extra pnpm stuff into the $BACKEND variable. I fixed this by swapping `target: install-srt` with `target:` in the just file.
+
+And lastly, had to remove a bunch of `srt` calls, more readonly errors.
