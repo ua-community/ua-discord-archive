@@ -1,0 +1,1 @@
+For nontechnical UX, I think you're ultimately looking to package this as a native app
