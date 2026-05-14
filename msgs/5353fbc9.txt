@@ -1,0 +1,1 @@
+Google covers it a bit on this page but it’s more orientated to usual model of devs packaging apps for users to use. We think of it more as a way for user to take control
