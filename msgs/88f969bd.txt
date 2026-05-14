@@ -1,0 +1,1 @@
+i think containers are much safer tho! and ive looked at vms too! but ultimately the problem i want to solve is 'give local training and inference to everyone'
