@@ -1,0 +1,15 @@
+```
+
+        "allowWrite": [
+            ".",
+            "./nocturne",
+            "src/",
+            "test/",
+            "/tmp/",
+            "~/.local/",
+            "/var/folders/",
+            "/tmp/",
+            "/usr/local/lib",
+            "~/.cargo"
+        ],
+```
