@@ -1,0 +1,1 @@
+Really it’s similar to an electron app from user pov the difference is this one can have edit source
