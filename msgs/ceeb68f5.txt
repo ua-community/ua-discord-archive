@@ -1,0 +1,10 @@
+Here's the output for `srt --debug mkdir -p ~/.mesh-llm && cp config.toml ~/.mesh-llm/config.toml`
+(simple test case for the readonly fs)
+
+I won't post the git diff, I made a mess 😅 My editor also reformatted the entire Justfile so that doesn't help. That said, the summary I posted above describes the most important changes I made.
+
+I removed `srt` calls from:
+- wherever `cargo` is called
+- `just build $target` in linux build-mesh task
+- `mkdir -p ~/.mesh-llm && cp config.toml ~/.mesh-llm/config.toml` in that same task
+- various `uv` commands
