@@ -1,0 +1,1 @@
+You don't actually need to sign in to use Docker Desktop
