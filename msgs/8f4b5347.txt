@@ -1,0 +1,1 @@
+Housekeeping: socket (https://socket.dev) have granted us a free team plan so we can add to dependency scan and supply chain protection to ci builds. Help protect a bit against the torrent of supply chain attacks
