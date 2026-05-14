@@ -1,0 +1,1 @@
+Something the user installs as a self contained unit, runs, and it just works
