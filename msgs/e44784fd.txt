@@ -1,0 +1,1 @@
+`cd drift && mkdir ./.cargo && CARGO_HOME=./.cargo srt --debug cargo build --release`
