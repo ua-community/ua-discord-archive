@@ -1,0 +1,6 @@
+for a non-developer, getting mesh-llm going means:
+- installing cargo/rust
+- installing pnpm
+- installing just
+- if youre on linux, having build system setup
+- knowing your gpu type
