@@ -1,0 +1,1 @@
+User installed like a native app, packaged, signed, ideally with the super web app being fully open and under the users control so they can audit or modify however they wish. So I would say better than your regular native app
