@@ -1,0 +1,1 @@
+https://docs.tangled.org/spindles#secrets-with-openbao
