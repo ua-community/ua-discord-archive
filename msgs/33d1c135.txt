@@ -1,0 +1,1 @@
+but i realized it would take me like 2 weeks to understand nix
