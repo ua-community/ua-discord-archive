@@ -1,0 +1,1 @@
+I’m all for other engines supporting super web apps (web apps that load other web apps in webview like things)
