@@ -1,0 +1,1 @@
+That’s the approach I took with Tiles. Made an installer, packaged everything with venvstacks
