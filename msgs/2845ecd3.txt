@@ -1,0 +1,1 @@
+Ideally we won't need a centralized registry in the future, but that's a future ATProto problem
