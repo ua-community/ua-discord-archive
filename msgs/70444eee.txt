@@ -1,0 +1,4 @@
+so as a means to train models it is immediately ready to go, and that same nested python could be used to build things like
+- something that ran transformers models in addition to llama.cpp
+- something that did some other ml task that reuqired a lot of compute
+and it also controls the distributed storage sys
