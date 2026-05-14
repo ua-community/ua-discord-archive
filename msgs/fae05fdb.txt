@@ -1,0 +1,1 @@
+I tried doing that using the command panel, but I can't figure out how to get it to work. Also the text is invisible unless I select it so that doesn't help (I'll post screenshot).
