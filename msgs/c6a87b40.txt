@@ -1,0 +1,1 @@
+What else to say. IWA loads in its own window so doesn’t load in a tab in the regular browser and we use an isolated separate user data directory and profile so it’s fully separate from people’s regular chrome state
