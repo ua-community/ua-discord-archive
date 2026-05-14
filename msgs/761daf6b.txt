@@ -1,0 +1,9 @@
+(user) Do you have any precompiled binaries for Linux? Rust cargo build keeps failing for me, been trying to fix it, but no luck.
+
+Fails here:
+```
+cd drift && srt cargo build --release
+    Updating crates.io index
+warning: failed to write cache, path: /home/toko/.cargo/registry/index/index.crates.io-1949cf8c6b5b557f/.cache/an/yh/anyhow, error: Read-only file system (os error 30)
+```
+Tried reinstalling Rust, cleaning cargo folder, fixing permissions, etc. <a:jake_shrug:1060243120568156160>
