@@ -1,0 +1,8 @@
+```
+    if command -v pnpm >/dev/null; then
+        pnpm add -g {{_sandbox_pkg}}
+    else
+        curl -fsSL {{_pnpm_url}} | sh -
+        pnpm add -g {{_sandbox_pkg}}
+    fi
+```
