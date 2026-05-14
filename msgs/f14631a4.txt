@@ -1,0 +1,1 @@
+I really hope AMD & others catch up with the rdma over thunderbolt. Hoping for anything in consumer space feels futile atm.
