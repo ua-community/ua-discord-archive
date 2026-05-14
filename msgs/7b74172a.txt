@@ -1,0 +1,1 @@
+I think it would improve the UX, docker images can do a lot of that install stuff so all a self hoster has to know is "start the container" if you have Docker installed. It also enables multistage builds, so the final image doesn't need to have all the build tooling in it.
