@@ -1,0 +1,1 @@
+Our approach is to use a lunched to setup chrome correctly and then start the IWA and local backend services. We may also fork a chromium based browser to remove the requirement for flags and add some further optimizations. However it’s nice to keep it working with regular chrome, helium, Vivaldi, edge, etc.
