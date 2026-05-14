@@ -1,0 +1,2 @@
+`[SandboxDebug] [Sandbox Linux] Skipping symlink write path pointing outside expected location: /usr/local/lib -> /var/usrlocal/lib`
+`[SandboxDebug] [Sandbox Linux] Skipping symlink write path pointing outside expected location: ~/.cargo -> /var/home/toko/.cargo`
