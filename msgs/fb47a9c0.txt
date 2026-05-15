@@ -1,0 +1,3 @@
+yeah the anthroic sandbox-runtime was lightweight, but gave me an icky feeling as it was required to make a /tmp/claude folder for no good reason. i was going to clip that out but i couldnt be bothered.
+
+underneath anthropics work are bubblewrap and a linux sandbox that were like, my top choices before finding it, so I picked it b/c it saved time
