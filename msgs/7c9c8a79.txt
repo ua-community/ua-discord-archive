@@ -1,0 +1,1 @@
+It doesn't really make any assumptions of how to do that using the user agent.
