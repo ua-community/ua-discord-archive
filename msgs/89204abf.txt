@@ -1,0 +1,1 @@
+minimax, gpt-oss, qwen3.5
