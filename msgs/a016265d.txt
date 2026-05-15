@@ -1,0 +1,1 @@
+yeah i need to look into how they write records and how it differs. my approach is opinionatedly decoupled in a way that leaves archival trust signifier even if the coordinator dies. i wonder how they approach that reliance risk.
