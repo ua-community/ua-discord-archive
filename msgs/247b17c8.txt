@@ -1,0 +1,6 @@
+I got like 7 hours left in the research grant.
+
+What should we do with the remaining time?
+- Work out more details on a topic addressed in the blog post: sandboxing, permissions, building blocks, software lifecycles, etc. (user) You said something in the past about describing a permission system. Let me know if you still find that interesting, if so, curious what you had specifically in mind.
+- Research DOM interactions performed by agent skills (as a replacement for browser extensions, eg. password autofill). How can we make this a real thing?
+- Think more about security
