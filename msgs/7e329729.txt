@@ -1,0 +1,1 @@
+> Fast, encrypted connections via iroh. NAT traversal and relay built-in.
