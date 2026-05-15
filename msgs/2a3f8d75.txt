@@ -1,0 +1,1 @@
+SLMs were kind of a big hype a bit ago https://huggingface.co/blog/jjokah/small-language-model
