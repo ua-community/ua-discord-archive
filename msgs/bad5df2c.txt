@@ -1,0 +1,1 @@
+before this i also used local llms for code but they didnt do very well, so id use them to write small lines of code or small functions or methods, and then fix it myself
