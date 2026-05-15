@@ -1,0 +1,1 @@
+i agree, i really wanted to use a VM because the isolation is just better, but i couldn't find one that was easy to work with cuda and apple and amd gpus
