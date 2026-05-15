@@ -1,0 +1,1 @@
+There is chromium for Apple TV being worked on by igalia, but afaik while it’s in theory it’s technically possible and allowed in Europe, nobody has shipped a chrome on iOS browser yet.
