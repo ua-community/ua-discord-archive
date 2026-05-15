@@ -1,0 +1,1 @@
+we have the same docker + vm issue. i think the ultimate solution will be embeddable microvms, until thats production ready we try to make docker with colima more usable
