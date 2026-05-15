@@ -1,0 +1,1 @@
+The reason chromium for Apple TV exists is YouTube team used a hacked chromium to shop YouTube for Apple TV and they wanted the mess cleaned up
