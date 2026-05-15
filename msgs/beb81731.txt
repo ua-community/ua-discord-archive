@@ -1,0 +1,1 @@
+another important aspect: people are just going to have agents build a chromium fork so the old division line is just going to fall apart and an insecure chromium fork is going to be worse than a mealleable browser that is made with all the policy, sandboxing and auditing to be changed
