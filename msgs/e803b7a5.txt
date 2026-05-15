@@ -1,0 +1,5 @@
+couple notes:
+
+- recommend removing "and software on the web" from the initial statement - it balloons the scope right out of the gate but then doesn't address that broader scope until the conclusion
+- update the "this" link with a description of what's happening, so that the text stands alone without needing to click the link
+- in the Peek description do s/substrate/overlay/
