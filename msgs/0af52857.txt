@@ -1,0 +1,1 @@
+web bundle iwa is already separate a data container. we just make a new profile for added isolation and also being able to enable cdp protocol if needed
