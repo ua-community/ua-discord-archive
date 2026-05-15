@@ -1,0 +1,11 @@
+(user) can you set these records for the .org domain for leaflet blog, need to publish (user) article?
+
+```
+Type    Name    Value
+TXT
+_vercel.userandagents.org
+vc-domain-verify=blog.userandagents.org,c8261d35363c9af797b6
+CNAME
+blog
+731fb7077db63b1d.vercel-dns-016.com.
+```
