@@ -1,0 +1,1 @@
+I think then I will try and modularize the sandbox so either one or none can be used. tokono struggled to get it working on Bluefin with the sandbox, and i feel pretty certain after learning the workings of Bluefin their system would NOT get broken by sandbox being off
