@@ -1,0 +1,1 @@
+I would add that there are ways to log of all network requests made so as well as checking the code you can verify at the network level
