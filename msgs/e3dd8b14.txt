@@ -1,0 +1,1 @@
+Mostly the former, it's challenging the way users extend/manipulate the web page they're viewing.
