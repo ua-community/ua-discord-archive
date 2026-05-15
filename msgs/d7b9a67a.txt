@@ -1,0 +1,2 @@
+Which models besides Claude is everyone using for coding? I'm looking at other options now that open weight models have caught up to Opus 3.6
+Z.ai GLM 5.1 looks capable enough.
