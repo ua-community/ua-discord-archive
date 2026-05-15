@@ -1,0 +1,1 @@
+This applies to the IWA but also to apps and agents running inside the sandboxes. Jan has gone deep on making everything observable and bringing all the permissions into a place the user can view and control
