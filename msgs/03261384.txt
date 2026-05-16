@@ -1,0 +1,13 @@
+At ai engineer and was triggered by watching cursor’s talk. Claude helped me express how I feel about it. 
+
+Imagine you buy a house, and the basement is locked, and only the original contractor has the key. If anything breaks, if you want to change a wall, if you just want to know what’s down there, you have to ask him. He might be too busy. He might say no. You wait. You stop asking. You become, in Stallman’s word, resigned.
+
+That was 1984.
+
+Forty-two years later, the basement isn’t just locked. The contractor has wired the rest of your house. Every word you say in your kitchen is recorded. Every page of every book you read in your study is logged. The camera in your hallway watches you work. All of it flows down into the basement you can’t enter, gets sorted, indexed, fed into machines you’ll never see.
+
+And then he sells the keys. Not to you. To the highest bidder. Maybe a man who’s building his own city across town and wants to know how people like you live, so he can build houses that anticipate you, replace you, or simply replace the work you do in yours. You signed something when you moved in that said this was allowed. You didn’t read it. Nobody reads it. That’s the design.
+
+You still live there. You still pay the mortgage. You’re still told, by the contractor, that this arrangement is for your benefit, that the alternative is a worse house, a slower house, a house without the conveniences his basement provides. And he stands on a stage and says: no more locked basements. While holding the key he just sold to an evil billionaire who is moving in as we speak. 
+
+That’s what closed source is now. It was already wrong in 1984 when the basement was just locked. In 2026 the basement is a surveillance apparatus with a resale market, and the contractor is selling you the lock as a feature.
