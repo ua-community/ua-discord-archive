@@ -1,0 +1,1 @@
+NOPE: https://www.whatsmydns.net/dns-lookup?query=userandagents.org&server=cloudflare
