@@ -1,0 +1,5 @@
+hey, (user) and me were thinking about commiting whole next month of work doing experiments/research on how local models, Iroh and ATProto could work together to enable new things that were not possible before under User & Agents banner (not Tiles) and possibly get a research grant to the same end from U&A funds and then present it with the talk at Local First Conf. (I'll make sure the talk is not explicitly about Tiles but the general work we have done exploring this space in last 6 months under Tiles and U&A community). For local models in this research we will not be using Tiles but something ready off the shelf like Ollama or LMStudio SDKs for quick prototyping. 
+
+What does the community thinks about this proposal?
+
+cc (user), (user) , (user), (user), (user), (user)
