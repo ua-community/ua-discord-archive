@@ -1,0 +1,1 @@
+Private chat sneak peek in Tiles: encrypts the chat transcript using a key embedded in the shared link. The client decrypts it locally using that key and renders the chat.
