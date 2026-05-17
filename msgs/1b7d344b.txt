@@ -1,0 +1,1 @@
+the important question is really why do we think infosec *wouldnt* be changed by workflows with improved automation?
