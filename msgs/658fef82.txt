@@ -1,0 +1,1 @@
+I still think that depends on how you use it, and the balance you strike between your own thinking and asking AI for help. People need to understand that LLMs are just abstract concept spaces that we can probe with prompts. It's possible to pull some great stuff out of there, and it can absolutely quickly fill gaps in your knowledge, but you have to know what and how to ask.
