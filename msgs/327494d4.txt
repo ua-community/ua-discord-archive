@@ -1,0 +1,9 @@
+```
+Type    Name    Value
+TXT
+_vercel.userandagents.org
+vc-domain-verify=blog.userandagents.org,d1f4e6861ba71f536138
+CNAME
+blog
+731fb7077db63b1d.vercel-dns-016.com.
+```
