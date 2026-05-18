@@ -1,0 +1,5 @@
+Some other stuff recently:
+
+- Peek MCP is now far more robust, can handle many simultaneous connections and large volumes of reads/writes
+- Session restore is now more robust and wayyy more performant (testing w/ 35+ windows), and also made UX fixes like ensuring last-focused-window is up and interactive while restoring things in background
+- A bunch of UX polish and bug fixes for the windows/exposé feature
