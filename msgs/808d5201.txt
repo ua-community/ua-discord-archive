@@ -1,0 +1,1 @@
+Neat. Is that embedded key a shared key? (as in a key meant to be used for key exchanges like X25519)
