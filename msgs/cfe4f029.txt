@@ -1,0 +1,1 @@
+it's rough, but could make a shell alias: sh -c 'ELECTRON_RUN_AS_NODE=1 "/home/you/Apps/Peek.AppImage" "/home/you/.local/share/peek/peek-cli.mjs" open-url https://example.com'
