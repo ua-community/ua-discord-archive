@@ -1,0 +1,1 @@
+hrm, i tested this and it works fine on asahi/gnome.
