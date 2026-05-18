@@ -1,0 +1,1 @@
+very weird. dig shows no cname records. but the website would not be showing up if that was the case.
