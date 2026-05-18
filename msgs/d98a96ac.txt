@@ -1,0 +1,1 @@
+Back in ancient times when I used a proprietary note editor like Obsidian, I used iCloud sync *and* Pcloud sync instead of Obsidian Sync. Obsidian's religiosity around an open document format in the *product* ensures that there's no constraints at the *service* layer.
