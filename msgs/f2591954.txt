@@ -1,0 +1,1 @@
+ok should be good soon, namecheap auto appends domain so _vercel.userandagents.org became _vercel.userandagents.org.userandagents.org
