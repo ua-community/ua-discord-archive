@@ -1,0 +1,1 @@
+yeah this is Nous's service. Its pretty cool distributed network, but its baked into Solana and requires a wallet. to do off-chain it relies on a centralized server
