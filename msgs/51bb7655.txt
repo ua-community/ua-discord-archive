@@ -1,0 +1,5 @@
+Thanks for checking! Maybe I messed something up.. I had to replace all `yarn` commands with `npm run` because `yarn` refuses to work on my machine 😂 🫠 
+
+Suppose that it does work, how do I do this thing you mentioned earlier?
+> just urls! you can pass it to app directly
+> opens in "page host"
