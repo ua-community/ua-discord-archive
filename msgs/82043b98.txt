@@ -1,0 +1,1 @@
+goal have something that runs on modern hardware has modern isolation primitives you can use for a cap system and  no app level dev has to ever know what unix acls look like
