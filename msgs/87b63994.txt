@@ -1,0 +1,1 @@
+hm, yeah actually i could do that on appimage post-install
