@@ -1,0 +1,1 @@
+not sure i follow how local models have higher risk for error. obviously they will always lag behind in capa and smartness but if that leads to errors is more a matter of the system around it. obviously that requires them reaching a certain threshold first but that seems to be finally happening
