@@ -1,0 +1,1 @@
+Like you suggested take down GPUs from doing inference when we want to do training
