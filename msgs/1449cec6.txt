@@ -1,0 +1,1 @@
+Think "reader mode" but forced on every web page.
