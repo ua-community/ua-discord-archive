@@ -1,0 +1,1 @@
+another option might be https://github.com/NVIDIA/NVFlare
