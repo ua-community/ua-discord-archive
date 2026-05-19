@@ -1,0 +1,1 @@
+For inference not really needed but would help with training but only works for 2 cards
