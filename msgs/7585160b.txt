@@ -1,0 +1,1 @@
+Cost wise its mostly ram and gpus that impact things but its 2-3k without gpus. 700-1000 usd per 3090 added.
