@@ -1,0 +1,1 @@
+For networking made mistake of using tplink early (don’t do that), then switched to MikroTik which is more pricey but easy for ai to manage. For high speed networking went with 10gbe Intel and 40gbe mellanox (cheap). Sourced second hand sx6036 sx6018 from UK and US.
