@@ -1,0 +1,9 @@
+Demo spotlight #3 (happening Thursday morning in US, afternoon EU, night in Asia) will feature #skye by (user) 
+
+Syke is a self evolving memory harness that works as a daemon with a 15 minute tick. It maps and binds the cross session, cross harness information across all your agents (claude code, codex, pi, etc.) and maintains a sqlitedb, and a durable markdown that is updated every 15 minutes. The intent is the agent learns to adapt its memory process around the user's explicit and implicit usage.
+
+Reminder to join us and participate in trying it out and providing feedback. Also projects wanting to be featured on spotlight ping me and I’ll add you into hat for next time. 
+
+I’ll post again the day before and @ everyone on the day. Please share and invite others to join.
+
+https://discord.gg/SQZSXwEXZ?event=1392920685533204590
