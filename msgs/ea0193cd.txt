@@ -1,0 +1,1 @@
+from a purely deterministic standpoint, I would argue yes, its just harder to detect since it is a black box to us
