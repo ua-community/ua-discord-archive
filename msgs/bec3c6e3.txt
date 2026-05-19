@@ -1,0 +1,1 @@
+theres also a significant gap in effort required between writing a curl request to openai api and setting up a harness, a server, acquiring a model that works correctly, messing with skill files and .json files
