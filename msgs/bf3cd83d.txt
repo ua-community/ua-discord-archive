@@ -1,0 +1,7 @@
+wow, just seeing this makes all these kind seperate intuitions/observations/shower thoughts crystallize into a very clear picture of where things are headed. 
+
+anthropic/openai basically want to be the cloud provider of agents - ie every agent, "agents as a service" are run through their services - whereby they not only control the infrastructure through this spaghetti investment structure with google, microsoft, facebook, amazon, but also control the actual app itself.
+
+then they'll controll the marketplace for agents in the same way that uber controls rides. the goal is clear : get people addicted, get people deploying companies with agents, and then jack up the prices once the monopoly is secured - and the quicker the can go public, the easier it will be to blindsight everyone. 
+
+basically we're heading to a place where there's a megacorporation - some hybrid of the big tech companies nvidia anthropic and openai, running all the internet, resembling the kingdoms of the austriohungarian empire or what have you
