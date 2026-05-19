@@ -1,0 +1,1 @@
+Mostly 3090 for GPUs but some 3080 tis too as they were relatively cheap and was running out of local supply of 3090s
