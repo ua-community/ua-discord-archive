@@ -1,0 +1,1 @@
+Yeah! But I want to get existing text formats and compress them down to the more minimal spec (markdown, html, gemini, nomadnet).
