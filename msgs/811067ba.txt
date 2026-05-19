@@ -1,0 +1,5 @@
+Implemented and tested.
+
+Linux install of appimage: `yarn build:electron:install:linux`
+
+Open a URL: `peek https://example.com`
