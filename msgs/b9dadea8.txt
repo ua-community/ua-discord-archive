@@ -1,0 +1,1 @@
+but think about it this way, you could have your existing nodes cache encrypted content to serve to mobile
