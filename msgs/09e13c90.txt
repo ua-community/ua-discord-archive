@@ -1,0 +1,1 @@
+so you have something a lot closer to a traditional datacenter then, and using nvlink?
