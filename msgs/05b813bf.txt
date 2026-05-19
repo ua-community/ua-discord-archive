@@ -1,0 +1,1 @@
+Yeah I want to keep the DOM and JS. I'm just flattening the types of UI to the lowest common denominator between platforms, basically what's in ARIA roles / Markdown.
