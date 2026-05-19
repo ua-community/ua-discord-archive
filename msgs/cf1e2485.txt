@@ -1,0 +1,1 @@
+As for last part… I did end up adding 32a 3 phase power box and running 32a single phase to each rack.
