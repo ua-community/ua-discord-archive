@@ -1,0 +1,1 @@
+i understood it more like browser rendering components  not like a text based interface
