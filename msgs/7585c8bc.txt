@@ -1,0 +1,3 @@
+Tiles has encrypted P2P sync for chats with Iroh and supports sharing chats publicly and privately on ATProto. Soon we will have our own Tiles lexicon and support automations with ATProto ecosystem by composing diff lexicons on device (using best of both deterministic and no deterministic methods). Also with Tiles we’re not using any third party inference engine.
+
+Soon we will also have remote link to tunnel Tiles and other local host deployed services to the internet so that you can use your machines compute/deployed mini apps across devices
