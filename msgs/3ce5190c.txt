@@ -1,0 +1,1 @@
+I think I'd rather just not target iOS than deal with sideloading on iOS tbh
