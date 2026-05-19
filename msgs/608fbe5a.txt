@@ -1,0 +1,1 @@
+Current gen epyc ddr5 h200 etc was not something I could get so went with older gen epyc plus 3090s as it its best bang for the buck.
