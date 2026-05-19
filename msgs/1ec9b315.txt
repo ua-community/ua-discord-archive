@@ -1,0 +1,1 @@
+Part of this is that I want to focus on authoring documents / viewing more than arbitrary interactive applications to start. At least for the p2p/mesh network use case. 😅
