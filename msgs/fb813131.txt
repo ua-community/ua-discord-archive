@@ -1,0 +1,1 @@
+Posted from Discord running in a window in Peek on Asahi Linux on a Macbook Air. AppImage install shows Peek as an option in the Gnome Settings defaults pane now.
