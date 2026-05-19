@@ -1,0 +1,1 @@
+local models have higher risk of misconfiguration, and the quantization required to fit inherently adds loss which is technically 'error'. but its not like those problems cant be mitigated
