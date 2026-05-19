@@ -1,0 +1,1 @@
+Yeah that's a cool approach to it. Like a remote server instead of local rendering.
