@@ -1,0 +1,1 @@
+Motherboards mixed epyc but Chinese h12-d8 is most common but also super micro, Asrock, gigabyte etc. Slimsas risers for GPUs
