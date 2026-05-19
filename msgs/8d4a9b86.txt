@@ -1,0 +1,1 @@
+or the extreme version, site that renders the app content you want as images with the illusion of interaction, like HTML image maps
