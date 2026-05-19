@@ -1,0 +1,1 @@
+As for setup most server boards come with BMC port that you connect to switch configured to give out ip via dhcp. Setup done via agent running on Mac mini connected to same management network. Bunch of custom reverse engineered tooling and skills added for setup. Ai can basically do everything now
