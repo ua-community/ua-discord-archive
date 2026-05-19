@@ -1,0 +1,1 @@
+yeah but not flattenning html back to text based, sounded more like flattening to an intermediate simplerbut still richer ui form
