@@ -1,0 +1,1 @@
+Nodes are 1-8 GPU but I think probably 2 GPU seems to be sweet spot as that fits 27-32b size nicely without squeezing too much
