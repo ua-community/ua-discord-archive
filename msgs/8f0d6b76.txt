@@ -1,0 +1,1 @@
+Then some smaller ones to run on 3080s
