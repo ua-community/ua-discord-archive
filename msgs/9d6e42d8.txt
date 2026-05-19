@@ -1,0 +1,5 @@
+There are some UX niceties I'd like to add, but haven't looked at, eg:
+
+- options for opening at specific position/size/etc
+- if opened before, open in same position/size/etc
+- if already open, switch to open one
