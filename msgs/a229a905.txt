@@ -1,0 +1,1 @@
+but on the other hand, if openai decide to change gpt__ and now you get a different answer to the same query a month ago, is this an error?
