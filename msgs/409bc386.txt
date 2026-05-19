@@ -1,0 +1,1 @@
+I love the web don't get me wrong. My thinking is I want something like the web but with the look and feel of native so that developers can focus more on content and function and users can have more say on how it should look. My hypothesis is that a smaller surface area for the UI on the developer side gives more opportunities on the user agent side for adding functionality
