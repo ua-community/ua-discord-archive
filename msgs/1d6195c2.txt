@@ -1,0 +1,1 @@
+Mostly the spec is close to this https://blog.cloudflare.com/cloudflares-gen-x-servers-for-an-accelerated-future/
