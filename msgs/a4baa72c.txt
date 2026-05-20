@@ -1,0 +1,2 @@
+Likes: portable identities, signed data
+Dislikes: signatures aren't everywhere, loads of complex infra for a global view most use-cases don't need
