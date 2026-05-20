@@ -1,0 +1,1 @@
+so basically its a form of double entry bookkeeping of promises and fullfillments : or even the possibility of asking for that
