@@ -1,0 +1,1 @@
+To me the ideal PDS migration story looks like "switch PDS in DID document to backup PDS that has been quietly syncing in the background the whole time"
