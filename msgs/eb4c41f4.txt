@@ -1,0 +1,1 @@
+Try it after we push next release this weekend. Tool calls/extensions would be functional with web search built in out of the box (using Exa MCP, they don’t need an API key to work and have zero data retention policy). We will do more on this front with privacy filters and IP obfuscation later on
