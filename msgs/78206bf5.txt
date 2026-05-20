@@ -1,0 +1,1 @@
+For memory we will use nanomem like approach integrated as a Pi extension
