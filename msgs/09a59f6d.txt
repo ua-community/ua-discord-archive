@@ -1,0 +1,3 @@
+Btw, couple things from the Discord-> Semble integration at https://disjecta.portable.agency:
+- I had the test rule wrong, so there are links there from other channels too 😅 I'll leave there, since no real negative to doing so
+- I added backfill support, so it'll start paging through <#1357325149615030302> and adding every URL in message history
