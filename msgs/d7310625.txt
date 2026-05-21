@@ -1,0 +1,1 @@
+Just a naive RLM is also a memory policy, and wanted to try that. I want to generate right feedback signal somehow.
