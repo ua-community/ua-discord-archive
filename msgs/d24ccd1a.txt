@@ -1,0 +1,1 @@
+vivaldi overhaul “All toolbars now live on a single, continuous surface: a Unified frame that wraps the entire browser. Instead of stacked regions, everything is composed within the same visual plane.”
