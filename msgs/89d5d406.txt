@@ -1,0 +1,1 @@
+one thing i was thinking a lot about was temporal logic (user) , not sure if you've ever studied it - but it allows you to specify predicates over time periods, so like you could say this interval was "focused" on this bug or something - that might be one interesting way to kind of reduce the noise
