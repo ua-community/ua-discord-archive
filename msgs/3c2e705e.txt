@@ -1,0 +1,1 @@
+Having too much fun, next month we will do mostly polish work on Tiles core codebase (perf, basic sync, atproto and plugins) while shipping these 4 items as research previews to prove that we can match the UI/UX of hosted agent experiences like Codex /Claude Cowork (for knowledge work)
