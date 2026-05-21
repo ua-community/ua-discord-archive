@@ -1,0 +1,1 @@
+yeah there are likely a bunch of things we need to optimise, at this point focus is mostly on bringing the parts together. its fine when you plugged in or have decent battery and doesnt seem to use too much cpu.
