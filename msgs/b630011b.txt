@@ -1,0 +1,3 @@
+and from the convo below that, I understand that you can't really to a multi pds sync thing, yet?
+
+We can mirror PDS data or no? Because of cryptographic signatures and all that (I'm new to this concept so just trying to understand)
