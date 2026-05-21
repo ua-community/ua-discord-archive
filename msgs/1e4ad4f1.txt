@@ -1,0 +1,1 @@
+tbh it's kind of how i keep my eye on overall system perf. renderer is renderer, gonna cost in sheer process count. but ipc volume is like the pulse of inefficiency. it's not exact, but it might be a hint.
