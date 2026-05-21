@@ -1,0 +1,4 @@
+- daily is Claude w/ a review/coord agent + subagents in a pool of jj workspaces
+- using Peek's MCP for task management, agents work directly out of there, doing triage, updates, whole task lifecycle etc
+- made https://tangled.org/burrito.space/chook for reducing annoying claude security model prompts (it never learns... but it always redirects correctly!)
+- made https://tangled.org/burrito.space/localcode for lazyswitch of offline harness+model, eg no internet or things i don't want online models to see
