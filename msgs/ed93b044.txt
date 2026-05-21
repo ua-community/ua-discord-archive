@@ -1,0 +1,1 @@
+as long as you have full working copy that's either live or rehydratable, can survive your delegations going down, you're good
