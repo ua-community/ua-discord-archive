@@ -1,0 +1,1 @@
+the value of atproto is that you could diy, you could not, but adversarial resilience is at least *possible*.
