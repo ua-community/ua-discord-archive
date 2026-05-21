@@ -1,0 +1,1 @@
+idk, kinda seems like the pattern might be more likely to succeed if it escaped atproto, at this point
