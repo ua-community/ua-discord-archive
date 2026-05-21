@@ -1,0 +1,5 @@
+if you know anything about FRP, temporal logic is basically the semantic model that FRP was based off - linear temporal logic but theres dozens if not hundreds of temporal logics, (branching time, metric, signal, ... ) 
+
+see https://dl.acm.org/doi/10.1145/2428116.2428128 or https://plato.stanford.edu/entries/logic-temporal/, i think its very relevant to the temporal aspects of memories 
+
+ and also if you think of the "space-time" of memories, ie which thoughts were associated with which files on the computer or which parts of which files etc - i think this could be a very promising direction
