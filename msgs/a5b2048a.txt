@@ -1,0 +1,1 @@
+I’ll switch the other big rig over to this if it works better as I’ve got another of these boards. Currently that other rig I had to set to pcie x3 to get it fully stable.
