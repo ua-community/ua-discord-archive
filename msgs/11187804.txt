@@ -1,0 +1,5 @@
+i'm playing w/ flipping the model a bit:
+- rotation keys order is cold/offsite, then hot local, then eurosky, then bsky, leave two slots empty
+- p2pds is full archive of eurosky, and also all plc log events
+- pdp2s can flip on relay mode, actually reply to requests
+- full resilience mode is be full pds, and distributed plc
