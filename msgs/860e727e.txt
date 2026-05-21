@@ -1,0 +1,1 @@
+scale is mostly not the issue for us yet ( we have 500mb + db and multiple thousand docs in test setup) what gets me is power saving modes. vibe coded things are hopefully to blame but often get kind of erratic behavior tied ti reactivity. but as we maybe transition to tanstackdb does not make sense to invest much until clear if that is a good way forwrd
