@@ -1,0 +1,1 @@
+been "hacking" on the Tauri app part and remaining adversariality bits today.
