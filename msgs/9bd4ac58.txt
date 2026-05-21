@@ -1,0 +1,1 @@
+Finally got the right Slimsas LP (low profile) cables for ROME2D16-2T so building new rig using it. This board has 12 sockets that the cables plug into directly so you don’t need pcie card to Slimsas side of the riser. Essentially one less thing in the signal chain.
