@@ -1,0 +1,1 @@
+battery, seems system goes into power saving mode and things go to shit.
