@@ -1,0 +1,1 @@
+there are federated ways to do it too, but we focus on distributed p2p methods
