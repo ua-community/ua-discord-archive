@@ -1,0 +1,5 @@
+@everyone - U&A demo spotlight #3 featuring Skye starting in 5mins. 
+
+Syke is a self evolving memory harness that works as a daemon with a 15 minute tick. It maps and binds the cross session, cross harness information across all your agents (claude code, codex, pi, etc.) and maintains a sqlitedb, and a durable markdown that is updated every 15 minutes. The intent is the agent learns to adapt its memory process around the user's explicit and implicit usage.
+
+Link to join: https://meet.jit.si/userandagents
