@@ -1,0 +1,1 @@
+do you separate vibe coded placeholders from fully reviewed code explicitly?
