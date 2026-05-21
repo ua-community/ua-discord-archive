@@ -1,0 +1,1 @@
+like, gimme DIDs + some method of discovering signed content
