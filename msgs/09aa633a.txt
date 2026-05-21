@@ -1,0 +1,1 @@
+Haven’t thought much about the implementation yet but mostly integrating sandbox capabilities like network policies/ filesystem access etc with UCAN
