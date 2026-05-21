@@ -1,0 +1,3 @@
+Next side project (like I need more) is to mod Mr Nello portable crt TV from Japan - Sony model 501 Designed in 1978 by Hartmut Esslinger (who later founded frog design and did the design for next cube). I plan to add far field mic with esp32 and SBC edge computer with local and hybrid cloud ai. Ideally get it working and then it can add modes using ai. I want it to be fun and a delight to interact with. Sort of retro future mashup. 
+
+Managed to find one for sale in Japan (on its way to Thailand now) alas not orange it’s grey but can’t have everything. There seem to be a couple on eBay if anyone else fancies joining the Mr Nello retro future hack club. We could collab.
