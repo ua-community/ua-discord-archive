@@ -1,0 +1,15 @@
+This is very useful. Thanks. 
+I’m trying to design the environment so we can have numbers and reasoning in language to define what is interpreted as noise vs signal. 
+
+Right now. The relational db is doing heavy lifting with timestamps and cross checking with harness utc stamps and git  logs. 
+
+I particularly don’t believe in linear time. But my machines have to. So keeping it straight there for now. 
+
+I was not aware of this lineage of research. can study these principles to articulate what noise. 
+
+To be specific. 
+My problem is formulated as good enough reconstruction at time t
+
+My cost function is mapping the time wasted because of bad reconstruction from a memory policy. I can replace syke with markdown or mem0 or cognee or zep etc. and see if time wasted can be mapped
+
+That is the intuition. WIP right now.
