@@ -1,0 +1,2 @@
+also relevant
+ggtime: A Grammar of Temporal Graphics https://arxiv.org/abs/2510.25656
