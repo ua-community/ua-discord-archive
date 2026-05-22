@@ -1,0 +1,16 @@
+“Benchmark from Club 3090 scripts/bench.sh on rig 1, running qwen3.6-27b-autoround with the vllm/dual config on 2 GPUs:
+
+* Narrative: mean 74.87 wall TPS, 75.49 decode TPS
+* Code: mean 93.63 wall TPS, 95.52 decode TPS
+* TTFT: about 111 ms narrative, 116 ms code
+* Spec decode: mean acceptance length about 3.4
+
+GPU usage during bench:
+
+* GPU 0 and 1 active, about 22.3 GB VRAM each
+* Other 6 GPUs idle
+* Power caps held at 220 W”
+
+This is pcie gen 4 x4 (I’ll try to get x8 working next), one rig bare metal the other will be proxmox so I can let people have their own VMs with 1,2,4 GPUs each. 
+
+Biggest issue I faced while the BMC looks similar to others my tooling failed so agent spent ages trying to get bios config working. Once it’s past that it’s smooth.
