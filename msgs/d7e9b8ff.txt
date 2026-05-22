@@ -1,0 +1,9 @@
+Too many things. 
+1. It's a "If only all harness designers could align on this one solution" kinda scenario. 
+2. If just one harness doesn't, the naive implementations will gravitate toward UTC as ground truth. 
+3. The agent would anyway gravitate toward it the moment you use any other non harness API (notion mcp, gmail, etc. )
+4. So you implement a sandbox and break all timezone conventions inside by translating at write time, just so the agent has one constant truth on its read only surfaces. 
+
+So yeah naive solution doesn't work as well. 
+
+I prefer to move on, it's not that big of a problem, and should be handled at agentic memory reconstruction anyway.
