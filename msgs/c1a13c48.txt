@@ -1,0 +1,1 @@
+I haven't slept much in past 24 hours so going a bit loopy. Setting up pinky (fast am5 for linking) & brain (dual epyc) now which will be compile duo for doing browser builds. Curious if the combo works how I'm hoping it will.
