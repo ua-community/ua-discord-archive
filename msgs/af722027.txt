@@ -1,0 +1,1 @@
+and yesterday added the Tauri sidecar/packaging bits so it's easy to install and run.
