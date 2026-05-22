@@ -1,0 +1,15 @@
+I read through the chat, thanks,
+
+I had an events.db to do this exact event logging in discrete time, normalizing all the event logs in all harnesses into a single db. 
+Check this release. 
+https://github.com/saxenauts/syke/releases/tag/v0.5.0
+
+Makes sense intuitively. Controlled work environment, the agent is "precise" with time and all events. But... 
+
+I reverted these decisions, 
+
+while it felt good to my controlling brain, it was creating unnecessary lag, esp with continuous indexing (some harnesses are jsonl, some are a db, some are combination of both).
+
+The memory footprint of bringing determinism around time, especially with 2+ harnesses (with 3-5 concurrent session) was too heavy for my system, esp for an ambient agent with a 15 minute tick. 
+
+So I let that go. And I am pushing more in the self learning direction, rather than prescriptive, if that makes sense.
