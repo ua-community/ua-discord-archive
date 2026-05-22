@@ -1,0 +1,1 @@
+yeah i made most of it months ago, and the consent-based archiving stuff is unchanged since then. mostly just adding things like multiple account support and moving bit by bit towards "maybe i'm a full participant PDS in a swarm someday".
