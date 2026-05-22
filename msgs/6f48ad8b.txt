@@ -1,0 +1,18 @@
+But for example, the thing ggtime is trying to solve. That is the approach of "human helping machine with better SWE principles". But my approach is "getting machine to recognize its process and learn"........ 
+
+For examples. I can do a syke ask query, see how the agent is spending time and tool calls to do whatever it is supposed to be doing. 
+
+-----
+
+The agent took 189 seconds, and a bunch of tool calls. I want the agent to be able to recognize its environment, learn from it, and develop its own internal routes based on my world model in words (let's call it latent user model). The more the agent traverses a path (agent trajectory, not just SQL queries), the harder that route should become (in whatever way the agent hardens it). 
+
+---
+ I just want to do right by environment design for the agent. 
+
+---
+
+If you want research lineage, I will keep it simple. I keep posting these two papers in this thread, "Jeff Clune" for name dropping. 
+https://x.com/jennyzhangzt/status/2036099935083618487
+https://arxiv.org/abs/2602.07755
+
+And I want to keep it simple. If the agent explores ggTime library someday by itself, and finds a good reason to use it for its own time modeling, I will not stop the agent.
