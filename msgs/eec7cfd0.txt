@@ -1,0 +1,1 @@
+I think if all dedicated to inference with parallel reqs could potentially hit 2k tps.
