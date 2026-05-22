@@ -1,0 +1,6 @@
+That was a casual mention.
+Last year, I was trying to model the complexity from t_1 to t_n, not just the objects, but artefacts, and how they change over time, as a hypergraph managed by an LLM. 
+
+That seemed too high IQ for me, and I wanted to do low IQ stuff. So I just went ahead with prose, and my work is about getting an agent to manage the object permanence, and verification on its own. And I will just do modeling. 
+---
+Thanks for all the links, these are good perspectives. I will have to spend time to read all this to truly get this. So no comments on any of these links.
