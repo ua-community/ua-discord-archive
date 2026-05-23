@@ -1,0 +1,1 @@
+Took an extra 24 hrs but now things working much better. Two big rigs… Rick and Morty each with 8 GPU and 4 smaller ones with 2-4, plus few smaller nodes with single GPU or just cpu. What didn’t get done this time was 40gbe network but that’s a nice upgrade for next time.
