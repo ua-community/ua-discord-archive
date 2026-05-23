@@ -1,0 +1,1 @@
+(user)  apologies for this silly question but is there a streamlined way of calling/using the local model that is installed with tiles without running it in tiles?
