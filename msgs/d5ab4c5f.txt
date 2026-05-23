@@ -1,0 +1,14 @@
+Claude, Imagen, Nano Banana, Suno, Seedream. These AI services generate text, images, and music. They all depend on mathematical formulas calculated big datacenters or supercomputers that average enormous data collections to form what we call AI models. 
+
+These services are owned by companies who sell their outputs by the token. You're not able to study what's going on inside or outside of them, or know what happens to the data you enter into it.  Some AI models are released openly and can be run yourself. To be able to do so however requires very expensive hardware and the software expertise to set it up. We want to make these services and the privacy and transparency that goes along with that accessible to everyone. COVEN is software that assists setting models up at home, no matter how good your computer is. 
+
+So instead of running the model on one device, calculations are split amongst the computers of your friends with COVEN. This avoids a reliance on centralized datacenters and provides competitive service to everyone involved, for free.
+
+We think COVEN will be useful for folks who:
+
+    can't afford frontier model token costs
+    can't afford model training services
+    want to decrease reliance on datacenter
+    don't want to pay frontier labs
+    experiment with new models
+    want to offer services for others
