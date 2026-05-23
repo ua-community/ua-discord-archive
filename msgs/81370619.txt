@@ -1,0 +1,9 @@
+technical speed-read details at the bottom of the post
+- Linux, Macos, or Windows WSL
+- CPU or GPU focused, NVIDIA/AMD/METAL/VULKAN, yay
+- we use Iroh and other distributed, p2p protocols for all the software
+- sandboxing (optional, lesson learned tokono!!)
+- can be easily contanierized further with w/e u want
+- building out a hook up system to recognize multiple local infrastructure as a single API compute endpoint
+- never sends binaries or private ips across the network
+- probably something else im forgetting
