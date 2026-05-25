@@ -1,0 +1,1 @@
+i figured out a good way to containerize the system by putting model serving *outside* the container, so the GPU limitations of the container solution no longer apply
