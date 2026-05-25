@@ -1,0 +1,1 @@
+it sounds kind of odd to me considering from programmer perspective we value calculation that does not have to run twice
