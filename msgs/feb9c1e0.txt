@@ -1,0 +1,1 @@
+Totally. I also find it interesting to see where various platforms start from. For example, there's malleable software where you have to build a whole thing before it becomes useful, and there's software that works a certain way but that you can break apart and extend.
