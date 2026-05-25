@@ -1,0 +1,1 @@
+It's beyond clear that LLMs are much better at basic task synthesis, powered by web searches. And after watching how browsers, with so much of the tool-calling part built-in, have ridiculously under-leveraged that. Often even in self-proclaimed AI browsers who can afford to take risks.
