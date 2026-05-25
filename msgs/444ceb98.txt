@@ -1,0 +1,1 @@
+This would great. Doesn't catch em all, but is rad for a way of doing attribution which expresses an identity as a {Discord, Atproto} unit.
