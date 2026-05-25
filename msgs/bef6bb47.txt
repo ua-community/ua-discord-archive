@@ -1,0 +1,1 @@
+there is also now a couple solutions for merging multiple physically close computers into a single API compute endpoint
