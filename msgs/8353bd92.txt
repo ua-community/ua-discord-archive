@@ -1,0 +1,5 @@
+So this is a thesis in two parts:
+
+1. Browsers will never escape their history, and therefore will never be the web synthesis environment we need for basic daily function, whether AI is involved or not.
+
+2. AI is not *strictly* required for a large part of what is involved in a web synthesis tool, but it can be effectively leveraged in more interesting ways than we're seeing today.
