@@ -1,0 +1,1 @@
+like, making the call to an api and receiving back a plogon package after some time. at some point the read becomes the eval there, and i guess i find it useful to imagine how that actually plays out
