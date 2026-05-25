@@ -1,0 +1,17 @@
+Well, it's definitely not software 4.0 as suggested in that article. I won't use LLMs to generate entire software on runtime. Like webbeef said, don't think that's a good idea.
+
+That said, I see what you're saying regarding me and burrito's projects. In my case, I do want the basis of the software, the components, to be solid and deterministic. A bunch of the included default featured interfaces should be too.
+
+*Preface; when I say "shape", I mean "works in a certain way". So the shape of Diffuse would be: plays audio from various places, stores your user data where you want it; tracks, metadata, playlists, favourites, settings (the data schemas). The default shape is pretty malleable on its own.*
+
+1) You can make small changes like: make all audio I play available offline.
+
+2) Or you could go deeper and add functionality like "add ability to play stuff from bandcamp". This doesn't break the existing shape necessarily.
+
+3) Additional interfaces don't necessarily break the existing shape either. For example, suppose you use the winamp theme but you're missing some interface to manage your playlists. You could ask the LLM to generate that missing interface for you. That interface wouldn't replace the winamp theme, it would live in a separate tab. You can have both open at the same time, they work together.
+
+4) When you use the agent skill, it uses as many existing components as it can. So when you ask it to generate a new theme (eg. "make me a music player in the theme of blade runner"), it will still be roughly the same shape.
+
+5) My hope is that the dashboard doesn't encourage breaking the shape, but it does provide the option to do so if you really wanted to. So you could go and say: "I don't like how this part works, swap it out". Or "I don't like the way you did playlists, do it differently".
+
+Did you have something else in mind when you say "shape"?
