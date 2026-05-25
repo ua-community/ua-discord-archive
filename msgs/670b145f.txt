@@ -1,0 +1,1 @@
+I've always thought of IWA as the extension model for Darc, since that's where capabilities diverge most from regular browsers.
