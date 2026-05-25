@@ -1,0 +1,7 @@
+yeah, im trying to find the balance there myself with COVEN where you have something that you can put together, rewire, and possibly can put together by itself, but is also structured and has a purpose and limits. 
+
+like especially from a local AI standpoint, and from a standpoint of 'how do we make this safe' and whatever this persons idea of 'runtime validation is'. like i totally know you can build a test before code happens but i guess this person does not think that is the way. 
+
+i also think we might be moving to a place where the spec is more valuable than before, so it would be interesting to capture the user's *intent* , because as time goes IF the models continue to improve, it would conceivably be better to have an improved model's code than a legacy one.
+
+esp im thinking about how COVEN could serve this kind of extension system *today*, rather than tomorrow
