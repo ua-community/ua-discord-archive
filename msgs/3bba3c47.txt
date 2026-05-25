@@ -1,0 +1,1 @@
+i ran a script they have, which must use the prebuilt image and customize it somehow, because the whole process did not take "compile a mobile os image" number of hours
