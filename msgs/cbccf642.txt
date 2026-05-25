@@ -1,0 +1,1 @@
+Was thinking a bit on why browsers never got to anything like this:
