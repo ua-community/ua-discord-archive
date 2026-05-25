@@ -1,0 +1,1 @@
+it's going to happen but reflexively struggling with "the future of software is runtime code generation". i both want to see that & amazing. but also llm+coding in the loop feels like such a high runtime cost.
