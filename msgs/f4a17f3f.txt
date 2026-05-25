@@ -1,0 +1,6 @@
+I guess I never listed out the capabilities specifically for the extension systems of Peek and Darc.
+I focused on the entire software instead.
+
+Though I'm not sure how the extension system in Darc actually differs from a regular browser?
+Besides the permission and sandbox system in which it lives.
+How do people extend/customise Darc (user) ?
