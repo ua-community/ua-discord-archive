@@ -1,0 +1,1 @@
+I keep putting off work on a proper *workspace* mode in Peek. I tried a couple of times, but only half-heartedly.
