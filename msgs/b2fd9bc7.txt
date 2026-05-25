@@ -1,0 +1,1 @@
+why is the sandboxing optional? what was the lesson learned there?
