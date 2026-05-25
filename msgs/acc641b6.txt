@@ -1,0 +1,1 @@
+I also started writing specs for all my components. Feels great to have a LLM affirm what the code is actually doing based on a simple natural language spec. Ohh that's a good idea yea, capturing the user's intent. Give the user the option to regenerate a tool/interface/feature using the stored intent and a newer or diff model. I might steal that idea 😄
