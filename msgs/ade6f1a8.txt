@@ -1,0 +1,1 @@
+Hmm yea. I guess we should split "user" capabilities and "app/iwa creator" capabilities. I was thinking more about the former. Which capabilities does a user get from using software based on a IWA? There's a deeper integration with the OS so the software dev can provide user extensions that benefit from that.
