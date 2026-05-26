@@ -1,0 +1,1 @@
+I put PostmarktOS on a Pixel 3a, used Tauri's support for mobile Linux to generate mobile app, set the app to launch on default in fullscreen... and now I have a little Peekphone.
