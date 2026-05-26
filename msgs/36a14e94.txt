@@ -1,0 +1,1 @@
+Hi folks, just thought I'd intro myself. I'm Lola, I work primarily in web standards and browser accessibility but have a bunch of other tech experience too. Currently heavily in W3C and my project Accessibility Compat Data (trying to bring accessibility data to Baseline, BCD, etc)
