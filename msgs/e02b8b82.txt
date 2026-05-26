@@ -1,0 +1,1 @@
+Screw browsers and their limitations we are building super user agents
