@@ -1,0 +1,1 @@
+Time-lock encrypt a record, wash it a bunch of times, until eventual unlock at a non-walk-backable point.
