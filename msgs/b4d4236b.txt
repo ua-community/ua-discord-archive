@@ -1,0 +1,3 @@
+Yeah ipfs is neat, that’s why I liked Storacha. The convenience of cloud, but also ipfs.
+
+I need an always online client for large binary data, and I want access to it without api keys.
