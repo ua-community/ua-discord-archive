@@ -1,0 +1,1 @@
+im looking at implementing tahoe-lafs for this reason into COVEN but we'll see
