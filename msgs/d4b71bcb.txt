@@ -1,0 +1,1 @@
+My main worry has been around privacy. Like, if we have social context based search, it also risks exposing your search history to folks. I'm thinking having "public bookmarks" and then having an LLM use tools to search through all your friends bookmarks / spider out from those links could work
