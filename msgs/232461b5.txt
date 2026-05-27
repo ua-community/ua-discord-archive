@@ -1,0 +1,1 @@
+back in the ancient times of Firefox we talked about distributed user-history-based search engine and did nothing.
