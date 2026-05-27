@@ -1,0 +1,1 @@
+Need to mess around with ipfs service worker gateways.
