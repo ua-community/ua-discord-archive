@@ -1,0 +1,1 @@
+The llm wouldn't necescarily read entire pages, more like choose which bookmarks seem like good starting points for spidering and which keywords could make sense for answering a question
