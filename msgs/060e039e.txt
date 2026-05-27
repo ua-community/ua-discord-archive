@@ -1,0 +1,1 @@
+Neat, are there deets on what partial indexes are?
