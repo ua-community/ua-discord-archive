@@ -1,0 +1,3 @@
+Do you know any storage networks/services/things to keep an eye on? I had high hopes for Storacha, but yeah, RIP.
+
+I want to build this thing for Diffuse where people can just drop their music files onto a page and everything would be organised on cloud storage automatically. Ideally this storage would be something the user owns as well. I could do dropbox, but I feel like there has to be something better.
