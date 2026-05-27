@@ -1,0 +1,1 @@
+Lots of info out there on running things for one person, less so for shared / multiplayer usage at sub-data-center scale
