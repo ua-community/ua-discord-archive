@@ -1,0 +1,9 @@
+I've looked at this before and it didn't really click.
+But looking at this again, I think I might finally get into this.
+
+I've been writing specs with Typescript types besides it.
+Love that it feels like a functional programming language, which I miss.
+
+There's a few things I'm unsure about though:
+- Is this only for distributed systems?
+- Can I generate test cases from this, or is that specific to their (paid?) product?
