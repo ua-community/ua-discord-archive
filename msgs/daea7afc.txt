@@ -1,0 +1,1 @@
+I wonder if you could do something with double-hashing like IPFS DHT does and a mixer approach to DHT walks.
