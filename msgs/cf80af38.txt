@@ -1,0 +1,1 @@
+This might also be of interest https://github.com/sybil-solutions/vllm-studio
