@@ -1,0 +1,1 @@
+if you can get high speed enough interconnect you can do tensor parallel with vllm and it will increase speed with each node
