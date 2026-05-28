@@ -1,0 +1,1 @@
+Pushed a bunch of work into Peek MCP. Can now use it as the todo/task management for non-Peek projects. Agents initialize with a tag prefix for read/write access.
