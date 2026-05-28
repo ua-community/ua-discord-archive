@@ -1,0 +1,12 @@
+Awesome! I'll add these developer oriented capabilities to the list:
+
+- Ability to create all kinds of interfaces and functionality on a blank canvas on top of your OS.
+- Define unique capabilities that other Peek features can benefit from as well.
+- Define custom URL schemes for resources that can be loaded using your feature.
+- Create multiple sandboxed windows.
+- Add settings to a shared settings screen.
+- Post messages in various pubsub topics that other features can subscribe to (with custom topics and several scopes).
+- Define commands for people to execute via the command palette.
+- Create "hidden" features without any interface, eg. to start a HTTP server.
+
+Sound 'bout right?
