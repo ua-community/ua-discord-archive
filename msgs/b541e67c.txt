@@ -1,0 +1,3 @@
+Yeah same. IPFS + content addressing was always their main focus, there luckily wasn’t any coin talk in the product itself. I think it just synced the data with the filecoin network?
+
+The blockchain marketing stuff on the discord and newsletter was bothering me tho.
