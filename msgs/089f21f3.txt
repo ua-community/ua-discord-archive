@@ -1,0 +1,1 @@
+I was leaflet supported slugs as well, the /blog-name instead of a hash
