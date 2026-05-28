@@ -1,0 +1,1 @@
+i thin the highest speeds youre going to get are things like nvflare, ray, spark, vllm, exo, but what you choose for hardware will deffo narrow your options
