@@ -1,0 +1,1 @@
+should we have shared channel for all generic browser discussions? (user) (user) (user)     eg im fighting with stuck :hover pseudoclasses on macos on parent context of a webview or controlled frame, but seems much lower level than iwa, as vivaldi has the same bug. did you encounter anything like that
