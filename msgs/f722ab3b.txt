@@ -1,0 +1,1 @@
+if you try to do it with llama.cpp it will run a big model but it will get slower
