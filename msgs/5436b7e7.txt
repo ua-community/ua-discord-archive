@@ -1,0 +1,11 @@
+Here's what I got for Darc/Xenon:
+```
+- Store data on a unified data layer provided by Darc and have users sync that data between their devices
+- Build on a secure sandboxed foundation, reusing the engine of a browser you've already installed (if that engine supports IWAs).
+- Inherit capabilities from IWAs such as:
+  - Controlled frames: Inject custom scripts and styles into third-party sites
+  - Direct sockets: TCP/UDP connections (eg. do P2P things)
+  - Verify the integrity of your software (IWAs are cryptographically signed)
+  - Provide web applications that are not tied to a specific origin
+  - Create super apps, or a mutable system layer by utilising containers
+```
