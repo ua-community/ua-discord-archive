@@ -1,0 +1,6 @@
+from dev perspective its:
+
+- build and run applictations in a local unified web environments (no need to deploy the webapps you just want to use yourself.)
+- integration and data layaer to integrate applications with other apps or existing web apps
+- we dont really have a concrete plan to market the sockets yet, its something that just comes with iwa but we dont focus on p2p or anything related to that until the web is working satisfactory
+-
