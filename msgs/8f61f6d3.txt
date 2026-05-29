@@ -1,0 +1,1 @@
+Probably should add a definition for "super apps" ... How do we define that? A web app that has several controlled frames?
