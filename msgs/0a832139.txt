@@ -1,0 +1,1 @@
+@ 2nd : yeah exactly, like you can have an app that runs in the local environment and soehow augments another app you fully control or even an existing saas webapp with adversarial interop etc. its all not well falshed out but something that we think is important
