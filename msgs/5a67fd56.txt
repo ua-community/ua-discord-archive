@@ -1,0 +1,1 @@
+Been digging into chatgpt desktop codex and its recent change from electron to owl based webviews. Seems owl uses open ai's bundle of chromium and adds some features to webview. Mostly around allowing webcontents to be detached and moved between different webviews.
