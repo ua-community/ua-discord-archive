@@ -1,0 +1,1 @@
+Euro Office is a new OnlyOffice fork being made available for Euro-only stacks https://github.com/Euro-Office
