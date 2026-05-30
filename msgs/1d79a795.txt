@@ -1,0 +1,1 @@
+So while in darc we move the controlled frame dom element. In openai/electron/owl they use these webviews which are backed by their chromium app content view and move the web content by detaching and attaching it to different webview instances
