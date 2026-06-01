@@ -1,0 +1,1 @@
+how would mojo or capnp rpc fare here? seems these are specifically designed to address some of the rpc concern
