@@ -1,0 +1,1 @@
+forcing everything into zero security boundaries and single thread seems to be a big step back, especially when thinking about critical capabilities.
