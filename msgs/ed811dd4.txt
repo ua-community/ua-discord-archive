@@ -1,0 +1,1 @@
+honestly the spec is not terrible in making the PLC rotation key bit understandable. https://web.plc.directory/spec/v0.1/did-plc
