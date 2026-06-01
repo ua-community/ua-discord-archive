@@ -1,0 +1,1 @@
+I decided to chase down some annoying focus-stealing and system-blocking that was happening when running the 3300+ test suite.
