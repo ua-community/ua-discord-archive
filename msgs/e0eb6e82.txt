@@ -1,0 +1,1 @@
+My preferred solution is something that doesn't yet exist, but I have notes about its design. Another DID method entirely.
