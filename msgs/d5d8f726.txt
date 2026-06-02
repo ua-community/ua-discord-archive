@@ -1,0 +1,1 @@
+In practice, it would require PDS migration to a better PDS architecture that allows for users to migrate DIDs without causing link rot in the existing records
