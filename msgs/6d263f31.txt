@@ -1,0 +1,1 @@
+another interesting agent security layer. but again vibe coded and overengineered in a few critical aspects to the level of not being usable. its quite frustrating https://github.com/mayankjain0141/nixis
