@@ -1,0 +1,6 @@
+Session restore of my daily profile was:
+- 54 OS windows
+- 107 render processes
+- 16.7gb memory
+- and 46 fullscreen transparent canvases on a studio display, all coming up at once and
+  forcing per-pixel alpha compositing simultaneously
