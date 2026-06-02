@@ -1,0 +1,1 @@
+In principle, all DID methods are already compatible
