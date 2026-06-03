@@ -1,0 +1,1 @@
+always good to see things that always feel bad to combine for actual exploits. https://blog.ammaraskar.com/github-token-stealing  btw   the plan for next xe ipc is to try using a token that is only available in the Isolated World context. wonder why electron does not do this
