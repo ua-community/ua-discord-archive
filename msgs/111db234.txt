@@ -1,0 +1,1 @@
+Haha actually Beaker even did the fork *and* the self-modify - the most genius part, IMO, was giving web content the ability to write to it's actual filesystem.
