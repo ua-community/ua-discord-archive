@@ -1,0 +1,1 @@
+Same like electron or tauri have
