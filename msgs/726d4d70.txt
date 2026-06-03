@@ -1,0 +1,1 @@
+People like having their own virtual machine and disk etc but if not really being used I want to be able to store it and use the compute for other things
