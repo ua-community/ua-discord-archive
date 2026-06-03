@@ -1,0 +1,1 @@
+IWA can be loaded from web or file but yeah semantic. For me it’s something potentially practically mutable
