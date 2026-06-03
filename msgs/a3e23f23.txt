@@ -1,0 +1,1 @@
+I think you end up with extending browser (as many ai browsers do, adding things to objects exposed), extending electron (also chromium, as OpenAI is doing). What are you building ?
