@@ -1,0 +1,1 @@
+Discovered but not yet installed oikb - a knowledge base vectorizing & sync tool from open web ui https://github.com/open-webui/oikb/tree/main
