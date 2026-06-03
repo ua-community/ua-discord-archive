@@ -1,0 +1,1 @@
+But the key thing of a web apps over a native app is web apps are rendered by the user agent on the users behalf
