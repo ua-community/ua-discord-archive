@@ -1,0 +1,7 @@
+also i learned a lot from John Hughes version of this talk but SPJ is just as insightful
+
+https://www.youtube.com/watch?v=sT_-owjKIbA
+
+and they have the paper
+
+https://dl.acm.org/doi/10.1145/165564.903972
