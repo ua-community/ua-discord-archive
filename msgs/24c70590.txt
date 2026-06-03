@@ -1,0 +1,1 @@
+Ok so lets come up with a framing for what we call a web app like thing that is the top level app but loaded from local system
