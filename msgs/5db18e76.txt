@@ -1,0 +1,1 @@
+such that if someone migrates to another DID, the records previously resolving with their old DID now resolve with their new one
