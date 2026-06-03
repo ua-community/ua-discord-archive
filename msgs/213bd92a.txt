@@ -1,0 +1,1 @@
+oh maybe its a case of tainted glasses, did not even consider they block external origins, just saw it runs vscode and assumed
