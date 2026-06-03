@@ -1,0 +1,7 @@
+Well if we don’t have web apps that can load other web apps we are limited to what we have today
+
+Native apps (controlled by others) with web views that load other apps inside those webviews. One could make case this is browsers too.
+
+Or just web apps. That can’t really load other we apps. 
+
+With advent of essentially limitless software I want to be able to have stuff operating over everything that currently exists. But on my terms as the user not theirs dictated by some closed super app
