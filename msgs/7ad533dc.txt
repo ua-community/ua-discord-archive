@@ -1,0 +1,1 @@
+still did not retry smol. i heard docker support is taking shape
