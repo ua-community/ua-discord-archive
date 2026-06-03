@@ -1,0 +1,1 @@
+Agree I don’t see way to avoid serialization entirely without adding stuff to engine
