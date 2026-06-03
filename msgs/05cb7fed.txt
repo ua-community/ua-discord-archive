@@ -1,0 +1,1 @@
+ultimately i ditched the IDE extension entirely, i just use the AI tools now and the IDE for git ops
