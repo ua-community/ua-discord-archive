@@ -1,0 +1,1 @@
+Yeah, I have lots more to learn and proper hardware for the Proxmox box…it’s nice that it scales _down_
