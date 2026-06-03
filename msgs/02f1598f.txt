@@ -1,0 +1,1 @@
+Under the hood you have a jacked election app acting as agent with browser baked in
