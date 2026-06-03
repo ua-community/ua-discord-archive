@@ -1,0 +1,1 @@
+what is the difference between "super web app" and "the thing that can run  finer grained, interchangeable components"?
