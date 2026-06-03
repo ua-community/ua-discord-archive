@@ -1,0 +1,1 @@
+Rather than wrapping web apps under some other publishers native app
