@@ -1,0 +1,1 @@
+Forking a loaded-from-web thing to a new origin root (key based) sounds like what you might be describing.
