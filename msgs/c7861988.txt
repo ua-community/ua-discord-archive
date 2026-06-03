@@ -1,0 +1,1 @@
+on the xenon <> electron like capability  discussion this is mostly a technical discussion, of tradeoffs of isolation from OS vs capabilities, i dont see a idealogical mismatch, only different kind of tradeofs up front that then tickle downstream to other decisions
