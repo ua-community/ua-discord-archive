@@ -1,0 +1,1 @@
+I think the whole it’s a web app that loads other web apps is important architectural thing but the bigger thing is that the top level app is something that can be under the users control
