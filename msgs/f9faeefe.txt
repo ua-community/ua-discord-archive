@@ -1,0 +1,1 @@
+Personally I’m not a big fan of electron as it feels like a kludge mashing node and chromium together
