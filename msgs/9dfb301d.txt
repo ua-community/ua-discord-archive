@@ -1,0 +1,1 @@
+Again you casually throw a major wrench into a known behavior (and security policy) haha. Practically mutable and "loaded from web" are functionally incompatible, from a contemporary browser and web standards POV.
