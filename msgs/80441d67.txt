@@ -1,0 +1,1 @@
+and yes, it is PDS architecture. They currently lack any abstraction between record data and external DIDs, and hardcode DIDs into the records, meaning you fundamentally cannot migrate DIDs without breaking all of those references.
