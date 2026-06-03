@@ -1,0 +1,1 @@
+So you want native code to be interacting with objects on the js side ?
