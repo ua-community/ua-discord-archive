@@ -1,0 +1,1 @@
+Not the security side of things or fact it’s wrapping a web app in a native published app with all its downsides
