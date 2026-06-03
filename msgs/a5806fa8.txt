@@ -1,0 +1,1 @@
+But yeah back to your original push on serialization. I guess without shared memory or things compiled directly into the engine you always going to have some serialization
