@@ -1,0 +1,1 @@
+For storage next part I need to tackle is having VMs and containers backed by network disk or just cached on the machines
