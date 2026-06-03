@@ -1,0 +1,1 @@
+And compiling to wasm isn’t option for your native stuff or too slow to move stuff back and forth ?
