@@ -1,0 +1,1 @@
+Actually I would call it a super user agent if it’s being the users browser too but the capability is that of a super web app (a web app that loads other web apps).
