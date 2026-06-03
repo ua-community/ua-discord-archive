@@ -1,0 +1,1 @@
+You can do gpu pass through and run windows
