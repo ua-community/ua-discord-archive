@@ -1,0 +1,1 @@
+<https://docs.flashinfer.ai/installation.html> is an example of speed improvements that are part of the NVIDIA club
