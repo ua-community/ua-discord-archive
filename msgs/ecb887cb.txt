@@ -1,0 +1,1 @@
+A better PDS architecture would have such an abstraction
