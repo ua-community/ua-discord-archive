@@ -1,0 +1,1 @@
+cline autocorrect never worked for me, and most of the others are tied very deeply with online providers or treat local models as second class
