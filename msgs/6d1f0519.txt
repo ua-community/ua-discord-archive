@@ -1,0 +1,1 @@
+The good news is migrating PDSes is already explicitly part of ATProto's design so switching to a better PDS architecture is totally feasible
