@@ -1,0 +1,14 @@
+I get asked this a lot so im reposting here
+
+
+## Guide for local inference
+
+- [Pi](<https://github.com/earendil-works/pi>) or [OpenCode](<https://github.com/anomalyco/opencode>) for code
+- [Eigent](<https://github.com/eigent-ai/eigent>) for general purpose automation
+- use [vLLM](<https://github.com/vllm-project/vllm>) or [SGLang](<https://github.com/sgl-project/sglang>) server for NVIDIA linux hardware
+- use [MLX](<https://github.com/ml-explore/mlx-lm>) or [llama.cpp](<https://github.com/ml-explore/mlx-lm>) / [llamafile](<https://github.com/mozilla-ai/llamafile>) server for Mac
+- for less tech experience [Jan](<https://github.com/janhq/jan?tab=readme-ov-file#download>), [Llamabarn](<https://github.com/ggml-org/LlamaBarn>), [AnythingLLM](<https://github.com/Mintplex-Labs/anything-llm>) 
+- use a modern model of around 24-60B param ||(GLM5.1, Gemma4, Qwen3.6, Mistral Small 4, Nemotron 3, info TTL 1 month)||
+- Use a quantized version, and don't overthink it. Q4/IQ4 whatever (Q5 for MLX) for speed/size or Q8 for quality.  
+- fit in vram up to 3/5 capacity to prioritize speed, or just totally stuff your video card if you prioritize quality
+- other hacks you can try incl: [REAP Expert pruned (smaller) models](<https://huggingface.co/models?num_parameters=min:32B,max:64B&sort=trending&search=-reap>), [NVFP4 on 4090s](<https://github.com/BenChaliah/NVFP4-on-4090-vLLM>), [NVMe streaming for Apple Silicon](<https://github.com/danveloper/flash-moe>), [DeepSeek4-specific improvements for the VRAM-rich](<https://github.com/antirez/ds4>)
