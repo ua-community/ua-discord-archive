@@ -1,0 +1,1 @@
+It does not. But you could do that with Proxmox
