@@ -1,0 +1,1 @@
+It’s not PDS architecture it’s the protocol itself but also ... it’s not link rot because this isn’t http it’s at://
