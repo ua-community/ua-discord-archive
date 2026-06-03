@@ -1,0 +1,1 @@
+not just here, but anywhere you jam html/js/css but not loaded from HTTP origins
