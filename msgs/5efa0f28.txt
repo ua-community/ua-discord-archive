@@ -1,0 +1,1 @@
+For GPU passthough b70 pro looks like best option for VMs as can be partitioned
