@@ -1,0 +1,1 @@
+For me the bigger issue I see with electron is you end up installing some random devs app with npm dependencies just waiting for the next exploit to get deployed to your machine.
