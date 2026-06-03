@@ -1,0 +1,1 @@
+In chrome platform apps it was called webview
