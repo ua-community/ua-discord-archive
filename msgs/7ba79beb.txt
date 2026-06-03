@@ -1,0 +1,3 @@
+Yes indeed! Plan is to clone ChatGPT features, in this context the Library feature: https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt
+
+We are already working on plugins this month for connectors (to begin with they will only support skill files and bash tools)
