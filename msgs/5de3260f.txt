@@ -1,0 +1,1 @@
+But to me it’s far more intrestijg then electron and tauri as it offers potential for the user to be the one in control
