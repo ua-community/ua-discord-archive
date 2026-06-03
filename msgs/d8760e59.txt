@@ -1,0 +1,1 @@
+One of the things we’re looking at now is storage and distributed backups.
