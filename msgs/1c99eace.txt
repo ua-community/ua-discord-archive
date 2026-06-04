@@ -1,0 +1,1 @@
+the logic is all the repos in our org that start with  https://github.com/Agent54/xe-darc-XXX
