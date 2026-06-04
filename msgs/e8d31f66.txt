@@ -1,0 +1,9 @@
+I've been thinking a lot about today's demo. My suggestion is that a gradual unveiling is powerful.  You start off showing it's "just a browser", there are tabs, etc. I would'nt even mention the Canvas view at this point. But this is a browser YOU control, it gives you superpowers.
+
+Superpower 1: right-clicking a section you don't like, like YouTube Shorts, and hitting hide. Poof, they are just gone. That's pretty powerful. It's also so simple! This taps into Corey Doctorow's adversarial relationship with technology. You engage with uncompromising sites and take control of them, on your terms. That's an f'ing call to arms right there...
+
+Superpower 2: you can pull data from webs sites, even if they don't want to cooperate (see a theme here?) The simplest example would be to grab the "Weather Icon" from Accuweather (sunny, rainy, etc) and drop just the icon on your home dashboard. You're basically "drinking their milkshake" by sucking a specific piece and using it as you'd like. 
+
+Superpower 3: Constructing your own widgets. This was just demonstrated by Google for it's GoogleBook and Android and we should totally steal it. Create a card showing your next meeting along with links to recent chats/emails from the participants. It is basically a "get ready for your next meeting" card. This highlights how you can pull a little bit of data from two different websites and put it together. (There might be an even simpler example)
+
+There is clearly much more that can be done, I'm just trying to start small and build, brick by brick, so people understand the power that they have, and hopefully, how easy it will be for them to use it.
