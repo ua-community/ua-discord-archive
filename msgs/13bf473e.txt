@@ -1,0 +1,1 @@
+but if i paste into a random field in darc (custom url for new tab page for ex) i get "eko"
