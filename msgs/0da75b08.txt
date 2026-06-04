@@ -1,0 +1,50 @@
+```
+opencode
+Continue (extension)
+aider
+Llxpert
+Goose
+openhands
+eigent
+Trae
+blackbox (basically goose)
+roo code (extension)
+cline (extension)
+factory (partially closed)
+
+Piebald
+codex
+claude
+gemini code assist
+warp
+Cursor
+Windsurf
+Copilot
+Devin
+antigravity
+roo
+Q developer
+Zed
+Augment code
+Source graph
+Kiro
+genie
+manus
+Mistral vibe
+qoder
+Owencode
+Kimi cli
+windsurf
+
+llama.cpp
+ollama
+omlx
+unsloth
+lmstudio
+mlxstudio
+osaurus
+vllm
+transformers
+kTransformers
+sglang
+```
