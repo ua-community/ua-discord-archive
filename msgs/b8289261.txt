@@ -1,0 +1,1 @@
+the bottom split is tools that ultimately dont do anything on their own and are generally used to serve models or do low-level model operations like quantize models, fine tune, etc. tldr: backends, with little to no ability to perform tasks out of the box
