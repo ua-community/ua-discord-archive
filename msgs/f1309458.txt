@@ -1,0 +1,1 @@
+this is the crucial part. the middle split is all the software that will NOT allow you to use openai endpoints or whatever local models you want. and im being purposely explicit about this, because allowing local mistral models with mistral vibe is a pittiance more than a feature for me
