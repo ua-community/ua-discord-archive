@@ -1,0 +1,1 @@
+have to debug i never saw this behaviour, what happens is the permission dialog is a bit annoying as the persistence for the permissions is not proprerly hooked up
