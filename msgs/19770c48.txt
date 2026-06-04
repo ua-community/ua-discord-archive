@@ -1,0 +1,1 @@
+I’ve had a chain of codexes install themselves on other machines and in VMs and then call each other via both api and desktop
