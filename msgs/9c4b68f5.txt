@@ -1,0 +1,13 @@
+wonder what it'd look like to have a set of emoji reactions for classifying links, eg:
+
+- 🚫 closed source
+- 🤑 vc funded
+- 🏭 company
+- 🇺🇸 country of entity
+- 💸 paid product
+
+- 🛠️ devtool/library
+- 🤝 co-op
+- ☭ commies
+- 🧰 self hostable
+- 🧠 local ai
