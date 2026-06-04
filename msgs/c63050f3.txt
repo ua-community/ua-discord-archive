@@ -1,0 +1,1 @@
+my current clipboard buffer is "nd mac+C from external app does not past"
