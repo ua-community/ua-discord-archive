@@ -1,0 +1,1 @@
+its what wed expect to see, agents calling other agents and growing token use exponentially by way of automating at scale
