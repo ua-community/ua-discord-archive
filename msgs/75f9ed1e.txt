@@ -1,0 +1,1 @@
+copy and mac+C from external app does not paste/mac+v into darc
