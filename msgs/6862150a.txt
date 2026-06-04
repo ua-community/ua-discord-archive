@@ -1,0 +1,1 @@
+it works with any supported opencode model
