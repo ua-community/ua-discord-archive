@@ -1,0 +1,1 @@
+the installer is published here. https://github.com/Agent54/xe-darc-launcher/releases
