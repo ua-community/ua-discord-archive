@@ -1,0 +1,1 @@
+incredible bonus round results, how should I go about adding openai-compatible endpoint
