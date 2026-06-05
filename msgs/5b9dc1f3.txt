@@ -1,0 +1,3 @@
+This is ai generated but I do want to publish something along these lines before the full super app arrives. Needs a lot of polishing but does hit some of the points and will then lead into part two “webviews are all we need, introducing your super user agent”. 
+
+https://claude.ai/public/artifacts/32eb0391-5630-47a2-b795-5574c4f30b93
