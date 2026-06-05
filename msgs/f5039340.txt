@@ -1,0 +1,1 @@
+But restoring sessions of 50+ windows no longer heats up the computer, and happens so quickly that it feels almost... odd.
