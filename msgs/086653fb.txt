@@ -1,0 +1,1 @@
+A fun learning was that my progress indicator for web page windows, a throbbing+glowing border, was EXTREMELY EXPENSIVE.
