@@ -1,0 +1,9 @@
+interesting “@jyasskin
+jyasskin
+on May 28, 2025
+Member
+After more discussion, we're seeing the IWA effort as an attempt to build an OS whose APIs
+
+integrate well with the web,
+don't duplicate capabilities that can be exposed to the web, and
+are developed by a multi-stakeholder community with a consensus structure rather than being imposed by the OS's owner.”
