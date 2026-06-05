@@ -1,0 +1,1 @@
+Feels like I've spent so many decades doing perf profiling, bisecting, narrowing, measuring, etc... something comfortable and satisfying about it.
