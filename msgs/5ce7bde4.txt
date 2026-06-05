@@ -1,0 +1,1 @@
+FWIW, I didn't know ublock origin can completely remove any section of a website. Even if it IS possible, it won't be as easy as Darq can make it. There is where I'm going to lean into "getting the UX right" as being able to delete, copy, move web pages like ticker toys can be one of those building blocks you want people to understand.
