@@ -1,0 +1,5 @@
+His list, remixed only a little, basically describes what Peek, Beaver and Darc (i think?) do:
+
+- APIs which integrate well with the web
+- don't duplicate capabilities exposed to the web
+- and are exposed to web content surfaces
