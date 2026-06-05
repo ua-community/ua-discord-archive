@@ -1,0 +1,1 @@
+(Using "web content surfaces" as a placeholder for a good term for HTML pages executed under non-HTTP protocols and/or different security regimes)
