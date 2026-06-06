@@ -1,0 +1,11 @@
+Yeah, thanks for your input. I do really love to watch the artists get into software more, some software people being able to really show their artistic side as well.
+The "style" of software development I always really enjoyed was really focused teams, that new what good quality is, knew their system, customer, whatever.
+And this style of "doing it" https://tigerstyle.dev/
+Like, do everything right the first time (to your best knowledge), really think about what you're doing, what your Interfaces are (including where you run) etc.
+This also means you need to know what you want well in advance. There is definitely art in making software, but there's also engineering.
+I wonder much more about the engineering bit, the art bit I'm just excited for.
+For reference, at $bigcorp I build safety critical software, that serves a few hundred customers, a few thousand employees and ultimately serves many millions of people. this is not to say I'm so cool or whatever. I'm just saying I also really enjoy that side of software development, and I take great care in making software that lasts. And our installations do frequently go left untouched for years.
+I also enjoyed building similar software in OSS. Taking care of every line. Inspecting assembly output, etc.
+I'm not sure I'm ready to accept AI will replace all of that (although I think it just might) without a path forward on how to take care of software like that.
+
+Idk, this is partially me typing into the void, not sure I necessarily expect an answer from anyone. But I'm thankful for your perspective.
