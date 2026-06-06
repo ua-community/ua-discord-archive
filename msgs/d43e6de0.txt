@@ -1,0 +1,1 @@
+whoever thought `--no-truncate` was a good idea needs, politely, *corrective actions taken*
