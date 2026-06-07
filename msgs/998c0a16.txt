@@ -1,0 +1,7 @@
+one question re all my still yet refined thoughts -
+
+ like lets say you have an element copy-er metapplication/meta-extension, so that i can go to different websites and save the relevant text boxes, or images, etc - and if they're react, that they still retain their interactivity - so i could go to fb messages and just pull up the little sidebar message, rightclick "copy" and then go my own app/canvas and right click paste. and then i could go to a nytimes article and copy paste and format so thats the right side of the screen, and then i could go to, i dunno, chatgpt and copy paste it
+
+so behind the scenes, i need to have all three websites/appliations running in the background, my logins etc - like from their perspectives i'm stil lon their page, but from my perspective i've isolated the relevant ui/data sources and just "forgotten" the rest
+
+and better yet, if i want o have my fb messages with a different interface that i've designed, and even better 💡 still could i have my own E2E encryption that my/other person talking to are both using, but relative to fb they think i'm just using "their interface"
