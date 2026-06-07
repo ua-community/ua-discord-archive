@@ -1,0 +1,8 @@
+now you got me thinking, and reading 
+
+> "Informally, steganography refers to the practice of hiding secret messages in communications over a public channel so that an eavesdropper
+> (who listens to all communications) cannot even tell that a secret message
+> is being sent."
+or more recently
+https://arxiv.org/abs/2504.08977
+Robust Steganography from Large Language Models
