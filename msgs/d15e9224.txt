@@ -1,0 +1,1 @@
+Maybe better off just passing a way to open another actually encrypted channel that doesn’t go though them
