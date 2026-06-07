@@ -1,0 +1,1 @@
+I think with a bit of ai understanding the apps and shared knowledge (the Wikipedia idea on how the apps work someone mentioned) it should be possible to build sort of shadow apps that have the data in a nice format for your composed generated apps to use.
