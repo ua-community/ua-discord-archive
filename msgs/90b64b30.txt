@@ -1,0 +1,3 @@
+https://github.com/microsoft/mxc
+
+(user) figured you might find it interesting, surprisingly it’s cross platform
