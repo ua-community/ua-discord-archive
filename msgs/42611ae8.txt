@@ -1,0 +1,1 @@
+ack, i see what you mean! yeah agree, that's some of the tension google's getting heat over with jamming those apis into the web platform layer.
