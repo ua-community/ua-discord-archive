@@ -1,0 +1,1 @@
+i suspect apple rely with their server side review infrastructure for making it safe as local safari does not have dynamic sec infra and i doubt they would build that for mobile first
