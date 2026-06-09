@@ -1,0 +1,1 @@
+so the role of the extension layer moves more into reducing the surface to allow permissions and review/ blast radius control etc. much less about interop
