@@ -1,0 +1,10 @@
+Was thinking about a few things that came out of (user) pushing on this over the last months, and some observations:
+
+- While all the projects have some kind of "extensibility", they're VERY different from each other
+- That's often because they're serving different use-cases, and those use-cases are not super clear
+- Sometimes there's use-case overlap at a high level, but rarely if you go a layer or two down, or all the way to the metal
+- Thus, the extensibility vector is implemented at wildly different layers, even accounting for architectural differences
+- While folks kinda wanted *some* extensibility compat with today's browsers, *most* extensibility was providing entirely different capabilities
+- No really unique devtools yet, which is interesting
+- To me, EUP still feels pretty far away if you're not adding an LLM into the mix to "make" stuff in response to user inputs
+- Seems all the projects had a reticence to just jam an LLM in there and call it a day - most of the extensibility work is a layer below that (at least)
