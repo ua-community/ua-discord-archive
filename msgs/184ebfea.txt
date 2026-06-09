@@ -1,0 +1,1 @@
+i meant that the whole extension layer is too early to reason about to the extend that its better for everyone to directly use llm as extension placeholder.  but if we have v3 extension subset for xenon and can make more things extensible with declarative code instead of inperative, this will be the target llms work on for anything where possible
