@@ -1,0 +1,1 @@
+Posting this here, as I think it's a great writeup by (user), a deep technical dive into standard streams, pipes, Unix processes, how system signals behave with parent processes, blocking UI I/O, and how async Rust helped fix it: https://www.tiles.run/blog/controlling-ctrl-c
