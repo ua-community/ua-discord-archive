@@ -1,0 +1,5 @@
+whats so great about our machine learning?
+- Smaller ML models, trained on synthetic and local data, private data YOU retain ownership of 
+- Explorations towards more efficient, interpretable, controllable, and diversity of models and their applications
+- You can own a model, or part of a model, develop new experiments and targeted training, and participate in a network of like-minded friends delivering service directly to others 
+- Eschew datacenter logistics and prices by building sustainable, community-focused alternatives.
