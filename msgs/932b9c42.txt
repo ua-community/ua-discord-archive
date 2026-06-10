@@ -1,0 +1,3 @@
+Thinking about this too. I do think async coms is the way to go for development.
+I think similar to humans it depends on what you want to do. Probably requires different models eventually. Not everything is a long horizon task.
+Saw some demos with fully interruptible voice agent (also able to interrupt you/speak in parallel). Those are exciting
