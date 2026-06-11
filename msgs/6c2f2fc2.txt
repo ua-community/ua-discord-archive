@@ -1,0 +1,1 @@
+its less a matter of feature parity to frontier models and more about the means of serving tho features to others
