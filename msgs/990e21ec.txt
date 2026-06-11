@@ -1,0 +1,5 @@
+one parting thought : you see all over HN etc like all these people saying oh i use $4000 in api calls with my claude pro/max subscription, etc.
+
+i think the real question is what happens when the service either stops being cheap or starts getting laced with ads and all types of crazy terms and conditions, ie the anthropic move to flag content randomly and switch models/do who knows what to monitor "proper use"
+
+i think right now its like not really possible to compete with the pile of money that silicon valley has thrown at these things and the real question in my mind is when & how will this cheap compute era end? bc i think as soon as people actually get billed what the compute costs actually are, especially if theres a data center bubble or oil crisis that actually starts being felt rather than just anticipated, thats when all the rules of the game will shift and tons of things that didnt see the light of day might just explode
