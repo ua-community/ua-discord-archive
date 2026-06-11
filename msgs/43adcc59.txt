@@ -1,0 +1,5 @@
+@everyone Starting now U&A’s weekly demo spotlight #6 featuring @ocramz project Trellis 
+
+Trellis : Private grids for frontier AI. Reuse your existing hardware to run LLMs privately and securely.
+
+Join us via this link: https://meet.jit.si/userandagents
