@@ -1,0 +1,1 @@
+There is a future I'd love to see where the PDS turns into a your tiny compute server through some kind of WASM plugin ecosystem
