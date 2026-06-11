@@ -1,0 +1,1 @@
+Back in Bangkok, building main storage server tonight. Up until now it’s all be spread over nvme on each of the nodes but this NAS will provide zfs backed network storage for durable storage. Good old spinning hdd disks raid-z2 (plus  spare) with nvme and ram for cache.
