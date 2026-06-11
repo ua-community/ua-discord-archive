@@ -1,0 +1,1 @@
+and the beauty of matching any data to an fs is fast to break in real world. thats why all of the fuse drivers for non file data and all the plan9 filesystem visions went nowhere except proc fs in linux
