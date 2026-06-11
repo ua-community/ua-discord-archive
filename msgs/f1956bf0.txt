@@ -1,0 +1,1 @@
+Maybe borrow the PDS idea and extend it to a "personal compute server" with your model running on it, that you can move somewhere else via protocol if need be
