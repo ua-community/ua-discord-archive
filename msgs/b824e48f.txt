@@ -1,0 +1,1 @@
+the link, i explored the fa approach from a few angles before, but i am now again strongly in favor of mcp instead or an sql api
