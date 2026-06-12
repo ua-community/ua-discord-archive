@@ -1,0 +1,1 @@
+If necessary, even though the managed service personal identity servers would be offline most of the time, they could be poked online for a minute just to do a key rotation before going back offline
