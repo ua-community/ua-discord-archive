@@ -1,0 +1,1 @@
+Yeah Brave would also have better anti-fingerprinting support, but from an archiving standpoint you probably want to appear as vanilla Chrome as possible for most sites.
