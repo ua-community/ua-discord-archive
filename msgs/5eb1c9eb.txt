@@ -1,0 +1,1 @@
+And it's the thing you log in with, functioning like an OIDC identity provider
