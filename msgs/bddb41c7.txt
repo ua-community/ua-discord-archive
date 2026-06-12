@@ -1,0 +1,1 @@
+A small piece of hardware running a software with a specific scope that never changes
