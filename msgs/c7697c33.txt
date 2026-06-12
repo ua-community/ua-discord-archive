@@ -1,0 +1,1 @@
+Take care plugging in fans to headers. Managed to fry mb (thankfully I have a spare) as the 3 pin fan went into 4 pin header offset from correct position by 1. lol it’s always off by one errors. Anyway expensive mistake, double check before powering on.
