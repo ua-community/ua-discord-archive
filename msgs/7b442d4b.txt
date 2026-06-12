@@ -1,0 +1,2 @@
+That's the cool thing about Reticulum, your network address *is* a cryptographic identity
+https://reticulum.network/
