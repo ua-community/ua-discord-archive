@@ -1,0 +1,1 @@
+Probably because at the time 1) I'd worked w/ Brave to ship native full-node IPFS support and 2) I'd funded WebRecorder via grants to add support to archive to IPFS as a feature, so just using Brave instead of Chrome makes doing that a flip of a config flag, and a little glue code.
