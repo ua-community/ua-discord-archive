@@ -1,0 +1,1 @@
+Rhyzome as a whole would be an OIDC identity provider provisioning personal identity servers
