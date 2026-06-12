@@ -1,0 +1,1 @@
+Yes your personal identity server keeps a private key
