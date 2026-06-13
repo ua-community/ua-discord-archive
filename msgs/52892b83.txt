@@ -1,0 +1,3 @@
+> two reasons, they publish a .deb package for each release that works on ubuntu, after google stopped doing that for chrome, and there is builtin ad-blocking
+> 
+> i think chromium is not an option as some things like certain videos did not play natively at the time (and one user did ask about enabling widevine, though im sure its not archivable)
