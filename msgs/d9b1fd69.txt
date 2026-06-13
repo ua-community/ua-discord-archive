@@ -1,0 +1,14 @@
+I did my best to document the information in README and CONTRIBUTING but there are admittedly gaps so definitely ask questions if you would like clarification!
+
+The main project is here and basically wraps several services together into a single system, unifying inference, training, storage, local clustering and experiment tracking 
+https://tangled.org/yzzxyz.roomy.chat/coven/blob/main/CONTRIBUTING.md
+
+Then the training project itself we split into its own repo, theres a slew of distributed information and research on this page that I think will be particularly salient for you
+https://github.com/darkshapes/drift/blob/main/CONTRIBUTING.md
+
+Then in the process of these two projects we also began this automated training standard, which basically serves as a parameter filter, agentic entrypoint and as a test method to ensure Drift is launching training as necessary.
+https://github.com/darkshapes/ati
+
+Currently we're extremely close to drift launching distributed training and were running trial runs on that between multiple machines. Any logs or errors are very valuable, the README should explain the process well enough to start. 
+
+We also plan on having distributed storage, but we haven't made any headway there yet. I was planning on using Tahoe-LAFS or Spacedrive or LumeWeb portal but we havent made any progress yet so its something that could be specced out, the idea being shared distributed p2p storage for petabyte-scale datasets
