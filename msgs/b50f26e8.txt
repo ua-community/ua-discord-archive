@@ -1,0 +1,2 @@
+hey guys - i created a pretty cool infra tool that opens the internet for agents to use for free. it allows anyone to index whatever they browse into the index as a shared commons for anyone to use - protected by zk and some security elements - working on actions currently. check it out!
+https://github.com/unbrowse-ai/unbrowse
