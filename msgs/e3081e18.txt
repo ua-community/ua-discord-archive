@@ -1,0 +1,1 @@
+first thought: because ATProto apps don't want to store any user data themselves, and want ATProto do to all of that
