@@ -1,0 +1,1 @@
+native chrome extensions coming to chrome embedders,  should also make the custom electron extension layer obsolete
