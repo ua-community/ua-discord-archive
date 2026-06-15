@@ -1,0 +1,1 @@
+There's been work for it on android too. sadly the source code was too hard to reuse cause of their funky build system
