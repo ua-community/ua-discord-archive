@@ -1,0 +1,1 @@
+re article: qwen2.5 was great and predated gpt-oss by several months, code harness improvement was a big catalyst for change, qwen3.6, gemma 4 are all even better than this
