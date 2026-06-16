@@ -1,0 +1,2 @@
+something to keep in mind is I run models up to like 90-95% the size of my entire ram so the rate is not as fast as frontier but it is of comparable quality.  Step 3 198B, Minimax 2.7 230B, GLM 4.7 218B, Nemotron Super 120B, Qwen3.5 120B, etc
+part of my objective with COVEN project is to make this kind of performance more accessible for others
