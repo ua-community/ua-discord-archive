@@ -1,0 +1,1 @@
+TIL Microsoft Entra Verified ID system uses DIDs: https://learn.microsoft.com/en-us/entra/verified-id/decentralized-identifier-overview
