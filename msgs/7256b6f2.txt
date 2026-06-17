@@ -1,0 +1,13 @@
+i just started getting these 
+
+```
+⏺ API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited
+```
+
+in claude code and apparently its happening elsewhere
+
+https://www.reddit.com/r/ClaudeCode/comments/1u5njkr/api_error_server_is_temporarily_limiting_requests/
+
+heres where the TOC starts to wrap their hands around you. also had a similar experience with codex the other day. and claude code had flagged my content the other month with like a "you are doing something that seems copy-catish" for a project i was starting that had referenced other open source projects for context from which i was trying to derive the baseline idea but radically change in a unique implementation. 
+
+my guess is that they will basically focus exclusively on corporate clients with extraordinary pricing increases - and if you pay for the baseline product, it will just be ever more filled with random messages like "this is deprioritized until you pay more money" or "this is illegal" even if its not
