@@ -1,0 +1,1 @@
+pijul is working on something similar for years. dont think this will ever be the way to go, agents are good at resolving conflicts and having this happen explicitly has a lot of benefits for reasonabilty about your systems.
