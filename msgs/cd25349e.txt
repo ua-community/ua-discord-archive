@@ -1,0 +1,1 @@
+We're back to iterating on Ensu. The latest release brings Gemma 4, on-device voice transcription, and faster image queries. https://ente.com/blog/ensu-continues/
