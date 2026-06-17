@@ -1,0 +1,1 @@
+servo team seems really unenthusiastic about question if they will add webview tags as sub contexts. when they say webview they mean a native webview object exposed to native embeder applications, should have been obvious, but well.
