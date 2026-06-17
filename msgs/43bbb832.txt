@@ -1,0 +1,1 @@
+sounds like nothing really uses it yet. targets will be embedding usecases and maybe low resource usage minimal browsers? we had a session about using it as engine for cordova
