@@ -1,0 +1,1 @@
+can u selectively destroy/suppress/alter content on a website , maybe even through a set of rules or scripts?
