@@ -1,0 +1,1 @@
+Interestingly, both came out of IPFS universe: Iroh's bootstrap funding was the very first deployment we made from the IPFS Implementations Fund. UCANs came out of Fission - even as funding was being reduced we squeezed out a significant sized grant that I think turned out to be their final check before closing down.
