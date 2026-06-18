@@ -1,0 +1,1 @@
+looking at ```docs/interop/tiles-alignment.md``` looks like you got ahead of us in terms of implementation heh, its a proposes extension to Modelfile, one currently we have not done, right now we just support mlx-community/<modelname> hugging face paths for FROM field in Modelfile
