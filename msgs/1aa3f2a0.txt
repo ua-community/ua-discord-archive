@@ -1,0 +1,5 @@
+Correct, basically nobody yet, and that won't change until it's more generally usable. I applied for a Horizon grant to spend time doing a few things:
+
+- Research and interviews for govt/business/GLAM use-cases for an EU sovereign web engine
+- Corral developers, agencies, coops etc who are experts/experienced/interested in doing web engine work
+- Reflect the previous two outputs back into Servo planning and development to accelerate it being usable
