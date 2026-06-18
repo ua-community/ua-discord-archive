@@ -1,0 +1,10 @@
+super cool (user) - thank you for sharing!
+
+one thing that triggered when you said like the software/agents recurringly reconfiguring the hardware was these (very technical) papers where the authors are essentially providing a sound mathematical framework to this exact proposal - if i understand you and/or them
+
+https://arxiv.org/abs/2602.17917
+Interactions that reshape the interfaces of the interacting parties
+
+https://arxiv.org/abs/2410.08373
+Dynamic task delegation for hierarchical agents
+(I have the pdf even though it was withdrawn due to irreperable mistakes in the main proof, but i think its still relevant at the ideas level)
