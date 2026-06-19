@@ -1,0 +1,1 @@
+no worries, its predicting a world where local model calling and tools are totally ubiquitous, theres time between now and then
