@@ -1,0 +1,1 @@
+llama.cpp has a proper menu bar app + webui now
