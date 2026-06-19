@@ -1,0 +1,1 @@
+https://github.com/ggml-org/Llama-macOS/releases/tag/0.32.0
