@@ -1,0 +1,17 @@
+Things that got done:
+- nas build and setup w/ hdd and nvme, zfs, and installed linked to core 
+- fixed jetkvm issues turns out the power switch has polarity (makes no sense to me but ok), can now control atx power via jetkvm
+- remote power control for high speed switches (need to hack to reduce sound or just turn off when in the building)
+- serial and management ports on mellanox switched hooked up 
+- added more temp / humidity sensors 
+- moved dual cpu rig out of rack and up to core / service tier 
+- setup another node for multi GPU but didn’t install any GPUs, turned off for now. Next time 
+- ops dashboard with every port connection mapped using live data 
+- large air circulation fans remote control 
+- gateway multi wan routing 
+- added another ups for nas and management devices 
+- alerts for over temp via sensors 
+
+Todo next time:
+- failsafe heat venting (should dual ac stop working or have trouble keeping up). Ideal would be way to vent hot air outside and pull from bigger room so only clean air enters.
+- finish connecting 40gbe links
