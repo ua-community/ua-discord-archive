@@ -1,0 +1,4 @@
+im actually imagining a buzzfeed quiz thats like 'which computer science cult are you?'
+the cult of VIM
+the cult of Emacs
+the cult of Webasm
