@@ -1,0 +1,1 @@
+i suppose evals are inevitable in the work but at the same time i feel like most benchmarks and metrics i look at are meaningless, and i have better understanding studying practical results. so i am wary of throwing more noise than signal
