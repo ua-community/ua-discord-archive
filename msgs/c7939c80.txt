@@ -1,0 +1,1 @@
+Maybe we do live sessions where we discuss the general thing we want and then from that the goal and plans are formed. We work though prototypes, pull in other people who can help, move towards different versions and implementations.
