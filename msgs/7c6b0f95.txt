@@ -1,0 +1,3 @@
+16gb vram recommended 😎
+
+Gets a lil buggy below that which I'm trying to fix, mostly error handling, and blog posts coming soon
