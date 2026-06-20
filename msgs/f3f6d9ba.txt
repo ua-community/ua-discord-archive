@@ -1,0 +1,1 @@
+to point at collaboration though, it seems to me that other than overlap, trellis brings inference, hyprstream brings fine tuning and continuous post-training, and COVEN brings deep learning from scratch and alternative and non LM architectures
