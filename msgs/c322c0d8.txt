@@ -1,0 +1,1 @@
+Maybe the way to start is just to add a bot here we can whitelist people to talk to and then have it spin off agents and post the results back to thread
