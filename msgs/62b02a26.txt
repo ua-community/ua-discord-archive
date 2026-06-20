@@ -1,0 +1,1 @@
+i think a lot of people love the idea of CRDT working together apps and video chat but when it actually comes to using it ppl end up wanting something a lot less intrusive, demanding, and like being watched
