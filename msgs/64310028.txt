@@ -1,0 +1,1 @@
+I mean vm is basic unit, but at higher level agents doing things, shared service, social co creation etc
