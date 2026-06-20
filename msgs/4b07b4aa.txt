@@ -1,0 +1,1 @@
+i just want a fking reliable server that makes switching models simpler so i can avoid launching a bunch of parameters from command line every time i want to do something slightly different
