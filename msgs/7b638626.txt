@@ -1,0 +1,1 @@
+instead osaurus focus on trying to replicate behavior that is inherently insecure, add bloat and broken stuff to the app, and ultimately I havent been satisfied with MLX performance
