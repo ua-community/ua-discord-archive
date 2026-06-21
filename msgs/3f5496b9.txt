@@ -1,0 +1,3 @@
+(user) did you put the slides/numbers any where 
+
+like the kind of basic metrics : total amount/inventory of hardware you have, the compute available/being used, electricty costs etc
