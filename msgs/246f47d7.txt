@@ -1,0 +1,3 @@
+really curious to think about what it would take to have a federated instance of GLM 5.2 or something similar - like could you run that model on your hardware ATM?
+
+pondering specifically what number of devs and cost per person that would enable people coding agents/generators to justify it relative to the cost of claude/codex today
