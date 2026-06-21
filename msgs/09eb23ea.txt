@@ -1,0 +1,1 @@
+GLM 5.2 clocks in at ~450gb at Q4, theyd have to tensor or pipeline parallel it across like 20 cards tho
