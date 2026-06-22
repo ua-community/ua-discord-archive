@@ -1,0 +1,1 @@
+It might be possible to do 8x 3090 + system RAM for extra but it would be slow.
