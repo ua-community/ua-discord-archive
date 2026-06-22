@@ -1,0 +1,5 @@
+- give a unique name to a trained model that is also a certificate of what has been done to it
+- certification of pipeline
+- which inference hosts have a model
+- which inference hosts have this model warm
+- cost filtering
