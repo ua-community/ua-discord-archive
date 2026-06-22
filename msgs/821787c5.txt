@@ -1,0 +1,3 @@
+yeah, MIR operates in a trusted environment, and its meant to make the actual operation of the models within that space simpler, since the complexity does not end at the tunnel side. 
+
+for older models in particular, we noticed a lot of parameter information and model application was being lost over time and sought to preserve that, which is something that hf do well on llms, but poorly with any other modality
