@@ -1,0 +1,1 @@
+i agree i think we should really settle on a performant fs, but i think if were going to take things in chunks, it would be good to choose which step to attack first
