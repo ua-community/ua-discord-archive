@@ -1,0 +1,1 @@
+i think that kind of thing is going to be important when there might be 5-10 agents hitting a single code base at once
