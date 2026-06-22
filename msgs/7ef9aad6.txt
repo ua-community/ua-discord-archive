@@ -1,0 +1,1 @@
+everything else is storage, transport, or use-case driven infra
