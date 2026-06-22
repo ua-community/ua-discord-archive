@@ -1,0 +1,1 @@
+so Git is distributed "but there's no distributed remote" do you mean like a DHT?
