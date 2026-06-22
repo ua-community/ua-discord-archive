@@ -1,0 +1,1 @@
+i also love python but it seems like rust is the better option for this kind of thing
