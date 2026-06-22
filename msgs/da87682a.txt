@@ -1,0 +1,1 @@
+my guess would be that less people would be interested in doing distributed networking exactly to our needs, but i might be wrong
