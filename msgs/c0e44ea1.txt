@@ -1,0 +1,2 @@
+we could wait for other ppl to *maybe* get the distributed networking set up while we work on the fs
+ or we could wait for other people to do fs and then do the filesystem ourselves if we have to once the network is ready
