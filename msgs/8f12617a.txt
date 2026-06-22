@@ -1,0 +1,2 @@
+sooo
+- give cryptographically verifiable name to model via a resolver or similar solution
