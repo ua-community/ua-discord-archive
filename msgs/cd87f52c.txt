@@ -1,0 +1,1 @@
+i tried making a framework that does not need any build steps on deployment and can live edit componenet but i just missed svelte too much so in the end it ran a svelte compiler in service worker so technically not minimal enough. but really feels different if there are no uneditable bundles and round trips for deployment
