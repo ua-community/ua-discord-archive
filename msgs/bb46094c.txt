@@ -1,0 +1,1 @@
+i've tried a few times, but didn't notice any particular difference from clear initial prompt + narrow task focus + ended before 200k context.
