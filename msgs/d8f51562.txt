@@ -1,0 +1,3 @@
+increasing information density of references to things that ultimately dont explain the underlying behavior, again it seems to me like more noise than signal, and putting results as priority over comprehension.
+
+tldr: if we want to understand the weights, we should be using less pointing, not more
