@@ -1,0 +1,1 @@
+from my perspective, it has to start with the model first, with *predictable* behavior that doesnt settle for interpretable only, with solid datasets that aren't incredibly biased and wrong from the start, with fair practices that dont just exist as a placeholder to appease shareholders
