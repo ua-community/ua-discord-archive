@@ -1,0 +1,3 @@
+from another angle, if it allows other people to pick it right up, its not a bad thing, and its hard to argue with data science to chill on the data
+
+reminds me of https://github.com/ReScience
