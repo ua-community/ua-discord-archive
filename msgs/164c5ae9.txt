@@ -1,0 +1,2 @@
+i think thats what i dont really understand about either of y'alls approaches
+you want to have these elaborate systems to verify operation and secure access and execution, but the very thing youre operating and executing is inherently untrustworthy, insecure, and poorly understood
