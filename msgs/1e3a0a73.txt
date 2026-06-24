@@ -1,0 +1,1 @@
+access is controlled by a discord role, and @ commands to the interface go to a provider - im assuming claude - that then creates work in the system on your behalf
