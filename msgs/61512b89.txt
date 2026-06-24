@@ -1,0 +1,16 @@
+😄 
+
+---
+name: 1password
+description: Read this skill when the user uses 1Password.
+icon: https://static.asidehq.com/apps/builtin-skills/1password.svg
+---
+# 1Password
+
+## How to autofill
+
+1Password autofill options appear as an iframe popover menu after focusing a form field.
+
+1. Click the form you want to autofill.
+2. Wait 500ms, up to 1 second, for the menu to appear.
+3. Take a snapshot.
