@@ -1,0 +1,1 @@
+firstly, less about red teaming and more about, like, creating a performance slider sort of effect for bench testing/eval
