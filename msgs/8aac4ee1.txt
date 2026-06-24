@@ -1,0 +1,3 @@
+thinking today about evals, [this paper](<https://role-confusion.github.io/>) brought with it an interesting and valuable observation :
+
+> How well do current models do against prompt injection? Not so great. A recent paper found human red-teamers achieve near-100% attack success rates against frontier models5. But, these same LLMs score near-perfectly on standard prompt injection benchmarks! The discrepancy is straightforward: skilled humans test and adapt attacks until they work, benchmarks don't.
