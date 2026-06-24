@@ -1,0 +1,3 @@
+so actually, it might be two thoughts
+- shared chatbox/group verify chatbox
+- shared commit reversion/commit switching
