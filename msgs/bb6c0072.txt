@@ -1,0 +1,3 @@
+but conformant results here isn't like programming
+this is a stochastic system with a high sensitivity to nuance for each *mora*, one that actively modifies each output
+no static checklist or exam is going to correctly asses the behavior, because these companies do not do the hard work of digging into their models to research why the behavior happens
