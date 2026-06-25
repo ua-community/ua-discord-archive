@@ -1,0 +1,1 @@
+moved feature management out of a Settings pane, and have publish/verify/install on Atproto a good part of the way there.
