@@ -1,0 +1,1 @@
+nice, MCP in your browser that specifically does NOT do the thing you'd want to do with it. https://developer.chrome.com/docs/ai/webmcp#limitations
