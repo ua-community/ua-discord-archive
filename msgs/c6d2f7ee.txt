@@ -1,0 +1,3 @@
+DAMDGPU_TARGETS yeah?
+you can see here
+https://github.com/Mesh-LLM/mesh-llm/blob/main/scripts/build-llama.sh
