@@ -1,0 +1,1 @@
+but yeah, macs have secure enclave protected space, where apps are isolated from all other aps and can be isolated from the user
