@@ -1,0 +1,1 @@
+> Settlement runs on tokens: one model token in or out costs one token from your balance, full stop. There's no exchange rate to anything outside the system and no secondary market — the token buys compute, and that's the only value we try to assert. It's a mutual-credit unit in the tradition of Sardex and the 1934 WIR cooperative bank.
