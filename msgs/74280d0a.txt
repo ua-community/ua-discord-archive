@@ -1,0 +1,1 @@
+Would now be a good time to propose my address book abstraction idea to Bluesky such that DIDs can be changed around a PDS without impacting the integrity of the data inside it? That idea could conceivably extend to AT URIs as a whole, which would then save a lot of headache if they do decide to change the AT URI syntax.
