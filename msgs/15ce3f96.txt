@@ -1,0 +1,1 @@
+as far as i understand phala/dstack on something like folknet  would be one order of magnitude whatever that means more turstable?
