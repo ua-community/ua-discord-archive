@@ -1,0 +1,3 @@
+how much of a process needs to be invertible and explainable for you to trust it? what kind of trust are you willing to place in a system that works but in a completely opaque way? how do you diagnose faults, or conscientiously accept accountability for implementing a system that fails when you never understood it in the first place?
+
+I cannot be convinced by tests/evals/alignments/personalized metrics say. Its not good enough, and we should demand more than that
