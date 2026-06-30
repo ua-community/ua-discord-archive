@@ -1,0 +1,1 @@
+Been testing omnigent.ai by the databricks team https://github.com/omnigent-ai/omnigent as a control plane / meta harness layer.
