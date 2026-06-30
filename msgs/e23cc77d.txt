@@ -1,0 +1,1 @@
+thank you for the info - I will do what I can do. This is indeed AI generated - it is explicitly mentioned in the TOS. We are not experts in this space and are very eager for people smarter than us to pitch in as we see tangible benefits to building an inference layer for atproto that is roughly shaped like this.
