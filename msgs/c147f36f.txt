@@ -1,0 +1,4 @@
+ignoring the agent for a second, they are saying only two things - 
+- the hardware is correct
+- the install is correct
+- the model is the right framework
