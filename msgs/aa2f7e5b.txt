@@ -1,0 +1,13 @@
+yeah but its ai written so hard to trust. if i ask my ai if its BS:
+
+This is not a real TEE for LLM inference in the SGX / SEV-SNP / Nitro Enclaves sense.
+
+Apple’s Secure Enclave is not running the model. It can protect keys and sign attestations, but the model and plaintext prompt still execute in normal macOS user-space/GPU paths. The protection comes from macOS platform security controls: code signing, SIP, hardened runtime, library validation, anti-debugging, disabled core dumps, and avoiding subprocesses.
+
+So the claim:
+
+“There is no observation surface for the operator to use.”
+
+is too strong. A safer version would be:
+
+“Under the verified macOS security posture, the operator should not have an ordinary supported path to observe plaintext prompts without breaking attestation, exploiting the OS/app, or compromising the signed binary supply chain.”
