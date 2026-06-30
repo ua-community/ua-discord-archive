@@ -1,0 +1,1 @@
+yeah i understood it that it can work as root of trust for a secure tee? otherwise the claims for running agent inference networks on apple hardware would be impossible?
