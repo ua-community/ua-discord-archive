@@ -1,0 +1,1 @@
+yeah because all IWA is still considered only supported on chromeos until end of the year. at least thats what the project manager told me. they are open to accept prs for other platforms but wont fix if eg feameless is broken on macos
