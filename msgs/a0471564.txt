@@ -1,0 +1,16 @@
+Cool rust+cryptography job a friend posted. If you apply, lmk and I can mention you. Also feel free to mention me even if we only met through here.
+
+https://celabs.eu/
+
+> Hi all,
+> 
+> I'm indeed looking for a Security / Cryptography Engineer to join our small company (Remote, Germany/EU).
+> 
+> There's no job ad out there, but here's a short blurb on what we're looking for. Please reach out to me if you think this could be interesting for you or someone you know.
+> 
+> At CE Labs, which we recently spun-off from Cryspen with a strong foundation in cryptography and formal methods, we are building the foundational security and privacy infrastructure for next-gen applications. We implement advanced, end-to-end encrypted protocols like MLS and all the cryptography below. We then help others to package these SDKs and applications.
+> 
+> We are looking for a systems-minded engineer fluent in Rust to join our small team. Your main focus will be translating complex cryptographic primitives, academic papers, and RFCs into production-ready, safe, and highly optimized code. You will also actively help us design and create entirely new protocols and standards.
+> 
+> To excel in this role, you should also have an understanding of the nuances of modern cryptography (e.g. post-compromise security or anonymous credentials).
+> We operate as a remote-first, high-autonomy team. We are ideally looking for someone based in Germany, though other European countries are options we can explore.
