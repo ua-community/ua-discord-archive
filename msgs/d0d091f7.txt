@@ -1,0 +1,1 @@
+and in web ui sessions can be shared and become multi user
