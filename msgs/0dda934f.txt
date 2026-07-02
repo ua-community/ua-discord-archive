@@ -1,0 +1,1 @@
+I think regardless of my exact solution that immutability remains a bad assumption and this case just makes it super clear why lol
