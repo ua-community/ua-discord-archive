@@ -1,0 +1,2 @@
+🥳  sounds like it's safe to use roomy.chat, right now the data sits on their servers, and will be migrated whenever permissioned data lands.
+So safe = not worse than discord
