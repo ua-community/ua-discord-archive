@@ -1,0 +1,1 @@
+Blur your eyes and it's that mythical decoupling of data and application logic we've been circling around for 1.5 decades at least.
