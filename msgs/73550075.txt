@@ -1,0 +1,1 @@
+We kicked around some redirect ideas in Montreal at the IETF last year, but there isn't a lot of appetite for it
