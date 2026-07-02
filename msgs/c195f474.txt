@@ -1,0 +1,1 @@
+oh yeah opencode 2.0 also natively supports deno if they managed to get that in
