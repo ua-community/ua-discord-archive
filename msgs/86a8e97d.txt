@@ -1,0 +1,1 @@
+instread of solving the ui issues for permissions,  IWAs will fallback to showing frame in unframed mode for some cases.  tbh seems ok if this means more things will work, just means requesting permissions late will not be a good UX until properly implemented.
