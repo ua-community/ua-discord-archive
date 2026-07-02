@@ -1,0 +1,1 @@
+You never give your credentials to the atproto app, in the oauth case. You do the whole oauth dance, which means you only ever enter creds into your PDS, which if they are correct, means the PDS gives a cryptographic token (handwaving) to the atproto app, which it can use to sign subsequent write requests.
