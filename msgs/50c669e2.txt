@@ -1,0 +1,1 @@
+I get what you're aiming at, but I don't know that this is the right solution or that it is worth chasing. Some feedback: Petnames very much ARE made to be human readable (hence the name)
