@@ -1,0 +1,1 @@
+So yeah, tl;dr is that Atproto apps generate signed records which the PDS validates, stores and serves.
