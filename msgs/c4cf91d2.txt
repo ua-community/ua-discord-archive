@@ -1,0 +1,3 @@
+Thinking is to explore the multi player stuff from two angles one is web shaped site you signup for and bring your agent, use web ui. 
+
+The other is more compute shaped and you get node you can login to via ssh, host stuff on, etc. more VPS / zo shaped
