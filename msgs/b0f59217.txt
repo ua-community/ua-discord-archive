@@ -1,0 +1,10 @@
+I’m crashed today, continue tomo. Using fable to orchestrate gpt 5.5. 
+
+- somewhat janky job queue and orchestration to sub agents on other machines mostly handing off to 5.5, fable provides the instructions and picks models based on type of task
+- local forgjo, ci, etc 
+- setting up build and testing infra for chrom*  
+- xe.computer cloud machines, simple signup (ssh key), then you machine on the cluster with agents etc already setup with access to local models. web ui 
+- local model router 
+- getting omnigent working with sandboxes on folknet
+- cluster activity page (shared above) 
+- linux launcher for darc
