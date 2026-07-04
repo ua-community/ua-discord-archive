@@ -1,0 +1,1 @@
+we figured it out. Marque does not import any records automatically, nor does it notify you when transfer goes live.... lesson learned.
