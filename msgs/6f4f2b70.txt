@@ -1,0 +1,1 @@
+dns records. they're public. why wouldn't autoimport, or at least queue up for a one-click import.
