@@ -1,0 +1,9 @@
+For the next alpha release, we’re switching our inference stack to llama-server from llama.cpp: https://github.com/ggml-org/llama.cpp/tree/master/tools/server.
+
+We decided it’s better to rely on a dedicated inference server and focus our engineering effort on what differentiates Tiles: peer to peer collaboration and local-first features.
+
+llama-server is still relatively new and was released as part of the recent https://llama.app work. If it had been available when we started, we would’ve chosen it from day one instead of building our own inference scaffolding.
+
+It’s been working great in our internal testing.
+
+We’ll be shipping a nightly build with this change in the next few days.
