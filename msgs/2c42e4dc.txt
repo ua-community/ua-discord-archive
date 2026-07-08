@@ -1,0 +1,3 @@
+Tiles now supports ATproto lexicons for shared chats! Check out the lexicon here: https://lexicon.garden/lexicon/did:plc:mqmcsjuerbjhu65mpmvkcuw2/run.tiles.chat.sessionSnapshot/analytics?range=24h
+
+https://bsky.app/profile/tiles.run/post/3mq4mn3ec5c2q
