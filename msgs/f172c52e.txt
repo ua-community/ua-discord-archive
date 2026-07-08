@@ -1,0 +1,12 @@
+The way I'm doing this now for my web software:
+- Use content addressing, stick to a specification for files and directories (ipfs folks recently made a summary of specs for this + new ipfs spec)
+- Make a build of the software, stick it in a repo with a CID that never changes for that specific build.
+- Make a mapping of versions and CIDs: see https://elements.diffuse.sh/chronicle/ (every build is available via the site)
+- Make a top-level DAG that references those build artifacts.
+- Announce top-level DAG CID on my domain via DNSLink (now you know it's verified by me)
+- Pin this whole thing on filebase.com
+- Make latest pinned CID available on site (also hosted on Filebase)
+
+It's not exactly signed. But since the domain specifies the top-level CID, you can verify that it's from me. The CIDs listed on the site can also be fetched directly from IPFS and you can reconstruct the CID if you download said build.
+
+I could do some extra mappings from my atproto identity to that top-level CID, but haven't done that yet.
