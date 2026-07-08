@@ -1,0 +1,1 @@
+There is signed web bundle (swbn) but browser won’t load a render it from a url in normal use.
