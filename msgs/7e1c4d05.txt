@@ -1,0 +1,3 @@
+Tiles now supports lexicons for shared chats!
+
+https://bsky.app/profile/tiles.run/post/3mq4keirqu22q
