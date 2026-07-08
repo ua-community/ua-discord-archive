@@ -1,0 +1,4 @@
+- signing out of band, or inside the web content itself?
+- verifying out of band, or inside the web content itself?
+- do you need the entire contents (html, js, css, images, any included remote assets) verifiable as not modified by a 3rd party? or just some part of it?
+- how technical are both parties?
