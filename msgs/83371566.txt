@@ -1,0 +1,1 @@
+Ultimately though, you cannot prove that there are definitely no side channel attack vectors no matter how good faith the manufacturer is.
