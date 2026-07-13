@@ -1,0 +1,1 @@
+I just looked into it, the main issue imo is that it just relocates trust to the hardware manufacturer in a way that's hard to recover from if the manufacturer is ever compromised.
