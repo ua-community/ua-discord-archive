@@ -1,0 +1,1 @@
+oh yeah they are also moving to vibe coding all of this and then rely on proof languages to even understnd that the vibe code is correct
