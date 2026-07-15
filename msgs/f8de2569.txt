@@ -1,0 +1,1 @@
+The idea is complete adversarial defense, with "could rebuild from scratch without Bsky PBC" as the success metric, for you + community, and tools for defending against weaponized deleters (eg public figures).
