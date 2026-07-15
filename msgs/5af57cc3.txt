@@ -1,0 +1,1 @@
+Mostly it was (user) watching me discover loads of regressions I'd introduced during the "open 50 windows instantly and run them at 100x less memory than Chrome does" work.
