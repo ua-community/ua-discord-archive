@@ -1,0 +1,10 @@
+Interestingly, each Atproto account on Bsky's PLC has a max of 6 keys (per the spec) and Bsky creates two by default for their accounts, so there are four open slots. You can use the keys at the same time, and their power is ordered.
+
+So one thing P2PDS will do (partially implemented) is help users set up an agency-first order, eg:
+
+1. your most powerful key, shown in a BIP-39 mnemonic that you put in a vault somewhere
+2. a key saved locally so you can sign sensitive stuff with it if needed
+3. your DIY/self-hosted PDS if you have one
+4. your delegated-trust PDS (Eurosky, Bsky, etc)
+5. idk, what other fun stuff can we do? Shamir-with-mutuals?! let's play!
+6. launched into space on a cubesat obvs
