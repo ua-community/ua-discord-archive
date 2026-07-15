@@ -1,0 +1,5 @@
+Even if you run your own PDS or use a non-Bsky PBC one, identities in Atproto universe are typically registered by default at a single public ledger of credentials (PLC), which was run by... Bsky PBC. The PLC manages the storage and mapping of DID<->key(s) and an auditable log of records of actions taken using the DID and its keys.
+
+Lots more info here: https://atproto.com/blog/plc-replicas
+
+Bsky are doing some good-direction things, eg moving to a foundation to anchor the PLC, and building out specs/code for independent replicas. But it's still 99.9% of accounts on their PLC, so there will always be criticism until... well, probably forever.
