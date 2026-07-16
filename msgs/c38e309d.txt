@@ -1,0 +1,1 @@
+"GPU VM (your steer → d/090 + P-149, dispatched): P-146 spent ~6 hours beating a compositor defect that only exists because our capture display has no GPU — ControlledFrame guest textures freeze at first composite under GPU-less Xvfb, which is what forced the four-layer capture workaround."
