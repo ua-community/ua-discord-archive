@@ -1,0 +1,1 @@
+The root cause is without an GPU or window compositor chrome assumes controlled frames are not actually visible so while they are there they render blank
