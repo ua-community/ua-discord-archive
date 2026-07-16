@@ -1,0 +1,1 @@
+It managed to find a 4 flag combo in chromium to get it working that also required it toggling a pixel to get things to actually work.
