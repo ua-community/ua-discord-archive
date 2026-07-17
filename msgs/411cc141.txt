@@ -1,0 +1,1 @@
+rather than every app adding iroh and pairing into native apps, do it at the system runtime level and just one time. apps dont know anything about the transport, to them its they just run. apps shouldnt have to be modified to run, they need to just work
