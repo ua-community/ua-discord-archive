@@ -1,0 +1,1 @@
+i shouldnt have to think about ips, vpns, vms, containers, ports, or any of that. it should just run web apps and they should just load and be mutable (because they are open and include the source code)
