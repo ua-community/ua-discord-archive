@@ -1,0 +1,1 @@
+Every device has same core runtime that manages chrome / IWA stuff and micro vm for hosting apps. Apps can be installed on any of the devices. Iroh to connect them together over private network. IWA super user agent (darc) to compose and act as the shell.
