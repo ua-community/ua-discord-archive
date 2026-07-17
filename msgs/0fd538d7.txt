@@ -1,0 +1,1 @@
+Had to recreate the android iwa patches as the previous one the machine back in thailand thats turned off. Remember to push to git in future. Will be interesting to compare when i get home with this newer patch to see what if anything is different.
