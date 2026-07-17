@@ -1,0 +1,1 @@
+NotebookLM is now Gemini Notebook: https://notebooklm.google/
