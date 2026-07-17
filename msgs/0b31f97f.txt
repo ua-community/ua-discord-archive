@@ -1,0 +1,3 @@
+IWA installed from remote machine loading app served from remote too into controlled frame on android. 
+
+app.localhost > iroh > quic > iroh > app.localhost
