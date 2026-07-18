@@ -1,0 +1,11 @@
+ya the whole idea is that the shape of the boxes encodes kind of just all the syntactic information, ie the arities and the types, and then the semantics comes via its interpretation in some concrete setting. 
+
+so the types are called colors, and the functions/procedures/interfaces (what spivak calls them) /.../multimorphisms just give the composition structure, or shape
+
+id demo'd this but its a very simple example - albeit buggy and whatnot - but you can just think of your favorite plug and play, box and wire programming language
+
+https://warrick.life/operadical/Operad14/
+
+the values of computation that you displayed in the box represents its semantic evaluation and the tree of operators itself is one composite diagram in the operad
+
+hope this clarifies
