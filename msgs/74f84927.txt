@@ -1,0 +1,1 @@
+Indeed https://bartoszmilewski.com/2015/10/07/operads-type-level-nats-and-tic-tac-toe/
