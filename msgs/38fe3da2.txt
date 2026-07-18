@@ -1,0 +1,9 @@
+> Why operads are helpful. The appeal of operads is that
+> they allow us to separate the abstract forms of composition
+> from any particular interpretation of those forms. For ex-
+> ample, Examples 2.2–2.3 talk about very different objects
+> (i.e., k-ary string processing functions vs. derivation trees
+> in formal grammars), yet operads package both as instances
+> of the same underlying idea: an operation with multiple
+> inputs and one output, together with a notion of plugging
+> one operation into an input slot of another.
