@@ -1,0 +1,7 @@
+<@&1309485393506336829> I think its a good time to inquire about having a Topics channel for `#operads `
+
+Its a topic i've been pondering for a few years now -  some of you may have heard bits and pieces in casual conversation - but  going to local first conf and seeing everything i've been seeing is really beginning to crystallize in my head. 
+
+while i only have simple demonstrable examples of how i'm thinking of operads as a new paradigm for computation and more importantly interacting with computers - i think instead of having a project it would be ideal to explore the topic collaboratively - as my knowledge is still quite limited
+
+also please note that *its not just me* (https://arxiv.org/abs/2606.13634) thinking about these things, but i imagine i'm one of the only people thinking about it as regards applicability in the real world and believe its time for the word to escape from the ivory tower.
