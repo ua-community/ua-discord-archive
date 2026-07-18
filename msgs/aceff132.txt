@@ -1,0 +1,1 @@
+In the QA lens, you would compose "does the test suite pass" into all the tests in the suite
