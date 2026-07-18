@@ -1,0 +1,1 @@
+So I asked claude to explain it to be as a non math geek and it said its like a chain of boxes with variable number of inputs per box and an output per box. I assume that output feeds another boxes input. Is this anywhere near correct?
