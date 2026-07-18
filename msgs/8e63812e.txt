@@ -1,0 +1,21 @@
+References : 
+
+Video
+
+- [ What are...operads?](https://www.youtube.com/watch?v=cu718EbCOPs)
+    - Visual & relatively nontechnical intro
+-  [An Operadic Approach to Compositionality](https://www.youtube.com/watch?v=cu718EbCOPs&t=533s)
+     - David Spivak
+- [An attempt to explain category theory to biologists in 15 minutes | David Spivak](https://www.youtube.com/watch?v=gibW0NzbZk0)
+    - More general category theory but operads discussions start around 8 minutes
+- [Tom Leinster : The categorical origins of entropy](https://www.youtube.com/watch?v=JgNy2ZUqdZI)
+    - more technical but still digestible
+- [Opetopic Diagrams 1 - Basics](https://www.youtube.com/watch?v=OANwLohwJqk)
+    - Eric Finster
+    - see [this playlist](https://www.youtube.com/playlist?list=PLWAw3zSOqFVKZ-LzAq4hQaKIVj8zjtfCs) with the accompanying [gh](https://github.com/ericfinster/orchard) and [here](https://github.com/ericfinster/opetopic)
+- [Higher Dimensional Syntax - Eric Finster](https://www.youtube.com/watch?v=AnjK4hKp6v4)
+
+Writings
+- https://www.appliedcategorytheory.org/wp-content/uploads/2017/09/Spivak-Operadics-The-mathematics-of-modular-design.pdf
+- [The operad of wiring diagrams: formalizing a graphical language for databases, recursion, and plug-and-play circuits](https://arxiv.org/abs/1305.0297)
+- [What is an Operad? Part 1](https://www.math3ma.com/blog/what-is-an-operad-part-1)
