@@ -1,0 +1,1 @@
+Welcome to <#1527991729448550491>. An operad is just a monoid in the category of symmetric sequences under the composition product. Any questions? ask (user)
