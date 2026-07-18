@@ -1,0 +1,1 @@
+> Operads were introduced by mathematicians to study systems built by iterated substitution — how many-input operations compose coherently into larger operations — and they provide a compact language for tree-shaped composition.
