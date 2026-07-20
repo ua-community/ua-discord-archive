@@ -1,0 +1,1 @@
+though I feel the usefulness of the operad "scaffolding" is only as useful as the composition of the subterms.  In the case of language, only synthetic language can be neatly decomposed into independent sentences with a single truth value
