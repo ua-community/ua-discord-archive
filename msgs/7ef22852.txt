@@ -1,0 +1,1 @@
+They’re a long time services / consulting team that only builds on open source. Getting this working on MacOS was a PITA.
