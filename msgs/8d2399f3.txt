@@ -1,0 +1,5 @@
+the main idea of operads is to distinguish the (de)composition structure of something relative to its meaning - as coupling them can off lead to oversights where one doesnt see the forest from the trees - no pun intended
+
+if you ignore the mathematical details of the answers, i think this question points out why this is useful in mathematics
+
+https://mathoverflow.net/questions/72490/why-are-operads-useful
