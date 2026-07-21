@@ -1,0 +1,3 @@
+relative to how i see them, its like almost every presentation at local first conf, every project i see demo'd in U&A, has seemingly similar structural concerns, that of cutting and pasting data from different sources and displaying the data relative to an experimental and coherent multifaceted and multiled new interface, often with some generative machine (so-called LLM, agent, .. )  either in the interface or operating in the background.
+
+my contention is that people are rediscovering the same structure, or at least some quasiequivalent stucture, and that a lot of the complexity of seeing waht these structures are is best done by decoupling what the software is doing, or meant to do, from how its composed
