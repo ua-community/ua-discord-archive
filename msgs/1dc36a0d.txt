@@ -1,0 +1,1 @@
+best would be to have a sw library that lets others build upon and holds all the correctness properties. In Haskell you can encode quite a bit into stuff the compiler can check, and still build general purpose software on top https://claude.ai/share/0025d06c-786e-4271-8763-ef7efd0e7aa9
