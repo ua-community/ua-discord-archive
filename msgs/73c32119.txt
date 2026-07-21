@@ -1,0 +1,3 @@
+additionally, when these generative machines take a prompt and produce a series of artifacts, the substance and goal of the prompts, as well as the artifcats themselves may differ greatly, the path to get from prompt to artifact will have a similar set of compositional primitives that take an abstract shape derived from some tree like structure.
+
+ofc this is generalized to the possibility over a temporally versioned sequence of prompts and artifacts,
