@@ -1,0 +1,1 @@
+> that operads are more immediately useful as a tool for defining things than for proving things.
