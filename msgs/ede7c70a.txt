@@ -1,0 +1,1 @@
+take this question you just asked, as a string. Without context it has an ambiguous meaning. Natural language is not context-free, which is one of the core assumptions of the two QA papers above
