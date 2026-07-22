@@ -1,0 +1,5 @@
+theres a whole taxonomy of operadic structures : pros, props, properads, polycategories, ... 
+
+each of these will present different interpretations of how expressive one wants to be, or what kind of problems a composition structure should model. operads are the simplest, most well studied, and most well behaved of such composition structures. 
+
+i'll forego a longer spiel for the time being, but i encourage you to think about problems youre working on or encountering and then as what is best way of capturing the shape, and then finding the best structure that captures such a shape.
