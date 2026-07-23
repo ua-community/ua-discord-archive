@@ -1,0 +1,1 @@
+writing my own cloud native dns server (based on really really really good systems libraries) for fun and no profit
