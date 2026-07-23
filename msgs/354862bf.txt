@@ -1,0 +1,1 @@
+i just could not could not could not handle going to back to another PowerDNS. i probably would have been ok with Knot DNS but the dns update path there sparks no joy.
