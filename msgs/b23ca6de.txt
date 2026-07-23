@@ -1,0 +1,2 @@
+crazy day for models,
+https://huggingface.co/Nanbeige/Nanbeige4.2-3B out now looks so good. just absolutely wrecking the heck out of Gemma4-12B and Gemma4-E4B, brutal. Beating Qwen3.6-9b by a good clip.
