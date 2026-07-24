@@ -1,0 +1,7 @@
+So what is a good alternative? Seems like there is a lot of experience with open source models in these chats (glm5.2 , Kimi k3, etc). What do you recommend using?
+
+I usually just stick with Claude core and opus 4.7/4.8 cuz my tests of open coder were bad and I don’t have a huge amount of time to test out harnesses and tweak them.
+
+I did try omp (oh my pi) after using “oh my Claude” plugin. And it worked decently for smaller tasks, but my laziness brought me back to Claude rather than tuning it.
+
+Hope someone can give suggestions for good outcomes with an open harness and open models - esp any tweaks/skills needed for this to work well
