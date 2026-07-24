@@ -1,0 +1,1 @@
+It doesn’t do many permission checks, but I run Claude in a sandboxed container as well
