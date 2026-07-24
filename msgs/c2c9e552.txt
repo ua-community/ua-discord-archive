@@ -1,0 +1,1 @@
+ui is great. the architecture feels weird especially the desktop vs server archtiecture and where agents run. also the concepts are confusing
