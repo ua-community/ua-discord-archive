@@ -1,0 +1,5 @@
+Have you tried this? Felt better than opencode in my limited testing
+
+https://github.com/can1357/oh-my-pi
+
+still looking for better. I know Claude leaked and someone ported it to rust, but then heard it was optimized to their model and you need different adopters (prompts, tools, etc) to get the most of other models 🤷‍♂️
