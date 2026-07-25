@@ -1,0 +1,1 @@
+i think i've again came back to my love of web world but only at the ui and cross communication layer like web assembly that lets us interface with making infra libraries like iroh that can be cross compiled (iroh runs on web as rust with wasm)
