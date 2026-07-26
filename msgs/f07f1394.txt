@@ -1,0 +1,3 @@
+i tend to think the stable base of computing is still as it was, still needs the same pieces.
+
+we need forges, running git, running CI/CD, we need really good platforms with all sorts of services
