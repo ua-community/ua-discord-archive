@@ -1,0 +1,3 @@
+extra irony, supposedly the instigator here was maybe Jensen. and like, ok: open weights yes? what about open systems that we can run them on? oh, no CUDA / CUDA Tiles for anyone else? only you? lol lol lol.
+
+to be fair they also are doing a ton of extremely good open source work. just, still keeping that CUDA moat alive. CUDA Tile IR is also open source, just... good luck everyone else. Good luck. it could be a thing though? some day.
