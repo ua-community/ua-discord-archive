@@ -1,0 +1,1 @@
+hopefully the firefox folks really do help jumpstart the path to getting wasm components in the browser. wasi 0.3 is so good, finally here.
