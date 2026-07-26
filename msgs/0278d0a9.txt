@@ -1,0 +1,1 @@
+i still worry so much that it means rebuilding an observability layer, that just doesn't exist without the excellent devtools we have now. but also yes i am very in, not all in but in, on wasm
