@@ -1,0 +1,1 @@
+Thing of note, OpenAI is also a signatory so I think we can expect their  third open weights model release after gpt oss (first one was gpt 2)
