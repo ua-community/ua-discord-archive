@@ -1,0 +1,1 @@
+yes so rather than static analysis alone, there is a pure "core" crate that provides a state machine. We can simulate exactly many state transitions under various perturbations and scenarios and find minimal configurations that trigger a violation.
