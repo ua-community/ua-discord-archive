@@ -1,0 +1,1 @@
+I rely heavily on property testing (proptest/propsim), so another useful point of criticism could be on the tested invariants themselves
