@@ -1,0 +1,1 @@
+indeed Tiles was an inspiration. I was wondering whether this sort of capability could be reusable.  I'm still not clear whether/when/how are private ATProto data supposed to work, so I went with this
