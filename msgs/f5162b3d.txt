@@ -1,0 +1,5 @@
+putting this very early prototype out here for your consideration: using BeeKEM (by (user) et al at Ink&Switch) for key management of iroh groups. 
+
+User story : teams that want to edit documents without a central auth server, and with basic authz (admin/writer/reader).
+
+https://github.com/unfoldml/iroh-beekem (branch "first")
