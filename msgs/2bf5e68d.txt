@@ -1,0 +1,3 @@
+I'll call the library ready when it offers a simple CRUD API for workspaces, files and users. 
+
+I would welcome all feedback and ideas and criticism of it, as this (local-first etc) is a space I'm still educating myself on.
