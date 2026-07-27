@@ -1,0 +1,1 @@
+yes it's generated. No new crypto, all the crypto is from treekem or iroh. I hope the property tests can uncover how safe this is, too
