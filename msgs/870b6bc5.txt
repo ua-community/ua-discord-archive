@@ -1,0 +1,1 @@
+how would someone connect their email account to something like that without fine grained permissions
