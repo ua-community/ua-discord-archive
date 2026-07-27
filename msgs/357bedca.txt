@@ -1,0 +1,1 @@
+qwen code is apache 2 and has a web ui and server mode similar to opencode that looks really promising
