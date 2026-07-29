@@ -1,0 +1,1 @@
+this is a very rich design space bc you have to balance distributed consensus and dynamically changing data
