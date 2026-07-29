@@ -1,0 +1,2 @@
+You mean the navidrome client? Yeah that's the idea.
+You can add a navidrome server or other opensubsonic servers as input, among others (ie. audio source)
