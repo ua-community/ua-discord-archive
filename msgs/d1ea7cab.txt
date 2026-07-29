@@ -1,0 +1,1 @@
+Interesting. Working on our own internal multi-humans/multi-agents framework. Since an unlimited number of agents can pick up tasks on the same repo, exploring UCAN as a way do delegate capacities to the agent fleet without them going amock.
