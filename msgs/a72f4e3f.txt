@@ -1,0 +1,1 @@
+Interop is something that should be intentionally done for specific outcomes, and composably layered on, so not trading-off against agency.
