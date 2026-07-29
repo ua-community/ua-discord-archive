@@ -1,0 +1,1 @@
+Of the non-Claude harnesses I've tried, I like it best - but likely because I live in plain vim. Doesn't try to have a distinctive experience, very minimalist, and feels super lightweight and responsive. The only animation is basically cursor-sized.
