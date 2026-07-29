@@ -1,0 +1,1 @@
+Exactly what I was trying to communicate. The CLI is open source, has gotten support for mods (plugins) and almost all the remote features work fully locally, with any backend LLM provider.
