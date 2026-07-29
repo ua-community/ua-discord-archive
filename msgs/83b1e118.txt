@@ -1,0 +1,1 @@
+Yes, no web server ships ootb, but there are better pluggable alternatives anyways. I always found the letta cloud UI to be kind of lackluster.
