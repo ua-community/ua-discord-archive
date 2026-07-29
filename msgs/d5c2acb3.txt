@@ -1,0 +1,1 @@
+the answer is yes 🙂 connections from devices that are not joined are rejected using an EndpointId allowlist.
