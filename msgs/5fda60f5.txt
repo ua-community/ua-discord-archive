@@ -1,0 +1,3 @@
+Need to go into bug hunting mode and cut a more stable release at some point 😅 
+But in case you do want to experiment, here's where you would add a opensubsonic server:
+https://elements.diffuse.sh/latest/l/?path=facets%2Fconnect%2Fopensubsonic%2Findex.html
