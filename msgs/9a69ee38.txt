@@ -1,0 +1,1 @@
+localcode is just a little wrapper i made to handle all the invocation/installation stuff, so i can just do "localcode gpt-oss aider" or whatever.
