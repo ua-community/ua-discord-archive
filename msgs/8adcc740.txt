@@ -1,0 +1,2 @@
+Hello everyone, I am currently deeply involved in an  Elixir agentic OS framework and thought this will be a good hang-out to see how people are working these things out. 
+I am also specifically working in a startup where we are currently exploring UCAN for delegating authorization to agents. Someone suggested that this is something that has been discussed here so would really appreciate any insights. 💡
