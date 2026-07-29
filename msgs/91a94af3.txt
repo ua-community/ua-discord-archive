@@ -1,0 +1,1 @@
+Eg the way atproto is so nicely layered on to projects speaks a lot to this design.
