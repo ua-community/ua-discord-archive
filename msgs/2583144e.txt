@@ -1,0 +1,1 @@
+Doesn't solve the broken URL problem (need to ditch DNS and HTTP completely for that) but is designed for *survivability*.
