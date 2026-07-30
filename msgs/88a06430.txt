@@ -1,0 +1,1 @@
+at some point ppl were proposing to "discover" hypertext paths dynamically but that didn't get really popular
