@@ -1,0 +1,1 @@
+The L in URL is the dead-end wrt to survivability. It's HTTP's poison pill. If you share a URL even once, and the L changes, and someone tries to access it moments later or decades later... doesn't matter. Dead.
