@@ -1,0 +1,1 @@
+So what I built is already a dead location generator. Can't change that until we aren't using HTTP (or change it so radically that's not really HTTP anymore).
