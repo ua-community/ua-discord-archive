@@ -1,0 +1,1 @@
+multiplexing has a very operadic feel to it - i postulate that some taxonomic cousin to operads provide the precise mathematical theory to that. whether this company actually cares about math is another question!
