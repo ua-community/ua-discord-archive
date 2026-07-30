@@ -1,0 +1,1 @@
+yep, is a tile, CID-addressed MASL https://szzt.app/publish/content-spec.html
