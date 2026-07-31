@@ -1,0 +1,1 @@
+It's on by default on nightly now, and it's a floating panel design... just barely.
