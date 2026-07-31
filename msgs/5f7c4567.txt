@@ -1,0 +1,1 @@
+We are testing a rebranding fully to "xe computer" as the VM/container and runtime for backend parts of software and local first aspects seems to be central.
