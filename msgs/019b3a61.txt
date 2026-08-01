@@ -1,0 +1,5 @@
+(user) also wondering about this regarding Darc - the canvas, reader, etc modes for instance -  like since its a browser it is more geared towards http/html/js ecoysytems, but would there be a way of "unbundling" any native app to run it inside of darc - ie what i assume you already did with vscode?
+
+ because then darc really does start to feel like a more operating system type abstraction than a browser - although that distinction already is a bit blurry - i'm quoting a talk i vaguely remember from almost a decade ago where i heard this https://www.youtube.com/watch?v=hY0gyzItyEo
+
+like this is especially relevant for mobile as it's a native app ecosystem. Perhaps you and luke have discussed this already at length - but just thinking out loud here!
