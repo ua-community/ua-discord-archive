@@ -1,0 +1,1 @@
+oooh this might be possible using a service worker too 😱
