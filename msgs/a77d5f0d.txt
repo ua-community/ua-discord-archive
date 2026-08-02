@@ -1,0 +1,1 @@
+Tauri is really nice for that because I won't have to maintain the web engine at all lol
