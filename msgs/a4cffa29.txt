@@ -1,0 +1,3 @@
+I way I've been trying to articulate how we got here is that the web was designed to be an information system and so it lacked infrastructure for identity,  data, and distribution. The attempts to fix this (RSS, semantic web) got trapped in the local-maxima of the origin.
+
+https://bsky.app/profile/chrisshank.com/post/3mpm37afm722u
