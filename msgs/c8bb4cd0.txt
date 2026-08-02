@@ -1,0 +1,1 @@
+I think ATProto is very much a protocol's protocol, if you will. It really wants more protocols to be developed on top of it (in the case of lexicons) and also around it.
