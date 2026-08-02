@@ -1,0 +1,1 @@
+Ya know, I think I was basically thinking of doing something like that, insofar as if a web app only requires a fixed sized bundle. Maybe it could be broken up into a small one that loads fast and a bigger one that can take a bit longer.
