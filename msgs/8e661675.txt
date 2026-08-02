@@ -1,0 +1,1 @@
+I keep thinking a lot about the untapped potential client flexibility. We don't *have* to be stuck with the traditional browser standards (html/css/js) anymore, with data properly separated from client.
