@@ -1,0 +1,1 @@
+I've been thinking of making a little Tauri based browser that pulls in html/css/js directly from PDSes by AT URI, enabling a new way of web app publishing that only costs whatever your PDS costs (currently free)
