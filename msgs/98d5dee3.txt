@@ -1,0 +1,1 @@
+maybe there's a way to do atproto-like web bundles, which is a single record contains the core assets of a website. secondary assets can be loaded 1 by 1
