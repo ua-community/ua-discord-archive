@@ -1,0 +1,1 @@
+I know the html/css/js paradigm was designed such that html should be loaded first to show anything at all, followed by CSS so it looks nicer, followed again by js adding the dynamic behaviors. But modern SPA frameworks already throw a wrench in that, requiring the JS to load in before anything can really happen regardless, lol.
