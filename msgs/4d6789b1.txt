@@ -1,0 +1,1 @@
+the more esoteric way to use service workers is to make a website sourced from non-http networks
