@@ -1,0 +1,1 @@
+I just remembered a piece from in here about atproto as a post-app protocol, and realized that in many ways, the apps ushered in a post-website world.
