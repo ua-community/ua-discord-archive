@@ -1,0 +1,2 @@
+> You give them a filesystem, a shell, tools, packages, and the ability to run code.
+Sounds more like giving agents OS tools to work with?
