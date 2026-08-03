@@ -1,0 +1,4 @@
+If you have an IoT or hardware idea but aren’t sure how to connect the device, firmware, cloud, and application sides, I can help bring the pieces together. 
+I specialize in building complete technical systems rather than treating every component as an isolated task. 
+I’m especially interested in prototypes, smart devices, automation tools, and products that need both software and embedded knowledge. 
+Tell me what you’re building, what already exists, and where you’re currently stuck.
