@@ -1,0 +1,1 @@
+I'm experimenting with BYO CDN or IPFS - eg configure your account with Cloudflare or an IPFS node, and the gateway then services assets from there instead of direct from PDS, and has a cache expiration etc.
