@@ -1,0 +1,1 @@
+For true community agency, I suspect sooner or later we'll need to build our own fiscal host and payment processor.
