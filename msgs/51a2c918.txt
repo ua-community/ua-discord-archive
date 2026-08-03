@@ -1,0 +1,1 @@
+> Agents need **more than just a container** to scale. We're introducing @cloudflare/computer, an agent runtime that dynamically orchestrates between fast, efficient isolates and **full Linux containers** to give every agent a computer of its own.
