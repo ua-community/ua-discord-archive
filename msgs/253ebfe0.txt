@@ -1,0 +1,1 @@
+i went the MASL route and limit aggregate size to 25mb for https://szzt.app, as a quick hackaround for my "widgets, mini site or just a few files" use-case.
