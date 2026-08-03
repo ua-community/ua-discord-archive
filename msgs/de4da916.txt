@@ -1,0 +1,1 @@
+I’d suggest anyone wanting to experiment today to try out HappyView - it will run on your localhost with SQLlite just fine
