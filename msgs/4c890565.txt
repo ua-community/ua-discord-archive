@@ -1,0 +1,1 @@
+which means Electron code-signing for macOS on Linux
