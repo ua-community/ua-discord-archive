@@ -1,0 +1,6 @@
+I'm thinking of doing some permissioned data on atproto, anyone know of any good approaches?
+
+I know about https://happyview.dev/ but that's for setting up your own app view server, so I'd rather not if possible.
+(user) was talking about community servers I think, I'd pay for that 👀 
+
+I also know about Habitat spaces, but I guess I need to self-host that as well?
