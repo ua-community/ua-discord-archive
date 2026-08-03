@@ -1,0 +1,1 @@
+i'd written some Hetzner auto-provisioning stuff for a project a while back, getting cheap boxes at auction, thinking about moving my whole dev env up there.
