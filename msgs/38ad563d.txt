@@ -1,0 +1,1 @@
+HappyView is not for appviews or rather not only. It’s the thing that’s easiest to use and available today - it has space host capabilities built in
