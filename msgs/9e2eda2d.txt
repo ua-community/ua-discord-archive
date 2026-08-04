@@ -1,0 +1,1 @@
+the programmable storage is new, used to have separate creds etc. now is all through the cloud api.
