@@ -1,0 +1,3 @@
+“We tried to process this payment twice, but it was blocked by Wise. Their explanation is that the Indian legislation does not accept the reception of funds from non profits abroad. 
+
+Have you perhaps got a different account (e.g., Wise or Revolut) where we can process this payment to?”
