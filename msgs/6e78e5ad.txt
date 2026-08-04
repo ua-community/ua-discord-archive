@@ -1,0 +1,1 @@
+i just write some scripts, hit their api... boom, servers and storage.
