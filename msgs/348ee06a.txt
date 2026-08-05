@@ -1,0 +1,1 @@
+https://morello.dev/blog/cross-origin-storage-api
