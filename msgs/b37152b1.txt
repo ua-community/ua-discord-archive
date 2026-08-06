@@ -1,0 +1,1 @@
+a lot less shit now after i put my own openwrt router in, and added traffic shaping. but that doesn't change the super low upload ceiling 😐
