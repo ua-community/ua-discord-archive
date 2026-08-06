@@ -1,0 +1,1 @@
+I'm decoupling into static frontend and a set of mini services (which I want to run on <#1463684823645421765>...) and then I'll publish. Right now it's just Cloudflare workers, so I want to push it indy before publishing something for real. Probably on https://szzt.app so the front end is all on open protocol, loadable without locking to a single domain.
