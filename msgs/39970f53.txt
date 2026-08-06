@@ -1,0 +1,1 @@
+https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B/summary
