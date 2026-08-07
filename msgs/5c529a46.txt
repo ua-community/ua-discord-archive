@@ -1,0 +1,7 @@
+Amazing! I’ve been wanting something like this for a long time! 
+
+It’s on the Diffuse facet/tile/extension list as well. I’m going to work on cooperative atproto playlists soon which is closely related to this.
+
+Besides that you can also import regular playlists, so I’m curious what the schema is for yours?
+
+So how exactly are you playing these lists you’re generating here? I want to do something similar where Diffuse is able to play music you don’t own, or at least previews of the songs. But I’m struggling to find open music services, besides Deezer.
