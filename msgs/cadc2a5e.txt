@@ -1,0 +1,1 @@
+Self-hosting my own PDS now with https://exe.dev/ at https://pds.ankeshbharti.com/
