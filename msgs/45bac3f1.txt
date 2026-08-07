@@ -1,0 +1,9 @@
+Thanks! Interesting to read 👀 It’s pretty much as I feared tho 😅 Why do we have to resolve to Youtube and iframes 😩
+
+> a list of (artist, title) pairs, resolved to a player at the end rather than sourced from one at the start
+
+Nice! Diffuse works the same. A playlist is an aggregation of tracks that match the criteria of playlist items. Schema: https://tangled.org/tokono.ma/diffuse/blob/v4/lexicons/output/playlistItem.json
+
+For the atproto syncing algo I’m storing this in “playlist item bundles”, just because atproto doesn’t support batching afaikt: https://tangled.org/tokono.ma/diffuse/blob/v4/lexicons/output/playlistItemBundle.json grouped by playlist [name]
+
+I’ll do some thinking about how we can overlap further.
