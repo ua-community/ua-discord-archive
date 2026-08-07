@@ -1,0 +1,12 @@
+Currently Diffuse is focused on playing audio files that you own, but I do want there to be "plugins" to also play from elsewhere. The idea there being when a playlist is loaded and it contains tracks it doesn't find in your collection, we load the audio from elsewhere.
+
+Problem is, currently all audio is played using the html audio element. So the "morelike" approach is great, we'd just have to funnel it through a stream (using eg. yt-dlp as (user) suggested). A server is needed here though.
+
+Alternatively, my hope is that we could collectively share our music files and playlists among friends. Just not sure how we get there. Could be Keyhive or atproto permissioned-data shaped.
+
+Anyhow, about the morelike <-> diffuse connection:
+- morelike could generate a playlist using the schema linked above and add it to atproto (which Diffuse would pick up later if linked with atproto account, note: diffuse atproto integration needs more testing)
+- diffuse could import m3u playlists or other formats
+- morelike server integration from Diffuse side to import playlist?
+
+Anything specific you had in mind (user)?
