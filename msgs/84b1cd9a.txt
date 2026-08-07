@@ -1,0 +1,1 @@
+I did an experiment in music recommendation using a graph as supervision a while ago http://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html I suspect with a well-connected listening dataset you could skip the NN training part and just sample from the graph
