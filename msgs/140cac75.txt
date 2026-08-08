@@ -1,0 +1,1 @@
+You can also swap between storages, like browser [data] containers.
