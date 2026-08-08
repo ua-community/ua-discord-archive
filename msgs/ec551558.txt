@@ -1,0 +1,1 @@
+I’m familiar yeah. It’s not a priority tbh. Kind of waiting to see how the tech evolves. I don’t want to host a single server myself for Diffuse (besides hosting the static files). So something like permissioned atproto data is appealing.
