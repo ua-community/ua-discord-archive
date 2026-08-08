@@ -1,0 +1,1 @@
+I recently learned that authz can be decentralized too. https://www.usenix.org/conference/usenixsecurity19/presentation/andersen
