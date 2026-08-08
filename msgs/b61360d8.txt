@@ -1,0 +1,1 @@
+For closed communities, if you're happy with some amount of centralization (ie running a message bus + DB for the community) you could also use OpenMLS instead of Keyhive : https://dr-knz.net/mls-investigation.html
