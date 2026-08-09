@@ -1,0 +1,1 @@
+https://github.com/unfoldml/propsim Propsim now has an iroh connector package, propsim-iroh. This lets you test message-passing state machines using real or in-memory iroh transports
