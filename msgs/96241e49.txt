@@ -1,0 +1,1 @@
+But it's not really well formed. I want something that's more like Atproto lexicons + XRPC, but with a proper IDL, and at an abstraction level that could be a local resource or a network resource, and the caller's not super worried about it.
