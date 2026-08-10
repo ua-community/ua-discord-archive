@@ -1,0 +1,9 @@
+this is what we have so far: https://github.com/unfoldml/iroh-beekem 
+
+You can use it to collaborate on plaintext and binary files, has CRDT semantics but also an API for "revisions" that only synchronize when told to.  
+
+ The authz layer is where things got a bit ad hoc because beekem makes no provisions for it. Known tradeoffs are documented in the README. 
+
+As a side note, it became a bit of a "spork" library design, coupling document storage with confidential meshes. I think having the latter as a standalone library would be more principled.
+
+Happy to hear all feedback!
