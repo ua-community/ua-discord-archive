@@ -1,0 +1,3 @@
+Love it! JSPF looks interesting for sure. I made some different tradeoffs:
+- I went with separate playlist item records for compatibility with atproto records and cooperative playlists: https://discourse.atmosphere.community/t/cooperative-playlists/629
+- My track URIs have sensitive data in them, so I wanted to separate them (eg. for encryption).
