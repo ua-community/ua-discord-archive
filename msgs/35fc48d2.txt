@@ -1,0 +1,1 @@
+My approach has been to have static playlist items match with dynamically generated “tracks” (a location, eg. audio file http server with directory listing, expands into a set of tracks). So BYO files & streams basically.
