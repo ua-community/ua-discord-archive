@@ -1,0 +1,1 @@
+Feels like we need (handwaving here) interoperable media events/invocations. Eg, yt-dlp behind a worker or a YT iframe... behind some invocation that has a standardized (the lexicon sense, not the web standards sense) interface .
