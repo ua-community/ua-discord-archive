@@ -1,0 +1,1 @@
+Eg JSPF/XSPF both enable n locations for a media, so you can support multiple platforms or BYO platform.
