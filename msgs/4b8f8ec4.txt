@@ -1,0 +1,1 @@
+In the Peek view of the world, features register their supported MIME types, so you'd emit or register (depending on what side of the interaction your on).
