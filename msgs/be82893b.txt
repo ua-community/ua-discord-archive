@@ -1,0 +1,5 @@
+Feels like there's some intersection of Lexicon-like things and WASM-like things that hasn't been filled yet, which lets components/services interact in...
+
+1. in a loosely-coupled way
+2. with a proper security boundary
+3. and either side not needing to know about what's on the other
