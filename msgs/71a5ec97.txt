@@ -1,0 +1,1 @@
+Agree, I think WASM is the red herring. You need a shape more like and IDL + implementation location/identifier, and the pleasure of not knowing or caring if someone has WASM behind it or not.
