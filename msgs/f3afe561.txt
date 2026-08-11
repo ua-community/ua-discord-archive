@@ -1,0 +1,8 @@
+Ohh ok, I see what you're getting at. Yeah that'd be great if that was a thing. I basically had to resort to doing the inverse (creating a platform within a platform), which is kinda sad.
+
+I wonder if you can create that with https://developer.mozilla.org/en-US/docs/Web/API/Document/requestStorageAccess to circumvent the "partitioned state" problem.
+
+Handwaving part:
+"morelike" loads iframe with Diffuse panel/facet that has one purpose, broadcasting invocations. Diffuse facets (eg. player) in other tabs pick up the invocation.
+
+I guess the issue here is that both domains need to call `requestStorageAccess()`, sort of establishing a session?
