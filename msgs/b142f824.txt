@@ -1,0 +1,8 @@
+https://dsyme.net/2025/09/02/what-kind-of-programming-is-natural-language-programming/ a refreshing take. Natural language provides a set of constraints within which AI paints
+
+" .. what we generally call “ambiguity” comes in two very different flavours:
+
+    genuinely useful generality
+    missing useful specificity
+
+Focusing on the first category, we must say this loud and clear: ambiguity in natural language programming is not always a problem, it’s often an opportunity.  "
