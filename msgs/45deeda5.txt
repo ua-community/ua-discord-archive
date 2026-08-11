@@ -1,0 +1,5 @@
+now one can use harness based lmstudio from mobile too, so in essence most llm tools have remote control now:
+
+- lm studio with tailscale
+- unsloth over cloudflare tunnels
+- tiles with iroh
