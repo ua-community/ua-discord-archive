@@ -1,0 +1,1 @@
+Since cloud environments in both these apps do have a way to share MCP across their cloud threads
