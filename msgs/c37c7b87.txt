@@ -1,0 +1,1 @@
+https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8
