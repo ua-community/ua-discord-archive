@@ -1,0 +1,11 @@
+Most embedded projects don't fail because of the PCB.
+
+They fail somewhere between firmware, hardware, and the app.
+
+A sensor streams perfectly over UART, then timestamps drift in MQTT. A motor controller behaves on the bench, then CAN traffic collapses once three nodes come online. Everyone debugs their own layer while the real bug lives in the integration.
+
+That's the work I enjoy most.
+
+If you're building something with STM32, ESP32, Raspberry Pi, Jetson, CAN, BLE, MQTT, or custom hardware, I'm happy to jump into the messy middle and make the whole system behave like one product.
+
+Feel free to DM me if you're stuck on an integration problem, even if you just want a second set of eyes
