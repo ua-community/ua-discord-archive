@@ -1,0 +1,1 @@
+And it can operate Sprites too? Same feature parity with CLI?
