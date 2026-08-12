@@ -1,0 +1,1 @@
+all I'm saying is that the opposite end of the spectrum as proposed by Fly and others, to give LLMs YOLO permissions on boxes that have both arbitrary MCPs installed, no egress filtering and access to confidential, amounts to setting up a  "persistent threat" for yourself.
