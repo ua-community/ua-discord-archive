@@ -1,0 +1,1 @@
+Can also go for a cloning approach - your credentials are on the machine and you just create a copy when you use it? That's what I do, have a template environment & duplicate that for every task
