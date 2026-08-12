@@ -1,0 +1,1 @@
+Issue still remains that I can’t persistent the CLI state for Fly to work with in a continued way with those bots
