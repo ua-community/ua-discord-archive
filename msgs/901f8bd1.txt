@@ -1,0 +1,1 @@
+could the other direction work? LLM on a remote vm and laptop for running the agent?
