@@ -1,0 +1,3 @@
+That's sort of why I think the whole sandbox / environment thing is a separate skill as a company: most of these companies are adding random limits on the sandboxes & at the same time making them poorly isolated.
+fly.io has the skills & knowledge to just... Give you a server. It's completely isolated & insanely cheap. They've been doing this for other kinds of deployments forever.
+You can do whatever you want including cloning etc and it just works
