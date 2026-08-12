@@ -1,0 +1,1 @@
+It’ll charge for usage as it’ll be always on and don’t sleep but I think as there will be negligible resource usage with ssh server on when idle so  it might not be much
