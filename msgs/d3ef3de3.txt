@@ -1,0 +1,1 @@
+Only makes sense if you assume LLMs are inherently unalignable. We give all three to only lightly trusted users all the time. It's a question of who is liable. Protecting from all possible leaks is impossible already.
