@@ -1,0 +1,2 @@
+These days I have a normal fly machine (with a persistent assistant) -> that connects to sprites for temporary environments for each task
+But I don't think there's a significant difference to normal machines these days so an all sprite setup also works
