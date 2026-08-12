@@ -1,0 +1,1 @@
+(user) can I ssh into these Sprites?
