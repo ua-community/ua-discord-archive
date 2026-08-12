@@ -1,0 +1,1 @@
+Yes, I think you can do pretty much anything with sprites. The default is just a websocket console
