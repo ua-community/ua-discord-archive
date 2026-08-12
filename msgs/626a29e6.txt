@@ -1,0 +1,1 @@
+? Don't get it, you create a base sprite with everything inside once & then remote into that?
