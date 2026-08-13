@@ -1,0 +1,1 @@
+(user) I'm curious if you have any thoughts on how important the early principles that emerged on the web (user agent, progressive enhancement, security-by-default, etc.) were to how the web developed?
