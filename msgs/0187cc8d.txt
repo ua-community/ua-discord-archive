@@ -1,0 +1,1 @@
+I've been noodling on if atproto needs a similar set of principles and what those could be
