@@ -1,0 +1,1 @@
+With IP, you end up needing an ID that persists while your network address changes, which roughly makes everything resemble DNS
