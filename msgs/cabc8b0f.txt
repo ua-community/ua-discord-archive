@@ -1,0 +1,1 @@
+But with Reticulum, your network address persists, because it's self sovereign
