@@ -1,0 +1,1 @@
+i'm really digging how OpenCode has become basically _the_ headline project for Effect, which is super fun. very neat internals.
