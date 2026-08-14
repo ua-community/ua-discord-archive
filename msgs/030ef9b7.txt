@@ -1,0 +1,1 @@
+apologies if this was shared already, but the paper about dynamic composition, about spatiotemporal composability is quite the banger! i think the malleable software crew is going to enjoy this. https://github.com/cordiverse/paper/blob/main/paper.pdf
