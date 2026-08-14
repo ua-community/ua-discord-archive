@@ -1,0 +1,3 @@
+i think this is the most interesting development, because i'm very much thinking about similar things. the theory of algebraic effects is intimately related to that of <#1527991729448550491>  and one of my goals over the past year has been to discover and begin to articulate that 
+
+would be really curious to see if theres people who want to try to read this paper together/go through the code
