@@ -1,0 +1,1 @@
+its weird how these labs use mathemetical language that is super hostile and removed from the basics of programming, for something as practical as a harness this seems kind of hostile to application and accessibilty
