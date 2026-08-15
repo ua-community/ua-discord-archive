@@ -1,0 +1,1 @@
+Unsloth Studio has a very similar arch as what Tiles is going to have for its app implementation, a native server + web-ui served on localhost wrapped with Tauri, menu bar app, all exposed as a remote instance via Cloudflare Tunnels: https://unsloth.ai/docs/basics/how-to-serve-local-llms-anywhere-secure-remote-access-with-cloudflare-and-unsloth
