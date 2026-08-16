@@ -1,0 +1,4 @@
+Was thinking today about putting on an event called AI Unbrowser Design Studio, for design ideation/exploration around web + AI, with two rules:
+
+1. no tabs allowed
+2. no prompts allowed
