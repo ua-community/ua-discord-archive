@@ -1,0 +1,1 @@
+https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX
