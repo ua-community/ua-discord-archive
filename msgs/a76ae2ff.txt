@@ -1,0 +1,1 @@
+https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
