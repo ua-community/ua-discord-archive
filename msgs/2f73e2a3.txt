@@ -1,0 +1,1 @@
+Yeah, the operator is never "chatting", or seeing any chat-like communication with the model.
