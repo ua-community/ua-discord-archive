@@ -1,0 +1,1 @@
+you have to trust the domain, but that's... the entire basis of the HTTP trust model since the dawn of the web.
