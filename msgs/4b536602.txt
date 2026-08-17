@@ -1,0 +1,1 @@
+so basically since most/all of us who got an atproto account did so via bsky, we cannot add a higher priority signing key after the fact??
