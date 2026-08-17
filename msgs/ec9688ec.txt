@@ -1,0 +1,1 @@
+just thinking aloud about multiple keys: with SSH all keys have the same priority, it's enough to log in with a second pair and delete the first pair. but with "tree-shaped" permissions there is always a root device with superpowers. Lose that key and 😭
