@@ -1,0 +1,1 @@
+Fine to do that behind the scenes programmatically w/ prompt templates and whatnot, but the user experience cannot be "chat"
