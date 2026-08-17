@@ -1,0 +1,1 @@
+So prompt that generates prompts dynamically and executes them is fine but not having the user drive with chat
