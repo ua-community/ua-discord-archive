@@ -1,0 +1,27 @@
+The Institute of Open Science Practices is hosting its 2026 workshops in Leiden from October 12 to 15, and we'd like you in the room. It's free to attend.
+
+Across the two main working days the event will establish a participant-owned data storage consortium, publish datasets, code, and knowledge objects to it, create our own algorithms that assess the trust and value of what's published, and assemble community-owned collaboratives that route funding based on their interpretation of that analysis. The result will be a fully functional open science system, owned by the community that builds it, to test, build on, and iterate over the coming months and years.
+
+The full workshop line-up is here.
+https://iosp.science/workshops
+
+1. Register. The form asks whether you'd need travel support; say so if you would.
+https://www.iosp.science/?signup=participant
+
+2. Consider contributing to the community track. It is an open space for talks, workshops, panels, and discussions on the four themes.
+https://www.iosp.science/submit-community-session
+
+3. Building a tool? Submit it to the showcase and we'll stress-test it and build on it in Leiden.
+https://www.iosp.science/?signup=showcase
+
+4. Register for the resilient data workshop, letting us know if you'd like to take home a Raspberry Pi.
+https://www.iosp.science/resilient-data-signup
+
+And finally, spread the word. Forward this, post the community track call, point a builder at the workshop or the showcase.
+
+Hope to see you in Leiden!
+Jon, Ellie, and the IOSP organizing team.
+
+P.S. The resilient data consortium needs data worth keeping. If you know a public dataset that could vanish, a shuttered project's archive, a retiring server, data whose funding ended, recommend it here and we'll consider adding it to the network. You can also see what the network holds now.
+https://www.iosp.science/resilient-data-signup (Recommend a dataset)
+https://www.iosp.science/datanetwork (View the existing network -- updates often)
