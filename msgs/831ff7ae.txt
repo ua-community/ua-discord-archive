@@ -1,0 +1,1 @@
+jokes aside, Letta mods are cool but the security model is "lol, lmao". A mod is typescript code with the same permissions as the main letta agent  https://github.com/letta-ai/mods/tree/main
