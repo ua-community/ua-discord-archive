@@ -1,0 +1,3 @@
+one of the things im interested in using tiles for is as an interface to sensemaking (the idea of extracting info from noisy data)
+i think "sensemaking" is mostly used in the context of social media but from cybernetics perspective it applies broadly to anything
+could easily see a swarm of microcontrollers pooling their sensors into a shared vault that tiles et al runs on
