@@ -1,0 +1,8 @@
+im still new here but bc you're using Gemma as default you might be able to use their new arch to split the model to work on much much smaller devices
+
+here is a toy example that takes the concept and gets it to work on ESP32. i was able to reproduce it in an ~1hr! the guy tries to generate stories but Small LMs are actually super good for anything timeseries/forecasting if you reshape the sensor data to discrete tokens
+
+could be fun later to explore the smallest possible hardware to run Tiles on 😄
+
+here's the demo but their repo is extremely well documented and benchmarked
+https://www.reddit.com/r/esp32/comments/1v4mq5t/how_i_fit_a_289m_llm_on_an_esp32s3_9_toks_fully/
