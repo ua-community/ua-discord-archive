@@ -1,0 +1,1 @@
+Lovely, will see into it. We are already underway to integrate llama.cpp web ui. But we are also working on Tilekit that would let anyone build clients for Tiles the way they like.
