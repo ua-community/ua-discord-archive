@@ -1,0 +1,1 @@
+More interesting is likely “scoped search” aka “community search engine” - index the full text of all UA links and you get a skewed / rich / unique collection
