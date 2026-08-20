@@ -1,0 +1,1 @@
+Would be interesting to be able embed an agent and have some intent to connect to model, include stills like other script tags or esm imports
