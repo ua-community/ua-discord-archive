@@ -1,0 +1,1 @@
+I've been testing out Firefox's "Smart Window". The UX is bit clunky and flashy/woowoo, but the actual functionality is closer in the direction of what I'd expect from "AI browser".
