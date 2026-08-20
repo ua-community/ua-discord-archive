@@ -1,0 +1,1 @@
+yes as long as you can tokenize the data small models are actually really good at classification/forecasting (based on my very limited experience with esp32 sensors)
