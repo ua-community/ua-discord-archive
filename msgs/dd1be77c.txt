@@ -1,0 +1,1 @@
+Exe.dev charges for RAM it’s just bundled with vCPUs
