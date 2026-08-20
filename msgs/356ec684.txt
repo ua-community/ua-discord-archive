@@ -1,0 +1,1 @@
+So basically open ai compatible endpoint. And you issue a key for access for that endpoint.
