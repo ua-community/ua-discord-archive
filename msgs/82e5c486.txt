@@ -1,0 +1,1 @@
+I wrote a link assembler that I have to fix and properly lunch - put in a URL and then with a little TUI you decide which outgoing links you want to also save
