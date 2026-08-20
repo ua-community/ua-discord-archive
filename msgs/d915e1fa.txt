@@ -1,0 +1,5 @@
+My demo was basically just a question of how I could integrate LLMs more easily on this page https://elements.diffuse.sh/4.x-nightly/create/
+
+The idea now is that you use a LLM "skill" (eg. with Claude) to generate HTML snippets which represent interfaces or pure functionality. But how could we cut out the middle step of having to go back and forth between your LLM UI to copy/paste HTML (or equivalent with files).
+
+Example of an interface, inspired by you (user): https://mu.social/profile/tokono.ma/post/3mt36vo3qus22
