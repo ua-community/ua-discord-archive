@@ -1,0 +1,1 @@
+Which has a closed enterprise core, so we wrapped it in a custom app and use atproto IDs (and soon groups) to control all access and data
