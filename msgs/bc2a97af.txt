@@ -1,0 +1,1 @@
+a friend works at EarthRanger and there's loads of species data for training + id, and i've always wondered about finetunes on tiny hardware for narrow purpose usage.
