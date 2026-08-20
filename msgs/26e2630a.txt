@@ -1,0 +1,1 @@
+Also building such a endpoint funnelling thing ourselves to run web ui from mobile with Iroh
