@@ -1,0 +1,1 @@
+Can see across your tabs, etc so prompts like "what have i been working on recently" correctly summarizes recent "tasks" pretty well.
