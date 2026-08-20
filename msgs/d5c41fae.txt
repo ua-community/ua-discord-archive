@@ -1,0 +1,5 @@
+One can share their codex threads publicly now! 
+
+https://learn.chatgpt.com/docs/use-chatgpt#share-a-read-only-snapshot-of-a-codex-thread
+
+only recall amp and opencode having these features
