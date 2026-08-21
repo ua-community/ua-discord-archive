@@ -1,0 +1,5 @@
+Really enjoying the Pi agent so far, kudos to (user) for always being ahead of the curve. 
+
+Now I'm at the phase  "pi, build your own extension"  . It's cool but testing becomes really hard!
+
+Anybody has tips or frameworks for testing agent extensions, in particular for Pi ? thanks!
