@@ -1,0 +1,1 @@
+https://github.com/ocramz/pi-container-debian-slim here's a debian one, should be good for playing with most stacks
