@@ -1,1 +1,6 @@
 https://quad9.net/
+https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/
+https://docs.unsloth.ai/new/deploy-llms-phone
+https://huggingface.co/blog/codelion/ellora-lora-recipes
+https://claude.com/chrome
+https://www.collectiefeigendom.nl/en/ownership/digital-collective-ownership

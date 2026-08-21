@@ -1,1 +1,10 @@
 https://idsc2025.substack.com/p/how-i-built-claude_max-to-unlock
+https://github.com/anthropics/claude-code/issues/1454#issuecomment-3015121719
+https://github.com/grll?tab=repositories&q=claude&type=&language=&sort=
+https://www.youtube.com/watch?v=2fbqo9Bdd_w
+https://github.com/sst/opencode/blob/dev/packages/opencode/src/auth/anthropic.ts
+https://github.com/RooCodeInc/Roo-Code/issues/4799
+https://uithub.com/agent54/xe-darc
+https://deepwiki.org
+https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/
+https://surma.dev/things/is-postmessage-slow/

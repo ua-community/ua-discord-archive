@@ -1,1 +1,8 @@
 https://bsky.app/profile/bkardell.com/post/3mnfu2nxllk2y
+https://claude.ai/public/artifacts/cc9d1736-e902-468d-aa30-5c1142284802
+https://claude.ai/public/artifacts/32eb0391-5630-47a2-b795-5574c4f30b93
+https://x.com/ostensiblyneil/status/2063006720616734835?s=46
+https://github.com/w3ctag/design-reviews/issues/842
+https://github.com/AgregoreWeb/agregore-browser/
+https://atmosphereaccount.com/explore/tiles.run
+https://huggingface.co/blog/hf-cli-for-agents

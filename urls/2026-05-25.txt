@@ -1,2 +1,5 @@
 https://portable.agency
 https://plural.host
+https://wiki.debian.org/Mobian/Devices
+https://1password.github.io/SCAM/
+https://chromium.googlesource.com/chromium/src/+/master/docs/security/rule-of-2.md

@@ -1,1 +1,14 @@
 https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B
+https://github.com/sauravpanda/BrowserAI
+https://www.youtube.com/watch?v=jEm5SkLMap0
+https://github.com/TanStack/ai
+https://github.com/mozilla-ai/llamafile
+https://tanstack.com/blog/tanstack-ai-alpha-your-ai-your-way
+https://tabstack.ai/
+https://docs.tabstack.ai/
+https://joanvelja.page/blog/straw
+https://www.archivebuttons.com/articles?article=https://www.wired.com/story/big-interview-event-techdirt-mike-masnick-common-tools-alex-komoroske/
+https://forum.obsidian.md/t/obsidian-sync-incorrectly-duplicates-sections-of-files/94732
+https://github.com/mozilla-ai/any-llm
+https://blog.mozilla.ai/introducing-any-llm-managed-platform-a-secure-cloud-vault-and-usage-tracking-service-for-all-your-llm-providers/
+https://openrouter.ai/state-of-ai

@@ -1,1 +1,17 @@
 https://www.swift.org/blog/swift-everywhere-windows-interop/
+https://browsercompany.substack.com/p/letter-to-arc-members-2025
+https://bmannconsulting.com/notes/capabilities-adoption/
+https://speakinginswift.substack.com/
+https://twitter.com/compnerd
+https://github.com/Igalia/webengineshackfest/issues/61
+https://docs.google.com/presentation/d/1xmYRmW8B5-LR9onBL2g8mT8VMq9Ig6cAK39cvOswUz4/
+https://github.com/Igalia/webengineshackfest/wiki/2025-Chromium-Embedding:-Experiences-and-challenges
+https://youtu.be/45fbNFMd_vc?si=Z-EeAAxFyC-oVhiU
+https://infrequently.org/2025/08/apple-vs-fb-kayfabe/
+https://controld.com/
+https://en.wikipedia.org/wiki/FOAF
+https://www.w3.org/wiki/WebID
+https://arxiv.org/abs/2312.11514
+https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/
+https://openreview.net/pdf?id=TJjP8d5bms
+https://github.com/YaLTeR/niri?tab=readme-ov-file#video-demo

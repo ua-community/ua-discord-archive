@@ -1,1 +1,6 @@
 https://youtu.be/wo84LFzx5nI?si=DASYrbxjzdAtRpmd
+https://youtu.be/N5xhOqlvRh4?si=7gFq_zrWbu0lGH7N
+https://developers.googleblog.com/en/introducing-langextract-a-gemini-powered-information-extraction-library/
+https://www.letta.com/blog/letta-filesystem
+https://www.letta.com/blog/agent-memory
+https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the

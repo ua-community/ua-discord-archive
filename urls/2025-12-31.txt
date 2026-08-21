@@ -1,1 +1,5 @@
 https://huggingface.co/blog/codelion/ellora-lora-recipes
+https://www.youtube.com/watch?v=_nxbZgZysT4
+https://github.com/ekzhang/jax-js
+https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software
+https://www.phoronix.com/news/InputPlumber-0.70

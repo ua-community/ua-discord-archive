@@ -1,1 +1,5 @@
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+https://jsfiddle.net/754h3pL6/
+https://bsky.app/profile/holobrine.bsky.social/post/3lzxidvsno22r

@@ -1,1 +1,5 @@
 https://github.com/codelion/pts
+https://simpl.fyi/
+https://jfm-files.s3.us-east-2.amazonaws.com/public/Silk+Road+of+Surveillance+EN.pdf
+https://github.com/jlongster/tigma
+https://fosdem.org/2026/schedule/track/local-first/

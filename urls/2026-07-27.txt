@@ -1,1 +1,3 @@
 https://github.com/unfoldml/iroh-beekem
+https://github.com/gordonbrander/italic
+https://openspec.dev?

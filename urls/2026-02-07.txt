@@ -1,1 +1,3 @@
 https://asadk.com/p/edge
+https://www.iroh.computer/blog/tor-custom-transport
+https://issues.chromium.org/issues/482535474

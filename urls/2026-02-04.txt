@@ -1,1 +1,8 @@
 https://www.germnetwork.com/blog/decentralized-pairwise-mls
+https://github.com/awslabs/mls-rs
+https://tinfoil.sh/blog/2025-12-18-browser-native-verification
+https://tinfoil.sh/blog/2025-09-24-private-chat-backups-local-first
+https://tinfoil.sh/blog/2026-02-03-proving-model-identity
+https://bonfirenetworks.org/
+https://legoweb.pages.dev/v2
+https://github.com/maqp/tfc

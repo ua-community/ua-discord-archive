@@ -1,1 +1,5 @@
 https://sfcompute.com/inference
+https://github.com/cactus-compute/cactus
+https://lucumr.pocoo.org/2025/7/3/tools/
+https://www.allpurposemachines.com/
+https://yuexun.me/how-to-make-your-tauri-dev-faster/

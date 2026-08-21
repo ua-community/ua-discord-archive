@@ -1,1 +1,3 @@
 https://branch.climateaction.tech/issues/issue-9/reimagining-the-browser-for-a-green-web/
+https://www.youtube.com/watch?v=YBYUvGOuotE
+https://github.com/pydantic/monty

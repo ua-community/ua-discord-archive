@@ -1,1 +1,11 @@
 https://block.xyz/bitcoin/roadmap
+https://blog.matt-rickard.com/
+https://unsloth.ai/docs/basics/how-to-serve-local-llms-anywhere-secure-remote-access-with-cloudflare-and-unsloth
+https://blog.matt-rickard.com/p/rebuilding-cognitions-agentic-mapreduce
+https://openai.com/index/openai-to-acquire-ona/
+https://ona.com/stories/ona-joins-openai
+https://exe.dev/
+https://fly.io/sprites/
+https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai
+https://hashagent.pages.dev/
+https://orionbrowser.com/updates/versions/1.1

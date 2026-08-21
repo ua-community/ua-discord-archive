@@ -1,1 +1,11 @@
 https://www.drinkelectriccloud.com/
+https://cactuscompute.com/needle
+https://arxiv.org/abs/2607.18363
+https://zed.dev/blog/introducing-delta
+https://microsandbox.dev/
+https://beet.org/
+https://fly.io/blog/unfortunately-mcp/
+https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8
+https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf#page=73
+https://developers.openai.com/api/docs/guides/secure-mcp-tunnels
+https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/

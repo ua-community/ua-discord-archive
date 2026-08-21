@@ -1,1 +1,11 @@
 https://github.com/WebAssembly/WASI/issues/669
+https://docs.rs/wasmtime/latest/wasmtime/component/struct.Instance.html#method.get_func
+https://x.com/gregpr07/status/1957861004173512875?s=46
+https://x.com/josevalim/status/1957763507211927557?s=46
+https://x.com/danielbergholz/status/1957816097614213588?s=46
+https://x.com/skirano/status/1927434384249946560?s=46
+https://x.com/alex_valaitis/status/1956047333436567799?s=46
+https://github.com/ai-hero-dev/poland-ai-ts-workshop
+https://zed.dev/blog/edit-prediction
+https://zed.dev/blog/sequoia-backs-zed
+https://zed.dev/blog/container-use-background-agents

@@ -1,1 +1,5 @@
 https://www.latent.space/p/chroma
+https://github.com/mozilla/standards-positions/issues/1003#issuecomment-3212917334
+https://github.com/whatwg/html/issues/11552#issuecomment-3214929725
+https://github.com/w3c-fedid/digital-credentials/blob/main/custom-schemes.md
+https://android-developers.googleblog.com/2025/08/elevating-android-security.html?m=1

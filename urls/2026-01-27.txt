@@ -1,1 +1,14 @@
 https://qwen.ai/blog?id=qwen3tts-0115
+https://prism.openai.com/
+https://huggingface.co/deepseek-ai/DeepSeek-OCR-2
+https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/
+https://bugzilla.mozilla.org/show_bug.cgi?id=1265834).
+https://x.com/kevinweil/status/2016210486778642808?s=46
+https://aifoc.us/if-notebooklm-was-a-web-browser/
+https://github.com/embedding-shapes/one-agent-one-browser/blob/0.1.0/src/platform/x11/mod.rs#L487
+https://tailscale.com/blog/aperture-private-alpha
+https://x.com/unslothai/status/2016030864304701561?s=46
+https://bsky.app/profile/burrito.space/post/3ldqgexd7ak25
+https://www.raspberrypi.com/news/introducing-the-raspberry-pi-ai-hat-plus-2-generative-ai-on-raspberry-pi-5/
+https://github.com/RangerMauve/dlynx/blob/master/convertToMD.js
+https://factory.ai/news/factory-signals

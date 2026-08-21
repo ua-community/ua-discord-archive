@@ -1,1 +1,16 @@
 https://github.com/EricLBuehler/mistral.rs/blob/master/docs/ANYMOE.md
+https://docs.unsloth.ai/
+https://kaitchup.substack.com/
+https://webstatus.dev/
+https://lightpanda.io/blog/posts/why-build-a-new-browser
+https://youtu.be/cQ8J0gvWbn8?si=y3EOmFe3aITfVDo6
+https://x.com/mattt/status/1965375375510569401?s=46
+https://sosumi.ai/
+https://www.tilekit.dev/
+https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html
+https://www.inkandswitch.com/essay/local-first/
+https://github.com/mattt/iMCP
+https://www.heynox.com/rply
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#attr-iframe-sandbox
+https://keybase.io/
+https://github.blog/changelog/2025-08-26-releases-now-support-immutability-in-public-preview/

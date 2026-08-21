@@ -1,1 +1,14 @@
 https://issues.chromium.org/issues/322314211
+https://ampcode.com/news/amp-inc
+https://mistral.ai/news/mistral-3
+https://bun.com/blog/bun-joins-anthropic
+https://www.reddit.com/r/raycastapp/comments/1pblour/a_collaboration_between_raycast_and/
+https://www.anthropic.com/engineering/advanced-tool-use
+https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone
+https://flawless.dev/
+https://www.w3.org/blog/2025/threat-modeling-with-lego-serious-play-building-your-digital-identity-threat/
+https://youtu.be/pSTOENRgt7g?si=a5ql53FBaySQf3k6
+https://bsky.app/profile/yoav.codes/post/3l6zsvzrx4v2d
+https://etke.cc/
+https://github.com/Tencent-Hunyuan/AutoCodeBenchmark
+https://github.com/RAIT-09/obsidian-agent-client

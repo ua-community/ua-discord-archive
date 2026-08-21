@@ -1,1 +1,7 @@
 https://github.com/NVlabs/cuda-oxide
+https://xkcd.com/927/
+https://www.vectorware.com/
+https://github.com/antirez/ds4
+https://huggingface.co/manjunathshiva/gpt-oss-20b-tq3
+https://lucumr.pocoo.org/2026/5/8/local-models/
+https://github.com/huggingface/transformers/blob/1d5296f2de31ecee4fdd789dc2b2fe068b320284/src/transformers/models/auto/tokenization_auto.py#L64

@@ -1,1 +1,5 @@
 https://shimmeringvoid.substack.com/p/dialogical-design?triedRedirect=true
+https://flathub.org/en/apps/ai.jan.Jan
+https://tangled.org/burrito.space/localstress
+https://huggingface.co/blog/qvac/fabric-llm-finetune
+https://github.com/codelif/hyprnotify

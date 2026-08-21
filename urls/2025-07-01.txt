@@ -1,1 +1,15 @@
 https://www.youtube.com/watch?v=blrovBxxN9o&t=11s
+https://www.youtube.com/watch?v=F_RyElT_gJk
+https://archive.is/20250630184850/https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt
+https://ampcode.com/agents-for-the-agent
+https://docs.unsloth.ai/basics/gemma-3n-how-to-run-and-fine-tune
+https://techcrunch.com/2025/07/01/grammarly-acquires-ai-email-client-superhuman/
+https://github.com/unslothai/notebooks
+https://techcrunch.com/2025/07/01/cloudflare-launches-a-marketplace-that-lets-websites-charge-ai-bots-for-scraping/
+https://machinelearning.apple.com/research/distillation-scaling-laws
+https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/
+https://www.dbreunig.com/2025/05/29/a-small-model-just-for-structured-output.html
+https://osmosis.ai/blog/applying-rl-mcp
+https://arxiv.org/abs/2506.02153
+https://masonyarbrough.com/blog/ask-human
+https://contentsignals.org/

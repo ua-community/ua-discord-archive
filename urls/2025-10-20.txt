@@ -1,1 +1,7 @@
 https://github.com/npetrangelo/vox-populi
+https://github.com/mozilla/standards-positions/issues/799
+https://github.com/w3ctag/design-reviews/issues/1067
+https://github.com/WebKit/standards-positions/issues/184
+https://github.com/orgs/menloresearch/projects/30/views/43?filterQuery=&pane=issue&itemId=124076017&issue=menloresearch%7Cjan-incub-agents%7C12
+http://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html
+https://youtu.be/z64a7USuGX0?si=2GSA189iNNSF9u8i

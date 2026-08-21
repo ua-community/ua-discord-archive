@@ -1,1 +1,5 @@
 https://developers.openai.com/api/docs/deprecations#update-to-openais-self-serve-fine-tuning
+https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html?m=1
+https://nelind.leaflet.pub/3mljaycxcqc2h
+https://chrisvanderloo.com/posts/a/3mkydjpwul723-offprint-as-an-astro-cms/
+https://openanonymity.ai/blog/nanomem/

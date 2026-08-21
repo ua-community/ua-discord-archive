@@ -1,1 +1,4 @@
 https://youtu.be/a6sYYrLTOjQ?si=uwAjpvA3UcjCxe1E
+https://blog.muni.town/bridge-beyond-discord/
+https://github.com/ggml-org/llama.cpp/tree/master/tools/server.
+https://llama.app

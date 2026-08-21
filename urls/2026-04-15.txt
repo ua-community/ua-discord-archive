@@ -1,1 +1,6 @@
 https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract
+https://github.com/jundot/omlx/blob/main/docs/experimental/dflash_mlx_integration.md
+https://github.com/jundot/omlx/blob/main/docs/oQ_Quantization.md
+https://github.com/jjang-ai/mlxstudio/
+https://github.com/jundot/omlx
+https://gemini.google/mac/

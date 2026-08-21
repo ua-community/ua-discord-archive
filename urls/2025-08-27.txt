@@ -1,1 +1,5 @@
 https://www.anthropic.com/news/claude-for-chrome
+https://docs.google.com/document/d/1pAtbkNXb-Myxdi7wgxMGBID9VRjhA7yKY26ubI_TyIQ/mobilebasic
+https://zed.dev/blog/bring-your-own-agent-to-zed
+https://agentclientprotocol.com/overview/introduction
+https://research.ibm.com/blog/memory-augmented-LLMs

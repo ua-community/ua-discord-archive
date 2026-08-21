@@ -1,1 +1,3 @@
 https://x.com/clattner_llvm/status/2036319753736954126?s=46
+https://x.com/kentonvarda/status/2036430052238254301?s=46
+https://github.com/BerriAI/litellm/issues/24512

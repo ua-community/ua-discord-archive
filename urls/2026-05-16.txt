@@ -1,1 +1,5 @@
 https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/
+https://www.testingcatalog.com/openai-will-let-codex-control-other-desktop-devices-via-computer-use/
+https://npmx.dev/package/y-atproto
+https://blog.calif.io/p/first-public-kernel-memory-corruption
+https://www.whatsmydns.net/dns-lookup?query=userandagents.org&server=cloudflare

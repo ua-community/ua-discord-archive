@@ -1,1 +1,5 @@
 https://www.youtube.com/watch?v=4S8I22ybG2c
+https://github.com/unfoldml/iroh-beekem
+https://arxiv.org/pdf/2608.01665
+https://www.vectorware.com/blog/simd-on-gpu/
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/mediaKeys

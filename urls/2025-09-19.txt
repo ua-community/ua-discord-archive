@@ -1,1 +1,7 @@
 https://bsky.app/profile/holobrine.bsky.social/post/3lz6jo4vx5s2q
+https://gemini.google/overview/gemini-in-chrome/
+https://orca-app.dev/posts/250910/changing_tack.html
+https://newsletter.posthog.com/p/from-0-to-40m-arr-inside-the-tech
+https://github.com/thinking-machines-lab/batch_invariant_ops
+https://mykin.ai/resources/building-privacy-into-kin-and-personal-ai
+https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/

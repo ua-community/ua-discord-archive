@@ -1,1 +1,9 @@
 https://reddit.com/r/FirefoxAddons/comments/1u628zi/first_hackathon_win_into_a_browser_extension/
+https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/
+https://blog.cryptographyengineering.com/2015/02/10/how-do-we-pay-for-privacy/
+https://docs.google.com/document/d/1S4VLCTA1MYOkf4-aNHDSGu_9Joeymxho9FByVdomftw/mobilebasic
+https://blog.cryptographyengineering.com/2012/10/16/the-crypto-dream/
+https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/
+https://webengineshackfest.org/#extensions
+https://huggingface.co/microsoft/FastContext-1.0-4B-SFT
+https://metaverse-standards.org/news/press-releases/metaverse-standards-forum-introduces-sneeze-the-worlds-first-open-metaverse-browser-engine/

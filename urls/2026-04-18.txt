@@ -1,1 +1,9 @@
 https://leaflet.pub/p/did:plc:lwkt6bkjqrxsdhbo4cl4y7v6/3mgdbxpcykc2m
+https://www.tiles.run/roadmap
+https://tonk.xyz/roadmap
+https://tonk.xyz/updates/road-to-tonk-substrate
+https://huggingface.co/exdysa/MiniMax-M2.7-REAP-172B-A10B-GGUF
+https://bsky.app/profile/adamwiggins.com/post/3mjpcd2d3nc26
+https://www.inkandswitch.com/patchwork/notebook/tasks-02/
+https://github.com/Michaelliv/runline
+https://www.reddit.com/r/discordapp/comments/1q1hhrb/new_time_feature_showed_up_today_easily_used/

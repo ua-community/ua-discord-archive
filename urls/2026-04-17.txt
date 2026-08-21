@@ -1,1 +1,14 @@
 https://github.com/dropbox/witchcraft
+https://michaellivs.com/blog/building-napkin-memory-system-for-agents/
+https://engineering.drawthings.ai/p/making-apple-neural-engine-work-in
+https://mrshu.github.io/github-statuses/
+https://blog.cloudflare.com/artifacts-git-for-agents-beta/
+https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
+https://wterm.dev
+https://github.com/jpillora/ghostty-web
+https://www.anthropic.com/news/claude-design-anthropic-labs
+https://github.com/superradcompany/microsandbox
+https://huggingface.co/blog/transformers-to-mlx
+https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview
+https://microsandbox.dev/
+https://github.com/hyperspaceai/agi/blob/main/docs/PODS.md

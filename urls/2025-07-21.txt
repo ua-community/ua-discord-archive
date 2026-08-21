@@ -1,1 +1,2 @@
 https://magazine.sebastianraschka.com/p/understanding-multimodal-llms
+https://magazine.sebastianraschka.com/p/understanding-reasoning-llms

@@ -1,1 +1,11 @@
 https://ollama.com/blog/nvidia-spark
+https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/
+https://github.com/karpathy/nanochat
+https://xeiaso.net/blog/2025/dgx-spark-first-look/
+https://x.com/modelscope2022/status/1977706364563865805?s=46
+https://mp.weixin.qq.com/s/5sIc41fE7LkEv4ytJ7j8Eg
+https://youtu.be/COOAssGkF6I?si=5LVChHXMIPK__xiW
+https://shloked.com/writing/claude-memory-tool
+https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/
+https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool
+https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/

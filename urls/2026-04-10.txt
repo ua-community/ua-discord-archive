@@ -1,1 +1,11 @@
 https://github.com/badlogic/pi-share-hffile
+https://arxiv.org/html/2602.11865v1
+https://github.com/Michaelliv/pi-monitor
+https://github.com/SamuelLHuber/pi-fff
+https://github.com/telepath-computer/stash
+https://jack.cab/blog/every-firefox-extension/
+https://bsky.app/profile/me.webbeef.org/post/3mhabom4sas2d
+https://www.instantdb.com/essays/architecture
+https://cursor.com/blog/fast-regex-search
+https://leaflet.pub/p/did:plc:g5hiaok54wc2rpigewi75kdu/3mj4onzskos2m
+https://arxiv.org/abs/2603.24775

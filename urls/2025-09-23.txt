@@ -1,1 +1,5 @@
 https://www.inkandswitch.com/newsletter/dispatch-013/
+https://www.argmaxinc.com/blog/iphone-17-on-device-inference-benchmarks
+https://greenfield.app/
+https://juicefs.com/en/
+https://github.com/mitchellh/libxev

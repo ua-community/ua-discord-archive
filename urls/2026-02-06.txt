@@ -1,1 +1,4 @@
 https://github.com/pydantic/monty
+https://eprint.iacr.org/2025/797.pdf
+https://securedrop.org/news/introducing-webcat-web-based-code-assurance-and-transparency/
+https://filebase.com/blog/introducing-filebase-sites-simplified-ipfs-websites-with-ipns/

@@ -1,1 +1,6 @@
 https://github.com/zartbot/blog/issues
+https://issues.chromium.org/issues/478027595
+https://aifoc.us/the-browser-is-the-sandbox/
+https://bsky.app/profile/holobrine.bsky.social/post/3mddweifum22h
+https://blog.modelcontextprotocol.io/posts/2026-01-26-mcp-apps/
+https://claude.com/blog/interactive-tools-in-claude

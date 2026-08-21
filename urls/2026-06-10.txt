@@ -1,1 +1,9 @@
 https://oss-ai-policies.netlify.app/
+https://omnifs.dev/
+https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/
+https://tangled.org/fairy.tngl.sh/mura-dit
+https://claude.ai/public/artifacts/b9509a67-7478-40cc-afcb-e76b482617c3
+https://claude.com/blog/claude-for-foundation-models
+https://atmo.rsvp/p/atmosphere.community/e/3mlo23qm5ukcr
+https://github.com/jedisct1/hf-mount-encrypted
+https://open.substack.com/pub/subconscious/p/agents-want-flexible-schemas

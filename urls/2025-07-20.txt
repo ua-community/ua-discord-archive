@@ -1,1 +1,6 @@
 https://github.com/cloudflare/agents/issues/368
+https://jldec.me/blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents
+https://chromereleases.googleblog.com/2025/07/chrome-dev-for-desktop-update.html
+https://www.youtube.com/watch?v=liG97YXaTSA&t=37s
+https://github.com/bespokelabsai/curator/
+https://youtu.be/DJahmKqFSIM?feature=shared

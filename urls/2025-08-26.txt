@@ -1,1 +1,8 @@
 https://github.com/vllm-project/llm-compressor?utm_source=substack&utm_medium=email
+https://docs.google.com/document/d/1v1Q-1kLiX1do3A4aWfwFL0FGL_kz3P1wiYmPArfc2WM/edit?tab=t.0
+https://research.ibm.com/blog/memory-augmented-LLMs
+https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
+https://cameronrwolfe.substack.com/p/conditional-computation-the-birth
+https://cookbook.openai.com/articles/gpt-oss/verifying-implementations
+https://www.heynox.com/
+https://www.trycua.com/blog/cua-hackathon

@@ -1,1 +1,17 @@
 https://github.com/cloudflare/agent-skills-discovery-rfc
+https://bowshock.nl/irc/
+https://docs.trymirai.com/overview/uzu
+https://github.com/tw93/Mole
+https://streamplace.leaflet.pub/3lut7mgni5s2k
+https://ladybird.org/posts/adopting-rust/
+https://github.com/trymirai/uzu
+https://trymirai.com/
+https://github.com/gordonbrander/busytown
+https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks
+https://atproto.com/specs/lexicon#authority-and-control
+https://overreacted.io/open-social/
+https://overreacted.io/where-its-at/
+https://overreacted.io/a-social-filesystem/
+https://trymirai.com/blog/brief-history-of-apple-ml-stack
+https://developers.openai.com/api/docs/guides/websocket-mode/
+https://trymirai.com/blog/iphone-hardware
