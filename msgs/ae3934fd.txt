@@ -1,0 +1,4 @@
+metrics permutations like:
+- Estimated Time to Acquihire
+- Estimated Time to Enshittification
+- Estimated Time to Founder Leaves to Get a Real Job
