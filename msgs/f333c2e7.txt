@@ -1,0 +1,1 @@
+we need a bot that checks all the links here periodically and then updates when the product has been killed
