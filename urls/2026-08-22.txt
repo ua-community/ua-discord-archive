@@ -4,3 +4,4 @@ https://river.ai/
 https://mitpress.mit.edu/9780262048248/essentials-of-compilation/
 https://jpoop.in/
 https://github.com/earendil-works/pi/blob/harness-v2/j4/packages/agent/docs/harness-v2.md
+https://openrouter.ai/provider/darkbloom
