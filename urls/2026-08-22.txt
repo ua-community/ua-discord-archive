@@ -7,3 +7,4 @@ https://github.com/earendil-works/pi/blob/harness-v2/j4/packages/agent/docs/harn
 https://openrouter.ai/provider/darkbloom
 https://www.darkbloom.dev/index.html
 https://x.com/paul_rony/status/2090846107542618536?s=46
+https://arxiv.org/abs/2608.19202
