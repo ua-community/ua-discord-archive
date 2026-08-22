@@ -1,0 +1,1 @@
+LoRA adapters over plugin (skills+mcps) triggered conversation threads
