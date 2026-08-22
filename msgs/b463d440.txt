@@ -1,0 +1,1 @@
+I’m thinking to collect all Pu conversation agent traces (private or public/ local/atproto based) and have fine tuning APIs over them across a network (coop infra)
