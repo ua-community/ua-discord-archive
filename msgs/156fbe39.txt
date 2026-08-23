@@ -1,0 +1,3 @@
+Tiles supports Vulkan now, would love if folks here can test this release on their AMD GPUs
+
+https://bsky.app/profile/tiles.run/post/3mtr37tofkk2r
