@@ -1,0 +1,1 @@
+https://community.computer/ distributed agent-based autoresearch, based on Radicle. Very cool concept. Radicle looks like a great foundation for local-first, but it's still somewhat experimental
