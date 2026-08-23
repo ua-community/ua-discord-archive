@@ -1,0 +1,10 @@
+Now that I’m nearing the first alpha, thinking about naming and protocols again.
+
+Currently:
+A piece of HTML containing just scripts = facet w/ type “feature”
+
+Multiple of these are injected into a single webpage/webview, along with another single facet of the type “interface”.
+
+You can load these snippets from atproto or any https uri. That’s why I was thinking that these should really be tiles. Problem is, there’s no sandboxing as with tiles.
+
+You have any thoughts on this (user) ? Are tiles in Peek exactly as described in the spec, or spec adjacent?
