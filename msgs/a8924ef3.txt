@@ -1,0 +1,1 @@
+also, many more things have git-like semantics than source code. Radicle's "collaborative objects" sound very promising
