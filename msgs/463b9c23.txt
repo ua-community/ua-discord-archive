@@ -1,0 +1,3 @@
+https://github.com/autonomous-ai/autonomous-grid
+
+Don’t think their relays are end to end encrypted
