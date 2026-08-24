@@ -2,3 +2,4 @@ https://dactyl.dev/
 https://github.com/b-nnett/grok-bot-0.18-reconstructed
 https://github.com/autonomous-ai/autonomous-grid
 https://darkbloom.eek.here.now/
+https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/
