@@ -1,2 +1,3 @@
 https://dactyl.dev/
 https://github.com/b-nnett/grok-bot-0.18-reconstructed
+https://github.com/autonomous-ai/autonomous-grid
