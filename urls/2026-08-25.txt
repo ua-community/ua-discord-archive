@@ -2,3 +2,4 @@ https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-bi
 https://github.com/kernel/kernel-images
 https://www.perplexity.ai/hub/products/portable-computer
 https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai
+https://openai.com/index/jalapeno-first-results/
