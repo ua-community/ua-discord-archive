@@ -1,3 +1,4 @@
 https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
 https://github.com/kernel/kernel-images
 https://www.perplexity.ai/hub/products/portable-computer
+https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai
