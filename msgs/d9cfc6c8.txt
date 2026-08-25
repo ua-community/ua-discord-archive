@@ -1,0 +1,1 @@
+I think of ALOS as basically chromeos desktop shell on android.
