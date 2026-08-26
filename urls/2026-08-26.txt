@@ -14,3 +14,4 @@ https://github.com/tailscale/tailcat/
 https://monadical.com/
 https://greyhaven.co/insights/reflector-infrastructure-for-meetings-by-greyhaven
 https://github.com/GreyhavenHQ/reflector
+https://openai.com/index/hugging-face-incident-and-the-road-ahead/
