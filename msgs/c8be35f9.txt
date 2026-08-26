@@ -1,0 +1,1 @@
+I was wondering how they were going to deal with the fingerprinting concerns, and well, I guess this is something. Ideally imo there should be a web extension API to allow folks to add more, and it should be strongly advised for browsers to have a way for users to understand what is in their registry why & to add things.
