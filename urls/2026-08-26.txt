@@ -11,3 +11,4 @@ https://bsky.app/profile/radl.app
 https://graze.leaflet.pub/3mtypcuxxc22p
 https://news.z-space.ca/zai/
 https://github.com/tailscale/tailcat/
+https://monadical.com/
