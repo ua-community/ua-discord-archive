@@ -1,0 +1,1 @@
+This looks great!  I have been to create a graph explorer for our project. It seems none of the current web tools will allow me to it as I want. We are building a different type of knowledge database engine. Very curious if you used any specific libraries or build it from scratch?
