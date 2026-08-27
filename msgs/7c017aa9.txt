@@ -1,0 +1,13 @@
+hey all good folks, just occupied with many things together. 
+---
+
+- I have pushed an update for Syke, introduces self reflection and self modification.
+- The prompt structure is now designed so the harness doesn't act like a coding harness rather an ambient bookkeeping process. 
+- Whether it self improves in a meaningful way is what I am vibe-evaluating, because,
+- There are no eval suite today that test memory in a realistic environment over months. 
+- I am building one such environment.
+
+I wrote a piece describing why memory benchmarking is broken and more dangerously, misleading, with details on what the popular benchmarks measure, and my approach to the eval environment mentioned above. 
+
+I would love some feedback, its a long read tho. 
+https://mysyke.com/research/the-shape-of-memory-benchmarks
