@@ -1,0 +1,1 @@
+It is more the actual graph engine that I am curious about, our data is not in Datalog format.
