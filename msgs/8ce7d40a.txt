@@ -1,0 +1,1 @@
+In Grok Bot I’m able to access and control a remote streamed browser directly and it doesn’t feel that much finicky either
