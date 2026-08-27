@@ -1,0 +1,1 @@
+yes, of course. So far at least. I can guess Nvidia acquiring  HF also means they will try to influence even more the OSS stack to use their own accelerators
