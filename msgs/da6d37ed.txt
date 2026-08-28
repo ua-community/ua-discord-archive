@@ -1,0 +1,1 @@
+I do think it needs like Host Native Messaging or some such, probably? I guess extensions can open sockets, actually, too, as an alternative? I too want to know.
