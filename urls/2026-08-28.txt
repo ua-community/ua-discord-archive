@@ -1,1 +1,2 @@
 https://www.reddit.com/r/esp32/comments/1vv7802/i_built_a_7node_esp32s3_cluster_to_run_a_04b_llm/
+http://www.incompleteideas.net/IncIdeas/BitterLesson.html
