@@ -1,0 +1,1 @@
+I bought a Umans Cloud Agent ($10 for a month for the smallest). Have been very productive with it. So productive that I have my bare metal server at OVH Canada running Proxmox, and now getting it to run an opencode2 environment so I’m self hosting that.
