@@ -1,2 +1,3 @@
 https://highperformanceailab.com/
 http://highperformanceailab.com/muser-book/
+https://www.dwarkesh.com/p/openai-huggingface
