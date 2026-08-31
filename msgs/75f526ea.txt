@@ -1,0 +1,1 @@
+after writing haskell for the better part of a decade I get eye twitches if code does more than the bare minimum. The strange type system became part of my engineering ethos I suppose
