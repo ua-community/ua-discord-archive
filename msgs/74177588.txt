@@ -1,0 +1,1 @@
+We are hosting a Iroh relay and will be charging for it. But all the features would work on local network for free. Whatever runs on your local hardware or your own network is not gated.
