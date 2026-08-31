@@ -1,0 +1,1 @@
+Mostly inference and collaboration features over Iroh network dialed in by device's DID and caps mediated with UCANs.
