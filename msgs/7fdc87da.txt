@@ -1,0 +1,1 @@
+Yeah I saw some extensions too that seem to work. It's just confusing to see what WebMCP actually provides. There's also other projects called WebMCP that are not Google's thing, so that doesn't help.
