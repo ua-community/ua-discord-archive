@@ -1,0 +1,3 @@
+No worries, hope you had some good afk time! Since posting this I've noticed that the Tiles spec got rewritten, in an interesting way. Still need to read the whole thing, but it looks like it's now basically "a tile is a sandbox, but what that means exactly is up to the implementation/environment".
+
+Thanks for the insights! Oh that's cool, I'm somewhat in the same boat. Though probably a bit further removed from the Tiles spec, but maybe... I could move towards the new spec and call them tiles too in Diffuse 👀
