@@ -1,0 +1,1 @@
+There's now a distinction between "Web Tiles" and the "Tiles Protocol", I was referring to the latter.
