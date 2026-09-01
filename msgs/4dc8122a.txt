@@ -1,0 +1,7 @@
+Got an idea regarding network monetisation in Tiles:
+
+Btw I was thinking to implement a digital cash implementation for Tiles Network based on the design of Open Anonymity oa-chat work. We can charge a small fee to maintain these relay services that provide all the parities anonymity.
+
+https://openanonymity.ai/blog/unlinkable-inference/
+
+So basically what will happen is that inference providers and users will have their privacy protected while still interacting with the network.
