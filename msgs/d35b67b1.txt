@@ -1,0 +1,5 @@
+Getting closer to figuring out how tiles fit in Diffuse:
+
+A facet could point at a `.tile` CAR file, essentially a little web bundle; just as it can point to a regular `.html` file. RASL URLs could be nice too. Don't think the Tiles protocol is useful to me beyond that, as we're doing literally the opposite (ie. not sandboxing).
+
+https://github.com/inkandswitch/patchwork-system/tree/main/core is very similar to what I'm doing, bootloader specifically.
