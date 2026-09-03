@@ -1,0 +1,1 @@
+agree but in the Tiles model, your compute and data peers are either other nodes you own, or collaborators. Unless I misunderstood. So participants are non-adversarial at least
