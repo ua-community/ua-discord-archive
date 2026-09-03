@@ -6,3 +6,4 @@ https://github.com/Agent54/xe-computer-launcher/releases/tag/0.0.8-int.29.1
 https://scroll.press/2026/turan
 https://solpbc.org/blog/a-preview-of-v2/
 https://github.com/NVIDIA/Personal-AI-Router
+https://solstone.app/
