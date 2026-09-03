@@ -1,0 +1,1 @@
+webdev Q : what do you use to generate OpenGraph images ? the little preview that appears when you paste a link in socials and similar.  The template-based free stuff I foudn looks pretty bland.  I would like something that generates the preview using the website style
