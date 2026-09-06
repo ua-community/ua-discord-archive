@@ -1,0 +1,1 @@
+So much of it is little silly things. A plugin to temporarily disable quota limits (often set lower than max to deliberately compact). A script to post the current model whenever it changes, so the LLM knows who drove when.
