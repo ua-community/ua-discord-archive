@@ -1,0 +1,1 @@
+I'm on OpenCode2 beta, mostly iterating on environment
