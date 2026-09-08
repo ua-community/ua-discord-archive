@@ -1,0 +1,1 @@
+Report back: Umans Cloud Agent has been SUPER FUN. It led me to basically cloning it on top of my proxmox bare metal, on opencode2
