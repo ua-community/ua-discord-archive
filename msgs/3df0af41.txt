@@ -1,0 +1,1 @@
+He hired Signal’s cofounder to work on confidential compute backed inference and VM systems. Meta AI already has TEE.
