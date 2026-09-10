@@ -1,0 +1,1 @@
+umans is a hosting provider of open model inference, based in France
