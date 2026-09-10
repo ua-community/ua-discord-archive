@@ -1,0 +1,1 @@
+Opencode is open source and I use it as my harness / interface
