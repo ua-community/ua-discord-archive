@@ -1,0 +1,1 @@
+I have a whole hosting stack that I should compare notes with (user) at some point, with proxmox and ansible
