@@ -1,0 +1,1 @@
+I've been wondering how to use agents for data science/ML/research more broadly. Giving the agent a persistent notebook seems like a good first step.     https://www.npmjs.com/package/@ocramz/pi-notebook-py
