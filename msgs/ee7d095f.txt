@@ -1,0 +1,1 @@
+i was playing with just easy atproto routing, eg unifying on a transport agnostic origin of {did + shortname} mapping to records that point to resources, which could be an http redirect, other PDS records, or other things altogether like bittorrent trackers.
