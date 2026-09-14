@@ -1,0 +1,1 @@
+i switched back from astra to sol for most workloads, while its great at solving problems and longer horizon tasks where impl deos not matter there are many issues in choices astra makes and quality of code, maintainability etc. cc (user)
