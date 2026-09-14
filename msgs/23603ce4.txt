@@ -1,0 +1,1 @@
+IWA/bundles poke vaguely at this too - ed25519 key addressed, signed content.
