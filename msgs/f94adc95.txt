@@ -1,0 +1,3 @@
+pkarr's problems:
+- constant republishing requirement is not great for a user intent of universal resolvability
+- dht on mobile is not great either
