@@ -1,0 +1,1 @@
+i was just thinking that i've got a collection of things now which all use different combos of atproto tooling and should probably unify into one... maybe can just use this.
