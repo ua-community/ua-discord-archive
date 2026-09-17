@@ -2,3 +2,4 @@ https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-g
 https://bd.ailishi.ai/
 https://bsky.app/profile/tiles.run/post/3mvpjkpm2kk2j
 https://fossunited.org/indiafoss/2026
+https://solstone.app/
