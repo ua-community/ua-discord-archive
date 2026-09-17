@@ -1,0 +1,1 @@
+https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/?ncid=so-twit-835567
