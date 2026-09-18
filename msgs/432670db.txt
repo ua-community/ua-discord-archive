@@ -1,0 +1,1 @@
+(user) eventually I would like to use Xenon to embed such a browser in Tiles app.
