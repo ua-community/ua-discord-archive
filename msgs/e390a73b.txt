@@ -1,0 +1,3 @@
+i thought this wikipedia navigation example was really interesting
+
+like a part of me wonders if you could actually just optimize that to like milliseconds
