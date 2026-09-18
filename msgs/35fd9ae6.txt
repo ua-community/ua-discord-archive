@@ -1,0 +1,2 @@
+persist (make durable) all the compute!
+https://github.com/microsoft/pg_durable
