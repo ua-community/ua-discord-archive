@@ -1,0 +1,2 @@
+playing around some with Zena, a typescript-alike that is extremely extremely wasm / wasi friendly/targetting. most wasm thing need a pretty big glue layer and this is really optimized to just run. uses WasmGC. there's a contrast vs assemblyscript. i think there's a lot of other good little ideas going in too, very smart. the ownership model reflects wasm's own model. it's the first, imo, wasm native programming language (for modern wasm platform).
+https://zena-lang.dev/
