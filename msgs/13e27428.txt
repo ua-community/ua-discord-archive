@@ -1,0 +1,3 @@
+Currently experimenting with it as
+- An embedding training pre step
+- intelligence/intuition? But I can't really tell how intelligent it actually is (without tool calls etc? Hmm)
