@@ -1,0 +1,4 @@
+http://bend-lang.com/
+This appears to be the productized version of HVM & Kind. Surprisingly a lot of focus on the Proof/Kind side, very little focus on HVM (essentially a lambda calculus based runtime that is unreasonably fast & parallel - iirc goal was for it to be proven optimal. Not sure if that was ever achieved).
+Due to this it sounds a bit like they are trying to cash in on AI/proof hype, but it's still cool!
+HigherOrderCo also redirects to there
