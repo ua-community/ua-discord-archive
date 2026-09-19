@@ -1,0 +1,1 @@
+this Raycast saga is a case study on how not to roll out a paid tier.
