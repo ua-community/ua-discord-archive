@@ -1,0 +1,1 @@
+been going on for a long time, user base increasingly pissed about how they roll out each paid option, gating AI behind tokens and making it not configurable, etc. they have to pay investors and operations somehow, and sacrifice user agency on that altar. but what really broke the community was tinycast, a free open source clone that loads are switching to.
