@@ -1,0 +1,3 @@
+> doltlite
+
+til Dolt is all in on agents : https://www.dolthub.com/blog/2026-08-17-top-5-agent-engineered-open-source-projects/
