@@ -1,0 +1,1 @@
+just saying it evaluates "is a sandwich a sandwich" as 87% likely a sandwich is a sandwich
