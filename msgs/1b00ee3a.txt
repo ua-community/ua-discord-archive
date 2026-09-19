@@ -1,0 +1,1 @@
+new chatgpt + codex + atlas, my new default browser (but no option in system wide default browser setting, but has default option in integrated browser integration)
