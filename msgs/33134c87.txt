@@ -1,0 +1,1 @@
+a different use-case, but a similar line of thinking as in a conversation IRL earlier this evening: atproto is publisher identity (provenance) but with mutable content location, whereas http+dns tightly couples the two.
