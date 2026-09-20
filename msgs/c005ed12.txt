@@ -1,0 +1,1 @@
+Because maintainers ultimately control where their packages live
