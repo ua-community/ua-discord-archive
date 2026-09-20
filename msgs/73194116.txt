@@ -1,0 +1,1 @@
+(user) how much gpu and how much cpu can we throw at a given problem tomorrow w/ folknet in current state
