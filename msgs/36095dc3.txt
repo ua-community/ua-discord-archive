@@ -1,0 +1,1 @@
+Thinking on it more, as long as the hosting is cheap, packages moving to atproto registries that pay package maintainers could be a way to force the change they are talking about
