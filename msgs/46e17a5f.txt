@@ -1,0 +1,1 @@
+On gpu side a couple of 8x3090s rigs + 4x spark cluster can be loaded up with whatever makes sense (qwen 27b, glm, deepseek) then on cpu side dozen or so epyc serves maybe total 800 or so cores.
