@@ -1,0 +1,1 @@
+Idk though, QR codes usually have error correction so string manipulation might break the magic eye patterns
