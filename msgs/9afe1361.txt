@@ -1,0 +1,1 @@
+They mostly have proxmox so easiest to just prep a single node and then duplicate it across.
