@@ -1,0 +1,1 @@
+Setting up comail.at for userandagents.org so we can send emails from there, eg if we want to do email verification flows or whatnot for some reason.
