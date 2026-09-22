@@ -1,0 +1,1 @@
+(user) btw i did test out https://cactuscompute.com/needle, and doing a training phase, using it for entity extraction
