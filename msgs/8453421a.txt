@@ -1,0 +1,1 @@
+and then i'm also testing using Firefox's tab clustering mini-model for clustering those entities (and pages, etc) for automagically organizing workspaces
