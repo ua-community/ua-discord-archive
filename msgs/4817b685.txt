@@ -1,0 +1,7 @@
+Finally getting around to a few things which tie the overall experience together in a significant way:
+
+- UX and flows for *workspaces*... experimenting with visual modes for tasks/projects while maintaining the transient non-flow-breaking experience
+
+- Local micro models for small one-shot jobs like entity extraction and clustering, page/window organization, group/space suggestion, auto-tagging, etc
+
+- and then putting those all together for self-organizing workspaces
