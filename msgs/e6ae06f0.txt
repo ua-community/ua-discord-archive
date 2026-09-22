@@ -1,0 +1,1 @@
+eg for each page loaded -> reader mode -> markdown -> needle -> entities -> store
