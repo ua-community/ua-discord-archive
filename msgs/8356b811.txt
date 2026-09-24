@@ -1,0 +1,1 @@
+Will embed a browser engine for computer use etc in isolated microVM sandboxes
