@@ -1,0 +1,1 @@
+Key part of the thesis is that the validator phase is where the real magic is.
