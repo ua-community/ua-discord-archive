@@ -1,0 +1,5 @@
+- generate 100 candidate implementations from 3 models, all blind
+- run em through verification phase
+- pick top scoring results
+- now repeat, but not blind, where each model has all the prior implementations
+- etc etc
