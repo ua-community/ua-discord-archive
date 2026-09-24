@@ -7,3 +7,4 @@ https://lwn.net/SubscriberLink/1095425/2d9f411252325784/
 https://agent-plugins.org/
 https://exa.ai/
 https://bsky.app/profile/tokono.ma/post/3mvzwtnjob22u
+https://webtransitions.org/servo-readiness/
