@@ -1,0 +1,1 @@
+Was going to look at Boa first, out of curiousity. But otherwise V8 and Spidermonkey both have reasonable binding stories. There's probably other options but I'm not super familiar w/ smaller js engines (that are actually maintained to production level)
