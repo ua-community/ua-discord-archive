@@ -1,0 +1,1 @@
+We could change the inputs randomly, eg jam the whole HTML spec in different candidates, and measure the outcome.
