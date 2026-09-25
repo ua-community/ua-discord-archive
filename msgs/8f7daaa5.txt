@@ -1,0 +1,1 @@
+i dont quite get the connection to discord. so we would build discord from scratch with distributed agents in an iwa?
