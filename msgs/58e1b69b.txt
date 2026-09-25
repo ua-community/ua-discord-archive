@@ -1,0 +1,1 @@
+agent loads into the box, see the tools (the injected api), and you can just chat and do stuff like normal, but with a little buddy doing stuff too.
