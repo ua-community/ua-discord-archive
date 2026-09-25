@@ -1,0 +1,1 @@
+can we make a Diffuse widget/app/thingy which just hooks on track listens, and posts somewhere?
