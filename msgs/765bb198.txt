@@ -1,0 +1,1 @@
+the Disjecta part is the authentication for who gets posts to the webhook accepted
