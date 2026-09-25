@@ -1,0 +1,1 @@
+the other day i was describing the Peek API to (user) through the agent POV: how an agent would open up inside it, look around, see what tools are there, what capabilities, the size and shape of the box it's in, and then do stuff.
