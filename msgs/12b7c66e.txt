@@ -1,0 +1,5 @@
+In case you’re wondering how it would work:
+- Create a feature (aka. prelude) facet using Create page. This will be loaded on each interface, so here we can setup the behaviour to track the listens. Easiest way to go about this is to implement a “scrobbler” (we already have a bunch of logic for this).
+- Create an interface to manage the webhook setup, authentication and all that.
+
+In case you want to attempt to add it yourself, the provided LLM skill makes it easy.
