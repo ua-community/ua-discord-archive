@@ -1,0 +1,1 @@
+Nice it's a perf improvement. So maybe 3 Sparks w/ the faster Deepseek and 1 for Qwen (which generates candidates 3x faster but they're a bit lower quality), gets overall features-per-day number up.
