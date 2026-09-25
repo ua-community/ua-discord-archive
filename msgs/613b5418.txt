@@ -1,0 +1,6 @@
+Hold up... let me make sure I understand.
+
+When you listen to something in Diffuse you'd like to send a request to a webhook?
+That is definitely possible.
+
+Not sure I understand the role of 'disjecta' here.
