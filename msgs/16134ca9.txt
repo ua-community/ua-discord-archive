@@ -1,0 +1,4 @@
+- Deepseek on 2x Sparks
+- Currently slowest candidate generator
+- But higher quality candidates generated than the Qwens
+- And also now going to do double duty, as standalone loop executor
