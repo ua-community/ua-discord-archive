@@ -1,0 +1,1 @@
+This will likely result in a bit of downtime as one scenario what to do when all wan is lost. Also shutdown and reboot of severs a few times
