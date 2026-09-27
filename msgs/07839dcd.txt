@@ -1,0 +1,1 @@
+Planning to deploy AX on my cluster soon. Super interested to see how it goes. Conceptually I think they are right, I am just not really there yet to have fully blackbox & background LLM tasks. A lot of my AI usage is still making my laptop do stuff, less background Delegation. Only a matter of time though, I think.
