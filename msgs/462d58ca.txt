@@ -1,0 +1,1 @@
+Tomorrow I’ll focus on potential failure situations and automatic failsafe modes. Power cuts, ac recovery, air venting, all monitoring down, etc.
