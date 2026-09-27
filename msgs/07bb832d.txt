@@ -1,0 +1,1 @@
+Plan today is to add smart power monitoring in the breaker box and also finish the last couple of GPU servers.
