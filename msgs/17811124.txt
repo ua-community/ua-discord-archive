@@ -1,0 +1,1 @@
+Also deepseek just released paper on their elastic compute https://arxiv.org/pdf/2609.22978 but not sure if its been open sourced
