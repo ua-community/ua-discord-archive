@@ -1,0 +1,1 @@
+looked at it while back and was extremely complex with 2 layers on top of kubernetes which is already complex. would love to have stuff that scales up and down nicer, but if it works solid and the complexity is not too much exposed would be interesting to see the workflows coming out of it
