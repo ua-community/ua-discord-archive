@@ -1,0 +1,1 @@
+Thankfully I think I found another way using Tapo IR blaster and temp sensor automations
