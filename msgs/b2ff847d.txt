@@ -1,0 +1,1 @@
+One issue is this smart automation only seem to trigger when it’s gone over the temp but doesn’t trigger again it seems if it thinks it’s already triggered. Kinda makes sense
