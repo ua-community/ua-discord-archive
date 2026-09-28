@@ -1,0 +1,1 @@
+The ac smart feature to turn itself back on if the temp > x doesn’t seem to work reliably so I might have to find a way to run ac off the spare ups too so power cut doesn’t reset it. It’s smart ac so controllable via api but I would rather not have a rigged automation doing it if I can avoid it
