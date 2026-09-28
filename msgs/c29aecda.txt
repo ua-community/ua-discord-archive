@@ -1,0 +1,1 @@
+So I’m adding a trigger for every degree over temp
