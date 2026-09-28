@@ -1,0 +1,1 @@
+using Dagu for the web feature jobs, seems pretty lightweight and decent so far. https://github.com/dagucloud/dagu
