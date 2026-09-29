@@ -1,0 +1,34 @@
+(user)  if we disable usage of the main browser window, we can enable a few chrome features that are disabled due to isolation requirements. i would especially need this: 
+
+```
+we have a custom chromium fork can i enable the picker there with one line or so?
+
+
+
+
+
+
+
+18:21
+
+
+
+
+
+
+Worked for 27s
+
+
+
+Yes—on the desktop Chromium implementation I checked, one line removes this specific block.
+In chrome/browser/file_system_access/chrome_file_system_access_permission_context.cc, inside CanShowFilePicker():
+ if (guest->IsOwnedByControlledFrameEmbedder()) {
+-  return base::unexpected(kDefaultNotAllowedMessage);
++  return base::ok();
+ }
+Exact upstream location
+That early return also skips the later guest/storage-partition restrictions. It affects directory, open-file, and save-file pickers.
+The normal user-gesture requirement still applies, and the user still chooses what to grant through the picker. Blink checks
+The tradeoff: filesystem grants remain shared by website origin within the Chrome profile. This patch enables the picker without fixing that permission separation.
+I haven’t built or tested your fork; this is the minimal patch for the upstream desktop code we inspected.
+```
