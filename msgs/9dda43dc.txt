@@ -1,0 +1,1 @@
+Iroh binary size is smaller by 10%, enabling it to run on ESP32: https://www.iroh.computer/blog/iroh-1-3-0
