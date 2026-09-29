@@ -1,0 +1,9 @@
+autonomous all-folknet web feature development is nearly there.
+
+there are two phases not yet on folknet:
+
+- job spec draftingeg reading all the web specs and inputs and generating the job definition to drop in the queue
+
+- substrate integration: taking the result and testing how it integrates into the engine
+
+once the feature stuff is running autonomously (thousands and thousands of jobs), i'll push on the other two parts, so it's going in parallel.
