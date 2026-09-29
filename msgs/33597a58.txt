@@ -1,0 +1,1 @@
+Made a power and temp monitoring dashboard last night. Data service published on mdns as per usual. Need to make another failsafe shutdown service that triggers if over temp for extended period. Simple shutdown command followed by  IPMI power off if they don’t go down gracefully.
