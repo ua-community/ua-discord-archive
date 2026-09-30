@@ -1,0 +1,1 @@
+heads up im doing some work on model router updating models it serves both on sparks and 3090s as well as liteLLM - cc: (user)
