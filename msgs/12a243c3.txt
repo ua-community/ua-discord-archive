@@ -1,0 +1,1 @@
+This is part of SharedComputer.Network - @hadsie.com built a v1 of atproto agentic chat info, everything on your PDS, specifically with permissioned data support.
