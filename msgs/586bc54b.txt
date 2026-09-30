@@ -1,0 +1,1 @@
+for <#1552701378160500776> , i'm mapping each phase to the box(es) used and then will map (or estimate) usage from there, and aggregate until job is complete, and submit total power usage w/ the result package.
