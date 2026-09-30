@@ -1,0 +1,1 @@
+ok we've got a command to see this now, instead of random notifications
