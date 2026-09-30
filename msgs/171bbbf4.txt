@@ -1,0 +1,1 @@
+(user) got any more details on the power consumption advertisement you set up? i can find lightwall's GPU watts but that's about it
