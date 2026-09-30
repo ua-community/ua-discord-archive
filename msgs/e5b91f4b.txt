@@ -1,0 +1,1 @@
+open ai has now changed so its not weekly based, but for anthropic it still is
