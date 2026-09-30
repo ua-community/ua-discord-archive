@@ -1,0 +1,1 @@
+vaguely same line of thought: the verification oracle for <#1552701378160500776> runs a web page through the three major engines and the protoype, dumps the page geometry from the result, and compares, and i was thinking "huh, what if we just started with the geometry".
