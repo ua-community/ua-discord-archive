@@ -1,0 +1,1 @@
+I finally figured out a condensed way of explaining what my interest in making a whole new UI engine is. Basically given React's UI = f(state), why not extend that to layout = f(UI), geometry = f(layout), and pixels = f(geometry)? Just run the same concept all the way down. No need for DOM! Apps are a far cry from documents anyway.
