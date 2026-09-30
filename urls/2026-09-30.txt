@@ -2,3 +2,4 @@ https://github.com/Z-Space-Society/scn-chat
 https://openai.com/index/introducing-dots/
 https://bmannconsulting.com/notes/gmktec-m6-ultra/
 https://arxiv.org/abs/2608.01526
+https://folknet-discovery.local:8056/
