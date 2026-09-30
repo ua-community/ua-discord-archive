@@ -4,3 +4,4 @@ https://bmannconsulting.com/notes/gmktec-m6-ultra/
 https://arxiv.org/abs/2608.01526
 https://folknet-discovery.local:8056/
 https://huggingface.co/blog/webgpu-kernels
+https://earendil.com/posts/you-said-no-mcp/
