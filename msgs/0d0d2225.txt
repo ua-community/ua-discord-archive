@@ -1,0 +1,1 @@
+For dns the mdns names are something.local and should resolve but I'm adding a local dns server that will resolve them automatically on .local.folknet.dev when using dns provided by dhcp.
