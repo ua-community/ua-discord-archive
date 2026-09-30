@@ -1,0 +1,1 @@
+i'm using atproto so comfortably now for so many things, that it's becoming more and more concerning that we don't have adversarial PLCs yet.
