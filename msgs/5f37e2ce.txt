@@ -1,0 +1,1 @@
+This is why we have so many clients for the bsky lexicon. One state, several UI variants.
