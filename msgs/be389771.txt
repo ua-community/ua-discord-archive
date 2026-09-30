@@ -1,0 +1,1 @@
+HF outlines their web strategy and first release of some pieces. https://huggingface.co/blog/webgpu-kernels
