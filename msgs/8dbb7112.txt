@@ -1,0 +1,1 @@
+Kinda interesting post from the Pi folks about how/why they ended up adding MCP. https://earendil.com/posts/you-said-no-mcp/
