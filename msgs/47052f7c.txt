@@ -1,0 +1,1 @@
+also adding usage logging but not prompt logging, so we will have some high level stats
