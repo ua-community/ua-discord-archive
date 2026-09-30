@@ -1,0 +1,1 @@
+Hmm it should be visible on network, I’m out now but when I get back I’ll get the ip for you. There is also a dashboard showing power and temp sensors
