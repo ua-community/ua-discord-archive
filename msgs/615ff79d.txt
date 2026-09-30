@@ -1,0 +1,1 @@
+And one more thing is dhcp reservations so we dont get ips changing on reboots. Thats annoying as hell.
