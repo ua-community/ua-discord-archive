@@ -1,0 +1,1 @@
+idle wondering: DOM is a compat layer for a pre-CV era
