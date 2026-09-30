@@ -1,0 +1,1 @@
+I think it's the pre-atproto era. Why? Because atproto finally fully decouples UI from state, with a common protocol between them. That puts them rather cleanly on separate tracks. As such, atproto bursts releases the DOM's monopoly. The network effect finally applies to what it should have all along: A network.
