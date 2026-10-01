@@ -1,0 +1,1 @@
+got an actual framework for comparing runs w/ clearer metrics now, so should get better read on which is best in what role soon
