@@ -1,0 +1,1 @@
+1,870 tok/s on 4 3090s. about 20 in total so could hit close to 20k tps when pushing all of them.
