@@ -1,0 +1,1 @@
+if we find we dont need the extra context we could just run -fast on all of them as its throughput seems way more
