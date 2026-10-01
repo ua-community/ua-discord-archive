@@ -1,0 +1,9 @@
+Comparison of current 27b to newer one. 
+
+| Load | Rick's recipe | HyperQwen batch |
+|---|---|---|
+| 8 concurrent | 206 tok/s, 7.6 s to first token | **264 tok/s, 1.0 s** |
+| 32 concurrent | 202 tok/s, **53 s** to first token | **607 tok/s, 3.0 s** |
+| 64 concurrent | 201 tok/s, **115 s** to first token | **739 tok/s, 4.6 s** |
+| 4k prompts, 16 concurrent | 72 tok/s, 71 s | **132 tok/s, 15 s** |
+| Max context per card | 131k | **150k** |
