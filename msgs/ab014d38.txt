@@ -1,0 +1,1 @@
+so far this is working well, i've got it switching models on demand, per job
