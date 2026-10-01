@@ -1,0 +1,1 @@
+qwen next i can run on the 3090 but only single user at a time, so kinda limited
