@@ -1,0 +1,1 @@
+“Build a vite hello world app on your cloud server and send me a screenshot” - is the test I’m using
