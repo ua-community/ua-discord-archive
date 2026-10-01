@@ -1,0 +1,1 @@
+ive seen server die when there is nvme firmware issue so im checking that, i thought i had updated all
