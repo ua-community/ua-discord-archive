@@ -1,0 +1,1 @@
+Tested open ai dot thing. It has 9 epyc core cloud server with decent amount of ram but I ran into one crazy limitation. It has a browser but it seems unable to load apps it built itself in the browser as it refused to load localhost
