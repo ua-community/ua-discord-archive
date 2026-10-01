@@ -1,0 +1,1 @@
+react was always a lie though and never really worked that way. its not even a useful abstraction as its not possible to build real world uis only thinking about f(state) thats why all these bolted on tools and cruft exist in react land. but i think you just mean state should be at the core of UI?
