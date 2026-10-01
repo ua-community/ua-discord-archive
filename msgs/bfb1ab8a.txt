@@ -1,0 +1,1 @@
+"VM 105 (-fast-2) still runs the old recipe. Switching it to HyperQwen roughly doubles its throughput, but it's Burrito's VM." ok if i update it ?
