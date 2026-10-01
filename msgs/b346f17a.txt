@@ -1,0 +1,1 @@
+So ive got it so it can run deepseek 4.1 flash, qwen 3.8 flash, or glm 5.3 flash on pairs of the sparks. On the 3090s qwen 3.8 27b but testing out newer quant version hyperqwen. Also testing qwen 3.8 flash on 3090 (remarkably it runs with new engine plus some ram offload, but only single user).
