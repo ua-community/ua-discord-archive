@@ -1,0 +1,1 @@
+qwen 3.8 27b we are about to get a ton more throughput
