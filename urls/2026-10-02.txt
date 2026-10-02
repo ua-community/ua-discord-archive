@@ -2,3 +2,4 @@ https://earendil.com/posts/pi-1-0/
 https://earendil.com/posts/pi-durable/
 https://bd.ailishi.ai/
 https://wmacmil.github.io/hazel-gf/?mode=edit
+https://hazel.org/build/dev/
