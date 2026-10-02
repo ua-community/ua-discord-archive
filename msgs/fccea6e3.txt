@@ -1,0 +1,5 @@
+i had showed this natural language generator/parser UI using a DSL called Grammatical Framework for the heavy lifting at the demo day yesterday
+
+https://wmacmil.github.io/hazel-gf/?mode=edit
+
+the interface is still very primitive/rough around the edges, but i'll be polishing it this week
