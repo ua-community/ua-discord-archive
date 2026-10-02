@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/@ocramz/pi-lean4    new! a port of two tools for building and checking Lean proofs, made into a native pi extension.  
+
+Very unscientific test: I asked GLM-5.3-flash to produce a convex analysis proof that does not exist in mathlib, and the model used the extension's tools quite consistently and succeeded in ~2.5 usd of model calls.
