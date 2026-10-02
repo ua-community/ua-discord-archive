@@ -1,0 +1,5 @@
+(user)  google did not rollout the broken scrolling issue and now disabled that feature again in canary too:  "Assigned → Fixed
+
+ma...@chromium.org added comment #34:
+
+Close this bug for now as the CADisplayLink finch experiment is disabled. We plan to enable CADisplayLink again in the GPU process with a different approach later"
