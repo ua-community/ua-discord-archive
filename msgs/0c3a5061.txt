@@ -1,0 +1,3 @@
+Could you run ngrok or other service on it to give a public endpoint? So it effectively goes out to a relay back to localhost.
+
+Just thinking out loud
