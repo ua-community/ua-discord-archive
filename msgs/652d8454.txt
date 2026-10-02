@@ -1,0 +1,1 @@
+and it was all inspired by this PL called hazel i discovered this week - https://hazel.org/build/dev/ - which provides a uniquely rigorous approach to a lot of IDE features that everyones used to but never work quite right! and also features that IDEs outright don't support!
