@@ -1,0 +1,1 @@
+I do a bunch of Pi extensions and my main practice involves writing a spec doc first, then getting it to implement. then it knows what to write tests against, and you can verify that the expected behavior is what you are actually getting. otherwise it's easy for the code to be out of your hands, and the only source of truth you have is an unreliable witness (the agent)
