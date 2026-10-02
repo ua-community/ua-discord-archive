@@ -6,3 +6,4 @@ https://hazel.org/build/dev/
 https://news.ycombinator.com/item?id=49925036
 https://www.npmjs.com/package/@ocramz/pi-lean4
 https://youtu.be/WQxEH9WH5iU?si=4Sg_9biT185nQFk0)
+https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp
