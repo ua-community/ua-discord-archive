@@ -1,0 +1,4 @@
+Pi shipped 1.0 and a new remote-first agent harness called Durable.
+
+- https://earendil.com/posts/pi-1-0/
+- https://earendil.com/posts/pi-durable/
