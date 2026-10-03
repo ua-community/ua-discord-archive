@@ -1,0 +1,1 @@
+there is this sign in with chatgpt service that lets you use ai sub across their partner apps: https://developers.openai.com/cookbook/articles/sign-in-with-chatgpt
