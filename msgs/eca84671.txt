@@ -1,0 +1,1 @@
+Im moving the folknet-admin-vm over to the nas as will be on UPS then
