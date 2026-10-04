@@ -1,0 +1,1 @@
+also new sidebar tabs now opens new tab page instead of forcing to select what to put there first
