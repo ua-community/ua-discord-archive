@@ -1,0 +1,1 @@
+should be good now, working on the fix for next time so if happens again will auto recover and also speed up ac coming back. that spike in temp scares me although it does come down fast and the current way to get ac back appears to work after a little delay. ill keep that as the backup and switch to something that should bring it back in under a min.
