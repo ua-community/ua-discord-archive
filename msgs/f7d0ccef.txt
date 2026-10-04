@@ -1,0 +1,1 @@
+102 just shut down to check bios. its set to auto power on in bmc but maybe some bios setting is conflicting, checking
