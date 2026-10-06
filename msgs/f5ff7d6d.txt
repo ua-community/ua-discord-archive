@@ -1,0 +1,3 @@
+http://vmpal.com/
+
+It is a Virtual Machine specifically designed for Apple Silicon and AI Agent with MacOS, Windows and Linux support with GPU acceleration
