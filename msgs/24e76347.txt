@@ -1,0 +1,1 @@
+codex keeps ignoring permission layer and randomly just executing code or commands. i hope nothig bad will happen until i moved all the agents into the xe layer again. 😖
