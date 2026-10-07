@@ -1,0 +1,1 @@
+Mozialla is looking for a consultant for a few months to work on alternative browser build experimens, preferably with gecko internals experience but also open to other engines background. One of them might even be experimental iwa support.
