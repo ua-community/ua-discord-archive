@@ -1,0 +1,1 @@
+You can j/k name, x for marking done (w/ live update), <enter> for edit still... but it opens an editor in micro mode... inside the editor. So you get full vim keybindings etc, and it "takes over" the vim status line while you're editing an individual item.
