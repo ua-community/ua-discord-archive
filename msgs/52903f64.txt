@@ -1,0 +1,1 @@
+Eg cmd -> `edit #todo #today`
