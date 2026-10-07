@@ -1,0 +1,1 @@
+In Peek I'll often view a list of tagged items, eg cmd -> `list #todo #today`, and then I'll add/edit, mark done, etc. It's nice, in list view I can `j/k` navigate, `x` to mark done (checks the box, item is removed from view), and <enter> opens items in the editor.
