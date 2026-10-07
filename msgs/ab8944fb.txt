@@ -1,0 +1,1 @@
+Another helpful bit I added is manual order mode - if you drag or shift+j/k a row, you can put it where you want it.
