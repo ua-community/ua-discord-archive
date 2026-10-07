@@ -1,0 +1,1 @@
+And whatever mode was last used is preserved also.
