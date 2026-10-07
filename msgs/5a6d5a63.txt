@@ -1,0 +1,1 @@
+It's basically a hybrid of block editor + notebook for editing dynamic lists of individual items as a single experience.
