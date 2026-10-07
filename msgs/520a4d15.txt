@@ -1,0 +1,1 @@
+i made the editor in Peek last year, with the specific features i wanted, and haven't really thought about editors ever again.
