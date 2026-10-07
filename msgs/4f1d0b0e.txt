@@ -1,0 +1,1 @@
+It's hard mode - completely closes all windows, and opens new ones.
