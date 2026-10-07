@@ -1,0 +1,1 @@
+So performance is similar - can open/close a lot of windows quite quickly.
