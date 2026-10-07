@@ -1,0 +1,1 @@
+That command opens the editor, but in a block-editor mode, combining all matching items into a single view.
