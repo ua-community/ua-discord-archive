@@ -1,0 +1,1 @@
+i failed to install this without installing some weird node package that failed the permission system. I expected a pure mcp endpoint my agent can just add without sinstalling anything further besides the app bundle
