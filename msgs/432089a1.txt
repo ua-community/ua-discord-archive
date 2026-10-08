@@ -1,0 +1,1 @@
+the other day I asked it to show me a transition between walking and running gait, and it generated an interactive infographic with the walking puppet , sliders and all
