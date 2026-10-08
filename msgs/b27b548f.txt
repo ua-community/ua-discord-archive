@@ -1,0 +1,1 @@
+At one point, I'd called some private macOS API and... IT DIDN'T GO WELL. Had to reboot.
