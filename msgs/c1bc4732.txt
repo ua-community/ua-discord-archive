@@ -1,0 +1,1 @@
+Turns out you have to do a bunch of weird stuff to place windows on specific desktops.
