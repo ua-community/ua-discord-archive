@@ -1,0 +1,1 @@
+I mean whether you try to stress any failure modes of chat input, like ambiguity or impossible requirements
