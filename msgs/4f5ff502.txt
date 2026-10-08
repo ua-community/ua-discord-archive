@@ -1,0 +1,1 @@
+I've got it on a VPS (because I'm paranoid) and to be honest, it does make things a bit more fragile. Early days
