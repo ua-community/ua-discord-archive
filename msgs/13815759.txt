@@ -1,0 +1,1 @@
+im curious how you run the "backend" part,   would this not ultimately need some sandbox for the applications if they need to gain capapabilities beyond client web only? or where is the line you see here?
