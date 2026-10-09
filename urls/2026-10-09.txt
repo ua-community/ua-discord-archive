@@ -1,0 +1,1 @@
+https://modelcontextprotocol.io/seps/1865-mcp-apps-interactive-user-interfaces-for-mcp
