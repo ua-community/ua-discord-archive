@@ -1,0 +1,1 @@
+https://www.iroh.computer/blog/noq-on-an-esp32-c6
