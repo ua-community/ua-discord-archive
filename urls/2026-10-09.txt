@@ -1,2 +1,3 @@
 https://modelcontextprotocol.io/seps/1865-mcp-apps-interactive-user-interfaces-for-mcp
 https://x.com/satyanadella/status/2108213283144810958?s=20
+https://fisl.dev/
