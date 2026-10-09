@@ -5,3 +5,4 @@ https://ocramz.github.io/posts/2026-10-06-legal-neurosym-agent.html
 https://www.iroh.computer/blog/noq-on-an-esp32-c6
 https://www.iroh.computer/blog/buzz-agent-workspaces
 https://www.iroh.computer/blog/iroh-global-content-discovery
+https://github.com/t4t5/omdrop-owl
