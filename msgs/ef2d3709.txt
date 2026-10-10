@@ -1,0 +1,1 @@
+it’s useful for agent infra where you don’t want a browser to save costs
