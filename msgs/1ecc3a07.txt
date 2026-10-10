@@ -1,0 +1,1 @@
+its pretty similar to how we think about agent integrating with websites in xenon but hard to imagine how this would be a product to sell vs something integrated in a browser or agent harness?
