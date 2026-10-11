@@ -1,0 +1,1 @@
+I prototyped this back in 2017 as a Firefox extension called Escape
