@@ -1,0 +1,1 @@
+Another little detail I can't live without now, and expect to be everywhere: Double-click anywhere on a page to maximize/minimize (and it persists previous window size/position).
