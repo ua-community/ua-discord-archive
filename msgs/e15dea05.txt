@@ -1,0 +1,5 @@
+Got WebMCP working in Chromium.
+Hopefully they get this usable by regular folks at some point, had to start Chromium in a special way, change ports 😵 
+
+Anyhow, integration feels pretty good so far.
+I can just ask my agent to make tweaks to Diffuse features or interfaces; or create entire new ones.
