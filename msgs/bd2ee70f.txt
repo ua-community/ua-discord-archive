@@ -1,0 +1,1 @@
+Interesting, Mozilla's open translation models are ~25-30mb for any pair.
