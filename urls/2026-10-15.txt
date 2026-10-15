@@ -5,3 +5,4 @@ https://github.com/nordstjernen-web/nordstjernen-browser
 https://nordstjernen.org/
 https://rabbithole.land
 https://github.com/perplexityai/space
+https://github.com/gordonbrander/jevgate
