@@ -1,0 +1,1 @@
+i normally have browser extensions that sync tabs to our data plane and can then be managed from darc, but did not manage to look much at mobile yet
