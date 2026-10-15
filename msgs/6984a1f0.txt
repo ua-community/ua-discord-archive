@@ -1,0 +1,1 @@
+How do you typically manage tabs on mobile(/desktop)? Asking because I'm building https://rabbithole.land and it's at a point where I've been using it for myself for a while but I'm adding a set of AI features for the next release. And also adding a way to save my many tabs on mobile that i'm afraid of losing lol
