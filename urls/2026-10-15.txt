@@ -6,3 +6,4 @@ https://nordstjernen.org/
 https://rabbithole.land
 https://github.com/perplexityai/space
 https://github.com/gordonbrander/jevgate
+https://bsky.app/profile/did:plc:sayzq5w7jzdk37zpymik474f/post/3mxwqio2tdc2a
