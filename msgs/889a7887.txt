@@ -1,0 +1,1 @@
+we have a set of companion extensions part of darc/xenon not released yet but you will be able to see other browsers tabs and history as integrated as possible.
