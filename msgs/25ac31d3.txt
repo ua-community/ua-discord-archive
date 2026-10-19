@@ -1,0 +1,1 @@
+if the last bugs can be resolved, xenon soon supprts non admin user accounts for build and running. this is mainly important for running more efficient and safe CI but might also help with security
