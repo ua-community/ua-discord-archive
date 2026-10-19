@@ -1,0 +1,1 @@
+in the BYOB department, Tauri v3 will ship better support loading web content: https://github.com/orgs/tauri-apps/discussions/4219#discussioncomment-19031212
