@@ -1,2 +1,3 @@
 https://github.com/orgs/tauri-apps/discussions/4219#discussioncomment-19031212
 https://openhaven.net/prototype/matrix/
+https://github.com/perplexityai/SPACE
