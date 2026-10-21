@@ -1,0 +1,5 @@
+`jco` is actually attending to a different set of workflows. `jco` makes it easy to package your JavaScript or TypeScript as a Wasm components. Then, it also has a transpilation feature that lets you convert your components into an artifact that can run in places where there is no component model support.
+
+The polyfill, by contrast, is language toolchain agnostic. You can think of it as having Wasmtime's component model APIs (such as when consuming it as a library), but built on top of the Wasm Core foundation found in a web browser (or other runtime that only has Wasm Core). The upshot is that you don't need to convert your Wasm components to something else, you can compile, link and instantiate them as they are at runtime.
+
+You can use Wasm components produced by `jco` with the polyfill without having to convert them to transpiled artifacts first. And, you can freely link them to arbitrary other Wasm components at runtime.
