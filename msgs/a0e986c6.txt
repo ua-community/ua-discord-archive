@@ -1,0 +1,1 @@
+And yah, as you suggested: I would rate the polyfill's support for wasip3 as a compelling differentiation as well. It's the reason I decided to work on it in the first place.
