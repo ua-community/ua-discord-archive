@@ -2,3 +2,4 @@ https://github.com/dialog-db/wasm-component-model-polyfill
 https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/
 https://recursive.com/updates/first-steps-toward-automated-ai-research
 https://www.ensue-network.ai/lab/autoresearch
+https://github.com/bytecodealliance/jco
