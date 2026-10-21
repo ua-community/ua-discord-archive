@@ -1,0 +1,1 @@
+Annoyingly bmc can sometimes get stuck and not be able to power on servers. So seems I also need smart socket for actual power per server as backup.
