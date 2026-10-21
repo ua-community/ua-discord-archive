@@ -1,0 +1,5 @@
+This is shameless self-promotion, but I know there are some Wasm component model enjoyers here so hopefully it's topical.
+
+I just published a Rust polyfill for the Wasm component model. It brings the component model to the web and also non-web Wasm runtimes that implement Wasm Core (currently just Wasmi, but in theory it could be adapted for most others). It supports all the way up to "preview 3" / WASI 0.3, including all the nice `async` stuff.
+
+https://github.com/dialog-db/wasm-component-model-polyfill
