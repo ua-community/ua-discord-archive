@@ -1,0 +1,1 @@
+Nice! Correct me if I'm wrong but this is also something that [JCO](https://github.com/bytecodealliance/jco) does? If so, how does it compare? Last time I looked at JCO, it still only supported wasip2 so that alone unblocks somethings for me
