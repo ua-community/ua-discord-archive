@@ -1,0 +1,1 @@
+Turns out the lack of proper APIs for window placement on macOS is a decades old problem.
