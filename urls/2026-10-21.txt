@@ -1,1 +1,2 @@
 https://github.com/dialog-db/wasm-component-model-polyfill
+https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/
