@@ -1,0 +1,1 @@
+Ok found issue, seems the service for power/temp monitoring checking the bmcs via ipmi lead to some resource issue where bmc stops reponding, cant restart from host also. Needs full ac shutdown and drain then reboot of both bmc and server. Fix will be separate per server remote a/c switch and weekly or daily bmc cold resets.
