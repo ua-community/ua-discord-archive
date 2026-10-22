@@ -1,0 +1,1 @@
+They are just hand-rolled for the demo, nothing standard. Custom host-provided imports that enable a component rendering API (for the UI) and route handlers (for a service worker). It's contrived, just intended to show that it's possible.
