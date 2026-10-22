@@ -3,3 +3,4 @@ https://github.com/dialog-db/wasm-component-model-polyfill/blob/6b8d4ff0c8735b8e
 https://porffor.dev/
 https://github.com/vercel-labs/scriptc
 https://status.railway.com/
+https://tangled.org/sharedcomputer.network/scn-chat
