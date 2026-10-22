@@ -1,0 +1,1 @@
+Anyways, I'll be putting it to use immediately! I got dioxus components to work from within WASM. Next thing I want to look at is getting the web platform WebIDL -> wit as a means of providing DOM/Web APIs instead of doing my own custom host side API.
