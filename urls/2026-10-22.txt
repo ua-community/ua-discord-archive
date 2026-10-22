@@ -7,3 +7,4 @@ https://tangled.org/sharedcomputer.network/scn-chat
 https://atproto-web-names.szzt.app/
 https://openathena.ai/blog/there-is-no-posttraining-data-commons/
 https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html
+https://trymirai.com/blog/the-computer-should-know-the-way
