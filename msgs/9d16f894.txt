@@ -1,0 +1,1 @@
+I mean, segregated address space of wasm makes a lot of these non-viable from the get go.
