@@ -1,0 +1,1 @@
+Because what would existing wasm core components be targeetting that would be now expressed in wasi, that's where I got lost.
