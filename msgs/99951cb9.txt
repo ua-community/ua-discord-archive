@@ -1,0 +1,1 @@
+I.e. I assumed surely it'd be possible to have the JCO wrapper take in arbitrary components at runtime.
