@@ -1,0 +1,1 @@
+I got so sick of wanting to publish a new website, and going to a registrar, I said fuck it and decided to implement support for `@name/website-shortname` publishing in Peek using atproto.
