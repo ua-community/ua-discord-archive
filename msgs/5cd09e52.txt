@@ -1,0 +1,1 @@
+The polyfill even has a `bindgen!` macro! Although it's not fully compatible with Wasmtime's.. so you still need a different module for each platform, probably.
