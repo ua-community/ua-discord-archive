@@ -1,0 +1,1 @@
+Ideally we can align or import lexicons for chat logs. Everything is logged in spaces and there is local browser sync too.
