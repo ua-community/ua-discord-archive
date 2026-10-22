@@ -4,3 +4,4 @@ https://porffor.dev/
 https://github.com/vercel-labs/scriptc
 https://status.railway.com/
 https://tangled.org/sharedcomputer.network/scn-chat
+https://atproto-web-names.szzt.app/
