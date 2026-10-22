@@ -1,0 +1,1 @@
+And FWIW, it's feasible to vend a JS wrapper for this polyfill (with the caveat that some uses may incur extra copy overhead).
