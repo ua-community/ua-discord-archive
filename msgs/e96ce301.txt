@@ -1,0 +1,1 @@
+My plan was to create an abstraction that would use wasmtime on native and JCO over wasm-bindgen on the browser.
