@@ -1,0 +1,1 @@
+Depending on what you're building, a highly dynamic language may give you better results and faster. But, for my purposes Rust is well suited to the task, and I haven't lacked for flexibility.
