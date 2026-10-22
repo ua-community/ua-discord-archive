@@ -1,0 +1,3 @@
+I think it depends on what you are building.
+
+The way I like to use Wasm components is to conceive of the host environment as providing menu of capabilities that can be imported by guests. From there the sky is the limit of malleability, given the right set of capabilities.
