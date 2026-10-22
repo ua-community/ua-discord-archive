@@ -1,0 +1,1 @@
+This would be a big upgrade for me to avoid the JS stuff but besides avoiding the wasm-bindgen cruft and getting the wasmtime compatible API, i'm trying to understand what was the big pain that led you to make this.
