@@ -1,2 +1,4 @@
 https://github.com/bytecodealliance/preview2-prototyping
 https://github.com/dialog-db/wasm-component-model-polyfill/blob/6b8d4ff0c8735b8e8f5c09fc5e3428f8114e179d/rust/wcmp-demo/zena/wit/route.wit
+https://porffor.dev/
+https://github.com/vercel-labs/scriptc
