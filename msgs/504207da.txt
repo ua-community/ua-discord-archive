@@ -1,0 +1,1 @@
+So i'm protoyping a GUI thing that's supposed to run in the browser and on dioxus native right now. And I'm trying to make it malleable and have everything be implemented through wasm components.
