@@ -1,0 +1,1 @@
+It's in the direction of spec, but mostly I just wanted to poke at every question that came up in attempting to spec it.
