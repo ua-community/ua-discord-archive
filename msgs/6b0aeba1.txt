@@ -1,0 +1,1 @@
+Another option I'm looking at is adopting TS with a combined QuickJs and https://porffor.dev/ /  https://github.com/vercel-labs/scriptc solution
