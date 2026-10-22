@@ -1,0 +1,1 @@
+In the meantime we shipped an early release of an atproto spaces compatible spaces chat https://tangled.org/sharedcomputer.network/scn-chat
