@@ -1,0 +1,1 @@
+If you have components that work in Wasmtime, you could cut out the JCO / wasm-bindgen and just use those components directly in the browser
