@@ -1,0 +1,1 @@
+i prefer `@name/shortname`, but it's implementers choice i guess
