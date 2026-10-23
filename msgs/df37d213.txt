@@ -1,0 +1,3 @@
+re base32, you have two choices:
+- trade away case insensitivity in hostnames
+- fight everything in existence forever
