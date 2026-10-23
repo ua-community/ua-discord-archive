@@ -1,0 +1,1 @@
+a design goal was to not lose storage data etc when a handle changes, so i'm hashing DID for origin.
