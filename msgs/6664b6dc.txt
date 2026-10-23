@@ -1,0 +1,1 @@
+Full duplex open voice model that runs on rtx 3090/4090/5090 - https://github.com/speakrail/speakrail
