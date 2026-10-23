@@ -1,1 +1,2 @@
 https://github.com/speakrail/speakrail
+https://docs.perplexity.ai/docs/decisions/decider-for-mac
