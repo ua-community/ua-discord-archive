@@ -1,0 +1,1 @@
+with that, metasearch proxies start to make sense. they just have to route to caches
