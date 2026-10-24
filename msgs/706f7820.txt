@@ -1,0 +1,1 @@
+Exa MCP provides unauthenticated access to web search limited at 3k queries per month
