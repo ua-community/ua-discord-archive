@@ -1,0 +1,1 @@
+(user) we may tackle this kind of setup for offline knowledge packs feat
