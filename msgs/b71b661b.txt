@@ -1,0 +1,1 @@
+(speculating around (user) ' request) I wonder if federated search engines would lower the pressure on data sources. as in, each search node has their own topics and cache eviction policy
