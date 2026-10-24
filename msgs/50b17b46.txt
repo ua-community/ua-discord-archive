@@ -1,0 +1,1 @@
+The spec allows it right now. Was thinking along the lines of some proof token in a text record like Atproto does today to get the padlock (or whatever equivalent), and big red warning if not.
