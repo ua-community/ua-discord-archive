@@ -1,0 +1,1 @@
+But yeah the iframe example is good, eg an HTTP iframe in HTTPS context. Something similar to mixed-content warning approach.
