@@ -1,0 +1,5 @@
+anyone here have strong/informed opinions on self-hosted dots/openclaw/hermes/buzz kinda setups?
+
+context is a small org where I'd like to give agents with identity specific roles and also provide a friendly interface for non-techincal folks to interact with these agents.
+
+there's a billion options it seems and it's easy to find users bemoaning the popular ones.
