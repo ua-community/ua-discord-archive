@@ -1,0 +1,1 @@
+i'm also sort of working on something adjacent but this seems pretty far ahead! Can I chuck this in a VM/container/k8s and give access to someone over tailscale? That's all I need
