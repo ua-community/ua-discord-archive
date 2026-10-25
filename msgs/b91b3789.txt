@@ -1,0 +1,1 @@
+we use Iroh for networking and through remote inference you can serve the webui to a diff machine etc. But rn the project is still in alpha, theoretically it should work in a VM, as we've a Linux version too.
