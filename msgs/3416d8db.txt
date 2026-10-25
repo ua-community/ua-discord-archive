@@ -1,0 +1,1 @@
+Not particular about the interface, it could even be email. The main thing I'd like to enable now is allow them to edit copy, styles and small things from the org website and the content. Also, i'd like agents that do BI stuff on cron.
