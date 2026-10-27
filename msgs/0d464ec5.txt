@@ -1,0 +1,1 @@
+https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover - messages in admin-chosen channels will be indexable by search engines, and they will have webpages that can have automated channel summaries
