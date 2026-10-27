@@ -1,0 +1,1 @@
+The wasm is the flexible layer. You don't need the runtime to be flexible, you need it to let you assemble whatever you have, to perform as a standard wasm component runtime. A well known later for assembling components you have. And is the standard platform for running compilers or dynamic languages. Rust feels like an excellent choice to me.
