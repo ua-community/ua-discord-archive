@@ -1,1 +1,2 @@
 https://www.w3.org/TR/user-agents/
+https://warrick.life/operads
