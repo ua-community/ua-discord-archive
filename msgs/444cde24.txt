@@ -1,0 +1,1 @@
+W3C TAG published a note on what a "user agent" is: https://www.w3.org/TR/user-agents/
