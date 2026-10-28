@@ -1,0 +1,1 @@
+Yes but it's still a farcry from dynamic/js lang based malleability systems where everything runs in the same address space. Especially when it comes not to adding new pieces but modifying the existing ones. I'd have to ship rustc along with the app if I want to service that kind of malleability
