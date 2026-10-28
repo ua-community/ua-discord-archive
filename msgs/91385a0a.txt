@@ -1,0 +1,1 @@
+“A user agent serves its user’s interests over its implementer’s interests and over the interests of any other party.”
