@@ -1,0 +1,3 @@
+i ran some experiments over the past week and constructed this interface for composing with operads
+
+https://warrick.life/operads
