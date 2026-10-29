@@ -1,0 +1,1 @@
+the device from earlier: https://www.waveshare.com/esp32-s3-touch-amoled-1.8.htm
