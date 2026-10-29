@@ -2,3 +2,4 @@ https://open.spotify.com/episode/1M8Jx3zcio62JooNirT1nd?si=09535508042b47ee&dlsi
 https://mu.social/profile/macrumors.bsky.social/post/3myxbpwpdn42d
 https://haeinjung.com/writing/collision-chambers.html
 https://ampcode.com/news/macos-satellites
+https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/
