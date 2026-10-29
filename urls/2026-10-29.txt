@@ -5,3 +5,4 @@ https://ampcode.com/news/macos-satellites
 https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/
 https://discord.com/events/1309454711392305192/1392920685533204590/1565394783436800000
 https://tangled.org/sharedcomputer.network/scn-chat
+https://www.waveshare.com/esp32-s3-touch-amoled-1.8.htm
