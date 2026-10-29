@@ -1,0 +1,11 @@
+(user) I’ve actually not made a lot of cool changes, lots of commits for boring work such as fixing “too much open connections” and infra changes.
+
+Anyhow, couple nice updates from the last 3 months:
+- tile car files as container
+- multiple files for tiles
+- self-describing data with bi-directional lenses
+- webmcp
+- a new theme/interface that’s much better for overall/generic usage than the other ones (based on Albums ipad app)
+- a way to let diffuse manage your audio files and sync them to your cloud storage
+- got started with cooperative (atproto) playlists, basics are there.
+- bunch more features and themes (eg. multiple audio streams with diff OS audio output, remember progress for long audio tracks, etc)
