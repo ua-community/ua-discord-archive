@@ -1,0 +1,6 @@
+You can work with widgets on a page by:
+
+- resize at corners or sides
+- drag at top border
+- delete button on hover
+- arrows/hjkl navigation, and <enter>
