@@ -1,0 +1,1 @@
+turning opex (~9.6 years of claude max subscription) into capex (an inference rig for deepseek)
