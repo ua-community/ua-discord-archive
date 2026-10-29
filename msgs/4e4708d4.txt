@@ -1,0 +1,6 @@
+You can load them via:
+
+- local hotkey
+- global hotkey
+- cmd
+- the sheets feature
