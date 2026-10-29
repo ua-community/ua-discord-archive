@@ -1,0 +1,1 @@
+coul do something like... admin of U&A blesses a user, and then the connector sees that and their atproto identity gets into the group.
