@@ -1,0 +1,1 @@
+this bit was taken directly from Firefox's tabcandy/panorama
