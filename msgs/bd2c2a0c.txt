@@ -1,0 +1,1 @@
+link to the hardware? I think its esp32-s3 oled 1.8 inch.
