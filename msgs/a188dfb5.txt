@@ -1,0 +1,1 @@
+also, a widget can be moved, and everything around it is pushed/resized automatically
