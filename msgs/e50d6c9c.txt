@@ -1,0 +1,7 @@
+In a sheet, you can add empty widgets, string URLs or images etc by:
+
+- doubleclick
+- paste
+- drag and drop
+- the + button
+- drag and release
