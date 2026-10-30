@@ -1,0 +1,1 @@
+Fun one to kick off. https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor
