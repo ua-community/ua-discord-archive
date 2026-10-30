@@ -1,0 +1,1 @@
+the default one on mac, with a hack for recording audio with the video (a multichannel audio driver)
