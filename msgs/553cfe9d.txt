@@ -1,0 +1,1 @@
+https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor also posted in <#1565624877229146192> - if you have vscode fork (e.g. cursor) that uses Open VSX extension store and installed claude code extension and have auto updates on you maybe impacted.
