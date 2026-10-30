@@ -5,3 +5,4 @@ https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persi
 https://bsky.app/profile/jamiedcville.bsky.social/post/3mz45ggrg4s2o
 https://x.com/HaijunXia/status/2116188721934635238?a=BW6E1ceRMwD5FLXJLM8&s=20
 https://tangled.org/blog/forge/
+https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/
