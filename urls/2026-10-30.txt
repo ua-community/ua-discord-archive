@@ -1,3 +1,4 @@
 https://openathena.ai/blog/post-training-in-the-open/
 https://screenie.cam/
 https://www.techsmith.com/blog/obs-screen-recording/
+https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor
