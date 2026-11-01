@@ -1,0 +1,1 @@
+But now that those are vaguely functional, I've started on the overarching planner, scheduler, triggers and test generation.
