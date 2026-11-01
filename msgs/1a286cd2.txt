@@ -1,0 +1,8 @@
+This integrates
+
+- mdn/browser-compat-data
+- web-platform-dx/web-features
+- w3c/browser-specs
+- w3c/webref
+- GoogleChromeLabs/wpt-gen
+- https://web-platform-dx.github.io/baseline/
