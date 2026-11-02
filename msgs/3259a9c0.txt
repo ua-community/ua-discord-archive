@@ -1,0 +1,1 @@
+Also deepseek now does 16 parallel reqs it was limited for some reason to 2 before
