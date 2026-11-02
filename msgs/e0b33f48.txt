@@ -1,0 +1,1 @@
+https://github.com/spacefarm-digital/sunlight - infinite canvas window manager for mac. Code might be of interest for <#1388112358047617104>
