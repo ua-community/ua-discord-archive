@@ -3,3 +3,4 @@ https://bsky.app/profile/adamwiggins.com/post/3mzd5cfavk22h
 http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html
 https://unmute.sh/
 https://huggingface.co/spaces/townbox/ava
+https://www.inkandswitch.com/jobs/ccti-researcher/
