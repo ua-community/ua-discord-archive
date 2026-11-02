@@ -1,0 +1,1 @@
+This one is dumber and smaller (2.2b params) but runs locally in browser which is impressive. https://huggingface.co/spaces/townbox/ava
