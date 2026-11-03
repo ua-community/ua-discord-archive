@@ -1,0 +1,1 @@
+The big news today is a date: Google's [Chrome Enterprise release notes](https://support.google.com/chrome/a/answer/10314655?hl=en) now put IWAs on enterprise-managed Chrome for Windows in Chrome 161. That's the first stated date for IWAs outside ChromeOS.
