@@ -1,0 +1,3 @@
+Finally added a way to install a arch pkg onto the persistent storage, that doesn't get a/b reset, and that isn't tiny.
+
+First thing to get added? Fonts. Iosevka is like 1GB in its full profile! 🙃
