@@ -1,0 +1,1 @@
+Some basic stuff, readying for use by notme, like a startup profile picker.
