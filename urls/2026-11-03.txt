@@ -5,3 +5,4 @@ https://bsky.app/profile/lukeinth.bsky.social/post/3mzchkxv7as2f
 https://bsky.app/profile/lukeinth.bsky.social/post/3mzf4fl2mp22z
 https://x.com/jcrwhittington/status/2117317159777177602?s=12
 https://zena-lang.dev/
+https://dialog-db.github.io/wasm-component-model-polyfill/
