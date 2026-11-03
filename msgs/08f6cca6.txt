@@ -1,0 +1,1 @@
+I generally agree yeah. Today that's true. I'm hopeful we see some interesting small glue languages emerge than can script together bigger modules with modest dynamism.
