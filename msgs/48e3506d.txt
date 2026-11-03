@@ -1,0 +1,1 @@
+I had some like 50% work on how I handled the various bind mounts. There's an ext4 that is /home and then bind mounted to be a lot of other things. I was leaning into that already for a while,  but haven't been doing the new OS installs to test, and now I did, and got the stuff more up to snuff.
