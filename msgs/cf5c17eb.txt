@@ -1,0 +1,1 @@
+I use this thing all the time, and it was mostly fine with existing playbooks. But the OS drive is 5gb! A/B swaps & is tiny! Fresh install leaves about 1GB free
