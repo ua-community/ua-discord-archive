@@ -1,0 +1,1 @@
+https://dialog-db.github.io/wasm-component-model-polyfill/
