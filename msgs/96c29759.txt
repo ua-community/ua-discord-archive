@@ -1,0 +1,1 @@
+Sure currently IWA is only officially supported on chrome os while on other platforms it’s behind dev flags. This announcement is Google setting a target release date for IWA on windows. We hope that they will continue to roll out to Linux and macOS after this.
