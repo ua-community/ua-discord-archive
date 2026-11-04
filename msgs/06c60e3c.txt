@@ -1,0 +1,5 @@
+And anyways, right now, my project that has needs of this in the early stages. I.e. i'm still trying to implement the core modules for the app in this wasm based malleable runtime.
+
+The rest of the project is in rust and wasm ecosystem is rust first so ofc, the easiest path fwd is rust. But yes, with my approach, this does put a lot of requirements in any such candidate replacement. Not only would it need to be glue or small extension surface, it has to be good enough to implement all the core app plugins in it as well.
+
+Basically, I'm trying to have my wasm cake and eat it like emacs if that makes sense.
