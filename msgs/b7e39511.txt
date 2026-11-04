@@ -1,0 +1,1 @@
+i set my history to ∞, but later learned that sync doesn't sync about:config changes
