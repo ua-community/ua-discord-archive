@@ -1,0 +1,1 @@
+Features that are only available on chromeos have in the past been removed at a later date.
