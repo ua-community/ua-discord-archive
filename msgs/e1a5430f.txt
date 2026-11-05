@@ -1,0 +1,1 @@
+Yeah I think you are on the right track here thinking about wanting to have your own interface / browser / super app that works at the same level as the typical browser ui.
