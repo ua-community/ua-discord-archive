@@ -1,0 +1,9 @@
+a few follow ups :
+
+
+"we are not fixing some bug or other"
+1. the code is fully open source? so you're at they're mercy? but a hard fork is possible if worst came to worst?  
+
+2. have been working on this clipper extension and am curious how much the extension architecture is just kind of verbatim chromium vs if y'all have thought of extending/modifying it
+
+(not that i know anything about the extension system to begin with)
