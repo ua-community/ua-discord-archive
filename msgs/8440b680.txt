@@ -1,0 +1,1 @@
+Yeah we work around that with our launcher that sets the flag and uses its own profile and / or with forked browsers that apply the patch to “fix” it 😉
