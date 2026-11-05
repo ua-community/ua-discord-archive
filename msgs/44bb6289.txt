@@ -1,0 +1,1 @@
+have basically been exploring with running two browser processes, one a "virtual browser" where the frontend becomes a new backend (or middleware) and the new frontend is totally user controlled. which means that every web app just becomes, in some sense, a stochastic api relative to "user designed or designated frontend
