@@ -1,0 +1,1 @@
+where the new frontend is essentially a new abstraction - ie you're building custom web apps which are assembled hybrids/mods of these 'frontend as backend' applications - but the person serving the data has ideally 'no idea' that you've actually modded their application to suit your needs
