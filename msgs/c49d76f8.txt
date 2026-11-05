@@ -1,0 +1,1 @@
+i mean the big thing for me is that we can only heuristcally probe these things. and building interfaces that supports that is very difficult! so its like, the WAP status of such complicated machines is inevitable
