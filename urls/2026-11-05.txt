@@ -6,3 +6,4 @@ https://klipy.com/gifs/jalen-johnson-atlanta-hawks
 https://developer.apple.com/documentation/sirievaluations
 https://x.com/joshuaswarren/status/2118331083330629847?a=9NwtY1Xchh7XdS5lZd8&s=46
 https://www.peonping.com/
+https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU
