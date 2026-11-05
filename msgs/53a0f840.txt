@@ -1,0 +1,2 @@
+1. Yeah we can always apply a patchset on top of chromium or helium. We already have a few patches that mod/fix little things and the android ones. 
+2. Extensions are missing in IWA but the primitives to implement manifest v2/v3 style extensions are there and we have a few we for running. Seems solvable for standard extensions and given the super powers we have we can actually have more powerful custom extension system
