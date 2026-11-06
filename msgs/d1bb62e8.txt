@@ -1,0 +1,1 @@
+However we want to remain compatible with stock chrome
