@@ -1,0 +1,1 @@
+we would like to avoid shipping engines with the apps but shipping with xe itself looks more and more likely as we need to add patches
