@@ -1,2 +1,3 @@
 https://www.anthropic.com/research/components-of-agent-memory
 https://nousresearch.com/arete
+https://github.com/Leviidev/Henge
