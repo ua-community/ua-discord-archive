@@ -2,3 +2,4 @@ https://www.anthropic.com/research/components-of-agent-memory
 https://nousresearch.com/arete
 https://github.com/Leviidev/Henge
 https://www.reddit.com/r/MacOS/s/wR6trttH6A
+https://www.macstories.net/stories/notes-from-apples-siri-ai-labs-schemas-tools-and-skills/
