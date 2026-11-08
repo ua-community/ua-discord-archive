@@ -1,3 +1,4 @@
 https://underdog.ai/woof
 https://licencetolearn.in/data/
 https://github.com/Th0rgal/satmux
+https://github.com/deepseek-ai/DeepInfer
