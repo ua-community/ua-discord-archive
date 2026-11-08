@@ -1,0 +1,1 @@
+from what I understand it's not a matter of campaigning but getting the browser to stability and adoption
