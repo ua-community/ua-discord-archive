@@ -1,0 +1,1 @@
+optimizing tokens/s of a GPT-2 model by rewriting its inference engine (based on GGML). ~1.7x gain with less than 10usd in tokens and infra.
