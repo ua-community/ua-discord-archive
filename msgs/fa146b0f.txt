@@ -1,0 +1,2 @@
+Really glad Google is not just doing spatial XR, but that they found some really sensible good places to advance things with this one,
+https://opensource.googleblog.com/2026/11/introducing-three-live-ai-generated-3d-ar-webxr.html
