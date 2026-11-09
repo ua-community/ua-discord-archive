@@ -1,0 +1,1 @@
+The design is that basically, each names agent has a persistent long lived context.
