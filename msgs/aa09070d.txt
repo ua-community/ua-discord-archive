@@ -1,0 +1,1 @@
+Uses Tauri 2 native webviews
