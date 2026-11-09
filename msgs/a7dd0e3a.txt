@@ -1,0 +1,11 @@
+Okay so update on this, at the recommendation of @/erlend , I found out about https://raft.build and have settled on it after trying a few alternatives.
+
+Pros
+- Web UI and mobile apps 
+- Familiar slack interface that works well
+- Uses lab CLIs directly 
+- Decent feature set
+- Self-hosting is a breeze
+
+Cons
+- Theme is an eyesore lol
