@@ -1,0 +1,1 @@
+And yes, the slack chat based interface is less transparent as to what the agent is doing though raft build does expose an activity pane for detailed look at each session turn.
