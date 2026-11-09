@@ -1,0 +1,1 @@
+But when I'm doing heavy design or implementation, I want to dedicate the whole context to the task at hand. How would that work? A separate agent per project? Per ticket? It gets a bit muddy.
