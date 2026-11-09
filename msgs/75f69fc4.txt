@@ -1,0 +1,6 @@
+(user) in case you didn't fully read it, it's the source available in the sense that
+- PRs are not accepted 
+- Prevents running a competing commercial service with the code
+- Turns to Apache 2.0 after two years
+
+Not to advocate for it or anything but that's a common setup that's acceptable to me. In fact, I'm glad they use the more legally correct term of open source because I'm annoyed when similarly licensed software tries to use the open source term.
