@@ -1,0 +1,1 @@
+so i can work w/ agents to make specs, and then validate later, post-loop.
