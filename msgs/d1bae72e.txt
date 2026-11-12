@@ -1,0 +1,1 @@
+the spectrum of hands-on <-> autonomous is always fuzzy, because results are never deterministic.
