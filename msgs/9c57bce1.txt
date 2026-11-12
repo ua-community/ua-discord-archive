@@ -1,0 +1,1 @@
+tooling i use for per-project pattern of coordinator agent which manages pool of dev/review agents, on a loop that automatically picks up, implements and lands specs.
