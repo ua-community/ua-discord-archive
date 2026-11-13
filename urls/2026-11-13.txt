@@ -3,3 +3,4 @@ https://www.youtube.com/watch?v=ZvzfcSPRxoo
 https://bsky.app/profile/did:plc:mqmcsjuerbjhu65mpmvkcuw2/post/3n25pw7pvgs2x
 https://security.apple.com/blog/secure-exclaves/
 https://openai.com/index/introducing-chatgpt-wallet/
+https://luma.com/7ezgb1yq?lm_api_id=notif-kuorLDgU8Ucfl5l&lm_medium=inbox&lm_source=notification&lm_type=event--updated
