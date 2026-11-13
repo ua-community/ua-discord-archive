@@ -2,3 +2,4 @@ https://bsky.app/profile/tiles.run/post/3n25orjuoy22i
 https://www.youtube.com/watch?v=ZvzfcSPRxoo
 https://bsky.app/profile/did:plc:mqmcsjuerbjhu65mpmvkcuw2/post/3n25pw7pvgs2x
 https://security.apple.com/blog/secure-exclaves/
+https://openai.com/index/introducing-chatgpt-wallet/
