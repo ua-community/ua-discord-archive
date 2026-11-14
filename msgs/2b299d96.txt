@@ -1,0 +1,1 @@
+zen team is working on a framework to make browsers, would take away at least some of the pain to build on firefox https://docs.gluon.dev/getting-started/userchrome.     still needs rebuilding firefox and exposes all the internals to app devs but a step forward
