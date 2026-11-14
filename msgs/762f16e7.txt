@@ -1,0 +1,4 @@
+a bit tangential to what we usually do here,  I've been experimenting a lot with motion capture UI recently, for accessibility and game-like things. 
+
+Here's a self-contained, in-browser hand pose tracker: https://www.npmjs.com/package/@ocramz/handpose/v/0.1.0 
+On my Mac M1 on firefox, it runs at 10 FPS (ONNX runtime compiled to WASM via `sonos/tract`).  Pretrained NN weights are in the package, so npm install and you're good to go.
