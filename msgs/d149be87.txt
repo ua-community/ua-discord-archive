@@ -1,0 +1,1 @@
+the exo stand running 1tb model on 4 macs at neurips last year, RDMA support was a big improvement
