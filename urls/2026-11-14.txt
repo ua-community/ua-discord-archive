@@ -2,3 +2,4 @@ https://github.com/exo-explore/exo
 https://www.npmjs.com/package/@ocramz/handpose/v/0.1.0
 https://docs.gluon.dev/getting-started/userchrome.
 https://x.com/hilbertspaess/status/2121331333654086124?a=0T7UPnZRC1dXBJt3NXs&s=20
+https://lexifina.com/blog/formalizing-the-us-tax-code
