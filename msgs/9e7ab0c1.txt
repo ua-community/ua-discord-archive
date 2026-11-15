@@ -1,0 +1,1 @@
+sorry again for the failed demo, took until now to make the new agent architecture work. this is a demo of darc connected with acp and mcp to opencode and the permisison system generating an ad hoc html app from browser data.
