@@ -1,0 +1,1 @@
+false positive tab group creation while doing tab dnd in Firefox drives me bonkers
