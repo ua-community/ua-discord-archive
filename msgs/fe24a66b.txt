@@ -1,0 +1,1 @@
+i probably posted this at some point, but this issue gets poked every now then by folks working on spatial/immersive web standards, so kinda fun to subscribe to. https://github.com/w3c/strategy/issues/324
