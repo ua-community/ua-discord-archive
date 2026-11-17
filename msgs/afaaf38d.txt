@@ -1,0 +1,1 @@
+the system produces a report with the top diffs by perf%change, which could then be implemented by hand. one can restrict the changes to one or a few files.
