@@ -1,0 +1,1 @@
+it's not unlikely it could work.  the system prompt is generic, no skills loaded, just does the thing.  I could give it a shot. Do you work with/on servo or have a specific use case in mind?
