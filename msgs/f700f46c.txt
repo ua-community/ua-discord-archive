@@ -1,0 +1,1 @@
+the bench should take a seed and produce a number as result, that's it. Is servo so slow? I haven't used it
