@@ -1,0 +1,1 @@
+https://ocramz.github.io/posts/explainable-autoresearch-nov-2026.html two weeks ago I showed during our Thursday call a sneak peak of this work. I kept experimenting, the results are consistently good, so now here's a post about it. I think there are interesting and reusable bits that span UI/UX, HCI and AI.
