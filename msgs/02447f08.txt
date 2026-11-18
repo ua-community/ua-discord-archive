@@ -1,0 +1,1 @@
+i think this 'frontend as a backend' is more or less the same pattern - like 'frontend as an api' could be an alternative phrasing
