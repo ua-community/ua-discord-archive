@@ -1,0 +1,7 @@
+Was researching tiles this week so let me give it a shot:
+
+Think Java applets or Flash apps of the past except you sandbox them inside of an iframe with zero web access and all outside access is controlled by the host.
+
+It requires separate origins per tile since that's how the browser's iframe sandboxing works. A tile can also carry its own data in a content addressed way.
+
+All of this gets you vendor provided code for working with the vendor's data you can embed inside your own web app. Think an MS Office tile that you can use for an embedded Word editor inside your chat app. All of this without worrying that the vendor is tracking your users or doing anything malicious.
