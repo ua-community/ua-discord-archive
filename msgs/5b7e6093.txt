@@ -1,0 +1,18 @@
+As requested list of tech used. 
+
+Foundation
+
+- **Proxmox VE 9.2** on each box, with unprivileged **LXC containers** for desktops and **KVM virtual machines** for GPU-slice desktops (on the EPYC, in test).
+- **ZFS** for storage on the boxes, and **Proxmox Backup Server** for nightly backups.
+- **nftables** for desktop isolation and NAT.
+- **NVIDIA RTX 3090s** shared between containers, encoding with **NVENC**; **Intel Arc Pro B70** cards partitioned into slices for VMs.
+
+Desktop streaming
+
+- **Ubuntu 26.04 with KDE Plasma on KWin (Wayland)**, cloned from our own template.
+- **Selkies** streams each desktop to a browser tab. This is the same streaming stack LinuxServer's Webtop uses, but we run it in our own image rather than the Webtop container.
+
+- **Rust**: the control service (`folkd`), the command line (`folk`), the MCP server (`folk-mcp`) and the app store tool (`folk-apps`), built on **tokio** and **hyper**.
+- **Shell scripts** for the small privileged "doors" on each box.
+- **React, TypeScript and Vite** for the portal.
+- **TOML** catalogues for apps, Store manifests and the recipes that wire assistants to applications.
