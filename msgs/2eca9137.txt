@@ -1,0 +1,46 @@
+FOUNDATION
+  Proxmox VE 9.2 
+  LXC containers (unprivileged) for desktops
+  KVM vms for GPU-slice desktops (EPYC)
+  ZFS storage
+  Proxmox Backup Server for nightly backups
+  nftables for desktop isolation and NAT
+  NVIDIA RTX 3090 cards, shared between containers, NVENC encoding
+  Intel Arc Pro B70 cards, partitioned into slices for VMs
+
+DESKTOPS AND STREAMING
+  Ubuntu 26.04
+  KDE Plasma on KWin (Wayland)
+  Selkies for streaming a desktop to a browser tab
+  (Webtop was evaluated; we use the same streaming stack in our own image)
+
+OUR OWN CODE
+  Rust: control service (folkd), command line (folk),
+        MCP server (folk-mcp), app store tool (folk-apps)
+  tokio and hyper underneath
+  React, TypeScript and Vite for the portal
+  SQLite for the service's registry
+  TOML for app catalogues, Store manifests and wiring recipes
+
+AI
+  LiteLLM gateway (with Postgres): key / budget per person and agent
+  Ollama serving Qwen 27B on 3090
+  Cloud routes: DeepSeek, OpenAI, Claude
+  Agent harnesses: Claude Code, T3 Code, Codex, DeepSeek harness
+  MCP (Model Context Protocol): Blender's official server,
+        the Craft apps' own servers, and ours over HTTP
+  kwin-mcp for screen control
+  (Cua was tried for screen control; it could not capture our Wayland desktops)
+
+SERVICES AROUND IT
+  Forgejo for git and CI, with our own runner
+  Kanidm directory for sign-in
+  nginx as the public edge
+  Cloudflare for DNS and certificates
+  Tailscale for private access
+  Prometheus, Alertmanager, Loki, Grafana, Alloy for monitoring and logs
+
+TOOLING
+  Playwright
+  ffmpeg 
+  Kokoro and Piper for narration voices
