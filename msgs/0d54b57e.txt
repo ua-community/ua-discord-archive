@@ -1,0 +1,4 @@
+APPLICATIONS 
+  Blender, FreeCAD, Krita, Inkscape, GIMP, Kdenlive, Godot, Audacity,
+  VS Code, Chrome, the Craft suite (SolidCraft, CADCraft, FilmCraft, ...)
+  On the test box: Cura, Android Studio
