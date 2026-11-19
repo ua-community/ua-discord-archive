@@ -1,0 +1,1 @@
+I’ll have folk compute to demo that I cooked up over past couple of days. Managed GPU cloud workstations on top of proxmox. Next layer on top of folknet.
