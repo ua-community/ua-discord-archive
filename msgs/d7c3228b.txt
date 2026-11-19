@@ -1,0 +1,1 @@
+folk compute - cloud desktops three ways (shared gpu, sliced gpu, cpu only) - video made in system itself by bunch of different agents and harness using different apps https://youtu.be/YaUew912O2g
