@@ -1,0 +1,1 @@
+My usecase for building this was I wanted to give pre configured and setup desktop to my engineer who works on engineering plans models etc. He needed it setup with mcp and stuff ready to go.
