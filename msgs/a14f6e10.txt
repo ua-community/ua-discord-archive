@@ -1,0 +1,2 @@
+Whole thing has MCP to manage the machines as admin or user. 
+User projects, etc mounted into all their machines.
