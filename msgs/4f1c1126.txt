@@ -1,0 +1,20 @@
+AI
+
+- **LiteLLM** as the gateway: one key and budget per person and per agent.
+- **Ollama** serving **Qwen 27B** on our own 3090; cloud routes to DeepSeek, OpenAI and Claude.
+- **Agent harnesses** on the desktops: Claude Code, T3 Code, Codex and the DeepSeek harness.
+- **MCP (Model Context Protocol)** throughout: Blender's official MCP server, the Craft applications' own servers, and ours over HTTP.
+- **kwin-mcp** for screen control (screenshots, mouse and keyboard through KWin). Cua was tried here and failed on our Wayland desktops, because it couldn't capture the screen.
+
+Service
+
+- **Forgejo** for git and CI, with its own runner.
+- **Kanidm** as the directory for sign-in.
+- **nginx** as the public edge, **Cloudflare** for DNS and certificates, **Tailscale** for private access.
+- **Prometheus, Alertmanager, Loki, Grafana and Alloy** for monitoring, alerts and logs.
+
+Apps
+
+- Blender, FreeCAD, Krita, Inkscape, GIMP, Kdenlive, Godot, Audacity, VS Code, Chrome, the Craft suite (SolidCraft, CADCraft, FilmCraft and others), and now Cura and Android Studio on the test box.
+
+- **Playwright** drives browsers **ffmpeg** records and assembles; **Kokoro** and **Piper** provide the narration voices.
