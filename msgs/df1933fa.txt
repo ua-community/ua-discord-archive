@@ -1,0 +1,2 @@
+Streams per 3090  => 12  (max connected at any given time)
+Split per b70 => 4 (8gb each)
