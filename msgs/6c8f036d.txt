@@ -1,0 +1,1 @@
+Likely never really impacted anyone in real world much outside of what we do as reparenting controlled frames not something you would do much. That said it should work and shouldn’t leak so it’s a legit bug I hope they accept the fix for.
