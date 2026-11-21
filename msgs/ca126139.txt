@@ -1,0 +1,1 @@
+Tl;dr is improving day by day. Will try to get it into shape I can release for others to test by end of week. Should work with any box that has proxmox installed (in theory)
