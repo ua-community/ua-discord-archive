@@ -1,0 +1,7 @@
+0.2.1 — 20 Nov 2026, 14:18
+Folders are copied to the store every ten minutes.
+UltiMaker Cura, Android Studio and SketchUp for Web in the Store; an Android development workstation.
+Removing a person keeps their work.
+Alerts go to your phone; the boxes' compressed memory is watched.
+Guests belonging to another service on a box are never acted on.
+Applied by hand on 21 Nov 03:15, between releases: the fix that lets the assistant act in CADCraft (24 links had been unreadable since 19 Nov).
