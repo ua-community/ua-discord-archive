@@ -1,0 +1,14 @@
+Planned after 0.4.0 (no numbers yet; order to be picked when we regroup)
+Join release: one service driving several boxes (multibox), plus several shared cards on one box (multi-card, ready to merge, default off). This puts pve-bmc-103 and its two 3090s in front of the team, for administrators first.
+Single-app workstation (single-app): built and proven on CPU desktops; needs a card proof and a template rebuild.
+Frames only when the screen changes (stream-on-change): measured on a CPU desktop (0.53 cores down to 0.03 on a still screen); needs the card measurement.
+Smallest installer for someone outside the lab (install-minimal): built and proven on a fresh node; waits on your nine publication decisions.
+Pause first, reclaim under memory pressure: designed, not built.
+Faster builds and a fast test tier (build-speed, check-tiers): in progress now.
+Known gaps with no branch yet:
+undo for a desktop;
+recovery of a several-box installation;
+a backup copy outside the lab;
+live team removal;
+the 107K-token assistant turns;
+CADCraft opening behind other windows.
