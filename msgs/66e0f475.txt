@@ -1,0 +1,8 @@
+Change log 🪵 
+
+0.1.0 — 19 Nov 2026 (the build shown on the demo call)
+A desktop with a graphics card, streamed to your browser.
+Ready-made workstations that come with an assistant.
+Applications from the Store.
+Folk Compute usable from your own assistant (the first MCP address).
+A page showing what is measured about you and what never is.
