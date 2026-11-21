@@ -1,0 +1,9 @@
+0.3.0 — live since 21 Nov 2026, 20:26
+Choose how your desktop is streamed: Standard, Sharp or Fast, within limits an administrator sets.
+Choose which models your assistant offers; administrators switch models on and off without editing a file.
+Help now has About (your version), What's new, and the guides inside the portal.
+No desktop starts while the box's rules that keep desktops apart are missing; three urgent alerts watch them.
+"Also on this box": every guest that is not ours is shown, counted in capacity, and never touched.
+Every part's version shown box by box; release numbers.
+For operators: installs on a box with people on it now run in a maintenance window, with Proxmox locks, fresh backups, and a rollback proven identical.
+Cut to ship: live team removal on running desktops is in the tree but off and not ready; no change to the backup job.
