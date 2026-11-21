@@ -1,0 +1,13 @@
+0.4.0 — candidate e11c0e0e, in its full release check now; window planned tonight if it passes
+Manage your workstations from the assistant on your own computer (start, freeze, stop, applications, usage), with exactly your rights. Handing work to a desktop's assistant through this address stays off.
+Suspending a person suspends their agents; restoring brings back exactly those.
+Watching a desktop is view-only, and the wall shows no pictures unless an administrator allows it.
+Every change to a team's members is shown to the team.
+New workstations are ready about four seconds sooner; the portal loads about a third of what it did.
+A paid model whose provider is down or out of credit is shown as not usable, with the reason.
+A workstation's setup says what is not connected.
+Idle workstations can freeze themselves and wake on a click. This ships off; an administrator switches it on.
+For operators:
+the service's failure counters are exported, with alerts;
+a second test cluster and a faster release check;
+the window now publishes the portal, installs the store tool, checks streams without viewing anyone's screen, and runs an end-to-end canary before the point of no return.
