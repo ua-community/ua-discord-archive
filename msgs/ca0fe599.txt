@@ -1,0 +1,1 @@
+In testing the webgl view it ran some stress tests as it had perf goals and noticed the issue
