@@ -1,0 +1,13 @@
+Fable found and fixed bug in chromium…
+
+Heads up, we found a Chromium bug that's been biting Darc. If you call moveBefore() on a <controlledframe>, or on anything that contains one, the page stays on screen and looks fine, but the browser quietly spins up a second hidden copy of it and points the element's API at that copy instead. So after a move, executeScript, back(), src changes and events are all talking to a page nobody can see. The hidden copy also never goes away until the app window closes. Removing the element or reloading doesn't free it.
+
+The cause is that the element behind <webview> and <controlledframe> was never updated when moveBefore shipped in Chrome 133. It has no move callback, so Blink treats the move as a remove followed by an insert. The script side throws away its guest and makes a new one, while the browser keeps the old one alive.
+
+It's upstream, not Helium. We reproduced it in stock Chrome 158, Canary 160 and Chromium 156 on Linux. In Canary, moving 20 frames left 20 hidden pages, 18 extra processes and about 1.6 GB behind.
+
+The fix is tiny: an empty connectedMoveCallback on the shared element. On a real Chromium build with assertions on, the new test passes 20 out of 20 with the fix and fails 20 out of 20 without it.
+
+For Darc in the meantime: don't reparent frames. Darc does it on every tab drag, and the code also calls moveBefore when a tab changes view, group, pin state or space. Wrapping the frame in a div and moving the div doesn't help, it triggers the same thing. Keep each frame in one permanent layer and move it with CSS. A plain remove and re-insert avoids the leak but reloads the page.
+
+We've got a bug report, a minimal repro app and a patch drafted for Google. Not filed yet, a few more test runs are still going.
