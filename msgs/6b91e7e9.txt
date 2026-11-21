@@ -1,0 +1,8 @@
+0.2.0 — 20 Nov 2026, 08:55
+Your own folders on new desktops, and team folders a whole team works in.
+Agents of your own, and jobs they run while you are away.
+Your own Claude or ChatGPT subscription in a workstation.
+Usage and budgets that match what was actually spent.
+A service restart pauses desktops' connections instead of cutting them.
+git on every new desktop.
+For administrators: the wall of desktops; alerts for budgets, model routes and the folders' copy.
