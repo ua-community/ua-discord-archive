@@ -1,0 +1,1 @@
+I get about 50 tok sec single stream on 3090 and 150 multi stream with 125k context. Decent but I expect will improve a bunch. This is with no real optimization.
