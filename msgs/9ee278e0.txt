@@ -1,0 +1,1 @@
+Doing one more round of optimizations seeing if can get browser to stream CDP to itself without any relay. Still unlikely to be satisfactory perf but was just curious if possible.
