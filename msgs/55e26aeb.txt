@@ -1,0 +1,1 @@
+Tomorrow i'll test xe computer with the patched helium on mac and update the prototype to use this new way. See how it feels and how perf numbers compare.
