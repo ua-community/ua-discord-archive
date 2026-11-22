@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=RgWPhmCNx5s - mac patched to use gpu texture, still does capture - webgl
