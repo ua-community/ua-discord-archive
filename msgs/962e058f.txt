@@ -1,0 +1,10 @@
+Linux results for direct to texture method. 
+
+| Animating pages | CPU format | RGBA GPU frames | Direct texture |
+| --- | --- | --- | --- |
+| 16 | 58 fps, GPU thread 88% | 58, 71% | 58, 45% |
+| 32 | 21 fps, latency 80 ms | 22, 74 ms | 58, 16 ms |
+| 64 | 13 fps | 17 | 14 |
+| 64, only 8 animating | 58, GPU thread 56% | 58, 51% | 58, 30% |
+
+Note the win at 32x, 58fps compared to 22fps.
