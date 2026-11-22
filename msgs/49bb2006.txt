@@ -1,0 +1,1 @@
+Ok calling it a night, went from it doesn't work (dont look its hacked together using cdp screenshots rely) to we are so back (capture to gpu texture zero copy, 60fps). Im sure could go higher on fps too but im limited as its using remote machine and when im connected via screen sharing its locked to 60fps.
