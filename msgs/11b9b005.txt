@@ -1,0 +1,1 @@
+Seems issue is the capture code uses a cpu format so it makes a round trip to cpu and back to gpu. Testing modding capture to use gpu format
