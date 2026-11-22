@@ -1,0 +1,9 @@
+```**Cost by route** (CPU in percent of one core)
+
+| Route | GPU main thread | Total CPU |
+| --- | --- | --- |
+| WebGPU, GPU format | 19% | 140% |
+| WebGL2, GPU format | 23% | 141% |
+| WebGPU, CPU format | 26% | 152% |
+| WebGL2, CPU format | 33% | 141% |
+| WebGL2, CDP screencast | 16% | 332% |```
