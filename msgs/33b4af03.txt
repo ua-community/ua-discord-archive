@@ -1,0 +1,1 @@
+I guess i could also consider if patch is possible in chromium to enable the capture to work. I'm guessing its not easy as its a different content view in the browser not actually part of the same page. One thing to check is if iframes work, if they do.. then it should be possible.
