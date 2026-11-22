@@ -1,0 +1,6 @@
+Best so far on the mac. 32x all live capture to gpu texture (direct texture was slower!). 
+https://www.youtube.com/watch?v=AKV-O5Bma58
+
+Next optimization is adding ability to throttle the capture fps allowing capture speed to ramp up and down as needed. Most load now comes from pages themselves. Reducing the fps cuts the load relative to fps. 
+
+In real world I would think many pages would be near static so are near free. So 32x live probably translates into 2-3x that in terms of what you could handle. Note this is on a mac studio m4 so high end mac.
