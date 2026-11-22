@@ -4,3 +4,4 @@ https://blitz.is/about
 https://www.youtube.com/watch?v=RgWPhmCNx5s
 https://www.youtube.com/watch?v=c04R21a2kxA
 https://www.youtube.com/watch?v=AKV-O5Bma58
+https://joshuawarren.com/blog/mlx-vulkan-beats-llama-cpp-cuda-on-rtx-5060-ti-egpu/
