@@ -1,0 +1,3 @@
+Aforementioned prototype webgl view in darc. https://youtu.be/LaOQjwLV9l8?si=RGnnmigExA3kLOgN 
+
+This is unlikely to be shipped in current form as ran into issue related to capturing live controlled frames. To get the live view here its not using actual controlled frames as we do in our dom based views its actually streaming the view via CDP from the browser. Thats kinda not great for performance even though the actual webgl canvas itself is fast as hell. Anyway sharing experiment.
