@@ -1,0 +1,1 @@
+Next up Linux direct-texture (avoiding capture) patch video and porting that to Mac and comparing with what we have so far.
