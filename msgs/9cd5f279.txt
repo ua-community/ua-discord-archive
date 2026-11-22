@@ -1,0 +1,1 @@
+This is using the same pipeline as tab capture => gpu. I'm going to see if possible to find a shorter path. Also to come how this behaves on mac with metal.
