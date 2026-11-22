@@ -1,0 +1,1 @@
+this model seems good fit for macs, not sure i would run on spark
