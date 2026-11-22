@@ -1,0 +1,1 @@
+capture into gpu texture, webgpu zero copy after that, webgl has one copy. trying on linux to avoid having to do any capture.
