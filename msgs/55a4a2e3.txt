@@ -1,0 +1,1 @@
+I guess it would require some sort of render controlled frame to canvas or image tag api.
