@@ -1,0 +1,1 @@
+I know what an IFrame is, and that you can use it to embed a page in another one, with some restrictions on how events propagate
