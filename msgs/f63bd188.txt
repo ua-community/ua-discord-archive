@@ -1,0 +1,7 @@
+```Webtop is LinuxServer.io's container image with Selkies inside it, so the streaming engine is the same either way. We installed Selkies natively in our own Ubuntu containers instead, for three reasons:
+
+- **No container inside a container:** Webtop is a Docker/Podman image and our desktops are Proxmox LXC containers.
+- **Our own system inside the desktop:** a desktop needs the person's account, shared folders, the Store and the assistant, and a foreign image has none of them.
+- **It worked first time and measured well:** native held 60 fps at 1080p on the shared 3090, at least as good as your July Webtop system, though not like for like.
+
+Webtop was never run head to head in this project. The detail is in `docs/reports/streaming-research.md` and `docs/reports/gpu-desktop-fallbacks.md`.```
