@@ -1,0 +1,3 @@
+like how do you have custom control panels and reporting/analytic systems for whole fleets of applications, tabs, backend and frontent processes. and also multimodal with voice and stuff! so that the next generation of superusers are like beyond superusers. 
+
+ i think the problem with all the complexity of n applications with x_n tabs and for each application having its own scroll, buttons, sizing, fonts, ... like its totally broken. there needs to be a way of synchronizing all that at once and then having hardware that allows you to manage that - and a mouse/keyboard in my mind, and mobile even moreso-  are just not ready for that
