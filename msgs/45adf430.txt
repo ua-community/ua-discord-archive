@@ -1,0 +1,3 @@
+**Chrome 158 reached stable on 17 Nov, and Direct Sockets now supports source-specific multicast for IWAs.** The [release notes](https://chromestatus.com/release-notes/158) have an Isolated Web Apps section. When an app joins a multicast group, it can now name the sender, so it only gets packets from that source. Xenon can use this on stock Chrome today, and Chrome 159 lands 8 Dec. 
+
+^ Not sure what we would use it for perhaps discovery on LAN but cool none the less.
