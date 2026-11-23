@@ -1,0 +1,1 @@
+Web pages with synthetic origins in runtimes that are transport agnostic can have context-specific security models.
