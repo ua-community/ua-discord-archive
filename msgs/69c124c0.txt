@@ -1,0 +1,1 @@
+Probably worth testing different combos further but seems to work well. I did pass it the prev setup and asked it to check for anything we could do better.
