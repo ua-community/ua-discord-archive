@@ -10,3 +10,4 @@ https://www.google.com/aclk?sa=L&ai=DChsSEwju3KSvmJ6YAxXlI4MDHYt5Ni4YACICCAEQDho
 https://www.corsair.com/us/en/p/monitors/cc-9011306-ww/xeneon-edge-14-5-lcd-touchscreen-cc-9011306-ww?srsltid=AYCX9vLCfpqwoeKx_1IHw_xrmK3JO_MnotYdi5UAaw9f40x9GM73qfKr
 https://mu.social/profile/open-web-advocacy.org/post/3n2xpfdsyjs2o
 https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+https://huggingface.co/blog/agentic-evals
