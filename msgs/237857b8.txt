@@ -1,0 +1,1 @@
+Yeah I guess per tab volume control, not sure if that’s a thing or just per media element
