@@ -1,0 +1,1 @@
+I think it was (user) describing Peergos apps who described the concept in a way that took all the pieces we were working with in IPFS, but which never really hung right, and put them together for me in a way that clarified things: Web tiles are exfiltration-proof web pages.
