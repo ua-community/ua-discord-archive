@@ -1,0 +1,1 @@
+I don't think it fully captures what tiles are, and the implications, nor how different they are from regular web pages, but it throws enough of a wrench into how we think about the HTTP web that it's a good starting point.
