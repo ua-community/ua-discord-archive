@@ -1,0 +1,1 @@
+It has some bits of 3d but only light. Used the prompt to start with hit the leak bug, fixed bug, made first version using cdp screenshots. Tried it wasn’t happy with the hacks. Explored lots of ways to get capture to GPU working, got that working, then went back and told it to have another crack at it expanding on your prompt.
