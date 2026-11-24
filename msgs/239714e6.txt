@@ -1,0 +1,1 @@
+(user)  superframe is cool! what api is freeze using? the page controls are done with content scripts as now or anything new/sepecial there?  the writing sounds a bit as if the superframe can protect itself somehow from code running in its parent context that uses the superframe but i assume you mean the superframe exposes a webmcp that is the security boundary vs the agent?
