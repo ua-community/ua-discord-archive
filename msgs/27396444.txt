@@ -1,0 +1,16 @@
+```**Page controls.** The patched version doesn't use content scripts. It's new browser-side C++ that calls Chromium directly:
+
+- find and terminate on the guest's WebContents;
+- media state from `MediaSession` and the capture indicators;
+- the accessibility snapshot from `RequestAXTreeSnapshot`;
+- trusted input as real mouse and keyboard events forwarded to the guest's widget, so `isTrusted` is true and they count as user activation;
+- a small allowlisted DevTools-protocol bridge for the agent.
+
+Content scripts plus `executeScript` are only the polyfill path on stock Chrome.
+
+**Security boundary.** Jan's right that the SuperFrame can't protect itself from the IWA that embeds it, and we don't claim it does. Just like Controlled Frame today, the embedding IWA is fully trusted with the page: it can inject script, read the DOM and capture pixels. The new boundaries are elsewhere:
+
+- **Other apps and origins:** guests are pinned to the origin of the app that created them. Detach, adopt and transfer are checked in the browser, and transfer tokens are single-use and expire.
+- **The user versus the agent:** the agent session has a declared purpose, URL scope and action scope. Trusted input, network reads and WebMCP tool calls need the matching action. Sensitive steps get browser-owned approval prompts the app can't fake, plus the planned browser-drawn agent indicator, user takeover, and an audit log the app can't edit. The doc's line for this is "agent ≠ embedder".
+
+WebMCP (`getModelContextTools()` and `callModelContextTool()`) is one of the scoped actions inside that session, so the page can offer the agent a clean tool interface. It isn't a security boundary against the embedder. If the writing suggests otherwise, I'll tighten the explainer and threat model to say so.```
