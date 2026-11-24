@@ -1,0 +1,1 @@
+Wonder if you could have hibernate that saves the memory to compressed file on disk and restores it. That would be interesting to explore.
