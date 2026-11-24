@@ -1,0 +1,28 @@
+superframe - what happens when you super charge a controlled frame. 🦉 inspired  
+https://www.youtube.com/watch?v=rLSAy84ZFqc
+
+**SuperFrame: what an embedded web app can do when the frame is built for agents**
+
+This is a demo app running on a patched Chromium build: Isolated Web Apps plus Controlled Frame, with our SuperFrame patches and an agent-grade layer on top.
+
+**SuperFrame**
+
+- **moveBefore:** move an embedded page around the DOM without reloading it. Typed text survives.
+- **Live transfer:** hand a running page to another window. No reload, and in-memory state and form input are kept.
+- **Lifecycle control:** freeze a page (10 ms of CPU over 3 s), then resume it at full frame rate with no reload.
+- **Paint leases and keep-awake:** keep a hidden page alive and capture it while it's hidden.
+- **Media control:** read a page's media state and pause it from the embedder.
+- **Agent sessions:** browser-level trusted input, plus an audit log of every action.
+- **Trust indicator:** a browser-drawn "Agent is using this page · Stop" chip that the page can't fake or hide.
+
+**Agent-grade embedding**
+
+- **Accessibility snapshots:** the browser builds a numbered map of the page for the agent.
+- **Trusted input by node:** the agent clicks and types on those nodes, and every event is genuinely trusted.
+- **Snapshot diffs:** see exactly what changed after each action.
+- **Network allowlist per frame:** trackers are blocked, and so is WebRTC leakage.
+- **Browser-owned approvals:** the app can't auto-approve downloads, and the agent can't navigate where it isn't allowed.
+
+**Why it matters:** AI super apps are becoming closed portals that run their own browsers. These patches put the same powers in the open web's hands instead: in apps you install and control, signed with a key, with the browser as the referee.
+
+Works in progress, all running on real builds. Patches coming upstream.
