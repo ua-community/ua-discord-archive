@@ -1,0 +1,7 @@
+```**Freeze.** It uses Chromium's own Page Lifecycle freeze, `WebContents::SetPageFrozen(true)`, which is the same machinery tab freezing uses. It runs no tasks or timers, and CPU drops to about 0.1%. Some rules are browser-enforced around it:
+
+- It's refused while the guest is visible, kept awake, or visibly captured.
+- Unless `force` is set, it's also refused while the guest is playing unmuted audio or using USB, HID, serial or Bluetooth, and starting any of those resumes it.
+- Showing the guest drops the freeze automatically.
+
+It saves CPU, not memory. Only removing the guest frees its RAM; discarding is on the roadmap. On top of that there's `setKeepAwake('running'|'painting')`, a paint lease for detached guests, and `getLifecycleState()` with a `lifecyclestatechange` event.```
