@@ -1,0 +1,1 @@
+I would probably keep IWA as is as privileged installable app but take the ideas and make something that is similar to (or less) than regular origin based capabilities
