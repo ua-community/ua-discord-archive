@@ -1,0 +1,1 @@
+We can have a section on why dns origins are bad design
