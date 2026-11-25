@@ -1,0 +1,1 @@
+Managed to package iwa + chromium + super patches into single APK 🙂  So no need to be separate browser and IWA install for distribution on Android.
