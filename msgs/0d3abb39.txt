@@ -1,0 +1,1 @@
+doesnt this mean models need to be trained to expect same format from all harness ?
