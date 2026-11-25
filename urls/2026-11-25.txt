@@ -9,3 +9,4 @@ https://youtu.be/ps-VCoIo_FQ?si=96OIFyGOKu9SU0WN
 https://www.youtube.com/watch?v=Cy5PNOgvufg
 https://www.youtube.com/watch?v=cfmnUzPCxbQ
 https://github.com/agent54/xe-key-web
+https://github.com/Agent54/xe-key-web/blob/main/docs/RELATED-WORK-AND-DESIGN-NOTES.md
