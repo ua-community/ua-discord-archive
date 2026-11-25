@@ -1,0 +1,1 @@
+So you could combine with some resolving look set and then multi source distribution (p2p whatever) you end up with something that isn’t tied to servers or domains
