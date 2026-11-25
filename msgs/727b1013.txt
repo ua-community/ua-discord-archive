@@ -1,0 +1,1 @@
+we could not do lora on frontier models anyways and i dont want to accept a world where we will forever run some claude code cli just because anthropic trained on it ( the sub issue is a separate one)
