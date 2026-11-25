@@ -1,0 +1,1 @@
+Some notes related to discussion here. https://github.com/Agent54/xe-key-web/blob/main/docs/RELATED-WORK-AND-DESIGN-NOTES.md
