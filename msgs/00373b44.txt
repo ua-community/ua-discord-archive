@@ -1,0 +1,6 @@
+Something like.. 
+key-web://<app-slug>.<publisher>.<resolver-rail>/
+key-web://cool-site.lukeinth.at/ (resolved via ATProto DID record)
+key-web://cool-site.lukeinth.dht/ (resolved via PKARR / Mainline / Iroh DHT)
+key-web://cool-site.lukeinth.nostr/ (resolved via Nostr)
+key-web://<base32-ed25519-id>.key/ (raw self-certifying key fallback)
