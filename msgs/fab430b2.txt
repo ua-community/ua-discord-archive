@@ -1,0 +1,1 @@
+IWA is orthogonal. You could have any origin and any transport and any security model, and still have the bag of *capabilities* that are IWA.
