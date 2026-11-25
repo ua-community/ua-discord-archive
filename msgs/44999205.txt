@@ -1,0 +1,1 @@
+totally wrong approach imo adapters need to be deterministic transforms that run as code step to output the format  a model expects.
