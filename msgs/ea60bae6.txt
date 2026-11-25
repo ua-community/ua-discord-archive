@@ -1,0 +1,1 @@
+I went down a rabbit hole spec'ing this out (for my own selfish needs). Needs a reduction pass, but the general idea holds up. https://3myh2c76z7u2b--7r5c5jhtphcpkg3y55xu2y64.szzt.app/
