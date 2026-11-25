@@ -1,0 +1,1 @@
+but i wanted to start from hardmode, so that rollbacks were intentional and clear.
