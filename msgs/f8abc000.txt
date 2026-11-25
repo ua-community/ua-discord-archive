@@ -1,0 +1,1 @@
+no there needs to be a model adapter between harness and models that can transform a generic harness specific format into tools a model is optimised for
