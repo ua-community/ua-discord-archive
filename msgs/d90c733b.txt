@@ -1,0 +1,1 @@
+personally i thought https://github.com/pithings/wland was my favorite pithings work lately: a new wayland compositor in the browser! nice!
