@@ -1,0 +1,1 @@
+then https://ravynos.com/ is the other big effort, more about making a mac-ish userland, a desktop. where-as nextbsd i took to be much more a server ish os
