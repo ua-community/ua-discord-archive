@@ -1,0 +1,2 @@
+i went to lookup and noticed there's new activity on NextBSD, an old attempt to use mach & grandcentral dispatch & xpu & more apple stuff for a bsd. it was a neat effort >10 years ago that got nowhere that's now active, so cool to see. back then it felt like GCD was so far ahead on async! no longer such a win, but also, io_uring is off on a huge amount of cloud computers yikes.
+https://www.nextbsd.org/
