@@ -1,0 +1,1 @@
+in terms of how we build xe computer? I would say lets try to get lib for managing controlled frames (building shells) and for user mods into parts that can move up to superuseragent and be reusable. Also the format around apps / manifests / compose as a standard too. That way mods and apps become standard but the shell people can explore.
