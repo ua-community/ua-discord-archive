@@ -1,0 +1,7 @@
+Overnight worked on..  
+* getting super frame patches in a cleaner package
+* chromium / helium builds + super patches ci builds for all platforms 
+* XeOS (its a bit much calling it an OS but essentially chrome os inspired a/b root, boot to wayland / chromium / iwa desktop shell)
+* android updates (single apk packaging, share sheets, protocol handler, etc)  
+* user modes as drop in lib for use in IWA 
+* one more experimental thing (related to discussion we had in <#1325148576401195070> yesterday)
