@@ -1,0 +1,1 @@
+So I'm trying to get an intuition for this and I see the magic but also, would you say that any harness/app that has browser use falls under this category?
