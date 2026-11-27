@@ -1,0 +1,2 @@
+I should note the helium team I think also starting Android version themselves. We like helium (vibes are good) but personally I prefer mit/bad so we are keeping our patches licensed that way and making sure they apply on top of stock chromium. 
+(At the airport, more to type but will post when I’m passed checkin)
