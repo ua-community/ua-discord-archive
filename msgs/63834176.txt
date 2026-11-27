@@ -1,0 +1,1 @@
+There are a few parts of the picture that will parallelize nicely in terms of the build out, user mods and adding apps to the catalog of things that can run on Xe.
