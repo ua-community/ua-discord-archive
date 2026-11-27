@@ -5,3 +5,4 @@ https://github.com/eelbaz/Recursive-Self-Improving-Loopers
 https://datatracker.ietf.org/doc/draft-denis-xet/05/
 https://www.newyorker.com/news/fault-lines/how-offline-should-a-person-be
 https://superuseragent.com
+https://docs.google.com/presentation/d/1X9qiwvA38FNrWUYdehVBw5I45k14CNwSBN9_4HzPs00
