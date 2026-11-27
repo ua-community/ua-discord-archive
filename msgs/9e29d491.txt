@@ -1,0 +1,1 @@
+for instance we can run open code with frontend rendered in controlled frame and backend in container in microvm
