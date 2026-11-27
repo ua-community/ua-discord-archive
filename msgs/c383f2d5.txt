@@ -1,0 +1,1 @@
+Release ! https://github.com/ocramz/sbx sbx-0.6 can now run inside gVisor  (hence inside Modal sandboxes, hence use GPUs there too).   Why does it matter? you can control _and_ observe what untrusted code does. sbx also allows sampling process memory and timing the sandboxed processes
