@@ -1,0 +1,1 @@
+Xenon is the name of the browser engine we will bundle but we don’t really want to be a browser so will mostly be for use in Xe Computer. Initially based on Helium but given the licensing we might just rebase and apply our stuff on top of chromium.
