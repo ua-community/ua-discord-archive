@@ -1,0 +1,1 @@
+When I get home I’ll share video of user mods test bench I showed last night. Also start working on building a library of mods that can be applied to popular sites and apps. Mods include webMCP retrofit packs that can be per site or work more generally. Sort of like browser extensions on steroids.
