@@ -1,0 +1,1 @@
+On naming and packaging we will be shipping as Xe Computer with per platform bundled launcher, browser engine, darc shell, and backend microvm engine.
