@@ -1,0 +1,1 @@
+I would think on Android we would want a different ui / UX and probably minimal backend with ability to install apps on linked servers (either your own or some cloud)
