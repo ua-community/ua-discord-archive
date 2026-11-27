@@ -1,0 +1,1 @@
+That repo was a test to see earlier version of our Android patches worked on top of helium. Also we got helium working on Android. But has been superseded. Currently we have iwa running on Android and xe darc but the ui isn’t at all optimized for mobile and the backend microvm parts are missing.
