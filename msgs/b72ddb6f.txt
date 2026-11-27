@@ -1,0 +1,1 @@
+i'm not really a fan of "super user" language, but i really like that it is explicit and clear about the difference from today's user agents.
