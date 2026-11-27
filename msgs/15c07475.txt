@@ -1,0 +1,1 @@
+But I’ve got next version on our local dev servers and will try to publish soon. Actually this past few days I did work to package everything into a single apk. Previously it worked like it does on desktop with the IWA being installed by the launcher on top of the browser engine. For distribution on Android a single apk is much better shape
