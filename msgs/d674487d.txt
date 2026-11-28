@@ -1,0 +1,1 @@
+We have xe running chromium in container inside its microvm rendered in Wayland in tab before but this is on another level of insanity I think I need to go outside for a bit
