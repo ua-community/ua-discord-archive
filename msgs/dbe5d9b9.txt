@@ -1,0 +1,1 @@
+Wait, let me find it but the systemd author had a [sketch](https://0pointer.net/blog/fitting-everything-together.html) / take on these immutable OSes that was even more ChromeOS / Android shaped than usual.
