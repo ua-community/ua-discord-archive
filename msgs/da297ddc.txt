@@ -1,0 +1,1 @@
+yeah true, trying to take that chain as far up as possible, keep things immutable and reduce surface area / attack surface.
