@@ -1,0 +1,1 @@
+Obviously there would be app version of Xe Computer for regular linux desktops too. XeOS is more an attempt to improve on ChromeOS style. Better fit when you want something secure, minimal, worry free.
