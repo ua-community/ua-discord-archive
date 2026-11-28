@@ -1,0 +1,1 @@
+I only did this for fits and giggles should be testing XeOS on bare metal hardware
