@@ -1,0 +1,1 @@
+First XeOS install on bare metal (not vm or container)
