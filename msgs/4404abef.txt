@@ -1,0 +1,1 @@
+Thanks I'll have a read. I've worked a bunch with ChromeOS and buildroot appliance that boot to chromium forks hence why this design makes sense to me.
