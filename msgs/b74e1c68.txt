@@ -1,0 +1,1 @@
+Yeah i see it as a choice. If you want to run whatever OS you can and run Xe Computer on top as an app and we will keep the isolation. But if you want to run bare metal why not go as secure as possible.
