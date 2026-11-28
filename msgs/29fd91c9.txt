@@ -1,0 +1,1 @@
+One kinda cool twist is you can boot directly into XeOS or you can load it via https into browser and access it remotely that way. So you could have it running on say a small mini pc in your living room connected to your TV and also access it via web.
